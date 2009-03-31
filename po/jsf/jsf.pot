@@ -1,0 +1,5441 @@
+#SOME DESCRIPTIVE TITLE.
+#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+#This file is distributed under the same license as the PACKAGE package.
+#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-31 17:37+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+""
+
+#. ##############################################################################
+#. Copyright (c) 2009 JBoss, a division of Red Hat and others.
+#. All rights reserved. This program and the accompanying materials
+#. are made available under the terms of the Eclipse Public License v1.0
+#. which accompanies this distribution, and is available at
+#. http://www.eclipse.org/legal/epl-v10.html
+#. 
+#. Contributors:
+#. JBoss, a division of Red Hat - Initial implementation.
+#. #############################################################################
+#. feature.properties
+#. contains externalized strings for feature.xml
+#. "%foo" in feature.xml corresponds to the key "foo" in this file
+#. java.io.Properties file (ISO 8859-1 with "\" escapes)
+#. This file should be translated.
+#. 
+#. "featureName" property - name of the feature
+#: featureName
+#: ../../../jsf/features/org.jboss.tools.jsf.feature/feature.properties:18
+#, java-format
+msgctxt "featureName"
+msgid "JBoss Tools JSF"
+msgstr ""
+
+#. 
+#. "providerName" property - name of the company that provides the feature
+#. 
+#. "providerName" property - name of the company that provides the feature
+#. 
+#: providerName
+#: ../../../jsf/features/org.jboss.tools.jsf.feature/feature.properties:21
+#: ../../../jsf/features/org.jboss.tools.richfaces.feature/feature.properties:21
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext.facelets/plugin.properties:1
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext.richfaces/plugin.properties:1
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/plugin.properties:1
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:1
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/plugin.properties:1
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.facelets/plugin.properties:3
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.jsf/plugin.properties:1
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.jstl/plugin.properties:1
+#: ../../../jsf/plugins/org.jboss.tools.jsf/plugin.properties:1
+#, java-format
+msgctxt "providerName"
+msgid "JBoss, a division of Red Hat"
+msgstr ""
+
+#. 
+#. "updateSiteName" property - label for the update site
+#. 
+#. "updateSiteName" property - label for the update site
+#: updateSiteName
+#: ../../../jsf/features/org.jboss.tools.jsf.feature/feature.properties:24
+#: ../../../jsf/features/org.jboss.tools.richfaces.feature/feature.properties:24
+#, java-format
+msgctxt "updateSiteName"
+msgid "JBossTools Update Site"
+msgstr ""
+
+#. 
+#. 
+#: devUpdateSiteName
+#: ../../../jsf/features/org.jboss.tools.jsf.feature/feature.properties:26
+#: ../../../jsf/features/org.jboss.tools.richfaces.feature/feature.properties:26
+#, java-format
+msgctxt "devUpdateSiteName"
+msgid "JBossTools Development Update Site"
+msgstr ""
+
+#. 
+#. "description" property - description of the feature
+#: description
+#: ../../../jsf/features/org.jboss.tools.jsf.feature/feature.properties:29
+#, java-format
+msgctxt "description"
+msgid "JBoss Tools JSF"
+msgstr ""
+
+#. 
+#. 
+#: copyright
+#: ../../../jsf/features/org.jboss.tools.jsf.feature/feature.properties:31
+#: ../../../jsf/features/org.jboss.tools.richfaces.feature/feature.properties:31
+#, java-format
+msgctxt "copyright"
+msgid ""
+"Copyright (c) 2007 Exadel, Inc and Red Hat, Inc.\n"
+"Distributed under license by Red Hat, Inc. All rights reserved.\n"
+"This program is made available under the terms of the\n"
+"Eclipse Public License v1.0 which accompanies this distribution,\n"
+"and is available at http://www.eclipse.org/legal/epl-v10.html\n"
+"Contributors:\n"
+"Exadel, Inc. and Red Hat, Inc. - initial API and implementation"
+msgstr ""
+
+#. ##############################################################################
+#. Copyright (c) 2009 JBoss, a division of Red Hat and others.
+#. All rights reserved. This program and the accompanying materials
+#. are made available under the terms of the Eclipse Public License v1.0
+#. which accompanies this distribution, and is available at
+#. http://www.eclipse.org/legal/epl-v10.html
+#. 
+#. Contributors:
+#. JBoss, a division of Red Hat - Initial implementation.
+#. #############################################################################
+#. feature.properties
+#. contains externalized strings for feature.xml
+#. "%foo" in feature.xml corresponds to the key "foo" in this file
+#. java.io.Properties file (ISO 8859-1 with "\" escapes)
+#. This file should be translated.
+#. 
+#. "featureName" property - name of the feature
+#: featureName
+#: ../../../jsf/features/org.jboss.tools.richfaces.feature/feature.properties:18
+#, java-format
+msgctxt "featureName"
+msgid "JBoss Tools RichFaces"
+msgstr ""
+
+#. 
+#. "description" property - description of the feature
+#: description
+#: ../../../jsf/features/org.jboss.tools.richfaces.feature/feature.properties:29
+#, java-format
+msgctxt "description"
+msgid "Visual editing"
+msgstr ""
+
+#. Properties file for org.jboss.tools.jsf.doc.user
+#. Properties file for org.jboss.tools.jsf.vpe.ajax4jsf
+#. Properties file for org.jboss.tools.jsf.vpe.myfaces
+#. Properties file for org.jboss.tools.jsf.vpe.richfaces
+#. Properties file for org.jboss.tools.jsf.vpe.seam
+#: Bundle-Vendor.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.doc.user/plugin.properties:2
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.ajax4jsf/plugin.properties:2
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.myfaces/plugin.properties:2
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.richfaces/plugin.properties:2
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.seam/plugin.properties:2
+#, java-format
+msgctxt "Bundle-Vendor.0"
+msgid "JBoss, a division of Red Hat"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.doc.user/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "JSF and Struts Guide Plug-in"
+msgstr ""
+
+#. 
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext.facelets/plugin.properties:5
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "Facelets Text Editors Extensions"
+msgstr ""
+
+#. 
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext.richfaces/plugin.properties:5
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "Richfaces Text Editors Extensions"
+msgstr ""
+
+#. 
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/plugin.properties:5
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "Jsf Text Editors Extensions"
+msgstr ""
+
+#. ******************************************************************************
+#. Copyright (c) 2007 Exadel, Inc. and Red Hat, Inc.
+#. Distributed under license by Red Hat, Inc. All rights reserved.
+#. This program is made available under the terms of the
+#. Eclipse Public License v1.0 which accompanies this distribution,
+#. and is available at http://www.eclipse.org/legal/epl-v10.html
+#. 
+#. Contributors:
+#. Exadel, Inc. and Red Hat, Inc. - initial API and implementation
+#. ******************************************************************************
+#: Converter
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:23
+#, java-format
+msgctxt "Converter"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: OpenConverterForId
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:25
+#, java-format
+msgctxt "OpenConverterForId"
+msgid "Open converter definition for ID ''{0}''"
+msgstr ""
+
+#. 
+#: OpenTagLibrary
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:27
+#, java-format
+msgctxt "OpenTagLibrary"
+msgid "Open a Tag Library for {0}"
+msgstr ""
+
+#. 
+#: Tag
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:29
+#, java-format
+msgctxt "Tag"
+msgid "a tag "
+msgstr ""
+
+#. 
+#: TagAttribute
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:31
+#, java-format
+msgctxt "TagAttribute"
+msgid "an attribute "
+msgstr ""
+
+#. 
+#: ForTag
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:33
+#, java-format
+msgctxt "ForTag"
+msgid "tag ''{0}''"
+msgstr ""
+
+#. 
+#: ForTagAttribute
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:35
+#, java-format
+msgctxt "ForTagAttribute"
+msgid "attribute ''{0}'' of tag ''{1}''"
+msgstr ""
+
+#. 
+#: NavigationRule
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:37
+#, java-format
+msgctxt "NavigationRule"
+msgid "Navigation Rule"
+msgstr ""
+
+#. 
+#: OpenBeanProperty
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:39
+#, java-format
+msgctxt "OpenBeanProperty"
+msgid "Open bean ''{0}'' for the property ''{1}''"
+msgstr ""
+
+#. 
+#: BeanProperty
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:41
+#, java-format
+msgctxt "BeanProperty"
+msgid "Bean Property"
+msgstr ""
+
+#. 
+#: RenderKit
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:43
+#, java-format
+msgctxt "RenderKit"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: OpenRenderKit
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:45
+#, java-format
+msgctxt "OpenRenderKit"
+msgid "Open Render Kit ''{0}''"
+msgstr ""
+
+#. 
+#: Validator
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:47
+#, java-format
+msgctxt "Validator"
+msgid "validator"
+msgstr ""
+
+#. 
+#: OpenValidatorForId
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:49
+#, java-format
+msgctxt "OpenValidatorForId"
+msgid "Open a validator for ID ''{1}''"
+msgstr ""
+
+#. 
+#: pluginName
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:3
+#, java-format
+msgctxt "pluginName"
+msgid "JBoss Tools JSF UI"
+msgstr ""
+
+#. 
+#: perspective.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:5
+#, java-format
+msgctxt "perspective.name"
+msgid "JSF Studio"
+msgstr ""
+
+#. 
+#: newProjectWizard.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:7
+#, java-format
+msgctxt "newProjectWizard.name"
+msgid "JSF Project"
+msgstr ""
+
+#. 
+#: importProjectWizard.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:9
+#, java-format
+msgctxt "importProjectWizard.name"
+msgid "JSF Project"
+msgstr ""
+
+#. 
+#: importJSFWarWizard.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:11
+#, java-format
+msgctxt "importJSFWarWizard.name"
+msgid "JSF Project From *.war"
+msgstr ""
+
+#. 
+#: editors.jsf.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:13
+#, java-format
+msgctxt "editors.jsf.name"
+msgid "JSF Page Flow Editor"
+msgstr ""
+
+#. 
+#: popupMenus.action.addJSFNature
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:17
+#, java-format
+msgctxt "popupMenus.action.addJSFNature"
+msgid "Add JSF Capabilities..."
+msgstr ""
+
+#. 
+#: popupMenus.action.removeJSFNature
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:19
+#, java-format
+msgctxt "popupMenus.action.removeJSFNature"
+msgid "Remove JSF Capabilities"
+msgstr ""
+
+#. 
+#: popupMenus.action.addCustomCapabilities
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:21
+#, java-format
+msgctxt "popupMenus.action.addCustomCapabilities"
+msgid "Add Custom Capabilities..."
+msgstr ""
+
+#. 
+#: jsf.views.category.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:23
+#, java-format
+msgctxt "jsf.views.category.name"
+msgid "JBoss Tools"
+msgstr ""
+
+#. 
+#: jsf.projects.navigator.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:25
+#, java-format
+msgctxt "jsf.projects.navigator.name"
+msgid "JSF Projects"
+msgstr ""
+
+#. 
+#: actionSets_license.label
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:29
+#, java-format
+msgctxt "actionSets_license.label"
+msgid "JSF Studio License"
+msgstr ""
+
+#. 
+#: actionSets_license.description
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:31
+#, java-format
+msgctxt "actionSets_license.description"
+msgid "JSF Studio License"
+msgstr ""
+
+#. 
+#: actionSets.license.label
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:33
+#, java-format
+msgctxt "actionSets.license.label"
+msgid "&JSF Studio License"
+msgstr ""
+
+#. 
+#: new.tiles
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:37
+#, java-format
+msgctxt "new.tiles"
+msgid "Tiles File"
+msgstr ""
+
+#. 
+#: PreferencePage_CustomCapabilities
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:39
+#, java-format
+msgctxt "PreferencePage_CustomCapabilities"
+msgid "Custom Capabilities"
+msgstr ""
+
+#. 
+#: PreferencePage_JSF
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:41
+#, java-format
+msgctxt "PreferencePage_JSF"
+msgid "JSF"
+msgstr ""
+
+#. 
+#: PreferencePage_Project
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:43
+#, java-format
+msgctxt "PreferencePage_Project"
+msgid "Project"
+msgstr ""
+
+#. 
+#: PreferencePage_JSFImplementations
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:45
+#, java-format
+msgctxt "PreferencePage_JSFImplementations"
+msgid "JSF Environment"
+msgstr ""
+
+#. 
+#: PreferencePage_JSFPages
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:47
+#, java-format
+msgctxt "PreferencePage_JSFPages"
+msgid "JSF Pages"
+msgstr ""
+
+#. 
+#: PreferencePage_JSFFlowTabbed
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:49
+#, java-format
+msgctxt "PreferencePage_JSFFlowTabbed"
+msgid "JSF Flow Diagram"
+msgstr ""
+
+#. 
+#: NewWizardCat_JBossTools
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:53
+#, java-format
+msgctxt "NewWizardCat_JBossTools"
+msgid "JBoss Tools"
+msgstr ""
+
+#. 
+#: NewWizardCat_JSF
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:55
+#, java-format
+msgctxt "NewWizardCat_JSF"
+msgid "JSF"
+msgstr ""
+
+#. 
+#: NewWizardCat_Struts
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:57
+#, java-format
+msgctxt "NewWizardCat_Struts"
+msgid "Struts"
+msgstr ""
+
+#. 
+#: NewWizard_FacesConfig
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:59
+#, java-format
+msgctxt "NewWizard_FacesConfig"
+msgid "Faces Config"
+msgstr ""
+
+#. 
+#: NewWizardDescription_FacesConfig
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:61
+#, java-format
+msgctxt "NewWizardDescription_FacesConfig"
+msgid "Create a Faces Config"
+msgstr ""
+
+#. 
+#: NewWizardDescription_JSFProject
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:63
+#, java-format
+msgctxt "NewWizardDescription_JSFProject"
+msgid "Create a JSF Project"
+msgstr ""
+
+#. 
+#: ImportWizardCat_JSF
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:67
+#, java-format
+msgctxt "ImportWizardCat_JSF"
+msgid "JSF"
+msgstr ""
+
+#. 
+#: ImportWizardCat_Struts
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:69
+#, java-format
+msgctxt "ImportWizardCat_Struts"
+msgid "Struts"
+msgstr ""
+
+#. 
+#: ImportWizardDescription_JSFProject
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:71
+#, java-format
+msgctxt "ImportWizardDescription_JSFProject"
+msgid "Create a new Project from a JSF project in the file system. This does not copy the project to the workspace."
+msgstr ""
+
+#. 
+#: ImportWizardDescription_JSFWar
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:73
+#, java-format
+msgctxt "ImportWizardDescription_JSFWar"
+msgid "Create a new Project from a JSF project in a WAR file. The content of WAR file will be copied to the workspace."
+msgstr ""
+
+#: license.dialog.title
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/action/license.properties:1
+#, java-format
+msgctxt "license.dialog.title"
+msgid "JSF Studio License"
+msgstr ""
+
+#. ####
+#. JSFDiagram
+#. ####
+#: JSFDIAGRAM_SELECT
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:7
+#, java-format
+msgctxt "JSFDIAGRAM_SELECT"
+msgid "Select"
+msgstr ""
+
+#. 
+#: JSFDIAGRAM_MARQUEE
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:9
+#, java-format
+msgctxt "JSFDIAGRAM_MARQUEE"
+msgid "Marquee"
+msgstr ""
+
+#. 
+#: JSFDIAGRAM_CREATE_NEW_CONNECTION
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:11
+#, java-format
+msgctxt "JSFDIAGRAM_CREATE_NEW_CONNECTION"
+msgid "Create New Connection"
+msgstr ""
+
+#. 
+#: JSFDIAGRAM_VIEW_TEMPLATE
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:13
+#, java-format
+msgctxt "JSFDIAGRAM_VIEW_TEMPLATE"
+msgid "View Template"
+msgstr ""
+
+#. 
+#: LOCALECONFIGFORM_HEADER
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:27
+#, java-format
+msgctxt "LOCALECONFIGFORM_HEADER"
+msgid "Locale Config"
+msgstr ""
+
+#. 
+#: LOCALECONFIGFORM_SUPPORTEDLOCAL_TITLE
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:29
+#, java-format
+msgctxt "LOCALECONFIGFORM_SUPPORTEDLOCAL_TITLE"
+msgid "Supported Locale"
+msgstr ""
+
+#. 
+#: LOCALECONFIGFORM_SUPPORTEDLOCAL_COLUMN_LABEL
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:31
+#, java-format
+msgctxt "LOCALECONFIGFORM_SUPPORTEDLOCAL_COLUMN_LABEL"
+msgid "Locale"
+msgstr ""
+
+#. 
+#: APPLICATIONCONFIGFORM_HEADER
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:45
+#, java-format
+msgctxt "APPLICATIONCONFIGFORM_HEADER"
+msgid "Application"
+msgstr ""
+
+#. 
+#: APPLICATIONCONFIGFORM_MESSAGEBUNDLE_COLUMN_LABEL
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:47
+#, java-format
+msgctxt "APPLICATIONCONFIGFORM_MESSAGEBUNDLE_COLUMN_LABEL"
+msgid "Message-bundle"
+msgstr ""
+
+#. 
+#: MANAGEDBEANPROPERTYFORM_HEADER
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:61
+#, java-format
+msgctxt "MANAGEDBEANPROPERTYFORM_HEADER"
+msgid "Property"
+msgstr ""
+
+#. 
+#: LISTENTRIESFORM_HEADER
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:75
+#, java-format
+msgctxt "LISTENTRIESFORM_HEADER"
+msgid "List Entries"
+msgstr ""
+
+#. 
+#: LISTENTRIESFORM_ENTRY_COLUMN_LABEL
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:77
+#, java-format
+msgctxt "LISTENTRIESFORM_ENTRY_COLUMN_LABEL"
+msgid "Value"
+msgstr ""
+
+#. 
+#: MAPENTRIESFORM_HEADER
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:91
+#, java-format
+msgctxt "MAPENTRIESFORM_HEADER"
+msgid "Map Entries"
+msgstr ""
+
+#. 
+#: MAPENTRIESFORM_ENTRY_KEY_COLUMN_LABEL
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:93
+#, java-format
+msgctxt "MAPENTRIESFORM_ENTRY_KEY_COLUMN_LABEL"
+msgid "Key"
+msgstr ""
+
+#. 
+#: MAPENTRIESFORM_ENTRY_VALUE_COLUMN_LABEL
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:95
+#, java-format
+msgctxt "MAPENTRIESFORM_ENTRY_VALUE_COLUMN_LABEL"
+msgid "Value"
+msgstr ""
+
+#: JSFSTUDIO
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/preferences/preferences.properties:1
+#, java-format
+msgctxt "JSFSTUDIO"
+msgid "JSF Projects specific preferences."
+msgstr ""
+
+#. 
+#: LibrarySetsPreferencePage.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/preferences/preferences.properties:3
+#, java-format
+msgctxt "LibrarySetsPreferencePage.0"
+msgid "Add"
+msgstr ""
+
+#. 
+#: LibrarySetsPreferencePage.1
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/preferences/preferences.properties:5
+#, java-format
+msgctxt "LibrarySetsPreferencePage.1"
+msgid "Remove"
+msgstr ""
+
+#. 
+#: JSFImplementationsPreferencesPage.Add
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/preferences/preferences.properties:7
+#, java-format
+msgctxt "JSFImplementationsPreferencesPage.Add"
+msgid "Add"
+msgstr ""
+
+#. 
+#: JSFImplementationsPreferencesPage.Remove
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/preferences/preferences.properties:9
+#, java-format
+msgctxt "JSFImplementationsPreferencesPage.Remove"
+msgid "Remove"
+msgstr ""
+
+#. 
+#: JSFImplementationsPreferencesPage.Library.Sets
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/preferences/preferences.properties:11
+#, java-format
+msgctxt "JSFImplementationsPreferencesPage.Library.Sets"
+msgid "Library Sets"
+msgstr ""
+
+#. 
+#: JSFImplementationsPreferencesPage.Project.Templates
+#: ../../../jsf/plugins/org.jboss.tools.jsf.ui/src/org/jboss/tools/jsf/ui/preferences/preferences.properties:13
+#, java-format
+msgctxt "JSFImplementationsPreferencesPage.Project.Templates"
+msgid "Project Templates"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/plugin.properties:2
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "JSF Verification"
+msgstr ""
+
+#: message.jsf.slash
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/src/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:1
+#, java-format
+msgctxt "message.jsf.slash"
+msgid "Attribute {0} must start with /"
+msgstr ""
+
+#. 
+#: message.jsf.empty
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/src/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:3
+#, java-format
+msgctxt "message.jsf.empty"
+msgid "Attribute {0} must not be empty"
+msgstr ""
+
+#. 
+#: message.jsf.star
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/src/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:5
+#, java-format
+msgctxt "message.jsf.star"
+msgid "Attribute {0} must not contain *"
+msgstr ""
+
+#. 
+#: message.jsf.path.exists
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/src/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:7
+#, java-format
+msgctxt "message.jsf.path.exists"
+msgid "Attribute {0} references to {1} that does not exist"
+msgstr ""
+
+#. 
+#: message.jsf.class.exists
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/src/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:9
+#, java-format
+msgctxt "message.jsf.class.exists"
+msgid "Attribute {0} references to non-existent class {1}"
+msgstr ""
+
+#. 
+#: message.jsf.class.implements
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/src/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:11
+#, java-format
+msgctxt "message.jsf.class.implements"
+msgid "Attribute {0} references to {1} that does not implement interface {2}"
+msgstr ""
+
+#. 
+#: message.jsf.class.extends
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/src/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:13
+#, java-format
+msgctxt "message.jsf.class.extends"
+msgid "Attribute {0} references to {1} that does not extend {2}"
+msgstr ""
+
+#. 
+#: message.jsf.config.valid
+#: ../../../jsf/plugins/org.jboss.tools.jsf.verification/src/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:15
+#, java-format
+msgctxt "message.jsf.config.valid"
+msgid "Attribute {0} references to {1} that is not a valid faces config file"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.ajax4jsf/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "Ajax4jsf VPE Plug-in"
+msgstr ""
+
+#: pluginName
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.facelets/plugin.properties:1
+#, java-format
+msgctxt "pluginName"
+msgid "Facelets Plug-in"
+msgstr ""
+
+#. 
+#. 
+#: pluginName
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.jsf/plugin.properties:3
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.jstl/plugin.properties:3
+#, java-format
+msgctxt "pluginName"
+msgid "JSF support for JBoss Visual Page Editor Plug-in"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.myfaces/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "MyFaces support for JBoss Visual Page Editor Plug-in"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.richfaces/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "Richfaces VPE Support Plug-in"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../jsf/plugins/org.jboss.tools.jsf.vpe.seam/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "Seam VPE support Plug-in"
+msgstr ""
+
+#. 
+#: pluginName
+#: ../../../jsf/plugins/org.jboss.tools.jsf/plugin.properties:3
+#, java-format
+msgctxt "pluginName"
+msgid "JBoss Tools JSF"
+msgstr ""
+
+#. 
+#: XHTML_Validator.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/plugin.properties:7
+#, java-format
+msgctxt "XHTML_Validator.name"
+msgid "XHTML Syntax Validator"
+msgstr ""
+
+#: JSF.element_type
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:1
+#, java-format
+msgctxt "JSF.element_type"
+msgid "Element Type"
+msgstr ""
+
+#. 
+#: JSF.name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:3
+#, java-format
+msgctxt "JSF.name"
+msgid "Name"
+msgstr ""
+
+#. 
+#: JSF.extension
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:5
+#, java-format
+msgctxt "JSF.extension"
+msgid "Extension"
+msgstr ""
+
+#. 
+#: JSF.id
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:7
+#, java-format
+msgctxt "JSF.id"
+msgid "ID"
+msgstr ""
+
+#. 
+#: JSF.comment
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:9
+#, java-format
+msgctxt "JSF.comment"
+msgid "Comment"
+msgstr ""
+
+#. 
+#: JSF.encoding
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:11
+#, java-format
+msgctxt "JSF.encoding"
+msgid "Encoding"
+msgstr ""
+
+#. 
+#: JSF.xmlns
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:13
+#, java-format
+msgctxt "JSF.xmlns"
+msgid "Xmlns"
+msgstr ""
+
+#. 
+#: JSF.xmlns_xsi
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:15
+#, java-format
+msgctxt "JSF.xmlns_xsi"
+msgid "Xmlns:xsi"
+msgstr ""
+
+#. 
+#: JSF.xsi_schemaLocation
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:17
+#, java-format
+msgctxt "JSF.xsi_schemaLocation"
+msgid "Xsi:schemaLocation"
+msgstr ""
+
+#. 
+#: JSF.action-listener
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:19
+#, java-format
+msgctxt "JSF.action-listener"
+msgid "Action-Listener"
+msgstr ""
+
+#. 
+#: JSF.default-render-kit-id
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:21
+#, java-format
+msgctxt "JSF.default-render-kit-id"
+msgid "Default-Render-Kit-ID"
+msgstr ""
+
+#. 
+#: JSF.navigation-handler
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:23
+#, java-format
+msgctxt "JSF.navigation-handler"
+msgid "Navigation-Handler"
+msgstr ""
+
+#. 
+#: JSF.view-handler
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:25
+#, java-format
+msgctxt "JSF.view-handler"
+msgid "View-Handler"
+msgstr ""
+
+#. 
+#: JSF.state-manager
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:27
+#, java-format
+msgctxt "JSF.state-manager"
+msgid "State-Manager"
+msgstr ""
+
+#. 
+#: JSF.property-resolver
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:29
+#, java-format
+msgctxt "JSF.property-resolver"
+msgid "Property-Resolver"
+msgstr ""
+
+#. 
+#: JSF.variable-resolver
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:31
+#, java-format
+msgctxt "JSF.variable-resolver"
+msgid "Variable-Resolver"
+msgstr ""
+
+#. 
+#: JSF.el-resolver
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:33
+#, java-format
+msgctxt "JSF.el-resolver"
+msgid "El-Resolver"
+msgstr ""
+
+#. 
+#: JSF.description
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:35
+#, java-format
+msgctxt "JSF.description"
+msgid "Description"
+msgstr ""
+
+#. 
+#: JSF.display-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:37
+#, java-format
+msgctxt "JSF.display-name"
+msgid "Display-Name"
+msgstr ""
+
+#. 
+#: JSF.small-icon
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:39
+#, java-format
+msgctxt "JSF.small-icon"
+msgid "Small-Icon"
+msgstr ""
+
+#. 
+#: JSF.large-icon
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:41
+#, java-format
+msgctxt "JSF.large-icon"
+msgid "Large-Icon"
+msgstr ""
+
+#. 
+#: JSF.attribute-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:43
+#, java-format
+msgctxt "JSF.attribute-name"
+msgid "Attribute-Name"
+msgstr ""
+
+#. 
+#: JSF.attribute-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:45
+#, java-format
+msgctxt "JSF.attribute-class"
+msgid "Attribute-Class"
+msgstr ""
+
+#. 
+#: JSF.default-value
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:47
+#, java-format
+msgctxt "JSF.default-value"
+msgid "Default-Value"
+msgstr ""
+
+#. 
+#: JSF.suggested-value
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:49
+#, java-format
+msgctxt "JSF.suggested-value"
+msgid "Suggested-Value"
+msgstr ""
+
+#. 
+#: JSF.component-type
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:51
+#, java-format
+msgctxt "JSF.component-type"
+msgid "Component-Type"
+msgstr ""
+
+#. 
+#: JSF.component-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:53
+#, java-format
+msgctxt "JSF.component-class"
+msgid "Component-Class"
+msgstr ""
+
+#. 
+#: JSF.converter-id
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:55
+#, java-format
+msgctxt "JSF.converter-id"
+msgid "Converter-ID"
+msgstr ""
+
+#. 
+#: JSF.converter-for-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:57
+#, java-format
+msgctxt "JSF.converter-for-class"
+msgid "Converter-for-Class"
+msgstr ""
+
+#. 
+#: JSF.converter-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:59
+#, java-format
+msgctxt "JSF.converter-class"
+msgid "Converter-Class"
+msgstr ""
+
+#. 
+#: JSF.class_name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:61
+#, java-format
+msgctxt "JSF.class_name"
+msgid "Class Name"
+msgstr ""
+
+#. 
+#: JSF.facet-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:63
+#, java-format
+msgctxt "JSF.facet-name"
+msgid "Facet-Name"
+msgstr ""
+
+#. 
+#: JSF.application-factory
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:65
+#, java-format
+msgctxt "JSF.application-factory"
+msgid "Application-Factory"
+msgstr ""
+
+#. 
+#: JSF.faces-context-factory
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:67
+#, java-format
+msgctxt "JSF.faces-context-factory"
+msgid "Faces-Context-Factory"
+msgstr ""
+
+#. 
+#: JSF.lifecycle-factory
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:69
+#, java-format
+msgctxt "JSF.lifecycle-factory"
+msgid "Lifecycle-Factory"
+msgstr ""
+
+#. 
+#: JSF.render-kit-factory
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:71
+#, java-format
+msgctxt "JSF.render-kit-factory"
+msgid "Render-Kit-Factory"
+msgstr ""
+
+#. 
+#: JSF.value-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:73
+#, java-format
+msgctxt "JSF.value-class"
+msgid "Value-Class"
+msgstr ""
+
+#. 
+#: JSF.null-value
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:75
+#, java-format
+msgctxt "JSF.null-value"
+msgid "Null-Value"
+msgstr ""
+
+#. 
+#: JSF.value
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:77
+#, java-format
+msgctxt "JSF.value"
+msgid "Value"
+msgstr ""
+
+#. 
+#: JSF.default-locale
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:79
+#, java-format
+msgctxt "JSF.default-locale"
+msgid "Default-Locale"
+msgstr ""
+
+#. 
+#: JSF.managed-bean-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:81
+#, java-format
+msgctxt "JSF.managed-bean-name"
+msgid "Managed-Bean-Name"
+msgstr ""
+
+#. 
+#: JSF.managed-bean-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:83
+#, java-format
+msgctxt "JSF.managed-bean-class"
+msgid "Managed-Bean-Class"
+msgstr ""
+
+#. 
+#: JSF.managed-bean-scope
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:85
+#, java-format
+msgctxt "JSF.managed-bean-scope"
+msgid "Managed-Bean-Scope"
+msgstr ""
+
+#. 
+#: JSF.property-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:87
+#, java-format
+msgctxt "JSF.property-name"
+msgid "Property-Name"
+msgstr ""
+
+#. 
+#: JSF.property-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:89
+#, java-format
+msgctxt "JSF.property-class"
+msgid "Property-Class"
+msgstr ""
+
+#. 
+#: JSF.value-kind
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:91
+#, java-format
+msgctxt "JSF.value-kind"
+msgid "Value-Kind"
+msgstr ""
+
+#. 
+#: JSF.key-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:93
+#, java-format
+msgctxt "JSF.key-class"
+msgid "Key-Class"
+msgstr ""
+
+#. 
+#: JSF.key
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:95
+#, java-format
+msgctxt "JSF.key"
+msgid "Key"
+msgstr ""
+
+#. 
+#: JSF.message-bundle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:97
+#, java-format
+msgctxt "JSF.message-bundle"
+msgid "Message-Bundle"
+msgstr ""
+
+#. 
+#: JSF.from-action
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:99
+#, java-format
+msgctxt "JSF.from-action"
+msgid "From-Action"
+msgstr ""
+
+#. 
+#: JSF.from-outcome
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:101
+#, java-format
+msgctxt "JSF.from-outcome"
+msgid "From-Outcome"
+msgstr ""
+
+#. 
+#: JSF.to-view-id
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:103
+#, java-format
+msgctxt "JSF.to-view-id"
+msgid "To-View-ID"
+msgstr ""
+
+#. 
+#: JSF.redirect
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:105
+#, java-format
+msgctxt "JSF.redirect"
+msgid "Redirect"
+msgstr ""
+
+#. 
+#: JSF.from-view-id
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:107
+#, java-format
+msgctxt "JSF.from-view-id"
+msgid "From-View-ID"
+msgstr ""
+
+#. 
+#: JSF.phase-listener
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:109
+#, java-format
+msgctxt "JSF.phase-listener"
+msgid "Phase-Listener"
+msgstr ""
+
+#. 
+#: JSF.type
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:111
+#, java-format
+msgctxt "JSF.type"
+msgid "Type"
+msgstr ""
+
+#. 
+#: JSF.shape
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:113
+#, java-format
+msgctxt "JSF.shape"
+msgid "Shape"
+msgstr ""
+
+#. 
+#: JSF.target
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:115
+#, java-format
+msgctxt "JSF.target"
+msgid "Target"
+msgstr ""
+
+#. 
+#: JSF.subtype
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:117
+#, java-format
+msgctxt "JSF.subtype"
+msgid "Subtype"
+msgstr ""
+
+#. 
+#: JSF.path
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:119
+#, java-format
+msgctxt "JSF.path"
+msgid "Path"
+msgstr ""
+
+#. 
+#: JSF.persistent
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:121
+#, java-format
+msgctxt "JSF.persistent"
+msgid "Persistent"
+msgstr ""
+
+#. 
+#: JSF.title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:123
+#, java-format
+msgctxt "JSF.title"
+msgid "Title"
+msgstr ""
+
+#. 
+#: JSF.hidden
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:125
+#, java-format
+msgctxt "JSF.hidden"
+msgid "Hidden"
+msgstr ""
+
+#. 
+#: JSF.shortcut
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:127
+#, java-format
+msgctxt "JSF.shortcut"
+msgid "Shortcut"
+msgstr ""
+
+#. 
+#: JSF.referenced-bean-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:129
+#, java-format
+msgctxt "JSF.referenced-bean-name"
+msgid "Referenced-Bean-Name"
+msgstr ""
+
+#. 
+#: JSF.referenced-bean-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:131
+#, java-format
+msgctxt "JSF.referenced-bean-class"
+msgid "Referenced-Bean-Class"
+msgstr ""
+
+#. 
+#: JSF.render-kit-id
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:133
+#, java-format
+msgctxt "JSF.render-kit-id"
+msgid "Render-Kit-ID"
+msgstr ""
+
+#. 
+#: JSF.render-kit-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:135
+#, java-format
+msgctxt "JSF.render-kit-class"
+msgid "Render-Kit-Class"
+msgstr ""
+
+#. 
+#: JSF.component-family
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:137
+#, java-format
+msgctxt "JSF.component-family"
+msgid "Component-Family"
+msgstr ""
+
+#. 
+#: JSF.renderer-type
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:139
+#, java-format
+msgctxt "JSF.renderer-type"
+msgid "Renderer-Type"
+msgstr ""
+
+#. 
+#: JSF.renderer-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:141
+#, java-format
+msgctxt "JSF.renderer-class"
+msgid "Renderer-Class"
+msgstr ""
+
+#. 
+#: JSF.base-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:143
+#, java-format
+msgctxt "JSF.base-name"
+msgid "Base-Name"
+msgstr ""
+
+#. 
+#: JSF.var
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:145
+#, java-format
+msgctxt "JSF.var"
+msgid "Var"
+msgstr ""
+
+#. 
+#: JSF.attribute-names
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:147
+#, java-format
+msgctxt "JSF.attribute-names"
+msgid "Attribute-Names"
+msgstr ""
+
+#. 
+#: JSF.supported-locale
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:149
+#, java-format
+msgctxt "JSF.supported-locale"
+msgid "Supported-Locale"
+msgstr ""
+
+#. 
+#: JSF.validator-id
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:151
+#, java-format
+msgctxt "JSF.validator-id"
+msgid "Validator-ID"
+msgstr ""
+
+#. 
+#: JSF.validator-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:153
+#, java-format
+msgctxt "JSF.validator-class"
+msgid "Validator-Class"
+msgstr ""
+
+#. 
+#: JSF.URI
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:155
+#, java-format
+msgctxt "JSF.URI"
+msgid "URI"
+msgstr ""
+
+#. 
+#: JSF.path_on_disk
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:157
+#, java-format
+msgctxt "JSF.path_on_disk"
+msgid "Path on Disk"
+msgstr ""
+
+#. 
+#: JSF.java_src
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:159
+#, java-format
+msgctxt "JSF.java_src"
+msgid "Java Src"
+msgstr ""
+
+#. 
+#: JSF.root
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:161
+#, java-format
+msgctxt "JSF.root"
+msgid "Root"
+msgstr ""
+
+#. 
+#: JSF.model_path
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:163
+#, java-format
+msgctxt "JSF.model_path"
+msgid "Model Path"
+msgstr ""
+
+#. 
+#: JSF.root_file_system
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:165
+#, java-format
+msgctxt "JSF.root_file_system"
+msgid "Root File System"
+msgstr ""
+
+#. 
+#: JSF.src_file_system
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:167
+#, java-format
+msgctxt "JSF.src_file_system"
+msgid "Src File System"
+msgstr ""
+
+#. 
+#: JSF.capability
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:169
+#, java-format
+msgctxt "JSF.capability"
+msgid "Capability"
+msgstr ""
+
+#. 
+#: JSF.label
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:171
+#, java-format
+msgctxt "JSF.label"
+msgid "Label"
+msgstr ""
+
+#. 
+#: JSF.file_name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:173
+#, java-format
+msgctxt "JSF.file_name"
+msgid "File Name"
+msgstr ""
+
+#. 
+#: JSF.x-path
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:175
+#, java-format
+msgctxt "JSF.x-path"
+msgid "X-Path"
+msgstr ""
+
+#. 
+#: JSF.text
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:177
+#, java-format
+msgctxt "JSF.text"
+msgid "Text"
+msgstr ""
+
+#. 
+#: JSF.declaring_class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:179
+#, java-format
+msgctxt "JSF.declaring_class"
+msgid "Declaring Class"
+msgstr ""
+
+#. 
+#: JSF.generate_source_code
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:181
+#, java-format
+msgctxt "JSF.generate_source_code"
+msgid "Generate Source Code"
+msgstr ""
+
+#. 
+#: JSF.generate_getter
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:183
+#, java-format
+msgctxt "JSF.generate_getter"
+msgid "Generate Getter"
+msgstr ""
+
+#. 
+#: JSF.generate_setter
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:185
+#, java-format
+msgctxt "JSF.generate_setter"
+msgid "Generate Setter"
+msgstr ""
+
+#. 
+#: JSF.folder
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:187
+#, java-format
+msgctxt "JSF.folder"
+msgid "Folder"
+msgstr ""
+
+#. 
+#: JSF.separator
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:189
+#, java-format
+msgctxt "JSF.separator"
+msgid "Separator"
+msgstr ""
+
+#. 
+#: JSF.version
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:191
+#, java-format
+msgctxt "JSF.version"
+msgid "Version"
+msgstr ""
+
+#. 
+#: JSF.register_in_web.xml
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:193
+#, java-format
+msgctxt "JSF.register_in_web.xml"
+msgid "Register in web.xml"
+msgstr ""
+
+#. 
+#: JSF.template
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:195
+#, java-format
+msgctxt "JSF.template"
+msgid "Template"
+msgstr ""
+
+#. 
+#: JSF.value_bean_class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:197
+#, java-format
+msgctxt "JSF.value_bean_class"
+msgid "Value Bean Class"
+msgstr ""
+
+#. 
+#: JSF.rename_file
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:199
+#, java-format
+msgctxt "JSF.rename_file"
+msgid "Rename File"
+msgstr ""
+
+#. 
+#: JSF.link_text
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:201
+#, java-format
+msgctxt "JSF.link_text"
+msgid "Link Text"
+msgstr ""
+
+#. 
+#: JSF.select_items
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:203
+#, java-format
+msgctxt "JSF.select_items"
+msgid "Select Items"
+msgstr ""
+
+#: JSF.SetApplication.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:1
+#, java-format
+msgctxt "JSF.SetApplication.menu"
+msgid "Edit Application Settings..."
+msgstr ""
+
+#. 
+#: JSF.SetFactory.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:3
+#, java-format
+msgctxt "JSF.SetFactory.menu"
+msgid "Edit Factory Settings..."
+msgstr ""
+
+#. 
+#: JSF.AddRule.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:5
+#, java-format
+msgctxt "JSF.AddRule.menu"
+msgid "Rule..."
+msgstr ""
+
+#. 
+#: JSF.AddComponent.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:7
+#, java-format
+msgctxt "JSF.AddComponent.menu"
+msgid "Component..."
+msgstr ""
+
+#. 
+#: JSF.AddConverter.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:9
+#, java-format
+msgctxt "JSF.AddConverter.menu"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: JSF.WithId.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:11
+#, java-format
+msgctxt "JSF.WithId.menu"
+msgid "with id..."
+msgstr ""
+
+#. 
+#: JSF.ForClass.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:13
+#, java-format
+msgctxt "JSF.ForClass.menu"
+msgid "for class..."
+msgstr ""
+
+#. 
+#: JSF.AddManagedBean.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:15
+#, java-format
+msgctxt "JSF.AddManagedBean.menu"
+msgid "Managed Bean..."
+msgstr ""
+
+#. 
+#: JSF.AddReferencedBean.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:17
+#, java-format
+msgctxt "JSF.AddReferencedBean.menu"
+msgid "Referenced Bean..."
+msgstr ""
+
+#. 
+#: JSF.AddRenderKit.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:19
+#, java-format
+msgctxt "JSF.AddRenderKit.menu"
+msgid "Render Kit..."
+msgstr ""
+
+#. 
+#: JSF.AddLifecycle.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:21
+#, java-format
+msgctxt "JSF.AddLifecycle.menu"
+msgid "Lifecycle..."
+msgstr ""
+
+#. 
+#: JSF.AddValidator.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:23
+#, java-format
+msgctxt "JSF.AddValidator.menu"
+msgid "Validator..."
+msgstr ""
+
+#. 
+#: JSF.AddMessageBundle.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:25
+#, java-format
+msgctxt "JSF.AddMessageBundle.menu"
+msgid "Message Bundle"
+msgstr ""
+
+#. 
+#: JSF.AddPropertyResolver.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:27
+#, java-format
+msgctxt "JSF.AddPropertyResolver.menu"
+msgid "Property Resolver..."
+msgstr ""
+
+#. 
+#: JSF.AddVariableResolver.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:29
+#, java-format
+msgctxt "JSF.AddVariableResolver.menu"
+msgid "Variable Resolver..."
+msgstr ""
+
+#. 
+#: JSF.OpenSource.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:31
+#, java-format
+msgctxt "JSF.OpenSource.menu"
+msgid "Open Declaration"
+msgstr ""
+
+#. 
+#: JSF.AddResourceBundle.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:33
+#, java-format
+msgctxt "JSF.AddResourceBundle.menu"
+msgid "Resource Bundle..."
+msgstr ""
+
+#. 
+#: JSF.AddELResolver.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:35
+#, java-format
+msgctxt "JSF.AddELResolver.menu"
+msgid "EL Resolver..."
+msgstr ""
+
+#. 
+#: JSF.CreateExtension.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:37
+#, java-format
+msgctxt "JSF.CreateExtension.menu"
+msgid "Extension"
+msgstr ""
+
+#. 
+#: JSF.CreateTag.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:39
+#, java-format
+msgctxt "JSF.CreateTag.menu"
+msgid "Add Tag..."
+msgstr ""
+
+#. 
+#: JSF.CreateAttribute.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:41
+#, java-format
+msgctxt "JSF.CreateAttribute.menu"
+msgid "Attribute..."
+msgstr ""
+
+#. 
+#: JSF.CreateProperty.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:43
+#, java-format
+msgctxt "JSF.CreateProperty.menu"
+msgid "Property..."
+msgstr ""
+
+#. 
+#: JSF.CreateFacet.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:45
+#, java-format
+msgctxt "JSF.CreateFacet.menu"
+msgid "Facet..."
+msgstr ""
+
+#. 
+#: JSF.CreatePhaseListener.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:47
+#, java-format
+msgctxt "JSF.CreatePhaseListener.menu"
+msgid "Add Phase Listener..."
+msgstr ""
+
+#. 
+#: JSF.AddEntry.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:49
+#, java-format
+msgctxt "JSF.AddEntry.menu"
+msgid "Entry"
+msgstr ""
+
+#. 
+#: JSF.AddSupportedLocale.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:51
+#, java-format
+msgctxt "JSF.AddSupportedLocale.menu"
+msgid "Add Supported Locale..."
+msgstr ""
+
+#. 
+#: JSF.ChangeToList.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:53
+#, java-format
+msgctxt "JSF.ChangeToList.menu"
+msgid "List-Entries"
+msgstr ""
+
+#. 
+#: JSF.ChangeToMap.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:55
+#, java-format
+msgctxt "JSF.ChangeToMap.menu"
+msgid "Map-Entries"
+msgstr ""
+
+#. 
+#: JSF.RenameClass.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:57
+#, java-format
+msgctxt "JSF.RenameClass.menu"
+msgid "Rename Class..."
+msgstr ""
+
+#. 
+#: JSF.AddNullValue.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:59
+#, java-format
+msgctxt "JSF.AddNullValue.menu"
+msgid "Null Value"
+msgstr ""
+
+#. 
+#: JSF.AddValue.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:61
+#, java-format
+msgctxt "JSF.AddValue.menu"
+msgid "Value..."
+msgstr ""
+
+#. 
+#: JSF.OpenPage.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:63
+#, java-format
+msgctxt "JSF.OpenPage.menu"
+msgid "Open Page"
+msgstr ""
+
+#. 
+#: JSF.RunPageOnServer.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:65
+#, java-format
+msgctxt "JSF.RunPageOnServer.menu"
+msgid "Run on Server"
+msgstr ""
+
+#. 
+#: JSF.Select.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:67
+#, java-format
+msgctxt "JSF.Select.menu"
+msgid "Select on Diagram"
+msgstr ""
+
+#. 
+#: JSF.CreateCase.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:69
+#, java-format
+msgctxt "JSF.CreateCase.menu"
+msgid "Case..."
+msgstr ""
+
+#. 
+#: JSF.AutoLayout.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:71
+#, java-format
+msgctxt "JSF.AutoLayout.menu"
+msgid "Auto Layout"
+msgstr ""
+
+#. 
+#: JSF.SelectItem.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:73
+#, java-format
+msgctxt "JSF.SelectItem.menu"
+msgid "Select Element"
+msgstr ""
+
+#. 
+#: JSF.VerifyAll.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:75
+#, java-format
+msgctxt "JSF.VerifyAll.menu"
+msgid "Verify"
+msgstr ""
+
+#. 
+#: JSF.AsTransition.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:77
+#, java-format
+msgctxt "JSF.AsTransition.menu"
+msgid "Show as Transition"
+msgstr ""
+
+#. 
+#: JSF.AsSrortcut.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:79
+#, java-format
+msgctxt "JSF.AsSrortcut.menu"
+msgid "Show as Shortcut"
+msgstr ""
+
+#. 
+#: JSF.CreateRenderer.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:81
+#, java-format
+msgctxt "JSF.CreateRenderer.menu"
+msgid "Renderer..."
+msgstr ""
+
+#. 
+#: JSF.AddCapability.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:83
+#, java-format
+msgctxt "JSF.AddCapability.menu"
+msgid "Add Capability"
+msgstr ""
+
+#. 
+#: JSF.AddLibraryReference.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:85
+#, java-format
+msgctxt "JSF.AddLibraryReference.menu"
+msgid "Add Library Reference"
+msgstr ""
+
+#. 
+#: JSF.AddFileAddition.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:87
+#, java-format
+msgctxt "JSF.AddFileAddition.menu"
+msgid "Define Configuration File Addition"
+msgstr ""
+
+#. 
+#: JSF.CreateFacesConfig.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:89
+#, java-format
+msgctxt "JSF.CreateFacesConfig.menu"
+msgid "Faces Config"
+msgstr ""
+
+#. 
+#: JSF.CreateFileProperties.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:91
+#, java-format
+msgctxt "JSF.CreateFileProperties.menu"
+msgid "Properties File..."
+msgstr ""
+
+#. 
+#: JSF.CreateFileTLD.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:93
+#, java-format
+msgctxt "JSF.CreateFileTLD.menu"
+msgid "Tag Library..."
+msgstr ""
+
+#. 
+#: JSF.CreateTiles.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:95
+#, java-format
+msgctxt "JSF.CreateTiles.menu"
+msgid "Tiles..."
+msgstr ""
+
+#. 
+#: JSF.JSFStudio.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:97
+#, java-format
+msgctxt "JSF.JSFStudio.menu"
+msgid "JBoss Tools JSF"
+msgstr ""
+
+#. 
+#: JSF.SaveAsTemplate.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:99
+#, java-format
+msgctxt "JSF.SaveAsTemplate.menu"
+msgid "Save As Template..."
+msgstr ""
+
+#. 
+#: JSF.RemoveJSFNature.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:101
+#, java-format
+msgctxt "JSF.RemoveJSFNature.menu"
+msgid "Remove JSF Capabilities"
+msgstr ""
+
+#. 
+#: JSF.AddCustomJSFCapabilities.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:103
+#, java-format
+msgctxt "JSF.AddCustomJSFCapabilities.menu"
+msgid "Add Custom Capabilities..."
+msgstr ""
+
+#. 
+#: JSF.AddORMCapabilities.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:105
+#, java-format
+msgctxt "JSF.AddORMCapabilities.menu"
+msgid "Add ORM Capability..."
+msgstr ""
+
+#. 
+#: JSF.CreateNewProject.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:107
+#, java-format
+msgctxt "JSF.CreateNewProject.menu"
+msgid "Create New Project..."
+msgstr ""
+
+#. 
+#: JSF.ImportExistingProject.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:109
+#, java-format
+msgctxt "JSF.ImportExistingProject.menu"
+msgid "Import Existing Project..."
+msgstr ""
+
+#. 
+#: JSF.AddProperties.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:111
+#, java-format
+msgctxt "JSF.AddProperties.menu"
+msgid "Add..."
+msgstr ""
+
+#. 
+#: JSF.CreateFacesConfigV.menu
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-menu.properties:113
+#, java-format
+msgctxt "JSF.CreateFacesConfigV.menu"
+msgid "Faces Config"
+msgstr ""
+
+#: FileSystems_RegisterInServerXML_jsf
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1
+#, java-format
+msgctxt "FileSystems_RegisterInServerXML_jsf"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: FacesConfig_Rename.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:5
+#, java-format
+msgctxt "FacesConfig_Rename.WindowTitle"
+msgid "Rename"
+msgstr ""
+
+#. 
+#: FacesConfig_Rename.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:7
+#, java-format
+msgctxt "FacesConfig_Rename.Title"
+msgid "Faces Config"
+msgstr ""
+
+#. 
+#: FacesConfig_Rename.Message
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:9
+#, java-format
+msgctxt "FacesConfig_Rename.Message"
+msgid "Enter new name"
+msgstr ""
+
+#. 
+#: FacesConfig_WithId.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:13
+#, java-format
+msgctxt "FacesConfig_WithId.WindowTitle"
+msgid "Add Converter"
+msgstr ""
+
+#. 
+#: FacesConfig_WithId.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:15
+#, java-format
+msgctxt "FacesConfig_WithId.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: FacesConfig_ForClass.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:21
+#, java-format
+msgctxt "FacesConfig_ForClass.WindowTitle"
+msgid "Add Converter"
+msgstr ""
+
+#. 
+#: FacesConfig_ForClass.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:23
+#, java-format
+msgctxt "FacesConfig_ForClass.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: FacesConfig_AddRule.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:29
+#, java-format
+msgctxt "FacesConfig_AddRule.WindowTitle"
+msgid "Add Rule"
+msgstr ""
+
+#. 
+#: FacesConfig_AddRule.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:31
+#, java-format
+msgctxt "FacesConfig_AddRule.Title"
+msgid "Navigation Rule"
+msgstr ""
+
+#. 
+#: FacesConfig_AddComponent.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:37
+#, java-format
+msgctxt "FacesConfig_AddComponent.WindowTitle"
+msgid "Add Component"
+msgstr ""
+
+#. 
+#: FacesConfig_AddComponent.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:39
+#, java-format
+msgctxt "FacesConfig_AddComponent.Title"
+msgid "Component"
+msgstr ""
+
+#. 
+#: FacesConfig_AddManagedBean.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:45
+#, java-format
+msgctxt "FacesConfig_AddManagedBean.WindowTitle"
+msgid "Add Managed Bean"
+msgstr ""
+
+#. 
+#: FacesConfig_AddManagedBean.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:47
+#, java-format
+msgctxt "FacesConfig_AddManagedBean.Title"
+msgid "Managed Bean"
+msgstr ""
+
+#. 
+#: FacesConfig_AddReferencedBean.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:53
+#, java-format
+msgctxt "FacesConfig_AddReferencedBean.WindowTitle"
+msgid "Add Referenced Bean"
+msgstr ""
+
+#. 
+#: FacesConfig_AddReferencedBean.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:55
+#, java-format
+msgctxt "FacesConfig_AddReferencedBean.Title"
+msgid "Referenced Bean"
+msgstr ""
+
+#. 
+#: FacesConfig_AddRenderKit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:61
+#, java-format
+msgctxt "FacesConfig_AddRenderKit.WindowTitle"
+msgid "Add Render Kit"
+msgstr ""
+
+#. 
+#: FacesConfig_AddRenderKit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:63
+#, java-format
+msgctxt "FacesConfig_AddRenderKit.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: FacesConfig_AddValidator.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:69
+#, java-format
+msgctxt "FacesConfig_AddValidator.WindowTitle"
+msgid "Add Validator"
+msgstr ""
+
+#. 
+#: FacesConfig_AddValidator.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:71
+#, java-format
+msgctxt "FacesConfig_AddValidator.Title"
+msgid "Validator"
+msgstr ""
+
+#. 
+#: FacesConfig_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:77
+#, java-format
+msgctxt "FacesConfig_Properties.Title"
+msgid "Faces Config 1.0"
+msgstr ""
+
+#. 
+#: FacesConfig11
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:81
+#, java-format
+msgctxt "FacesConfig11"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: FacesConfig11_Rename.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:85
+#, java-format
+msgctxt "FacesConfig11_Rename.WindowTitle"
+msgid "Rename"
+msgstr ""
+
+#. 
+#: FacesConfig11_Rename.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:87
+#, java-format
+msgctxt "FacesConfig11_Rename.Title"
+msgid "Faces Config"
+msgstr ""
+
+#. 
+#: FacesConfig11_Rename.Message
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:89
+#, java-format
+msgctxt "FacesConfig11_Rename.Message"
+msgid "Enter new name"
+msgstr ""
+
+#. 
+#: FacesConfig11_WithId.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:93
+#, java-format
+msgctxt "FacesConfig11_WithId.WindowTitle"
+msgid "Add Converter"
+msgstr ""
+
+#. 
+#: FacesConfig11_WithId.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:95
+#, java-format
+msgctxt "FacesConfig11_WithId.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: FacesConfig11_ForClass.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:101
+#, java-format
+msgctxt "FacesConfig11_ForClass.WindowTitle"
+msgid "Add Converter"
+msgstr ""
+
+#. 
+#: FacesConfig11_ForClass.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:103
+#, java-format
+msgctxt "FacesConfig11_ForClass.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddRule.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:109
+#, java-format
+msgctxt "FacesConfig11_AddRule.WindowTitle"
+msgid "Add Rule"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddRule.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:111
+#, java-format
+msgctxt "FacesConfig11_AddRule.Title"
+msgid "Navigation Rule"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddComponent.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:117
+#, java-format
+msgctxt "FacesConfig11_AddComponent.WindowTitle"
+msgid "Add Component"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddComponent.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:119
+#, java-format
+msgctxt "FacesConfig11_AddComponent.Title"
+msgid "Component"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddManagedBean.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:125
+#, java-format
+msgctxt "FacesConfig11_AddManagedBean.WindowTitle"
+msgid "Add Managed Bean"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddManagedBean.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:127
+#, java-format
+msgctxt "FacesConfig11_AddManagedBean.Title"
+msgid "Managed Bean"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddReferencedBean.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:133
+#, java-format
+msgctxt "FacesConfig11_AddReferencedBean.WindowTitle"
+msgid "Add Referenced Bean"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddReferencedBean.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:135
+#, java-format
+msgctxt "FacesConfig11_AddReferencedBean.Title"
+msgid "Referenced Bean"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddRenderKit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:141
+#, java-format
+msgctxt "FacesConfig11_AddRenderKit.WindowTitle"
+msgid "Add Render Kit"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddRenderKit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:143
+#, java-format
+msgctxt "FacesConfig11_AddRenderKit.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddValidator.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:149
+#, java-format
+msgctxt "FacesConfig11_AddValidator.WindowTitle"
+msgid "Add Validator"
+msgstr ""
+
+#. 
+#: FacesConfig11_AddValidator.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:151
+#, java-format
+msgctxt "FacesConfig11_AddValidator.Title"
+msgid "Validator"
+msgstr ""
+
+#. 
+#: FacesConfig11_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:157
+#, java-format
+msgctxt "FacesConfig11_Properties.Title"
+msgid "Faces Config 1.1"
+msgstr ""
+
+#. 
+#: FacesConfig12_Rename.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:161
+#, java-format
+msgctxt "FacesConfig12_Rename.WindowTitle"
+msgid "Rename"
+msgstr ""
+
+#. 
+#: FacesConfig12_Rename.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:163
+#, java-format
+msgctxt "FacesConfig12_Rename.Title"
+msgid "Faces Config"
+msgstr ""
+
+#. 
+#: FacesConfig12_Rename.Message
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:165
+#, java-format
+msgctxt "FacesConfig12_Rename.Message"
+msgid "Enter new name"
+msgstr ""
+
+#. 
+#: FacesConfig12_WithId.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:169
+#, java-format
+msgctxt "FacesConfig12_WithId.WindowTitle"
+msgid "Add Converter"
+msgstr ""
+
+#. 
+#: FacesConfig12_WithId.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:171
+#, java-format
+msgctxt "FacesConfig12_WithId.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: FacesConfig12_ForClass.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:177
+#, java-format
+msgctxt "FacesConfig12_ForClass.WindowTitle"
+msgid "Add Converter"
+msgstr ""
+
+#. 
+#: FacesConfig12_ForClass.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:179
+#, java-format
+msgctxt "FacesConfig12_ForClass.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddRule.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:185
+#, java-format
+msgctxt "FacesConfig12_AddRule.WindowTitle"
+msgid "Add Rule"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddRule.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:187
+#, java-format
+msgctxt "FacesConfig12_AddRule.Title"
+msgid "Navigation Rule"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddComponent.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:193
+#, java-format
+msgctxt "FacesConfig12_AddComponent.WindowTitle"
+msgid "Add Component"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddComponent.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:195
+#, java-format
+msgctxt "FacesConfig12_AddComponent.Title"
+msgid "Component"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddManagedBean.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:201
+#, java-format
+msgctxt "FacesConfig12_AddManagedBean.WindowTitle"
+msgid "Add Managed Bean"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddManagedBean.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:203
+#, java-format
+msgctxt "FacesConfig12_AddManagedBean.Title"
+msgid "Managed Bean"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddReferencedBean.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:209
+#, java-format
+msgctxt "FacesConfig12_AddReferencedBean.WindowTitle"
+msgid "Add Referenced Bean"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddReferencedBean.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:211
+#, java-format
+msgctxt "FacesConfig12_AddReferencedBean.Title"
+msgid "Referenced Bean"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddRenderKit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:217
+#, java-format
+msgctxt "FacesConfig12_AddRenderKit.WindowTitle"
+msgid "Add Render Kit"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddRenderKit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:219
+#, java-format
+msgctxt "FacesConfig12_AddRenderKit.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddValidator.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:225
+#, java-format
+msgctxt "FacesConfig12_AddValidator.WindowTitle"
+msgid "Add Validator"
+msgstr ""
+
+#. 
+#: FacesConfig12_AddValidator.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:227
+#, java-format
+msgctxt "FacesConfig12_AddValidator.Title"
+msgid "Validator"
+msgstr ""
+
+#. 
+#: FacesConfig12_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:233
+#, java-format
+msgctxt "FacesConfig12_Properties.Title"
+msgid "Faces Config 1.2"
+msgstr ""
+
+#. 
+#: JSFValidators12_AddValidator.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:237
+#, java-format
+msgctxt "JSFValidators12_AddValidator.WindowTitle"
+msgid "Add Validator"
+msgstr ""
+
+#. 
+#: JSFValidators12_AddValidator.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:239
+#, java-format
+msgctxt "JSFValidators12_AddValidator.Title"
+msgid "Validator"
+msgstr ""
+
+#. 
+#: JSFValidators12_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:243
+#, java-format
+msgctxt "JSFValidators12_Properties.Title"
+msgid "Validators"
+msgstr ""
+
+#. 
+#: JSFValidator12_CreateAttribute.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:247
+#, java-format
+msgctxt "JSFValidator12_CreateAttribute.WindowTitle"
+msgid "Add Attribute"
+msgstr ""
+
+#. 
+#: JSFValidator12_CreateAttribute.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:249
+#, java-format
+msgctxt "JSFValidator12_CreateAttribute.Title"
+msgid "Attribute"
+msgstr ""
+
+#. 
+#: JSFValidator12_CreateProperty.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:253
+#, java-format
+msgctxt "JSFValidator12_CreateProperty.WindowTitle"
+msgid "Add Property"
+msgstr ""
+
+#. 
+#: JSFValidator12_CreateProperty.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:255
+#, java-format
+msgctxt "JSFValidator12_CreateProperty.Title"
+msgid "Property"
+msgstr ""
+
+#. 
+#: JSFValidator12_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:259
+#, java-format
+msgctxt "JSFValidator12_Properties.Title"
+msgid "Validator"
+msgstr ""
+
+#. 
+#: JSFApplication
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:263
+#, java-format
+msgctxt "JSFApplication"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication_AddMessageBundle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:267
+#, java-format
+msgctxt "JSFApplication_AddMessageBundle"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication_AddMessageBundle.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:269
+#, java-format
+msgctxt "JSFApplication_AddMessageBundle.WindowTitle"
+msgid "New Message Bundle"
+msgstr ""
+
+#. 
+#: JSFApplication_AddMessageBundle.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:271
+#, java-format
+msgctxt "JSFApplication_AddMessageBundle.Title"
+msgid "Message Bundle"
+msgstr ""
+
+#. 
+#: JSFApplication_AddVariableResolver
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:277
+#, java-format
+msgctxt "JSFApplication_AddVariableResolver"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication_AddVariableResolver.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:279
+#, java-format
+msgctxt "JSFApplication_AddVariableResolver.WindowTitle"
+msgid "New Variable Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication_AddVariableResolver.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:281
+#, java-format
+msgctxt "JSFApplication_AddVariableResolver.Title"
+msgid "Variable Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication_AddPropertyResolver
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:287
+#, java-format
+msgctxt "JSFApplication_AddPropertyResolver"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication_AddPropertyResolver.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:289
+#, java-format
+msgctxt "JSFApplication_AddPropertyResolver.WindowTitle"
+msgid "New Property Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication_AddPropertyResolver.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:291
+#, java-format
+msgctxt "JSFApplication_AddPropertyResolver.Title"
+msgid "Property Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication_Edit
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:297
+#, java-format
+msgctxt "JSFApplication_Edit"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:299
+#, java-format
+msgctxt "JSFApplication_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFApplication_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:301
+#, java-format
+msgctxt "JSFApplication_Edit.Title"
+msgid "Application"
+msgstr ""
+
+#. 
+#: JSFApplication_Properties
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:307
+#, java-format
+msgctxt "JSFApplication_Properties"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:309
+#, java-format
+msgctxt "JSFApplication_Properties.Title"
+msgid "Application"
+msgstr ""
+
+#. 
+#: JSFApplication12
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:315
+#, java-format
+msgctxt "JSFApplication12"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddMessageBundle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:319
+#, java-format
+msgctxt "JSFApplication12_AddMessageBundle"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddMessageBundle.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:321
+#, java-format
+msgctxt "JSFApplication12_AddMessageBundle.WindowTitle"
+msgid "New Message Bundle"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddMessageBundle.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:323
+#, java-format
+msgctxt "JSFApplication12_AddMessageBundle.Title"
+msgid "Message Bundle"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddResourceBundle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:329
+#, java-format
+msgctxt "JSFApplication12_AddResourceBundle"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddResourceBundle.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:331
+#, java-format
+msgctxt "JSFApplication12_AddResourceBundle.WindowTitle"
+msgid "New Resource Bundle"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddResourceBundle.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:333
+#, java-format
+msgctxt "JSFApplication12_AddResourceBundle.Title"
+msgid "Resource Bundle"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddELResolver
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:339
+#, java-format
+msgctxt "JSFApplication12_AddELResolver"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddELResolver.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:341
+#, java-format
+msgctxt "JSFApplication12_AddELResolver.WindowTitle"
+msgid "New EL Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddELResolver.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:343
+#, java-format
+msgctxt "JSFApplication12_AddELResolver.Title"
+msgid "EL Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddVariableResolver
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:349
+#, java-format
+msgctxt "JSFApplication12_AddVariableResolver"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddVariableResolver.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:351
+#, java-format
+msgctxt "JSFApplication12_AddVariableResolver.WindowTitle"
+msgid "New Variable Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddVariableResolver.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:353
+#, java-format
+msgctxt "JSFApplication12_AddVariableResolver.Title"
+msgid "Variable Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddPropertyResolver
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:359
+#, java-format
+msgctxt "JSFApplication12_AddPropertyResolver"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddPropertyResolver.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:361
+#, java-format
+msgctxt "JSFApplication12_AddPropertyResolver.WindowTitle"
+msgid "New Property Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication12_AddPropertyResolver.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:363
+#, java-format
+msgctxt "JSFApplication12_AddPropertyResolver.Title"
+msgid "Property Resolver"
+msgstr ""
+
+#. 
+#: JSFApplication12_Edit
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:369
+#, java-format
+msgctxt "JSFApplication12_Edit"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication12_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:371
+#, java-format
+msgctxt "JSFApplication12_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFApplication12_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:373
+#, java-format
+msgctxt "JSFApplication12_Edit.Title"
+msgid "Application"
+msgstr ""
+
+#. 
+#: JSFApplication12_Properties
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:379
+#, java-format
+msgctxt "JSFApplication12_Properties"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFApplication12_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:381
+#, java-format
+msgctxt "JSFApplication12_Properties.Title"
+msgid "Application"
+msgstr ""
+
+#. 
+#: JSFAttribute
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:387
+#, java-format
+msgctxt "JSFAttribute"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFAttribute_Properties
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:391
+#, java-format
+msgctxt "JSFAttribute_Properties"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFAttribute_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:393
+#, java-format
+msgctxt "JSFAttribute_Properties.Title"
+msgid "Attribute"
+msgstr ""
+
+#. 
+#: JSFComponent
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:399
+#, java-format
+msgctxt "JSFComponent"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponent_CreateAttribute
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:403
+#, java-format
+msgctxt "JSFComponent_CreateAttribute"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponent_CreateAttribute.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:405
+#, java-format
+msgctxt "JSFComponent_CreateAttribute.WindowTitle"
+msgid "Add Attribute"
+msgstr ""
+
+#. 
+#: JSFComponent_CreateAttribute.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:407
+#, java-format
+msgctxt "JSFComponent_CreateAttribute.Title"
+msgid "Attribute"
+msgstr ""
+
+#. 
+#: JSFComponent_CreateProperty
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:413
+#, java-format
+msgctxt "JSFComponent_CreateProperty"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponent_CreateProperty.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:415
+#, java-format
+msgctxt "JSFComponent_CreateProperty.WindowTitle"
+msgid "Add Property"
+msgstr ""
+
+#. 
+#: JSFComponent_CreateProperty.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:417
+#, java-format
+msgctxt "JSFComponent_CreateProperty.Title"
+msgid "Property"
+msgstr ""
+
+#. 
+#: JSFComponent_Properties
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:423
+#, java-format
+msgctxt "JSFComponent_Properties"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponent_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:425
+#, java-format
+msgctxt "JSFComponent_Properties.Title"
+msgid "Component"
+msgstr ""
+
+#. 
+#: JSFComponent11
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:429
+#, java-format
+msgctxt "JSFComponent11"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateAttribute
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:433
+#, java-format
+msgctxt "JSFComponent11_CreateAttribute"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateAttribute.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:435
+#, java-format
+msgctxt "JSFComponent11_CreateAttribute.WindowTitle"
+msgid "Add Attribute"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateAttribute.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:437
+#, java-format
+msgctxt "JSFComponent11_CreateAttribute.Title"
+msgid "Attribute"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateFacet
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:443
+#, java-format
+msgctxt "JSFComponent11_CreateFacet"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateFacet.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:445
+#, java-format
+msgctxt "JSFComponent11_CreateFacet.WindowTitle"
+msgid "Add Facet"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateFacet.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:447
+#, java-format
+msgctxt "JSFComponent11_CreateFacet.Title"
+msgid "Facet"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateProperty
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:453
+#, java-format
+msgctxt "JSFComponent11_CreateProperty"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateProperty.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:455
+#, java-format
+msgctxt "JSFComponent11_CreateProperty.WindowTitle"
+msgid "Add Property"
+msgstr ""
+
+#. 
+#: JSFComponent11_CreateProperty.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:457
+#, java-format
+msgctxt "JSFComponent11_CreateProperty.Title"
+msgid "Property"
+msgstr ""
+
+#. 
+#: JSFComponent11_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:463
+#, java-format
+msgctxt "JSFComponent11_Properties.Title"
+msgid "Component"
+msgstr ""
+
+#. 
+#: JSFComponents
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:469
+#, java-format
+msgctxt "JSFComponents"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponents_AddComponent
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:473
+#, java-format
+msgctxt "JSFComponents_AddComponent"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JSFComponents_AddComponent.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:475
+#, java-format
+msgctxt "JSFComponents_AddComponent.WindowTitle"
+msgid "Add Component"
+msgstr ""
+
+#. 
+#: JSFComponents_AddComponent.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:477
+#, java-format
+msgctxt "JSFComponents_AddComponent.Title"
+msgid "Component"
+msgstr ""
+
+#. 
+#: JSFComponents_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:483
+#, java-format
+msgctxt "JSFComponents_Properties.Title"
+msgid "Components"
+msgstr ""
+
+#. 
+#: JSFComponents11_AddComponent.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:487
+#, java-format
+msgctxt "JSFComponents11_AddComponent.WindowTitle"
+msgid "Add Component"
+msgstr ""
+
+#. 
+#: JSFComponents11_AddComponent.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:489
+#, java-format
+msgctxt "JSFComponents11_AddComponent.Title"
+msgid "Component"
+msgstr ""
+
+#. 
+#: JSFComponents11_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:495
+#, java-format
+msgctxt "JSFComponents11_Properties.Title"
+msgid "Components"
+msgstr ""
+
+#. 
+#: JSFConverter_CreateAttribute.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:499
+#, java-format
+msgctxt "JSFConverter_CreateAttribute.WindowTitle"
+msgid "Add Attribute"
+msgstr ""
+
+#. 
+#: JSFConverter_CreateAttribute.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:501
+#, java-format
+msgctxt "JSFConverter_CreateAttribute.Title"
+msgid "Attribute"
+msgstr ""
+
+#. 
+#: JSFConverter_CreateProperty.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:507
+#, java-format
+msgctxt "JSFConverter_CreateProperty.WindowTitle"
+msgid "Add Property"
+msgstr ""
+
+#. 
+#: JSFConverter_CreateProperty.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:509
+#, java-format
+msgctxt "JSFConverter_CreateProperty.Title"
+msgid "Property"
+msgstr ""
+
+#. 
+#: JSFConverter_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:515
+#, java-format
+msgctxt "JSFConverter_Properties.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: JSFConverters_WithId.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:521
+#, java-format
+msgctxt "JSFConverters_WithId.WindowTitle"
+msgid "Add Converter"
+msgstr ""
+
+#. 
+#: JSFConverters_WithId.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:523
+#, java-format
+msgctxt "JSFConverters_WithId.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: JSFConverters_ForClass.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:529
+#, java-format
+msgctxt "JSFConverters_ForClass.WindowTitle"
+msgid "Add Converter"
+msgstr ""
+
+#. 
+#: JSFConverters_ForClass.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:531
+#, java-format
+msgctxt "JSFConverters_ForClass.Title"
+msgid "Converter"
+msgstr ""
+
+#. 
+#: JSFConverters_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:537
+#, java-format
+msgctxt "JSFConverters_Properties.Title"
+msgid "Converters"
+msgstr ""
+
+#. 
+#: JSFFactory_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:543
+#, java-format
+msgctxt "JSFFactory_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFFactory_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:545
+#, java-format
+msgctxt "JSFFactory_Edit.Title"
+msgid "Factory"
+msgstr ""
+
+#. 
+#: JSFFactory_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:551
+#, java-format
+msgctxt "JSFFactory_Properties.Title"
+msgid "Factory"
+msgstr ""
+
+#. 
+#: JSFLifecycle_CreatePhaseListener.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:557
+#, java-format
+msgctxt "JSFLifecycle_CreatePhaseListener.WindowTitle"
+msgid "Add Phase Listener"
+msgstr ""
+
+#. 
+#: JSFLifecycle_CreatePhaseListener.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:559
+#, java-format
+msgctxt "JSFLifecycle_CreatePhaseListener.Title"
+msgid "Phase Listener"
+msgstr ""
+
+#. 
+#: JSFLifecycle_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:565
+#, java-format
+msgctxt "JSFLifecycle_Properties.Title"
+msgid "Lifecycle"
+msgstr ""
+
+#. 
+#: JSFListEntries_AddEntry_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:571
+#, java-format
+msgctxt "JSFListEntries_AddEntry_0.WindowTitle"
+msgid "New Entry"
+msgstr ""
+
+#. 
+#: JSFListEntries_AddEntry_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:573
+#, java-format
+msgctxt "JSFListEntries_AddEntry_0.Title"
+msgid "List Entry"
+msgstr ""
+
+#. 
+#: JSFListEntry_Properties_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:581
+#, java-format
+msgctxt "JSFListEntry_Properties_0.WindowTitle"
+msgid "Properties"
+msgstr ""
+
+#. 
+#: JSFListEntry_Properties_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:583
+#, java-format
+msgctxt "JSFListEntry_Properties_0.Title"
+msgid "List Entry"
+msgstr ""
+
+#. 
+#: JSFLocaleConfig_AddSupportedLocale.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:591
+#, java-format
+msgctxt "JSFLocaleConfig_AddSupportedLocale.WindowTitle"
+msgid "Add Supported Locale"
+msgstr ""
+
+#. 
+#: JSFLocaleConfig_AddSupportedLocale.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:593
+#, java-format
+msgctxt "JSFLocaleConfig_AddSupportedLocale.Title"
+msgid "Supported Locale"
+msgstr ""
+
+#. 
+#: JSFLocaleConfig_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:599
+#, java-format
+msgctxt "JSFLocaleConfig_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFLocaleConfig_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:601
+#, java-format
+msgctxt "JSFLocaleConfig_Edit.Title"
+msgid "Locale Config"
+msgstr ""
+
+#. 
+#: JSFLocaleConfig_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:607
+#, java-format
+msgctxt "JSFLocaleConfig_Properties.Title"
+msgid "Locale Config"
+msgstr ""
+
+#. 
+#: AddJSFManagedBeanWizard.managed-bean-scope
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:613
+#, java-format
+msgctxt "AddJSFManagedBeanWizard.managed-bean-scope"
+msgid "Scope"
+msgstr ""
+
+#. 
+#: AddJSFManagedBeanWizard.managed-bean-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:615
+#, java-format
+msgctxt "AddJSFManagedBeanWizard.managed-bean-name"
+msgid "Name"
+msgstr ""
+
+#. 
+#: AddJSFManagedBeanWizard.managed-bean-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:617
+#, java-format
+msgctxt "AddJSFManagedBeanWizard.managed-bean-class"
+msgid "Class"
+msgstr ""
+
+#. 
+#: JSFManagedBean_CreateProperty_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:621
+#, java-format
+msgctxt "JSFManagedBean_CreateProperty_0.WindowTitle"
+msgid "Add Property"
+msgstr ""
+
+#. 
+#: JSFManagedBean_CreateProperty_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:623
+#, java-format
+msgctxt "JSFManagedBean_CreateProperty_0.Title"
+msgid "Property"
+msgstr ""
+
+#. 
+#: AddJSFManagedPropertyWizard.value-kind
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:629
+#, java-format
+msgctxt "AddJSFManagedPropertyWizard.value-kind"
+msgid "Value Kind"
+msgstr ""
+
+#. 
+#: AddJSFManagedPropertyWizard.add_java_property
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:631
+#, java-format
+msgctxt "AddJSFManagedPropertyWizard.add_java_property"
+msgid "Add Java property"
+msgstr ""
+
+#. 
+#: JSFManagedBean_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:635
+#, java-format
+msgctxt "JSFManagedBean_Properties.Title"
+msgid "Managed Bean"
+msgstr ""
+
+#. 
+#: JSFManagedBeans_AddManagedBean_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:641
+#, java-format
+msgctxt "JSFManagedBeans_AddManagedBean_0.WindowTitle"
+msgid "New Managed Bean"
+msgstr ""
+
+#. 
+#: JSFManagedBeans_AddManagedBean_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:643
+#, java-format
+msgctxt "JSFManagedBeans_AddManagedBean_0.Title"
+msgid "Managed Bean"
+msgstr ""
+
+#. 
+#: JSFManagedBeans_AddManagedBean_1.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:647
+#, java-format
+msgctxt "JSFManagedBeans_AddManagedBean_1.WindowTitle"
+msgid "New Managed Bean"
+msgstr ""
+
+#. 
+#: JSFManagedBeans_AddManagedBean_1.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:649
+#, java-format
+msgctxt "JSFManagedBeans_AddManagedBean_1.Title"
+msgid "Managed Properties"
+msgstr ""
+
+#. 
+#: JSFManagedBeans_AddManagedBean_1.Message
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:651
+#, java-format
+msgctxt "JSFManagedBeans_AddManagedBean_1.Message"
+msgid "Select properties you want to add to the managed-bean"
+msgstr ""
+
+#. 
+#: JSFManagedBeans_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:655
+#, java-format
+msgctxt "JSFManagedBeans_Properties.Title"
+msgid "Managed Beans"
+msgstr ""
+
+#. 
+#: JSFManagedProperty_AddValue_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:661
+#, java-format
+msgctxt "JSFManagedProperty_AddValue_0.WindowTitle"
+msgid "New Value"
+msgstr ""
+
+#. 
+#: JSFManagedProperty_AddValue_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:663
+#, java-format
+msgctxt "JSFManagedProperty_AddValue_0.Title"
+msgid "Managed Property"
+msgstr ""
+
+#. 
+#: JSFManagedProperty_AddListEntry_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:669
+#, java-format
+msgctxt "JSFManagedProperty_AddListEntry_0.WindowTitle"
+msgid "New List Entry"
+msgstr ""
+
+#. 
+#: JSFManagedProperty_AddListEntry_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:671
+#, java-format
+msgctxt "JSFManagedProperty_AddListEntry_0.Title"
+msgid "Managed Property"
+msgstr ""
+
+#. 
+#: JSFManagedProperty_AddMapEntry_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:677
+#, java-format
+msgctxt "JSFManagedProperty_AddMapEntry_0.WindowTitle"
+msgid "New Map Entry"
+msgstr ""
+
+#. 
+#: JSFManagedProperty_AddMapEntry_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:679
+#, java-format
+msgctxt "JSFManagedProperty_AddMapEntry_0.Title"
+msgid "Managed Property"
+msgstr ""
+
+#. 
+#: JSFManagedProperty_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:685
+#, java-format
+msgctxt "JSFManagedProperty_Properties.Title"
+msgid "Managed Property"
+msgstr ""
+
+#. 
+#: JSFManagedProperty_ChangeValueKind.Message
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:689
+#, java-format
+msgctxt "JSFManagedProperty_ChangeValueKind.Message"
+msgid ""
+"Changing the value kind will remove the data your created previously.\n"
+"Do you want to proceed?"
+msgstr ""
+
+#. 
+#: JSFMapEntries_AddEntry_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:695
+#, java-format
+msgctxt "JSFMapEntries_AddEntry_0.WindowTitle"
+msgid "New Entry"
+msgstr ""
+
+#. 
+#: JSFMapEntries_AddEntry_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:697
+#, java-format
+msgctxt "JSFMapEntries_AddEntry_0.Title"
+msgid "Map Entry"
+msgstr ""
+
+#. 
+#: JSFMapEntry_Properties_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:705
+#, java-format
+msgctxt "JSFMapEntry_Properties_0.WindowTitle"
+msgid "Properties"
+msgstr ""
+
+#. 
+#: JSFMapEntry_Properties_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:707
+#, java-format
+msgctxt "JSFMapEntry_Properties_0.Title"
+msgid "Map Entry"
+msgstr ""
+
+#. 
+#: JSFMessageBundle_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:713
+#, java-format
+msgctxt "JSFMessageBundle_Properties.Title"
+msgid "Message Bundle"
+msgstr ""
+
+#. 
+#: JSFResourceBundle_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:717
+#, java-format
+msgctxt "JSFResourceBundle_Properties.Title"
+msgid "Resource Bundle"
+msgstr ""
+
+#. 
+#: JSFELResolver_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:721
+#, java-format
+msgctxt "JSFELResolver_Properties.Title"
+msgid "EL Resolver"
+msgstr ""
+
+#. 
+#: JSFPropertyResolver_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:725
+#, java-format
+msgctxt "JSFPropertyResolver_Properties.Title"
+msgid "Property Resolver"
+msgstr ""
+
+#. 
+#: JSFVariableResolver_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:729
+#, java-format
+msgctxt "JSFVariableResolver_Properties.Title"
+msgid "Variable Resolver"
+msgstr ""
+
+#. 
+#: JSFNavigationCase_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:733
+#, java-format
+msgctxt "JSFNavigationCase_Properties.Title"
+msgid "Navigation Case"
+msgstr ""
+
+#. 
+#: JSFNavigationRule_CreateCase.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:739
+#, java-format
+msgctxt "JSFNavigationRule_CreateCase.WindowTitle"
+msgid "Add Case"
+msgstr ""
+
+#. 
+#: JSFNavigationRule_CreateCase.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:741
+#, java-format
+msgctxt "JSFNavigationRule_CreateCase.Title"
+msgid "Navigation Case"
+msgstr ""
+
+#. 
+#: JSFNavigationRule_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:747
+#, java-format
+msgctxt "JSFNavigationRule_Properties.Title"
+msgid "Navigation Rule"
+msgstr ""
+
+#. 
+#: JSFNavigationRules_AddRule.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:753
+#, java-format
+msgctxt "JSFNavigationRules_AddRule.WindowTitle"
+msgid "Add Rule"
+msgstr ""
+
+#. 
+#: JSFNavigationRules_AddRule.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:755
+#, java-format
+msgctxt "JSFNavigationRules_AddRule.Title"
+msgid "Navigation Rule"
+msgstr ""
+
+#. 
+#: JSFNavigationRules_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:761
+#, java-format
+msgctxt "JSFNavigationRules_Properties.Title"
+msgid "Navigation Rules"
+msgstr ""
+
+#. 
+#: JSFPhaseListener_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:765
+#, java-format
+msgctxt "JSFPhaseListener_Properties.Title"
+msgid "Phase Listener"
+msgstr ""
+
+#. 
+#: JSFAddViewWizard.create_file
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:771
+#, java-format
+msgctxt "JSFAddViewWizard.create_file"
+msgid "Create File on Disk"
+msgstr ""
+
+#. 
+#: JSFProcess_AddRule_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:775
+#, java-format
+msgctxt "JSFProcess_AddRule_0.WindowTitle"
+msgid "New View"
+msgstr ""
+
+#. 
+#: JSFProcess_AddRule_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:777
+#, java-format
+msgctxt "JSFProcess_AddRule_0.Title"
+msgid "JSF Process View"
+msgstr ""
+
+#. 
+#: JSFProcess_CreateComment.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:783
+#, java-format
+msgctxt "JSFProcess_CreateComment.WindowTitle"
+msgid "Add Comment"
+msgstr ""
+
+#. 
+#: JSFProcess_CreateComment.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:785
+#, java-format
+msgctxt "JSFProcess_CreateComment.Title"
+msgid "View Comment"
+msgstr ""
+
+#. 
+#: JSFProcess_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:791
+#, java-format
+msgctxt "JSFProcess_Properties.Title"
+msgid "JSF Process"
+msgstr ""
+
+#. 
+#: JSFProcess_SelectItem.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:795
+#, java-format
+msgctxt "JSFProcess_SelectItem.WindowTitle"
+msgid "Select Element Wizard"
+msgstr ""
+
+#. 
+#: JSFProcess_SelectItem.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:797
+#, java-format
+msgctxt "JSFProcess_SelectItem.Title"
+msgid "Select Element"
+msgstr ""
+
+#. 
+#: JSFProcess_SelectItem.Message
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:799
+#, java-format
+msgctxt "JSFProcess_SelectItem.Message"
+msgid "Please Select Element"
+msgstr ""
+
+#. 
+#: JSFProcessComment_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:803
+#, java-format
+msgctxt "JSFProcessComment_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFProcessComment_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:805
+#, java-format
+msgctxt "JSFProcessComment_Edit.Title"
+msgid "View Comment"
+msgstr ""
+
+#. 
+#: JSFProcessComment_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:811
+#, java-format
+msgctxt "JSFProcessComment_Properties.Title"
+msgid "View Comment"
+msgstr ""
+
+#. 
+#: JSFProcessGroup_CreateCase.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:817
+#, java-format
+msgctxt "JSFProcessGroup_CreateCase.WindowTitle"
+msgid "Create Case"
+msgstr ""
+
+#. 
+#: JSFProcessGroup_CreateCase.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:819
+#, java-format
+msgctxt "JSFProcessGroup_CreateCase.Title"
+msgid "Navigation Case"
+msgstr ""
+
+#. 
+#: JSFProcessGroup_CreateComment.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:825
+#, java-format
+msgctxt "JSFProcessGroup_CreateComment.WindowTitle"
+msgid "Add Comment"
+msgstr ""
+
+#. 
+#: JSFProcessGroup_CreateComment.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:827
+#, java-format
+msgctxt "JSFProcessGroup_CreateComment.Title"
+msgid "View Comment"
+msgstr ""
+
+#. 
+#: JSFProcessGroup_Rename_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:833
+#, java-format
+msgctxt "JSFProcessGroup_Rename_0.WindowTitle"
+msgid "Rename"
+msgstr ""
+
+#. 
+#: JSFProcessGroup_Rename_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:835
+#, java-format
+msgctxt "JSFProcessGroup_Rename_0.Title"
+msgid "JSF Process View"
+msgstr ""
+
+#. 
+#: JSFProcessGroup_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:841
+#, java-format
+msgctxt "JSFProcessGroup_Properties.Title"
+msgid "View"
+msgstr ""
+
+#. 
+#: JSFProcessItem_CreateCase.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:847
+#, java-format
+msgctxt "JSFProcessItem_CreateCase.WindowTitle"
+msgid "Add Case"
+msgstr ""
+
+#. 
+#: JSFProcessItem_CreateCase.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:849
+#, java-format
+msgctxt "JSFProcessItem_CreateCase.Title"
+msgid "Navigation Case"
+msgstr ""
+
+#. 
+#: JSFProcessItem_Rename_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:855
+#, java-format
+msgctxt "JSFProcessItem_Rename_0.WindowTitle"
+msgid "Rename"
+msgstr ""
+
+#. 
+#: JSFProcessItem_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:863
+#, java-format
+msgctxt "JSFProcessItem_Properties.Title"
+msgid "Navigation Rule"
+msgstr ""
+
+#. 
+#: JSFProcessItemOutput_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:867
+#, java-format
+msgctxt "JSFProcessItemOutput_Properties.Title"
+msgid "Navigation Case"
+msgstr ""
+
+#. 
+#: JSFProperty_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:873
+#, java-format
+msgctxt "JSFProperty_Properties.Title"
+msgid "Property"
+msgstr ""
+
+#. 
+#: JSFReferencedBean_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:879
+#, java-format
+msgctxt "JSFReferencedBean_Properties.Title"
+msgid "Referenced Bean"
+msgstr ""
+
+#. 
+#: JSFReferencedBeans_AddReferencedBean.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:885
+#, java-format
+msgctxt "JSFReferencedBeans_AddReferencedBean.WindowTitle"
+msgid "Add Referenced Bean"
+msgstr ""
+
+#. 
+#: JSFReferencedBeans_AddReferencedBean.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:887
+#, java-format
+msgctxt "JSFReferencedBeans_AddReferencedBean.Title"
+msgid "Referenced Bean"
+msgstr ""
+
+#. 
+#: JSFReferencedBeans_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:893
+#, java-format
+msgctxt "JSFReferencedBeans_Properties.Title"
+msgid "Referenced Beans"
+msgstr ""
+
+#. 
+#: JSFRenderKit_CreateRenderer.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:899
+#, java-format
+msgctxt "JSFRenderKit_CreateRenderer.WindowTitle"
+msgid "Add Renderer"
+msgstr ""
+
+#. 
+#: JSFRenderKit_CreateRenderer.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:901
+#, java-format
+msgctxt "JSFRenderKit_CreateRenderer.Title"
+msgid "Renderer"
+msgstr ""
+
+#. 
+#: JSFRenderKit_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:907
+#, java-format
+msgctxt "JSFRenderKit_Properties.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKit11_CreateRenderer.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:911
+#, java-format
+msgctxt "JSFRenderKit11_CreateRenderer.WindowTitle"
+msgid "Add Renderer"
+msgstr ""
+
+#. 
+#: JSFRenderKit11_CreateRenderer.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:913
+#, java-format
+msgctxt "JSFRenderKit11_CreateRenderer.Title"
+msgid "Renderer"
+msgstr ""
+
+#. 
+#: JSFRenderKit11_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:919
+#, java-format
+msgctxt "JSFRenderKit11_Properties.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKit12_CreateRenderer.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:923
+#, java-format
+msgctxt "JSFRenderKit12_CreateRenderer.WindowTitle"
+msgid "Add Renderer"
+msgstr ""
+
+#. 
+#: JSFRenderKit12_CreateRenderer.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:925
+#, java-format
+msgctxt "JSFRenderKit12_CreateRenderer.Title"
+msgid "Renderer"
+msgstr ""
+
+#. 
+#: JSFRenderKit12_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:929
+#, java-format
+msgctxt "JSFRenderKit12_Properties.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKits_AddRenderKit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:935
+#, java-format
+msgctxt "JSFRenderKits_AddRenderKit.WindowTitle"
+msgid "Add Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKits_AddRenderKit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:937
+#, java-format
+msgctxt "JSFRenderKits_AddRenderKit.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKits_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:943
+#, java-format
+msgctxt "JSFRenderKits_Properties.Title"
+msgid "Render Kits"
+msgstr ""
+
+#. 
+#: JSFRenderKits11_AddRenderKit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:947
+#, java-format
+msgctxt "JSFRenderKits11_AddRenderKit.WindowTitle"
+msgid "Add Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKits11_AddRenderKit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:949
+#, java-format
+msgctxt "JSFRenderKits11_AddRenderKit.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKits11_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:955
+#, java-format
+msgctxt "JSFRenderKits11_Properties.Title"
+msgid "Render Kits"
+msgstr ""
+
+#. 
+#: JSFRenderKits12_AddRenderKit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:959
+#, java-format
+msgctxt "JSFRenderKits12_AddRenderKit.WindowTitle"
+msgid "Add Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKits12_AddRenderKit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:961
+#, java-format
+msgctxt "JSFRenderKits12_AddRenderKit.Title"
+msgid "Render Kit"
+msgstr ""
+
+#. 
+#: JSFRenderKits12_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:965
+#, java-format
+msgctxt "JSFRenderKits12_Properties.Title"
+msgid "Render Kits"
+msgstr ""
+
+#. 
+#: JSFRenderer_CreateAttribute.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:971
+#, java-format
+msgctxt "JSFRenderer_CreateAttribute.WindowTitle"
+msgid "Add Attribute"
+msgstr ""
+
+#. 
+#: JSFRenderer_CreateAttribute.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:973
+#, java-format
+msgctxt "JSFRenderer_CreateAttribute.Title"
+msgid "Attribute"
+msgstr ""
+
+#. 
+#: JSFRenderer_CreateSupportedComponentType.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:979
+#, java-format
+msgctxt "JSFRenderer_CreateSupportedComponentType.WindowTitle"
+msgid "Add Supported Component Type"
+msgstr ""
+
+#. 
+#: JSFRenderer_CreateSupportedComponentType.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:981
+#, java-format
+msgctxt "JSFRenderer_CreateSupportedComponentType.Title"
+msgid "Supported Component Type"
+msgstr ""
+
+#. 
+#: JSFRenderer_CreateSupportedComponentClass.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:987
+#, java-format
+msgctxt "JSFRenderer_CreateSupportedComponentClass.WindowTitle"
+msgid "Add Supported Component Class"
+msgstr ""
+
+#. 
+#: JSFRenderer_CreateSupportedComponentClass.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:989
+#, java-format
+msgctxt "JSFRenderer_CreateSupportedComponentClass.Title"
+msgid "Supported Component Class"
+msgstr ""
+
+#. 
+#: JSFRenderer_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:995
+#, java-format
+msgctxt "JSFRenderer_Properties.Title"
+msgid "Renderer"
+msgstr ""
+
+#. 
+#: JSFRenderer11_CreateAttribute.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:999
+#, java-format
+msgctxt "JSFRenderer11_CreateAttribute.WindowTitle"
+msgid "Add Attribute"
+msgstr ""
+
+#. 
+#: JSFRenderer11_CreateAttribute.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1001
+#, java-format
+msgctxt "JSFRenderer11_CreateAttribute.Title"
+msgid "Attribute"
+msgstr ""
+
+#. 
+#: JSFRenderer11_CreateFacet.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1007
+#, java-format
+msgctxt "JSFRenderer11_CreateFacet.WindowTitle"
+msgid "Add Facet"
+msgstr ""
+
+#. 
+#: JSFRenderer11_CreateFacet.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1009
+#, java-format
+msgctxt "JSFRenderer11_CreateFacet.Title"
+msgid "Facet"
+msgstr ""
+
+#. 
+#: JSFRenderer11_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1015
+#, java-format
+msgctxt "JSFRenderer11_Properties.Title"
+msgid "Renderer"
+msgstr ""
+
+#. 
+#: JSFSupportedComponentClass_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1021
+#, java-format
+msgctxt "JSFSupportedComponentClass_Properties.Title"
+msgid "Supported Component Class"
+msgstr ""
+
+#. 
+#: JSFSupportedComponentType_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1027
+#, java-format
+msgctxt "JSFSupportedComponentType_Properties.Title"
+msgid "Supported Component Type"
+msgstr ""
+
+#. 
+#: JSFSupportedLocale_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1033
+#, java-format
+msgctxt "JSFSupportedLocale_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFSupportedLocale_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1035
+#, java-format
+msgctxt "JSFSupportedLocale_Edit.Title"
+msgid "Supported Locale"
+msgstr ""
+
+#. 
+#: JSFSupportedLocale_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1041
+#, java-format
+msgctxt "JSFSupportedLocale_Properties.Title"
+msgid "Supported Locale"
+msgstr ""
+
+#. 
+#: JSFValidator_CreateAttribute.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1047
+#, java-format
+msgctxt "JSFValidator_CreateAttribute.WindowTitle"
+msgid "Add Attribute"
+msgstr ""
+
+#. 
+#: JSFValidator_CreateAttribute.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1049
+#, java-format
+msgctxt "JSFValidator_CreateAttribute.Title"
+msgid "Attribute"
+msgstr ""
+
+#. 
+#: JSFValidator_CreateProperty.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1055
+#, java-format
+msgctxt "JSFValidator_CreateProperty.WindowTitle"
+msgid "Add Property"
+msgstr ""
+
+#. 
+#: JSFValidator_CreateProperty.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1057
+#, java-format
+msgctxt "JSFValidator_CreateProperty.Title"
+msgid "Property"
+msgstr ""
+
+#. 
+#: JSFValidator_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1063
+#, java-format
+msgctxt "JSFValidator_Properties.Title"
+msgid "Validator"
+msgstr ""
+
+#. 
+#: JSFValidators_AddValidator.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1069
+#, java-format
+msgctxt "JSFValidators_AddValidator.WindowTitle"
+msgid "Add Validator"
+msgstr ""
+
+#. 
+#: JSFValidators_AddValidator.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1071
+#, java-format
+msgctxt "JSFValidators_AddValidator.Title"
+msgid "Validator"
+msgstr ""
+
+#. 
+#: JSFValidators_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1077
+#, java-format
+msgctxt "JSFValidators_Properties.Title"
+msgid "Validators"
+msgstr ""
+
+#. 
+#: JSFFacet11_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1081
+#, java-format
+msgctxt "JSFFacet11_Properties.Title"
+msgid "Facet"
+msgstr ""
+
+#. 
+#: WebJSFModule_OpenProject.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1087
+#, java-format
+msgctxt "WebJSFModule_OpenProject.WindowTitle"
+msgid "Open Project"
+msgstr ""
+
+#. 
+#: WebJSFModule_OpenProject.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1089
+#, java-format
+msgctxt "WebJSFModule_OpenProject.Title"
+msgid "JSF Project"
+msgstr ""
+
+#. 
+#: WebJSFModule_Properties
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1095
+#, java-format
+msgctxt "WebJSFModule_Properties"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: JstWeb_Properties
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1099
+#, java-format
+msgctxt "JstWeb_Properties"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: FileFolder_CreateFacesConfig.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1105
+#, java-format
+msgctxt "FileFolder_CreateFacesConfig.WindowTitle"
+msgid "New Faces Config"
+msgstr ""
+
+#. 
+#: FileFolder_CreateFacesConfig.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1107
+#, java-format
+msgctxt "FileFolder_CreateFacesConfig.Title"
+msgid "Faces Config"
+msgstr ""
+
+#. 
+#: FileFolder_CreateFacesConfig_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1111
+#, java-format
+msgctxt "FileFolder_CreateFacesConfig_0.WindowTitle"
+msgid "New Faces Config"
+msgstr ""
+
+#. 
+#: FileFolder_CreateFacesConfig_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1113
+#, java-format
+msgctxt "FileFolder_CreateFacesConfig_0.Title"
+msgid "Faces Config"
+msgstr ""
+
+#. 
+#: FileFolder_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1119
+#, java-format
+msgctxt "FileFolder_Properties.Title"
+msgid "Folder"
+msgstr ""
+
+#. 
+#: FileSystemFolder_CreateFacesConfig_0
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1123
+#, java-format
+msgctxt "FileSystemFolder_CreateFacesConfig_0"
+msgid "/jsf/noHelpYet.html"
+msgstr ""
+
+#. 
+#: FileSystemFolder_CreateFacesConfig_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1125
+#, java-format
+msgctxt "FileSystemFolder_CreateFacesConfig_0.WindowTitle"
+msgid "New Faces Config"
+msgstr ""
+
+#. 
+#: FileSystemFolder_CreateFacesConfig_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1127
+#, java-format
+msgctxt "FileSystemFolder_CreateFacesConfig_0.Title"
+msgid "Faces Config"
+msgstr ""
+
+#. 
+#: FileSystemFolder_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1133
+#, java-format
+msgctxt "FileSystemFolder_Properties.Title"
+msgid "Folder"
+msgstr ""
+
+#. 
+#: JSFProjectConfiguration_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1137
+#, java-format
+msgctxt "JSFProjectConfiguration_Properties.Title"
+msgid "Configuration"
+msgstr ""
+
+#. 
+#: JSFProjectResourceBundles_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1143
+#, java-format
+msgctxt "JSFProjectResourceBundles_Properties.Title"
+msgid "Resource Bundles"
+msgstr ""
+
+#. 
+#: JSFProjectTagLibs_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1149
+#, java-format
+msgctxt "JSFProjectTagLibs_Properties.Title"
+msgid "Tag Libraries"
+msgstr ""
+
+#. 
+#: JSFProjectTagLibs_CreateFileTLD.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1153
+#, java-format
+msgctxt "JSFProjectTagLibs_CreateFileTLD.WindowTitle"
+msgid "New TLD File"
+msgstr ""
+
+#. 
+#: JSFProjectTagLibs_CreateFileTLD.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1155
+#, java-format
+msgctxt "JSFProjectTagLibs_CreateFileTLD.Title"
+msgid "Tag Library Definition File"
+msgstr ""
+
+#. 
+#: JSFProjectTagLibs_CreateFileTLD20.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1159
+#, java-format
+msgctxt "JSFProjectTagLibs_CreateFileTLD20.WindowTitle"
+msgid "New TLD File 2.0"
+msgstr ""
+
+#. 
+#: JSFProjectTagLibs_CreateFileTLD20.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1161
+#, java-format
+msgctxt "JSFProjectTagLibs_CreateFileTLD20.Title"
+msgid "Tag Library Definition File"
+msgstr ""
+
+#. 
+#: JSFProjectsRoot_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1167
+#, java-format
+msgctxt "JSFProjectsRoot_Properties.Title"
+msgid "JSF Project"
+msgstr ""
+
+#. 
+#: SharableJSFEditor.doNotCreateEmptyRule
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1171
+#, java-format
+msgctxt "SharableJSFEditor.doNotCreateEmptyRule"
+msgid "Do not create a navigation rule for a view that has no navigation case"
+msgstr ""
+
+#. 
+#: SharableJSFEditor.enableControlModeOnTransitionCompleted
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1173
+#, java-format
+msgctxt "SharableJSFEditor.enableControlModeOnTransitionCompleted"
+msgid "Switch to standard control mode for cursor after transition is made"
+msgstr ""
+
+#. 
+#: SharableJSFEditor.showShortcutIcon
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1175
+#, java-format
+msgctxt "SharableJSFEditor.showShortcutIcon"
+msgid "Show shortcut icon"
+msgstr ""
+
+#. 
+#: SharableJSFEditor.showShortcutPath
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1177
+#, java-format
+msgctxt "SharableJSFEditor.showShortcutPath"
+msgid "Show shortcut path"
+msgstr ""
+
+#. 
+#: SharableJSFEditor.Show_Grid
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1179
+#, java-format
+msgctxt "SharableJSFEditor.Show_Grid"
+msgid "Show grid"
+msgstr ""
+
+#. 
+#: JSFCapability_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1183
+#, java-format
+msgctxt "JSFCapability_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFCapability_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1185
+#, java-format
+msgctxt "JSFCapability_Edit.Title"
+msgid "Custom Capability"
+msgstr ""
+
+#. 
+#: JSFFileAddition_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1187
+#, java-format
+msgctxt "JSFFileAddition_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFFileAddition_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1189
+#, java-format
+msgctxt "JSFFileAddition_Edit.Title"
+msgid "Configuration File Addition"
+msgstr ""
+
+#. 
+#: JSFLibraryReference_Edit.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1191
+#, java-format
+msgctxt "JSFLibraryReference_Edit.WindowTitle"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: JSFLibraryReference_Edit.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1193
+#, java-format
+msgctxt "JSFLibraryReference_Edit.Title"
+msgid "Library Reference"
+msgstr ""
+
+#. 
+#: AddCustomJSFCapabilities_0.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1197
+#, java-format
+msgctxt "AddCustomJSFCapabilities_0.WindowTitle"
+msgid "Add Custom Capabilities"
+msgstr ""
+
+#. 
+#: AddCustomJSFCapabilities_0.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1199
+#, java-format
+msgctxt "AddCustomJSFCapabilities_0.Title"
+msgid "Select Custom Capabilities"
+msgstr ""
+
+#. 
+#: AddCustomJSFCapabilities_1.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1201
+#, java-format
+msgctxt "AddCustomJSFCapabilities_1.WindowTitle"
+msgid "Add Custom Capabilities"
+msgstr ""
+
+#. 
+#: AddCustomJSFCapabilities_1.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1203
+#, java-format
+msgctxt "AddCustomJSFCapabilities_1.Title"
+msgid "Added Custom Capabilities"
+msgstr ""
+
+#. 
+#: AddCustomJSFCapabilities_1.Message
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1205
+#, java-format
+msgctxt "AddCustomJSFCapabilities_1.Message"
+msgid "The following updates have been made to the project."
+msgstr ""
+
+#. 
+#: JSFApplicationExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1209
+#, java-format
+msgctxt "JSFApplicationExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFApplicationExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1211
+#, java-format
+msgctxt "JSFApplicationExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFAttributeExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1215
+#, java-format
+msgctxt "JSFAttributeExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFAttributeExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1217
+#, java-format
+msgctxt "JSFAttributeExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFComponentExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1221
+#, java-format
+msgctxt "JSFComponentExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFComponentExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1223
+#, java-format
+msgctxt "JSFComponentExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFConfigExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1227
+#, java-format
+msgctxt "JSFConfigExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFConfigExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1229
+#, java-format
+msgctxt "JSFConfigExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFFacetExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1233
+#, java-format
+msgctxt "JSFFacetExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFFacetExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1235
+#, java-format
+msgctxt "JSFFacetExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFPropertyExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1239
+#, java-format
+msgctxt "JSFPropertyExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFPropertyExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1241
+#, java-format
+msgctxt "JSFPropertyExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFRenderKitExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1245
+#, java-format
+msgctxt "JSFRenderKitExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFRenderKitExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1247
+#, java-format
+msgctxt "JSFRenderKitExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFRendererExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1251
+#, java-format
+msgctxt "JSFRendererExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFRendererExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1253
+#, java-format
+msgctxt "JSFRendererExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFValidatorExtension_CreateTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1257
+#, java-format
+msgctxt "JSFValidatorExtension_CreateTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: JSFValidatorExtension_CreateTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1259
+#, java-format
+msgctxt "JSFValidatorExtension_CreateTag.Title"
+msgid "Tag"
+msgstr ""
+
+#. 
+#: JSFConfigExtensions_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1263
+#, java-format
+msgctxt "JSFConfigExtensions_Properties.Title"
+msgid "Extensions"
+msgstr ""
+
+#: IT_ISNT_CORRECT_TO_MAKE_LINK_TO_A_PATTERN
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:1
+#, java-format
+msgctxt "IT_ISNT_CORRECT_TO_MAKE_LINK_TO_A_PATTERN"
+msgid ""
+"It is not correct to make link to a pattern.\n"
+" Are you sure you want this link?"
+msgstr ""
+
+#. 
+#: WARNING
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:3
+#, java-format
+msgctxt "WARNING"
+msgid "Warning"
+msgstr ""
+
+#. 
+#: YES
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:5
+#, java-format
+msgctxt "YES"
+msgid "Yes"
+msgstr ""
+
+#. 
+#: NO
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:7
+#, java-format
+msgctxt "NO"
+msgid "No"
+msgstr ""
+
+#. 
+#: THE_VIEW_WITH_PATH_IS_ALREADY_CREATED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:9
+#, java-format
+msgctxt "THE_VIEW_WITH_PATH_IS_ALREADY_CREATED"
+msgid ""
+"The View with frow-view-id '{0}' is already created.\n"
+""
+msgstr ""
+
+#. 
+#: YOU_WANT_TO_ADD_ADDITIONAL_NAVIGATION_RULE_WITH_SAME_FROM_VIEW_ID
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:11
+#, java-format
+msgctxt "YOU_WANT_TO_ADD_ADDITIONAL_NAVIGATION_RULE_WITH_SAME_FROM_VIEW_ID"
+msgid "Are you sure you want to add an additional navigation rule with the same from-view-id?"
+msgstr ""
+
+#. 
+#: YOU_WANT_TO_CREATE_AN_ADDITIONAL_VIEW_WITH_THE_SAME_FROM_VIEW_ID
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:13
+#, java-format
+msgctxt "YOU_WANT_TO_CREATE_AN_ADDITIONAL_VIEW_WITH_THE_SAME_FROM_VIEW_ID"
+msgid "Are you sure you want to create an additional view with the same from-view-id?"
+msgstr ""
+
+#. 
+#: YOU_WANT_TO_CREATE_A_NAVIGATION_RULE_FOR_THIS_FROM_VIEW_ID
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:15
+#, java-format
+msgctxt "YOU_WANT_TO_CREATE_A_NAVIGATION_RULE_FOR_THIS_FROM_VIEW_ID"
+msgid "Are you sure you want to create a navigation rule for this from-view-id?"
+msgstr ""
+
+#. 
+#: OK
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:17
+#, java-format
+msgctxt "OK"
+msgid "OK"
+msgstr ""
+
+#. 
+#: CANCEL
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:19
+#, java-format
+msgctxt "CANCEL"
+msgid "Cancel"
+msgstr ""
+
+#. 
+#: TEMPLATE_IS_NOT_FOUND
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:21
+#, java-format
+msgctxt "TEMPLATE_IS_NOT_FOUND"
+msgid "Template {0} is not found."
+msgstr ""
+
+#. 
+#: ATTRIBUTE_FROM_VIEW_ID_IS_NOT_CORRECT
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:23
+#, java-format
+msgctxt "ATTRIBUTE_FROM_VIEW_ID_IS_NOT_CORRECT"
+msgid "Attribute from-view-id is not correct"
+msgstr ""
+
+#. 
+#: TEMPLATE_IS_NOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:25
+#, java-format
+msgctxt "TEMPLATE_IS_NOT_SPECIFIED"
+msgid "Template is not specified"
+msgstr ""
+
+#. 
+#: TEMPLATE_DOES_NOT_EXIST
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:27
+#, java-format
+msgctxt "TEMPLATE_DOES_NOT_EXIST"
+msgid "Template does not exist."
+msgstr ""
+
+#. 
+#: THE_VIEW_EXISTS
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:29
+#, java-format
+msgctxt "THE_VIEW_EXISTS"
+msgid "The view exists."
+msgstr ""
+
+#. 
+#: CONFIRMATION
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:31
+#, java-format
+msgctxt "CONFIRMATION"
+msgid "Confirmation"
+msgstr ""
+
+#. 
+#: DELETE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:33
+#, java-format
+msgctxt "DELETE"
+msgid "Delete "
+msgstr ""
+
+#. 
+#: DELETE_FILE_FROM_DISK
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:35
+#, java-format
+msgctxt "DELETE_FILE_FROM_DISK"
+msgid "Delete file from disk"
+msgstr ""
+
+#. 
+#: PASTE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:37
+#, java-format
+msgctxt "PASTE"
+msgid "Paste"
+msgstr ""
+
+#. 
+#: SELECT_BEAN
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:39
+#, java-format
+msgctxt "SELECT_BEAN"
+msgid "Select Bean"
+msgstr ""
+
+#. 
+#: CLASS_IS_REFERENCED_BY_SEVERAL_BEANS
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:41
+#, java-format
+msgctxt "CLASS_IS_REFERENCED_BY_SEVERAL_BEANS"
+msgid ""
+"Class {0}is referenced by several beans.\n"
+" Please select one of them."
+msgstr ""
+
+#. 
+#: ADD_GETTER_FOR_PROPERTY
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:43
+#, java-format
+msgctxt "ADD_GETTER_FOR_PROPERTY"
+msgid "Do you want to add getter for property "
+msgstr ""
+
+#. 
+#: ADD_SETTER_FOR_PROPERTY
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:45
+#, java-format
+msgctxt "ADD_SETTER_FOR_PROPERTY"
+msgid "Do you want to add setter for property "
+msgstr ""
+
+#. 
+#: ADD_GETTER_SETTER_FOR_PROPERTY
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:47
+#, java-format
+msgctxt "ADD_GETTER_SETTER_FOR_PROPERTY"
+msgid "Do you want to add getter/setter for property"
+msgstr ""
+
+#. 
+#: APPLY_FOR_ALL_PROPERTIES
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:49
+#, java-format
+msgctxt "APPLY_FOR_ALL_PROPERTIES"
+msgid "Apply for All Properties"
+msgstr ""
+
+#. 
+#: REFERENCES
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:51
+#, java-format
+msgctxt "REFERENCES"
+msgid "References"
+msgstr ""
+
+#. 
+#: UPDATE_FIELD_REFERENCE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:53
+#, java-format
+msgctxt "UPDATE_FIELD_REFERENCE"
+msgid "Update field reference"
+msgstr ""
+
+#. 
+#: MANAGED_PROPERTY_RENAME
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:55
+#, java-format
+msgctxt "MANAGED_PROPERTY_RENAME"
+msgid "Managed Property Rename"
+msgstr ""
+
+#. 
+#: UPDATE_WEB_XML
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:57
+#, java-format
+msgctxt "UPDATE_WEB_XML"
+msgid "Update web.xml"
+msgstr ""
+
+#. 
+#: FACES_CONFIG_CHANGES
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:59
+#, java-format
+msgctxt "FACES_CONFIG_CHANGES"
+msgid "Faces Config Changes"
+msgstr ""
+
+#. 
+#: UPDATE_REFERENCE_TO_PAGE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:61
+#, java-format
+msgctxt "UPDATE_REFERENCE_TO_PAGE"
+msgid "Update reference to page "
+msgstr ""
+
+#. 
+#: JSF_PAGE_UPDATE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:63
+#, java-format
+msgctxt "JSF_PAGE_UPDATE"
+msgid "JSF Page Update - "
+msgstr ""
+
+#. 
+#: CONVERTER_ID_IS_NOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:65
+#, java-format
+msgctxt "CONVERTER_ID_IS_NOT_SPECIFIED"
+msgid "Converter id is not specified."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_CONVERTER
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:67
+#, java-format
+msgctxt "CANNOT_FIND_CONVERTER"
+msgid "Cannot find converter {0}."
+msgstr ""
+
+#. 
+#: ATTRIBUTE_CONVERTER_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:69
+#, java-format
+msgctxt "ATTRIBUTE_CONVERTER_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED"
+msgid "Attribute converter-class for converter {0} is not specified."
+msgstr ""
+
+#. 
+#: BUNDLE_IS_NOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:71
+#, java-format
+msgctxt "BUNDLE_IS_NOT_SPECIFIED"
+msgid "Bundle is not specified."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_BUNDLE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:73
+#, java-format
+msgctxt "CANNOT_FIND_BUNDLE"
+msgid "Cannot find bundle "
+msgstr ""
+
+#. 
+#: KEY_ISNOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:75
+#, java-format
+msgctxt "KEY_ISNOT_SPECIFIED"
+msgid "Key is not specified."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_PROPERTY
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:77
+#, java-format
+msgctxt "CANNOT_FIND_PROPERTY"
+msgid "Cannot find property {0}."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_RENDER_KIT
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:79
+#, java-format
+msgctxt "CANNOT_FIND_RENDER_KIT"
+msgid "Cannot find render-kit {0}."
+msgstr ""
+
+#. 
+#: ATTRIBUTE_RENDER_KIT_CLASS_FOR_RENDER_KIT_ISNOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:81
+#, java-format
+msgctxt "ATTRIBUTE_RENDER_KIT_CLASS_FOR_RENDER_KIT_ISNOT_SPECIFIED"
+msgid "Attribute render-kit-class for render-kit {0} is not specified."
+msgstr ""
+
+#. 
+#: URI_ISNOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:83
+#, java-format
+msgctxt "URI_ISNOT_SPECIFIED"
+msgid "URI is not specified."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_TAG_LIBRARY
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:85
+#, java-format
+msgctxt "CANNOT_FIND_TAG_LIBRARY"
+msgid "annot find tag library {0}."
+msgstr ""
+
+#. 
+#: TAG_ISNOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:87
+#, java-format
+msgctxt "TAG_ISNOT_SPECIFIED"
+msgid "Tag is not specified."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_TAG_IN_LIBRARY
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:89
+#, java-format
+msgctxt "CANNOT_FIND_TAG_IN_LIBRARY"
+msgid "Cannot find tag {0} in library {1}."
+msgstr ""
+
+#. 
+#: ATTRIBUTE_ISNOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:91
+#, java-format
+msgctxt "ATTRIBUTE_ISNOT_SPECIFIED"
+msgid "Attribute is not specified."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_ATTRIBUTE_IN_TAG
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:93
+#, java-format
+msgctxt "CANNOT_FIND_ATTRIBUTE_IN_TAG"
+msgid "Cannot find attribute {0} in tag {1}."
+msgstr ""
+
+#. 
+#: VALIDATOR_ID_ISNOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:95
+#, java-format
+msgctxt "VALIDATOR_ID_ISNOT_SPECIFIED"
+msgid "Validator id is not specified."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_VALIDATOR
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:97
+#, java-format
+msgctxt "CANNOT_FIND_VALIDATOR"
+msgid "Cannot find validator {0}."
+msgstr ""
+
+#. 
+#: ATTRIBUTE_VALIDATOR_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:99
+#, java-format
+msgctxt "ATTRIBUTE_VALIDATOR_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED"
+msgid "Attribute validator-class for converter {0} is not specified."
+msgstr ""
+
+#. 
+#: CANNOT_FIND_MATCHING_RULE_FOR_PATH
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:101
+#, java-format
+msgctxt "CANNOT_FIND_MATCHING_RULE_FOR_PATH"
+msgid "Cannot find matching rule for path {0}."
+msgstr ""
+
+#. 
+#: ERROR
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:103
+#, java-format
+msgctxt "ERROR"
+msgid "Error"
+msgstr ""
+
+#. 
+#: CLOSE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:105
+#, java-format
+msgctxt "CLOSE"
+msgid "Close"
+msgstr ""
+
+#. 
+#: PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:107
+#, java-format
+msgctxt "PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED"
+msgid "The project already has some of libraries included into the capability ({0}). Existing files will be overwritten and any new files will be added."
+msgstr ""
+
+#. 
+#: PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED_2
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:109
+#, java-format
+msgctxt "PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED_2"
+msgid "The project already has some of libraries included into the capability ({0} and {1} more). Existing files will be overwritten and any new files will be added."
+msgstr ""
+
+#. 
+#: PROJECT_HAS_COFLICTING_LIBRARIES
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:111
+#, java-format
+msgctxt "PROJECT_HAS_COFLICTING_LIBRARIES"
+msgid "The project has conflicting library {0}. Do you want to replace it with selected libraries?"
+msgstr ""
+
+#. 
+#: CONTINUE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:113
+#, java-format
+msgctxt "CONTINUE"
+msgid "Continue"
+msgstr ""
+
+#. 
+#: OVERWRITE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:115
+#, java-format
+msgctxt "OVERWRITE"
+msgid "Overwrite"
+msgstr ""
+
+#. 
+#: CANNOT_LOAD_JSF_CAPABILITIES
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:117
+#, java-format
+msgctxt "CANNOT_LOAD_JSF_CAPABILITIES"
+msgid "Cannot load JSF Capabilities"
+msgstr ""
+
+#. 
+#: CONFIGURATION_FILE_ISNOT_FOUND_IN_PROJECT
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:119
+#, java-format
+msgctxt "CONFIGURATION_FILE_ISNOT_FOUND_IN_PROJECT"
+msgid "Configuration file '{0}' is not found in project {0}."
+msgstr ""
+
+#. 
+#: FILE_EXISTS
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:121
+#, java-format
+msgctxt "FILE_EXISTS"
+msgid "File {0} exists."
+msgstr ""
+
+#. 
+#: CREATE_NEW_JSF_PROJECT
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:123
+#, java-format
+msgctxt "CREATE_NEW_JSF_PROJECT"
+msgid "Create New JSF Project"
+msgstr ""
+
+#. 
+#: IMPORT_JSF_PROJECT
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:125
+#, java-format
+msgctxt "IMPORT_JSF_PROJECT"
+msgid "Import JSF Project"
+msgstr ""
+
+#. 
+#: FACES_CONFIG_EDITOR
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:127
+#, java-format
+msgctxt "FACES_CONFIG_EDITOR"
+msgid "Faces Config Editor"
+msgstr ""
+
+#. 
+#: PRINT_DIAGRAM
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:129
+#, java-format
+msgctxt "PRINT_DIAGRAM"
+msgid "Print Diagram"
+msgstr ""
+
+#. 
+#: REPARENTING_JSFSUBPART
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:131
+#, java-format
+msgctxt "REPARENTING_JSFSUBPART"
+msgid "Reparenting JSFSubpart"
+msgstr ""
+
+#. 
+#: OF_NORMAL_SIZE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:133
+#, java-format
+msgctxt "OF_NORMAL_SIZE"
+msgid "% of normal size"
+msgstr ""
+
+#. 
+#: PRINT
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:135
+#, java-format
+msgctxt "PRINT"
+msgid "Print"
+msgstr ""
+
+#. 
+#: ZOOM
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:137
+#, java-format
+msgctxt "ZOOM"
+msgid "Zoom"
+msgstr ""
+
+#. 
+#: ALL
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:139
+#, java-format
+msgctxt "ALL"
+msgid "All"
+msgstr ""
+
+#. 
+#: SELECT_ALL
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:141
+#, java-format
+msgctxt "SELECT_ALL"
+msgid "Select All"
+msgstr ""
+
+#. 
+#: UNSELECT_ALL
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:143
+#, java-format
+msgctxt "UNSELECT_ALL"
+msgid "Unselect All"
+msgstr ""
+
+#. 
+#: SELECTED_PAGES
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:145
+#, java-format
+msgctxt "SELECTED_PAGES"
+msgid "Selected Pages"
+msgstr ""
+
+#. 
+#: PRINT_PREVIEW
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:147
+#, java-format
+msgctxt "PRINT_PREVIEW"
+msgid "Print Preview"
+msgstr ""
+
+#. 
+#: LIBRARY_SETS
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:149
+#, java-format
+msgctxt "LIBRARY_SETS"
+msgid "Library Sets"
+msgstr ""
+
+#. 
+#: CONFIGURATION_FILE_ADDITIONS
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:151
+#, java-format
+msgctxt "CONFIGURATION_FILE_ADDITIONS"
+msgid "Configuration File Additions"
+msgstr ""
+
+#. 
+#: SHOW_DIAGRAM_NAVIGATOR
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:153
+#, java-format
+msgctxt "SHOW_DIAGRAM_NAVIGATOR"
+msgid "Show Diagram Navigator"
+msgstr ""
+
+#. 
+#: DIAGRAM_NAVIGATOR
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:155
+#, java-format
+msgctxt "DIAGRAM_NAVIGATOR"
+msgid "Diagram Navigator"
+msgstr ""
+
+#. 
+#: SHOW_TREE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:157
+#, java-format
+msgctxt "SHOW_TREE"
+msgid "Show Tree"
+msgstr ""
+
+#. 
+#: TREE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:159
+#, java-format
+msgctxt "TREE"
+msgid "Tree"
+msgstr ""
+
+#. 
+#: DELETE_JAVA_SOURCE
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:161
+#, java-format
+msgctxt "DELETE_JAVA_SOURCE"
+msgid "Delete Java Source"
+msgstr ""
+

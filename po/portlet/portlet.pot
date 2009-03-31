@@ -1,0 +1,1026 @@
+#SOME DESCRIPTIVE TITLE.
+#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+#This file is distributed under the same license as the PACKAGE package.
+#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-31 17:37+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+""
+
+#. ##############################################################################
+#. Copyright (c) 2008 JBoss, a division of Red Hat and others.
+#. All rights reserved. This program and the accompanying materials
+#. are made available under the terms of the Eclipse Public License v1.0
+#. which accompanies this distribution, and is available at
+#. http://www.eclipse.org/legal/epl-v10.html
+#. 
+#. Contributors:
+#. JBoss, a division of Red Hat - Initial implementation.
+#. #############################################################################
+#. feature.properties
+#. contains externalized strings for feature.xml
+#. "%foo" in feature.xml corresponds to the key "foo" in this file
+#. java.io.Properties file (ISO 8859-1 with "\" escapes)
+#. This file should be translated.
+#. 
+#. "featureName" property - name of the feature
+#: featureName
+#: ../../../portlet/features/org.jboss.tools.portlet.feature/feature.properties:35
+#, java-format
+msgctxt "featureName"
+msgid "JBoss Portlet"
+msgstr ""
+
+#. 
+#. 
+#. "providerName" property - name of the company that provides the feature
+#: providerName
+#: ../../../portlet/features/org.jboss.tools.portlet.feature/feature.properties:41
+#, java-format
+msgctxt "providerName"
+msgid "JBoss, a division of Red Hat"
+msgstr ""
+
+#. 
+#. 
+#. "updateSiteName" property - label for the update site
+#: updateSiteName
+#: ../../../portlet/features/org.jboss.tools.portlet.feature/feature.properties:47
+#, java-format
+msgctxt "updateSiteName"
+msgid "JBossTools Update Site"
+msgstr ""
+
+#. 
+#. 
+#. "description" property - description of the feature
+#: description
+#: ../../../portlet/features/org.jboss.tools.portlet.feature/feature.properties:53
+#, java-format
+msgctxt "description"
+msgid "JBoss Portlet"
+msgstr ""
+
+#. 
+#. 
+#. "copyright" property - text of the "Feature Update Copyright"
+#: copyright
+#: ../../../portlet/features/org.jboss.tools.portlet.feature/feature.properties:59
+#, java-format
+msgctxt "copyright"
+msgid ""
+"Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
+"All rights reserved. This program and the accompanying materials\n"
+" "
+msgstr ""
+
+#. 
+#: are
+#: ../../../portlet/features/org.jboss.tools.portlet.feature/feature.properties:61
+#, java-format
+msgctxt "are"
+msgid ""
+"made available under the terms of the Eclipse Public License v1.0\n"
+"which accompanies this distribution, and is available at\n"
+"http://www.eclipse.org/legal/epl-v10.html\n"
+"\n"
+"Contributors:\n"
+"JBoss, a division of Red Hat - Initial implementation.\n"
+""
+msgstr ""
+
+#. 
+#. ############## end of copyright property ####################################
+#. 
+#. "licenseURL" property - URL of the "Feature License"
+#. do not translate value - just change to point to a locale-specific HTML page
+#: licenseURL
+#: ../../../portlet/features/org.jboss.tools.portlet.feature/feature.properties:71
+#, java-format
+msgctxt "licenseURL"
+msgid "license.html"
+msgstr ""
+
+#. 
+#. 
+#. "license" property - text of the "Feature Update License"
+#. should be plain text version of license agreement pointed to be "licenseURL"
+#: license
+#: ../../../portlet/features/org.jboss.tools.portlet.feature/feature.properties:79
+#, java-format
+msgctxt "license"
+msgid ""
+"ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
+"March 17, 2005\n"
+"\n"
+"Usage Of Content\n"
+"\n"
+"THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION AND/OR\n"
+"OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\").\n"
+"USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS\n"
+"AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR\n"
+"NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU\n"
+"AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT\n"
+"AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS\n"
+"OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE\n"
+"TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS\n"
+"OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED\n"
+"BELOW, THEN YOU MAY NOT USE THE CONTENT.\n"
+"\n"
+"Applicable Licenses\n"
+"\n"
+"Unless otherwise indicated, all Content made available by the Eclipse Foundation\n"
+"is provided to you under the terms and conditions of the Eclipse Public\n"
+"License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this\n"
+"Content and is also available at http://www.eclipse.org/legal/epl-v10.html.\n"
+"For purposes of the EPL, \"Program\" will mean the Content.\n"
+"\n"
+"Content includes, but is not limited to, source code, object code,\n"
+"documentation and other files maintained in the Eclipse.org CVS\n"
+"repository (\"Repository\") in CVS modules (\"Modules\") and made available\n"
+"as downloadable archives (\"Downloads\").\n"
+"\n"
+"- Content may be structured and packaged into modules to facilitate delivering,\n"
+"extending, and upgrading the Content. Typical modules may include plug-ins (\"Plug-ins\"),\n"
+"plug-in fragments (\"Fragments\"), and features (\"Features\").\n"
+"- Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java? ARchive)\n"
+"in a directory named \"plugins\".\n"
+"- A Feature is a bundle of one or more Plug-ins and/or Fragments and associated material.\n"
+"Each Feature may be packaged as a sub-directory in a directory named \"features\".\n"
+"Within a Feature, files named \"feature.xml\" may contain a list of the names and version\n"
+"numbers of the Plug-ins and/or Fragments associated with that Feature.\n"
+"- Features may also include other Features (\"Included Features\"). Within a Feature, files\n"
+"named \"feature.xml\" may contain a list of the names and version numbers of Included Features.\n"
+"\n"
+"Features may also include other Features (\"Included Features\"). Files named\n"
+"\"feature.xml\" may contain a list of the names and version numbers of\n"
+"Included Features.\n"
+"\n"
+"The terms and conditions governing Plug-ins and Fragments should be\n"
+"contained in files named \"about.html\" (\"Abouts\"). The terms and\n"
+"conditions governing Features and Included Features should be contained\n"
+"in files named \"license.html\" (\"Feature Licenses\"). Abouts and Feature\n"
+"Licenses may be located in any directory of a Download or Module\n"
+"including, but not limited to the following locations:\n"
+"\n"
+"- The top-level (root) directory\n"
+"- Plug-in and Fragment directories\n"
+"- Inside Plug-ins and Fragments packaged as JARs\n"
+"- Sub-directories of the directory named \"src\" of certain Plug-ins\n"
+"- Feature directories\n"
+"\n"
+"Note: if a Feature made available by the Eclipse Foundation is installed using the\n"
+"Eclipse Update Manager, you must agree to a license (\"Feature Update\n"
+"License\") during the installation process. If the Feature contains\n"
+"Included Features, the Feature Update License should either provide you\n"
+"with the terms and conditions governing the Included Features or inform\n"
+"you where you can locate them. Feature Update Licenses may be found in\n"
+"the \"license\" property of files named \"feature.properties\". Such Abouts,\n"
+"Feature Licenses and Feature Update Licenses contain the terms and\n"
+"conditions (or references to such terms and conditions) that govern your\n"
+"use of the associated Content in that directory.\n"
+"\n"
+"THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER\n"
+"TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS.\n"
+"SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED TO):\n"
+"\n"
+"- Common Public License Version 1.0 (available at http://www.eclipse.org/legal/cpl-v10.html)\n"
+"- Apache Software License 1.1 (available at http://www.apache.org/licenses/LICENSE)\n"
+"- Apache Software License 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0)\n"
+"- IBM Public License 1.0 (available at http://oss.software.ibm.com/developerworks/opensource/license10.html)\n"
+"- Metro Link Public License 1.00 (available at http://www.opengroup.org/openmotif/supporters/metrolink/license.html)\n"
+"- Mozilla Public License Version 1.1 (available at http://www.mozilla.org/MPL/MPL-1.1.html)\n"
+"\n"
+"IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS PRIOR\n"
+"TO USE OF THE CONTENT. If no About, Feature License or Feature Update License\n"
+"is provided, please contact the Eclipse Foundation to determine what terms and conditions\n"
+"govern that particular Content.\n"
+"\n"
+"Cryptography\n"
+"\n"
+"Content may contain encryption software. The country in which you are\n"
+"currently may have restrictions on the import, possession, and use,\n"
+"and/or re-export to another country, of encryption software. BEFORE\n"
+"using any encryption software, please check the country's laws,\n"
+"regulations and policies concerning the import, possession, or use,\n"
+"and re-export of encryption software, to see if this is permitted.\n"
+"\n"
+"Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. in the United States, other countries, or both.\n"
+""
+msgstr ""
+
+#. Properties file for org.jboss.tools.portlet.core
+#. Properties file for org.jboss.tools.portlet.ui
+#: BundleVendor
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/plugin.properties:3
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:3
+#, java-format
+msgctxt "BundleVendor"
+msgid "JBoss, a division of Red Hat"
+msgstr ""
+
+#. 
+#: BundleName
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/plugin.properties:5
+#, java-format
+msgctxt "BundleName"
+msgid "Portlet Core Plug-in"
+msgstr ""
+
+#: BasePortletClasspathContainer_Error_loading_classpath_container
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:1
+#, java-format
+msgctxt "BasePortletClasspathContainer_Error_loading_classpath_container"
+msgid "Error loading classpath container"
+msgstr ""
+
+#. 
+#: IPortletConstants_Libraries_provided_by_server_runtime
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:3
+#, java-format
+msgctxt "IPortletConstants_Libraries_provided_by_server_runtime"
+msgid "Libraries provided by server runtime"
+msgstr ""
+
+#. 
+#: IPortletConstants_User_library
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:5
+#, java-format
+msgctxt "IPortletConstants_User_library"
+msgid "User library"
+msgstr ""
+
+#. 
+#: JSFPortlet10LibrariesContainerInitializer_Error_loading_classpath_container
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:7
+#, java-format
+msgctxt "JSFPortlet10LibrariesContainerInitializer_Error_loading_classpath_container"
+msgid "Error loading classpath container"
+msgstr ""
+
+#. 
+#: JSFPortlet10LibrariesContainerInitializer_JBoss_JSF_Portlet_Libraries_v1_0
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:9
+#, java-format
+msgctxt "JSFPortlet10LibrariesContainerInitializer_JBoss_JSF_Portlet_Libraries_v1_0"
+msgid "JBoss JSF Portlet Libraries v1.0"
+msgstr ""
+
+#. 
+#: JSFPortlet10LibrariesContainerInitializer_JBossJSF_Portlet_Classpath_Container_Initializer_v1_0
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:11
+#, java-format
+msgctxt "JSFPortlet10LibrariesContainerInitializer_JBossJSF_Portlet_Classpath_Container_Initializer_v1_0"
+msgid "JBoss JSF Portlet Classpath Container Initializer v1.0"
+msgstr ""
+
+#. 
+#: JSFPortletConfigurationPresetFactory10_JBoss_JSF_Portlet_Project_v1_0
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:13
+#, java-format
+msgctxt "JSFPortletConfigurationPresetFactory10_JBoss_JSF_Portlet_Project_v1_0"
+msgid "JBoss JSF Portlet Project v1.0"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_JSF_Portlet_Facet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:15
+#, java-format
+msgctxt "JSFPortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_JSF_Portlet_Facet"
+msgid "Cannot configure web module for JBoss JSF Portlet Facet"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallDelegate_Cannot_find_the_JSF_servlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:17
+#, java-format
+msgctxt "JSFPortletFacetInstallDelegate_Cannot_find_the_JSF_servlet"
+msgid "Cannot find the JSF servlet"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallDelegate_Error_loading_classpath_container
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:19
+#, java-format
+msgctxt "JSFPortletFacetInstallDelegate_Error_loading_classpath_container"
+msgid "Error loading classpath container"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallDelegate_Missing_configuration
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:21
+#, java-format
+msgctxt "JSFPortletFacetInstallDelegate_Missing_configuration"
+msgid "Internal Error creating JBoss JSF Portlet Facet.  Missing configuration."
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallDelegate_The_web_xml_file_is_not_updateable
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:23
+#, java-format
+msgctxt "JSFPortletFacetInstallDelegate_The_web_xml_file_is_not_updateable"
+msgid "The web.xml file is not updateable"
+msgstr ""
+
+#. 
+#: PortletLibrariesContainerInitializer_JBoss_Portlet_Library
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:25
+#, java-format
+msgctxt "PortletLibrariesContainerInitializer_JBoss_Portlet_Library"
+msgid "JBoss Portlet Libraries"
+msgstr ""
+
+#. 
+#: PortletLibrariesContainerInitializer_JBoss_Portlet_Classpath_Container_Initializer
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:27
+#, java-format
+msgctxt "PortletLibrariesContainerInitializer_JBoss_Portlet_Classpath_Container_Initializer"
+msgid "JBoss Portlet Classpath Container Initializer"
+msgstr ""
+
+#. 
+#: Portlet20LibrariesContainerInitializer_JBoss_Portlet_Classpath_Container_Initializer
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:29
+#, java-format
+msgctxt "Portlet20LibrariesContainerInitializer_JBoss_Portlet_Classpath_Container_Initializer"
+msgid "JBoss Portlet Classpath Container Initializer"
+msgstr ""
+
+#. 
+#: Portlet20LibrariesContainerInitializer_JBoss_Portlet_Library
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:31
+#, java-format
+msgctxt "Portlet20LibrariesContainerInitializer_JBoss_Portlet_Library"
+msgid "JBoss Portlet Library"
+msgstr ""
+
+#. 
+#: PortletConfigurationPresetFactory10_Portlet_Project_v1_0
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:33
+#, java-format
+msgctxt "PortletConfigurationPresetFactory10_Portlet_Project_v1_0"
+msgid "Portlet Project v1.0"
+msgstr ""
+
+#. 
+#: PortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_Portlet_Facet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:35
+#, java-format
+msgctxt "PortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_Portlet_Facet"
+msgid "Cannot configure web module for JBoss Portlet Facet"
+msgstr ""
+
+#. 
+#: PortletFacetInstallDelegate_Exception_occured_while_creating_portlet_xml
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:37
+#, java-format
+msgctxt "PortletFacetInstallDelegate_Exception_occured_while_creating_portlet_xml"
+msgid "Exception occured while creating portlet.xml"
+msgstr ""
+
+#. 
+#: PortletFacetInstallDelegate_Missing_configuration
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:39
+#, java-format
+msgctxt "PortletFacetInstallDelegate_Missing_configuration"
+msgid "Internal Error creating JBoss Portlet Facet.  Missing configuration."
+msgstr ""
+
+#. 
+#: PortletFacetInstallDelegate_The_web_xml_file_is_not_updateable
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:41
+#, java-format
+msgctxt "PortletFacetInstallDelegate_The_web_xml_file_is_not_updateable"
+msgid "The web.xml file is not updateable"
+msgstr ""
+
+#. 
+#: PortletFacetInstallDelegate_User_library_name_is_invalid
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:43
+#, java-format
+msgctxt "PortletFacetInstallDelegate_User_library_name_is_invalid"
+msgid "User library name is invalid."
+msgstr ""
+
+#. 
+#: PortletPostInstallListener_Cannot_find_Portletbridge_Runtime
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:45
+#, java-format
+msgctxt "PortletPostInstallListener_Cannot_find_Portletbridge_Runtime"
+msgid "Cannot find Portletbridge Runtime."
+msgstr ""
+
+#. 
+#: PortletPostInstallListener_Cannot_find_Richfaces_Runtime
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:47
+#, java-format
+msgctxt "PortletPostInstallListener_Cannot_find_Richfaces_Runtime"
+msgid "Cannot find Richfaces Runtime."
+msgstr ""
+
+#. 
+#: PortletPostInstallListener_Cannot_find_the_examples_directory
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:49
+#, java-format
+msgctxt "PortletPostInstallListener_Cannot_find_the_examples_directory"
+msgid "Cannot find the examples directory."
+msgstr ""
+
+#. 
+#: PortletPostInstallListener_Cannot_find_the_RichFacesPortlet_war_file
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:51
+#, java-format
+msgctxt "PortletPostInstallListener_Cannot_find_the_RichFacesPortlet_war_file"
+msgid "Cannot find the RichFacesPortlet.war file."
+msgstr ""
+
+#. 
+#: PortletPostInstallListener_Invalid_Portletbridge_Runtime
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:53
+#, java-format
+msgctxt "PortletPostInstallListener_Invalid_Portletbridge_Runtime"
+msgid "Invalid Portletbridge Runtime."
+msgstr ""
+
+#. 
+#: PortletPostInstallListener_Invalid_Richfaces_Runtime
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:55
+#, java-format
+msgctxt "PortletPostInstallListener_Invalid_Richfaces_Runtime"
+msgid "Invalid Richfaces Runtime."
+msgstr ""
+
+#. 
+#: SeamPortletConfigurationPresetFactory10_JBoss_Seam_Portlet_Project_v1_0
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:57
+#, java-format
+msgctxt "SeamPortletConfigurationPresetFactory10_JBoss_Seam_Portlet_Project_v1_0"
+msgid "JBoss Seam Portlet Project v1.0"
+msgstr ""
+
+#. 
+#: SeamPortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_Seam_Portlet_Facet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:59
+#, java-format
+msgctxt "SeamPortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_Seam_Portlet_Facet"
+msgid "Cannot configure web module for JBoss Seam Portlet Facet"
+msgstr ""
+
+#. 
+#: SeamPortletFacetInstallDelegate_Missing_configuration
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:61
+#, java-format
+msgctxt "SeamPortletFacetInstallDelegate_Missing_configuration"
+msgid "Internal Error creating JBoss Seam Portlet Facet.  Missing configuration."
+msgstr ""
+
+#. 
+#: SeamPortletFacetInstallDelegate_The_web_xml_file_is_not_updateable
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:63
+#, java-format
+msgctxt "SeamPortletFacetInstallDelegate_The_web_xml_file_is_not_updateable"
+msgid "The web.xml file is not updateable"
+msgstr ""
+
+#. 
+#: Libraries_provided_by_portletbridge
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:65
+#, java-format
+msgctxt "Libraries_provided_by_portletbridge"
+msgid "Libraries provided by portletbridge distribution"
+msgstr ""
+
+#. 
+#: Libraries_provided_by_richfaces
+#: ../../../portlet/plugins/org.jboss.tools.portlet.core/src/org/jboss/tools/portlet/core/messages.properties:67
+#, java-format
+msgctxt "Libraries_provided_by_richfaces"
+msgid "Libraries provided by richfaces distribution"
+msgstr ""
+
+#: blurb
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/about.properties:1
+#, java-format
+msgctxt "blurb"
+msgid ""
+"JBoss Portlet\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - 2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+msgstr ""
+
+#. 
+#: BundleName
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:5
+#, java-format
+msgctxt "BundleName"
+msgid "JBoss Portlet"
+msgstr ""
+
+#. 
+#: Portlet_category
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:7
+#, java-format
+msgctxt "Portlet_category"
+msgid "Portlet"
+msgstr ""
+
+#. 
+#: Java_portlet_wizard_name
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:9
+#, java-format
+msgctxt "Java_portlet_wizard_name"
+msgid "Java Portlet"
+msgstr ""
+
+#. 
+#: Portlet_wizard_description
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:11
+#, java-format
+msgctxt "Portlet_wizard_description"
+msgid "Create a new Java Portlet"
+msgstr ""
+
+#. 
+#: JSFSeam_portlet_wizard_name
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:13
+#, java-format
+msgctxt "JSFSeam_portlet_wizard_name"
+msgid "JBoss JSF/Seam Portlet"
+msgstr ""
+
+#. 
+#: JSFSeam_portlet_wizard_description
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:15
+#, java-format
+msgctxt "JSFSeam_portlet_wizard_description"
+msgid "Create a new JBoss JSF Portlet"
+msgstr ""
+
+#. 
+#: JBoss_Portlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:17
+#, java-format
+msgctxt "JBoss_Portlet"
+msgid "JBoss Portlet"
+msgstr ""
+
+#: AddPortletWizardPage_Edit
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:1
+#, java-format
+msgctxt "AddPortletWizardPage_Edit"
+msgid "Edit"
+msgstr ""
+
+#. 
+#: AddPortletWizardPage_Help
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:3
+#, java-format
+msgctxt "AddPortletWizardPage_Help"
+msgid "Help"
+msgstr ""
+
+#. 
+#: AddPortletWizardPage_Portlet_Modes
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:5
+#, java-format
+msgctxt "AddPortletWizardPage_Portlet_Modes"
+msgid "Portlet Modes"
+msgstr ""
+
+#. 
+#: AddPortletWizardPage_View
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:7
+#, java-format
+msgctxt "AddPortletWizardPage_View"
+msgid "View"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Add_the_jboss_portlet_xml_file
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:9
+#, java-format
+msgctxt "IPortletUIConstants_Add_the_jboss_portlet_xml_file"
+msgid "Add the jboss-portlet.xml file"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Copy_JSF_Templates
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:11
+#, java-format
+msgctxt "IPortletUIConstants_Copy_JSF_Templates"
+msgid "Copy JSF Templates"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Create_JBoss_Application
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:13
+#, java-format
+msgctxt "IPortletUIConstants_Create_JBoss_Application"
+msgid "Create JBoss Application"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Create_JBoss_JSF_Portlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:15
+#, java-format
+msgctxt "IPortletUIConstants_Create_JBoss_JSF_Portlet"
+msgid "Create JBoss JSF Portlet"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Create_Portlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:17
+#, java-format
+msgctxt "IPortletUIConstants_Create_Portlet"
+msgid "Create Portlet"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Create_portlet_instance
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:19
+#, java-format
+msgctxt "IPortletUIConstants_Create_portlet_instance"
+msgid "Create Portlet Instance"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Display_name
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:21
+#, java-format
+msgctxt "IPortletUIConstants_Display_name"
+msgid "Display name:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Enter_JBoss_portlet_specific_information
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:23
+#, java-format
+msgctxt "IPortletUIConstants_Enter_JBoss_portlet_specific_information"
+msgid "Enter JBoss portlet specific information"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Enter_portlet_deployment_descriptor_specific_information
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:25
+#, java-format
+msgctxt "IPortletUIConstants_Enter_portlet_deployment_descriptor_specific_information"
+msgid "Enter portlet deployment descriptor specific information."
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Height
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:27
+#, java-format
+msgctxt "IPortletUIConstants_Height"
+msgid "Height:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_If_Exists
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:29
+#, java-format
+msgctxt "IPortletUIConstants_If_Exists"
+msgid "If Exists:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Inastance_name
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:31
+#, java-format
+msgctxt "IPortletUIConstants_Inastance_name"
+msgid "Instance Name:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Initial_Window_State
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:33
+#, java-format
+msgctxt "IPortletUIConstants_Initial_Window_State"
+msgid "Initial Window State:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_JBoss_Application_Name
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:35
+#, java-format
+msgctxt "IPortletUIConstants_JBoss_Application_Name"
+msgid "JBoss Application Name:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_JBoss_JSF_Portlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:37
+#, java-format
+msgctxt "IPortletUIConstants_JBoss_JSF_Portlet"
+msgid "JBoss JSF Portlet"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_JBoss_Seam_Portlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:39
+#, java-format
+msgctxt "IPortletUIConstants_JBoss_Seam_Portlet"
+msgid "JBoss Seam Portlet"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Page_name
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:41
+#, java-format
+msgctxt "IPortletUIConstants_Page_name"
+msgid "Page Name:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Parent_Reference
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:43
+#, java-format
+msgctxt "IPortletUIConstants_Parent_Reference"
+msgid "Parent Reference:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Region
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:45
+#, java-format
+msgctxt "IPortletUIConstants_Region"
+msgid "Region:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Specify_class_file_information
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:47
+#, java-format
+msgctxt "IPortletUIConstants_Specify_class_file_information"
+msgid "Specify class file information"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Title
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:49
+#, java-format
+msgctxt "IPortletUIConstants_Title"
+msgid "Title:"
+msgstr ""
+
+#. 
+#: IPortletUIConstants_Window_name
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:51
+#, java-format
+msgctxt "IPortletUIConstants_Window_name"
+msgid "Window Name:"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Add_Change_Richfaces_Libraries
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:53
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Add_Change_Richfaces_Libraries"
+msgid "Add/Change Richfaces Libraries"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Add_JBoss_JSF_Portlet_capabilities_to_this_Web_Project
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:55
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Add_JBoss_JSF_Portlet_capabilities_to_this_Web_Project"
+msgid "Add JBoss JSF Portlet capabilities to this Web Project"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Browse
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:57
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Browse"
+msgid "Browse..."
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Deploy_jars
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:59
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Deploy_jars"
+msgid "Deploy jars to WEB-INF/lib"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Invalid_Portletbridge_Runtime_directory
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:61
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Invalid_Portletbridge_Runtime_directory"
+msgid "Invalid Portletbridge Runtime directory."
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Invalid_Richfaces_Runtime_directory
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:63
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Invalid_Richfaces_Runtime_directory"
+msgid "Invalid Richfaces Runtime directory."
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_JBoss_JSF_Portlet_Capabilities
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:65
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_JBoss_JSF_Portlet_Capabilities"
+msgid "JBoss JSF Portlet Capabilities"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Portletbridge_Runtime
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:67
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Portletbridge_Runtime"
+msgid "Portletbridge Runtime"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Portletbridge_Runtime_directory_is_required
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:69
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Portletbridge_Runtime_directory_is_required"
+msgid "Portletbridge Runtime directory is required."
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Richfaces_Capabilities
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:71
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Richfaces_Capabilities"
+msgid "Richfaces Capabilities"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_RichFaces_Runtime_directory_is_required
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:73
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_RichFaces_Runtime_directory_is_required"
+msgid "RichFaces Runtime directory is required."
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Select_Portletbridge_Runtime
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:75
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Select_Portletbridge_Runtime"
+msgid "Select Portletbridge Runtime"
+msgstr ""
+
+#. 
+#: JSFPortletFacetInstallPage_Select_RichFaces_Runtime
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:77
+#, java-format
+msgctxt "JSFPortletFacetInstallPage_Select_RichFaces_Runtime"
+msgid "Select RichFaces Runtime"
+msgstr ""
+
+#. 
+#: PortletFacetInstallPage_Add
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:79
+#, java-format
+msgctxt "PortletFacetInstallPage_Add"
+msgid "Add..."
+msgstr ""
+
+#. 
+#: PortletFacetInstallPage_Add_JBoss_Portlet_capabilities_to_this_Web_Project
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:81
+#, java-format
+msgctxt "PortletFacetInstallPage_Add_JBoss_Portlet_capabilities_to_this_Web_Project"
+msgid "Add JBoss Portlet capabilities to this Web Project"
+msgstr ""
+
+#. 
+#: PortletFacetInstallPage_Enable_implementation_library
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:83
+#, java-format
+msgctxt "PortletFacetInstallPage_Enable_implementation_library"
+msgid "Enable implementation library"
+msgstr ""
+
+#. 
+#: PortletFacetInstallPage_JBoss_Portlet_Capabilities
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:85
+#, java-format
+msgctxt "PortletFacetInstallPage_JBoss_Portlet_Capabilities"
+msgid "JBoss Portlet Capabilities"
+msgstr ""
+
+#. 
+#: PortletFacetInstallPage_User_Library
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:87
+#, java-format
+msgctxt "PortletFacetInstallPage_User_Library"
+msgid "User Library"
+msgstr ""
+
+#. 
+#: PortletFacetInstallPage_You_have_to_choose_an_user_library
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:89
+#, java-format
+msgctxt "PortletFacetInstallPage_You_have_to_choose_an_user_library"
+msgid "You have to choose an user library"
+msgstr ""
+
+#. 
+#: PortletUIActivator_The_portlet_xml_file_doesnt_exist
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:91
+#, java-format
+msgctxt "PortletUIActivator_The_portlet_xml_file_doesnt_exist"
+msgid "The portlet.xml file doesn't exist"
+msgstr ""
+
+#. 
+#: NewJSFPortletClassWizardPage_Choose_a_JSF_portlet_class
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:93
+#, java-format
+msgctxt "NewJSFPortletClassWizardPage_Choose_a_JSF_portlet_class"
+msgid "Choose a JSF portlet class:"
+msgstr ""
+
+#. 
+#: NewJSFPortletClassWizardPage_Choose_a_Seam_portlet_class
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:95
+#, java-format
+msgctxt "NewJSFPortletClassWizardPage_Choose_a_Seam_portlet_class"
+msgid "Choose a Seam portlet class:"
+msgstr ""
+
+#. 
+#: NewJSFPortletClassWizardPage_New_JSF_Portlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:97
+#, java-format
+msgctxt "NewJSFPortletClassWizardPage_New_JSF_Portlet"
+msgid "New JSF Portlet"
+msgstr ""
+
+#. 
+#: NewJSFPortletClassWizardPage_New_Seam_Portlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:99
+#, java-format
+msgctxt "NewJSFPortletClassWizardPage_New_Seam_Portlet"
+msgid "New Seam Portlet"
+msgstr ""
+
+#. 
+#: NewPortletClassWizardPage_Choose_a_portlet_class
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:101
+#, java-format
+msgctxt "NewPortletClassWizardPage_Choose_a_portlet_class"
+msgid "Choose a portlet class:"
+msgstr ""
+
+#. 
+#: NewPortletClassWizardPage_New_Portlet
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:103
+#, java-format
+msgctxt "NewPortletClassWizardPage_New_Portlet"
+msgid "New Portlet"
+msgstr ""
+
+#. 
+#: NewPortletClassWizardPage_Use_an_existing_Portlet_class
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:105
+#, java-format
+msgctxt "NewPortletClassWizardPage_Use_an_existing_Portlet_class"
+msgid "Use an existing Portlet class"
+msgstr ""
+
+#. 
+#: NewPortletWizard_Specify_modifiers_interfaces_to_implement_and_method_stubs_to_generate
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:107
+#, java-format
+msgctxt "NewPortletWizard_Specify_modifiers_interfaces_to_implement_and_method_stubs_to_generate"
+msgid "Specify modifiers, interfaces to implement and method stubs to generate."
+msgstr ""
+
+#. 
+#: No_portlets_exist_to_add
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:109
+#, java-format
+msgctxt "No_portlets_exist_to_add"
+msgid "No portlets exist to add"
+msgstr ""
+
+#. 
+#: JBossPortletPreferencePage_Check_Runtimes_for_Portlet_Components
+#: ../../../portlet/plugins/org.jboss.tools.portlet.ui/src/org/jboss/tools/portlet/ui/messages.properties:111
+#, java-format
+msgctxt "JBossPortletPreferencePage_Check_Runtimes_for_Portlet_Components"
+msgid "Check Runtimes for Portlet Components"
+msgstr ""
+

@@ -1,0 +1,2196 @@
+#SOME DESCRIPTIVE TITLE.
+#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+#This file is distributed under the same license as the PACKAGE package.
+#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-31 17:37+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+""
+
+#. ##############################################################################
+#. Copyright (c) 2009 JBoss, a division of Red Hat and others.
+#. All rights reserved. This program and the accompanying materials
+#. are made available under the terms of the Eclipse Public License v1.0
+#. which accompanies this distribution, and is available at
+#. http://www.eclipse.org/legal/epl-v10.html
+#. 
+#. Contributors:
+#. JBoss, a division of Red Hat - Initial implementation.
+#. #############################################################################
+#. feature.properties
+#. contains externalized strings for feature.xml
+#. "%foo" in feature.xml corresponds to the key "foo" in this file
+#. java.io.Properties file (ISO 8859-1 with "\" escapes)
+#. This file should be translated.
+#. 
+#. "featureName" property - name of the feature
+#: featureName
+#: ../../../as/features/org.jboss.ide.eclipse.as.feature/feature.properties:18
+#, java-format
+msgctxt "featureName"
+msgid "JBossAS Tools"
+msgstr ""
+
+#. 
+#. "providerName" property - name of the company that provides the feature
+#: providerName
+#: ../../../as/features/org.jboss.ide.eclipse.as.feature/feature.properties:21
+#, java-format
+msgctxt "providerName"
+msgid "JBoss, a division of Red Hat"
+msgstr ""
+
+#. 
+#. "updateSiteName" property - label for the update site
+#: updateSiteName
+#: ../../../as/features/org.jboss.ide.eclipse.as.feature/feature.properties:24
+#, java-format
+msgctxt "updateSiteName"
+msgid "JBossTools Update Site"
+msgstr ""
+
+#. 
+#: devUpdateSiteName
+#: ../../../as/features/org.jboss.ide.eclipse.as.feature/feature.properties:26
+#, java-format
+msgctxt "devUpdateSiteName"
+msgid "JBossTools Development Update Site"
+msgstr ""
+
+#. 
+#. "description" property - description of the feature
+#: description
+#: ../../../as/features/org.jboss.ide.eclipse.as.feature/feature.properties:29
+#, java-format
+msgctxt "description"
+msgid "Provides a WTP adapter for JBoss AS 4.x and 5.x. Supports incremental and exploded deployment."
+msgstr ""
+
+#. 
+#: copyright
+#: ../../../as/features/org.jboss.ide.eclipse.as.feature/feature.properties:31
+#, java-format
+msgctxt "copyright"
+msgid ""
+"JBoss, Home of Professional Open Source\n"
+"Copyright JBoss, a division of Red Hat, and individual contributors as indicated\n"
+"by the @authors tag, 2006-2009. See the copyright.txt in the distribution\n"
+"for a full listing of individual contributors."
+msgstr ""
+
+#. Properties file for org.jboss.ide.eclipse.archives.webtools
+#. Properties file for org.jboss.ide.eclipse.as.classpath.core
+#. Properties file for org.jboss.ide.eclipse.as.classpath.ui
+#. 
+#. Properties file for org.jboss.ide.eclipse.as.doc.user
+#. Properties file for org.jboss.ide.eclipse.as.ui.mbeans
+#: Bundle-Vendor.0
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/plugin.properties:2
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.core/plugin.properties:2
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/plugin.properties:2
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:29
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.doc.user/plugin.properties:2
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/plugin.properties:2
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:20
+#, java-format
+msgctxt "Bundle-Vendor.0"
+msgid "JBoss, a division of Red Hat"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "Project Archives Webtools Integration Plug-in"
+msgstr ""
+
+#: nodeContribution.label.publishToServer
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/plugin.properties:4
+#, java-format
+msgctxt "nodeContribution.label.publishToServer"
+msgid "Publish To Server"
+msgstr ""
+
+#: nodeContribution.label.editPublishSettings
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/plugin.properties:5
+#, java-format
+msgctxt "nodeContribution.label.editPublishSettings"
+msgid "Edit publish settings..."
+msgstr ""
+
+#: newPackageAction.label.war
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/plugin.properties:6
+#, java-format
+msgctxt "newPackageAction.label.war"
+msgid "WAR"
+msgstr ""
+
+#: newPackageAction.label.ejbJar
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/plugin.properties:7
+#, java-format
+msgctxt "newPackageAction.label.ejbJar"
+msgid "EJB JAR"
+msgstr ""
+
+#: newPackageAction.label.ear
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/plugin.properties:8
+#, java-format
+msgctxt "newPackageAction.label.ear"
+msgid "EAR"
+msgstr ""
+
+#: NavigatorContent_Filesets
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/plugin.properties:9
+#, java-format
+msgctxt "NavigatorContent_Filesets"
+msgid "Filesets"
+msgstr ""
+
+#: ExceptionCannotScanDirectory
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:1
+#, java-format
+msgctxt "ExceptionCannotScanDirectory"
+msgid "Cannot scan directory"
+msgstr ""
+
+#: ExceptionUnexpectedException
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:2
+#, java-format
+msgctxt "ExceptionUnexpectedException"
+msgid "Unexpected exception"
+msgstr ""
+
+#: ExceptionCannotDeployFile
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:3
+#, java-format
+msgctxt "ExceptionCannotDeployFile"
+msgid "Cannot publish file {0}"
+msgstr ""
+
+#: ErrorDuringPublish
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:4
+#, java-format
+msgctxt "ErrorDuringPublish"
+msgid "Error publishing module {0}"
+msgstr ""
+
+#: PublishSuccessful
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:5
+#, java-format
+msgctxt "PublishSuccessful"
+msgid "Module {0} published."
+msgstr ""
+
+#: ArchivePublishSettings
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:6
+#, java-format
+msgctxt "ArchivePublishSettings"
+msgid "Archive Publish Settings"
+msgstr ""
+
+#: SelectServerWizard
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:7
+#, java-format
+msgctxt "SelectServerWizard"
+msgid "Select Server Wizard"
+msgstr ""
+
+#: SelectServerWizardDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:8
+#, java-format
+msgctxt "SelectServerWizardDescription"
+msgid "Select the server to publish the archive to."
+msgstr ""
+
+#: SelectServerWizardTitle
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:9
+#, java-format
+msgctxt "SelectServerWizardTitle"
+msgid "Publish archive to a server"
+msgstr ""
+
+#: AlwaysPublishToTheseServers
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:10
+#, java-format
+msgctxt "AlwaysPublishToTheseServers"
+msgid "Always publish to these servers"
+msgstr ""
+
+#: AutoDeployAfterBuild
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:11
+#, java-format
+msgctxt "AutoDeployAfterBuild"
+msgid "Auto-deploy to selected servers after builds"
+msgstr ""
+
+#: DeleteFiles
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:12
+#, java-format
+msgctxt "DeleteFiles"
+msgid "Delete Files?"
+msgstr ""
+
+#: DeleteFilesMessage
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:13
+#, java-format
+msgctxt "DeleteFilesMessage"
+msgid "Are you sure you want to delete the selected files?"
+msgstr ""
+
+#. 
+#. 
+#. 
+#. Filesets
+#: FilesetsCreateFilter
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:18
+#, java-format
+msgctxt "FilesetsCreateFilter"
+msgid "Create File Filter"
+msgstr ""
+
+#: FilesetsDeleteFilter
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:19
+#, java-format
+msgctxt "FilesetsDeleteFilter"
+msgid "Delete File Filter"
+msgstr ""
+
+#: FilesetsEditFilter
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:20
+#, java-format
+msgctxt "FilesetsEditFilter"
+msgid "Edit File Filter"
+msgstr ""
+
+#: FilesetsDeleteFile
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:21
+#, java-format
+msgctxt "FilesetsDeleteFile"
+msgid "Delete File"
+msgstr ""
+
+#: FilesetsEditFile
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:22
+#, java-format
+msgctxt "FilesetsEditFile"
+msgid "Edit File"
+msgstr ""
+
+#: FilesetsNewFileset
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:23
+#, java-format
+msgctxt "FilesetsNewFileset"
+msgid "New File Filter"
+msgstr ""
+
+#: FilesetsNewName
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:24
+#, java-format
+msgctxt "FilesetsNewName"
+msgid "Name:"
+msgstr ""
+
+#: FilesetsNewRootDir
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:25
+#, java-format
+msgctxt "FilesetsNewRootDir"
+msgid "Root Directory:"
+msgstr ""
+
+#: FilesetsNewBrowse
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:26
+#, java-format
+msgctxt "FilesetsNewBrowse"
+msgid "Browse..."
+msgstr ""
+
+#: FilesetsNewIncludes
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:27
+#, java-format
+msgctxt "FilesetsNewIncludes"
+msgid "Includes:"
+msgstr ""
+
+#: FilesetsNewExcludes
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:28
+#, java-format
+msgctxt "FilesetsNewExcludes"
+msgid "Excludes:"
+msgstr ""
+
+#: FilesetsNewPreview
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:29
+#, java-format
+msgctxt "FilesetsNewPreview"
+msgid "Preview"
+msgstr ""
+
+#: FilesetsCannotOpenFile
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:30
+#, java-format
+msgctxt "FilesetsCannotOpenFile"
+msgid "Cannot open file"
+msgstr ""
+
+#: FilesetsDialogTitle
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:31
+#, java-format
+msgctxt "FilesetsDialogTitle"
+msgid "File filter"
+msgstr ""
+
+#: FilesetsDialogMessage
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:32
+#, java-format
+msgctxt "FilesetsDialogMessage"
+msgid "Creates a new file filter"
+msgstr ""
+
+#. 
+#: NewEar
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:34
+#, java-format
+msgctxt "NewEar"
+msgid "New EAR"
+msgstr ""
+
+#: EarPreview
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:35
+#, java-format
+msgctxt "EarPreview"
+msgid "EAR Preview"
+msgstr ""
+
+#: EarDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:36
+#, java-format
+msgctxt "EarDescription"
+msgid ""
+"Preview the EAR\n"
+"Later, you can customize this structure further."
+msgstr ""
+
+#: NewWar
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:37
+#, java-format
+msgctxt "NewWar"
+msgid "New WAR"
+msgstr ""
+
+#: WarPreview
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:38
+#, java-format
+msgctxt "WarPreview"
+msgid "WAR Preview"
+msgstr ""
+
+#: WarDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:39
+#, java-format
+msgctxt "WarDescription"
+msgid ""
+"Preview the WAR\n"
+"Later, you can customize this structure further."
+msgstr ""
+
+#: NewEjbJar
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:40
+#, java-format
+msgctxt "NewEjbJar"
+msgid "New EJB JAR"
+msgstr ""
+
+#: Preview
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:41
+#, java-format
+msgctxt "Preview"
+msgid "Preview"
+msgstr ""
+
+#: BuildArchive
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:42
+#, java-format
+msgctxt "BuildArchive"
+msgid "Build Archive"
+msgstr ""
+
+#: EjbJarPreview
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:43
+#, java-format
+msgctxt "EjbJarPreview"
+msgid "EJB JAR Preview"
+msgstr ""
+
+#: EjbJarDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.archives.webtools/src/org/jboss/ide/eclipse/archives/webtools/Messages.properties:44
+#, java-format
+msgctxt "EjbJarDescription"
+msgid ""
+"Preview the EJB JAR\n"
+"Later, you can customize this structure further."
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.core/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "JBoss AS Classpath Core Plug-in"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "JBoss AS Classpath Ui Plug-in"
+msgstr ""
+
+#: jeeClasspathAdding
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:1
+#, java-format
+msgctxt "jeeClasspathAdding"
+msgid "Adding "
+msgstr ""
+
+#: jeeClasspathBody1
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:2
+#, java-format
+msgctxt "jeeClasspathBody1"
+msgid "Click finish to continue adding "
+msgstr ""
+
+#: jeeClasspathBody2
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:3
+#, java-format
+msgctxt "jeeClasspathBody2"
+msgid "to your project's classpath."
+msgstr ""
+
+#: jeeClasspathDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:4
+#, java-format
+msgctxt "jeeClasspathDescription"
+msgid "These libraries include the API and Source for the chosen JEE version."
+msgstr ""
+
+#: ejb3ClasspathPageTitle
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:5
+#, java-format
+msgctxt "ejb3ClasspathPageTitle"
+msgid "JBoss EJB 3.0 Libraries"
+msgstr ""
+
+#: ejb3ClasspathPageDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:6
+#, java-format
+msgctxt "ejb3ClasspathPageDescription"
+msgid "Add EJB 3.0 Libraries from one of the declared servers."
+msgstr ""
+
+#: jboss
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/jbosscore/org/jboss/ide/eclipse/as/core/Messages.properties:1
+#, java-format
+msgctxt "jboss"
+msgid "JBoss"
+msgstr ""
+
+#: server
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/jbosscore/org/jboss/ide/eclipse/as/core/Messages.properties:2
+#, java-format
+msgctxt "server"
+msgid "Server"
+msgstr ""
+
+#: runtime
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/jbosscore/org/jboss/ide/eclipse/as/core/Messages.properties:3
+#, java-format
+msgctxt "runtime"
+msgid "Runtime"
+msgstr ""
+
+#: runModeNotSupported
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/jbosscore/org/jboss/ide/eclipse/as/core/Messages.properties:4
+#, java-format
+msgctxt "runModeNotSupported"
+msgid "Selected VM does not support this mode"
+msgstr ""
+
+#: pluginName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:1
+#, java-format
+msgctxt "pluginName"
+msgid "JBoss WTP Server Tools Core Plugin"
+msgstr ""
+
+#: providerName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:2
+#, java-format
+msgctxt "providerName"
+msgid "JBoss Community"
+msgstr ""
+
+#: enterpriseProviderName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:3
+#, java-format
+msgctxt "enterpriseProviderName"
+msgid "JBoss Enterprise Middleware"
+msgstr ""
+
+#. 
+#. Version Delegates
+#: jboss.version.32.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:6
+#, java-format
+msgctxt "jboss.version.32.name"
+msgid "JBoss AS 3.2"
+msgstr ""
+
+#: jboss.version.32.description
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:7
+#, java-format
+msgctxt "jboss.version.32.description"
+msgid "JBoss Application Server 3.2"
+msgstr ""
+
+#: jboss.version.32.runtime.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:8
+#, java-format
+msgctxt "jboss.version.32.runtime.name"
+msgid "JBoss 3.2 Runtime"
+msgstr ""
+
+#. 
+#: jboss.version.40.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:10
+#, java-format
+msgctxt "jboss.version.40.name"
+msgid "JBoss AS 4.0"
+msgstr ""
+
+#: jboss.version.40.description
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:11
+#, java-format
+msgctxt "jboss.version.40.description"
+msgid "JBoss Application Server 4.0"
+msgstr ""
+
+#: jboss.version.40.runtime.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:12
+#, java-format
+msgctxt "jboss.version.40.runtime.name"
+msgid "JBoss 4.0 Runtime"
+msgstr ""
+
+#. 
+#: jboss.version.42.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:14
+#, java-format
+msgctxt "jboss.version.42.name"
+msgid "JBoss AS 4.2"
+msgstr ""
+
+#: jboss.version.42.description
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:15
+#, java-format
+msgctxt "jboss.version.42.description"
+msgid "JBoss Application Server 4.2"
+msgstr ""
+
+#: jboss.version.42.runtime.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:16
+#, java-format
+msgctxt "jboss.version.42.runtime.name"
+msgid "JBoss 4.2 Runtime"
+msgstr ""
+
+#. 
+#: jboss.version.50.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:18
+#, java-format
+msgctxt "jboss.version.50.name"
+msgid "JBoss AS 5.0"
+msgstr ""
+
+#: jboss.version.50.description
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:19
+#, java-format
+msgctxt "jboss.version.50.description"
+msgid "JBoss Application Server 5.0"
+msgstr ""
+
+#: jboss.version.50.runtime.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:20
+#, java-format
+msgctxt "jboss.version.50.runtime.name"
+msgid "JBoss 5.0 Runtime"
+msgstr ""
+
+#. 
+#: jboss.eap.version.43.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:22
+#, java-format
+msgctxt "jboss.eap.version.43.name"
+msgid "JBoss Enterprise Application Platform 4.3"
+msgstr ""
+
+#: jboss.eap.version.43.description
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:23
+#, java-format
+msgctxt "jboss.eap.version.43.description"
+msgid "JBoss Enterprise Application Platform (EAP) 4.3"
+msgstr ""
+
+#: jboss.eap.version.43.runtime.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:24
+#, java-format
+msgctxt "jboss.eap.version.43.runtime.name"
+msgid "JBoss Enterprise Application Platform 4.3 Runtime"
+msgstr ""
+
+#. 
+#: deploy.runtime.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:26
+#, java-format
+msgctxt "deploy.runtime.name"
+msgid "JBoss Deploy-Only Runtime"
+msgstr ""
+
+#: deploy.runtime.description
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:27
+#, java-format
+msgctxt "deploy.runtime.description"
+msgid "A runtime provided to allow a deploy-only server the ability to deploy certain project types."
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.core/plugin.properties:30
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "JBoss AS Core Plug-in"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.doc.user/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "JBoss AS User Guide Plug-in"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "Mbeans Plug-in"
+msgstr ""
+
+#. 
+#. Mbean wizard
+#: NewMBeanInterface
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:3
+#, java-format
+msgctxt "NewMBeanInterface"
+msgid "New MBean Interface"
+msgstr ""
+
+#: NewMBeanInterfaceDesc
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:4
+#, java-format
+msgctxt "NewMBeanInterfaceDesc"
+msgid "Create the interface for the MBean"
+msgstr ""
+
+#: NewMBeanName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:5
+#, java-format
+msgctxt "NewMBeanName"
+msgid "MBean Name"
+msgstr ""
+
+#: NewMBeanInterfaceName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:6
+#, java-format
+msgctxt "NewMBeanInterfaceName"
+msgid "Interface Name"
+msgstr ""
+
+#: NewMBeanClass
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:7
+#, java-format
+msgctxt "NewMBeanClass"
+msgid "New MBean Class"
+msgstr ""
+
+#: MBeanClassDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:8
+#, java-format
+msgctxt "MBeanClassDescription"
+msgid "Create the concrete MBean Class"
+msgstr ""
+
+#: MBeanServiceXML
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:9
+#, java-format
+msgctxt "MBeanServiceXML"
+msgid "Create -service.xml file?"
+msgstr ""
+
+#. 
+#. service xml
+#: ServiceXMLAddAttributeTags
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:12
+#, java-format
+msgctxt "ServiceXMLAddAttributeTags"
+msgid "Add missing attribute tags"
+msgstr ""
+
+#. 
+#: NewSessionBeanWizardTitle
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:16
+#, java-format
+msgctxt "NewSessionBeanWizardTitle"
+msgid "Session Bean Wizard"
+msgstr ""
+
+#: NewSessionBeanWizardBeanTypeLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:17
+#, java-format
+msgctxt "NewSessionBeanWizardBeanTypeLabel"
+msgid "Session Bean Type:"
+msgstr ""
+
+#: NewSessionBeanWizardStatefulButtonLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:18
+#, java-format
+msgctxt "NewSessionBeanWizardStatefulButtonLabel"
+msgid "Stateful"
+msgstr ""
+
+#: NewSessionBeanWizardStatelessButtonLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:19
+#, java-format
+msgctxt "NewSessionBeanWizardStatelessButtonLabel"
+msgid "Stateless"
+msgstr ""
+
+#: NewSessionBeanWizardBeanPackageLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:20
+#, java-format
+msgctxt "NewSessionBeanWizardBeanPackageLabel"
+msgid "Bean Package:"
+msgstr ""
+
+#: NewSessionBeanWizardBeanNameLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:21
+#, java-format
+msgctxt "NewSessionBeanWizardBeanNameLabel"
+msgid "Bean Name:"
+msgstr ""
+
+#: NewSessionBeanWizardBeanClassNameLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:22
+#, java-format
+msgctxt "NewSessionBeanWizardBeanClassNameLabel"
+msgid "Bean Class Name:"
+msgstr ""
+
+#: NewSessionBeanWizardUseCustomInterfacePackageButtonLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:23
+#, java-format
+msgctxt "NewSessionBeanWizardUseCustomInterfacePackageButtonLabel"
+msgid "Remote Interface Package:"
+msgstr ""
+
+#: NewSessionBeanWizardRemoteInterfaceNameLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:24
+#, java-format
+msgctxt "NewSessionBeanWizardRemoteInterfaceNameLabel"
+msgid "Remote Interface Name:"
+msgstr ""
+
+#: NewSessionBeanWizardMessage
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:25
+#, java-format
+msgctxt "NewSessionBeanWizardMessage"
+msgid "Create a new EJB3 Session Bean"
+msgstr ""
+
+#: NewSessionBeanWizardDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:26
+#, java-format
+msgctxt "NewSessionBeanWizardDescription"
+msgid "Create a new EJB3 Session Bean"
+msgstr ""
+
+#: NewMessageBeanWizardMessage
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:27
+#, java-format
+msgctxt "NewMessageBeanWizardMessage"
+msgid "Create a new Message-Driven Bean"
+msgstr ""
+
+#: NewMessageBeanWizardDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui.mbeans/src/org/jboss/ide/eclipse/as/ui/mbeans/Messages.properties:28
+#, java-format
+msgctxt "NewMessageBeanWizardDescription"
+msgid "Create a new Message-Driven Bean"
+msgstr ""
+
+#: blurb
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/about.properties:1
+#, java-format
+msgctxt "blurb"
+msgid ""
+"JBossAS Tools\n"
+" \n"
+" Version: {featureVersion}\n"
+" \n"
+" (c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - 2009.  All rights reserved.\n"
+" Visit http://jboss.org/tools"
+msgstr ""
+
+#: browse
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:1
+#, java-format
+msgctxt "browse"
+msgid "Browse..."
+msgstr ""
+
+#: serverName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:2
+#, java-format
+msgctxt "serverName"
+msgid "Server Name"
+msgstr ""
+
+#. 
+#: wf_BaseNameVersionReplacement
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:4
+#, java-format
+msgctxt "wf_BaseNameVersionReplacement"
+msgid "_VERSION_"
+msgstr ""
+
+#: wf_NameLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:5
+#, java-format
+msgctxt "wf_NameLabel"
+msgid "Name"
+msgstr ""
+
+#: wf_HomeDirLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:6
+#, java-format
+msgctxt "wf_HomeDirLabel"
+msgid "Home Directory"
+msgstr ""
+
+#: wf_JRELabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:7
+#, java-format
+msgctxt "wf_JRELabel"
+msgid "JRE"
+msgstr ""
+
+#: wf_ConfigLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:8
+#, java-format
+msgctxt "wf_ConfigLabel"
+msgid "Configuration"
+msgstr ""
+
+#: rwf_Title
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:9
+#, java-format
+msgctxt "rwf_Title"
+msgid "Create a new JBoss Runtime"
+msgstr ""
+
+#: rwf_Explanation
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:10
+#, java-format
+msgctxt "rwf_Explanation"
+msgid ""
+"A JBoss Server runtime references a JBoss installation directory.\n"
+"It can be used to set up classpaths for projects which depend on this runtime,\n"
+"as well as by a \"server\" which will be able to start and stop instances of JBoss."
+msgstr ""
+
+#: rwf_BaseName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:11
+#, java-format
+msgctxt "rwf_BaseName"
+msgid "JBoss _VERSION_ Runtime"
+msgstr ""
+
+#: rwf_NameInUse
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:12
+#, java-format
+msgctxt "rwf_NameInUse"
+msgid "Runtime name already in use"
+msgstr ""
+
+#: rwf_homeMissingFiles
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:13
+#, java-format
+msgctxt "rwf_homeMissingFiles"
+msgid "The home directory does not exist or is missing the run.jar."
+msgstr ""
+
+#: rwf_homeIncorrectVersion
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:14
+#, java-format
+msgctxt "rwf_homeIncorrectVersion"
+msgid "This server type expects a version of {0} but the server directory is of version {1}."
+msgstr ""
+
+#: rwf_nameTextBlank
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:15
+#, java-format
+msgctxt "rwf_nameTextBlank"
+msgid "The name field must not be blank"
+msgstr ""
+
+#: rwf_homeDirBlank
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:16
+#, java-format
+msgctxt "rwf_homeDirBlank"
+msgid "The directory field must not be blank"
+msgstr ""
+
+#: rwf_NoVMSelected
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:17
+#, java-format
+msgctxt "rwf_NoVMSelected"
+msgid "No VM selected"
+msgstr ""
+
+#: JBAS_version
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:18
+#, java-format
+msgctxt "JBAS_version"
+msgid "JBoss Application Server {0}"
+msgstr ""
+
+#: JBEAP_version
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:19
+#, java-format
+msgctxt "JBEAP_version"
+msgid "JBoss Enterprise Application Platform {0}"
+msgstr ""
+
+#: swf_Title
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:20
+#, java-format
+msgctxt "swf_Title"
+msgid "Create a new JBoss Server"
+msgstr ""
+
+#: swf_RuntimeInformation
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:21
+#, java-format
+msgctxt "swf_RuntimeInformation"
+msgid "Runtime Information"
+msgstr ""
+
+#: swf_Explanation
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:22
+#, java-format
+msgctxt "swf_Explanation"
+msgid ""
+"A JBoss Server manages starting and stopping instances of JBoss. \n"
+"It manages command line arguments and keeps track of which modules have been deployed."
+msgstr ""
+
+#: swf_Explanation2
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:23
+#, java-format
+msgctxt "swf_Explanation2"
+msgid ""
+"If the runtime information below is incorrect, please press back, Installed Runtimes..., \n"
+"and then Add to create a new runtime from a different location."
+msgstr ""
+
+#: swf_AuthorizationDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:24
+#, java-format
+msgctxt "swf_AuthorizationDescription"
+msgid ""
+"Set the login and password for your server.\n"
+"This will ensure it starts and stops properly."
+msgstr ""
+
+#: swf_AuthenticationGroup
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:25
+#, java-format
+msgctxt "swf_AuthenticationGroup"
+msgid "Login Credentials"
+msgstr ""
+
+#: swf_Username
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:26
+#, java-format
+msgctxt "swf_Username"
+msgid "User Name"
+msgstr ""
+
+#: swf_Password
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:27
+#, java-format
+msgctxt "swf_Password"
+msgid "Password"
+msgstr ""
+
+#: swf_BaseName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:28
+#, java-format
+msgctxt "swf_BaseName"
+msgid "JBoss _VERSION_ Server"
+msgstr ""
+
+#: swf_NameInUse
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:29
+#, java-format
+msgctxt "swf_NameInUse"
+msgid "Server name already in use"
+msgstr ""
+
+#: swf_DeployGroup
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:30
+#, java-format
+msgctxt "swf_DeployGroup"
+msgid "Deployment"
+msgstr ""
+
+#: swf_DeployEditorHeading
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:31
+#, java-format
+msgctxt "swf_DeployEditorHeading"
+msgid "Deployment"
+msgstr ""
+
+#: swf_DeploymentDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:32
+#, java-format
+msgctxt "swf_DeploymentDescription"
+msgid ""
+"The temporary deployment location is where files will \n"
+"be copied to before being renamed into the deploy directory. \n"
+"This folder should be on the same file system \n"
+"as the deploy folder."
+msgstr ""
+
+#: swf_DeployDirectory
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:33
+#, java-format
+msgctxt "swf_DeployDirectory"
+msgid "Deploy Directory"
+msgstr ""
+
+#: swf_TempDeployDirectory
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:34
+#, java-format
+msgctxt "swf_TempDeployDirectory"
+msgid "Temporary Deploy Directory"
+msgstr ""
+
+#: sswf_Title
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:35
+#, java-format
+msgctxt "sswf_Title"
+msgid "Create a new System Copy Server"
+msgstr ""
+
+#: sswf_BaseName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:36
+#, java-format
+msgctxt "sswf_BaseName"
+msgid "Local Deployer"
+msgstr ""
+
+#. 
+#: credentials_warning
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:38
+#, java-format
+msgctxt "credentials_warning"
+msgid ""
+"Your server is responding to JMX inquiries with a Security Exception.\n"
+"You can try entering new credentials below, or you can double-click\n"
+"on your server and verify that the host, JNDI port, username, and password are accurate.\n"
+"You can also click \"ignore\" below to begin working with your server,\n"
+"but deploying to and stopping the server may not function properly."
+msgstr ""
+
+#: credentials_save
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:39
+#, java-format
+msgctxt "credentials_save"
+msgid "Save these credentials?"
+msgstr ""
+
+#. 
+#. Server View (server and categories, properties)
+#: property
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:42
+#, java-format
+msgctxt "property"
+msgid "Property"
+msgstr ""
+
+#: value
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:43
+#, java-format
+msgctxt "value"
+msgid "Value"
+msgstr ""
+
+#: ExtensionID
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:44
+#, java-format
+msgctxt "ExtensionID"
+msgid "Extension ID"
+msgstr ""
+
+#: ExtensionName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:45
+#, java-format
+msgctxt "ExtensionName"
+msgid "Extension Name"
+msgstr ""
+
+#: ExtensionDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:46
+#, java-format
+msgctxt "ExtensionDescription"
+msgid "Extension Description"
+msgstr ""
+
+#: ExtensionProviderClass
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:47
+#, java-format
+msgctxt "ExtensionProviderClass"
+msgid "Extension Provider Class"
+msgstr ""
+
+#. 
+#: RefreshViewerAction
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:49
+#, java-format
+msgctxt "RefreshViewerAction"
+msgid "Refresh Viewer"
+msgstr ""
+
+#: DisableCategoryAction
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:50
+#, java-format
+msgctxt "DisableCategoryAction"
+msgid "Disable Category"
+msgstr ""
+
+#: EditLaunchConfigurationAction
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:51
+#, java-format
+msgctxt "EditLaunchConfigurationAction"
+msgid "Edit Launch Configuration"
+msgstr ""
+
+#: TwiddleServerAction
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:52
+#, java-format
+msgctxt "TwiddleServerAction"
+msgid "Twiddle Server"
+msgstr ""
+
+#: CloneServerAction
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:53
+#, java-format
+msgctxt "CloneServerAction"
+msgid "Clone Server"
+msgstr ""
+
+#: ServerRuntimeVersion
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:54
+#, java-format
+msgctxt "ServerRuntimeVersion"
+msgid "Runtime Version"
+msgstr ""
+
+#: ServerHome
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:55
+#, java-format
+msgctxt "ServerHome"
+msgid "Home Directory"
+msgstr ""
+
+#: ServerConfigurationName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:56
+#, java-format
+msgctxt "ServerConfigurationName"
+msgid "Configuration Name"
+msgstr ""
+
+#: ServerDeployDir
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:57
+#, java-format
+msgctxt "ServerDeployDir"
+msgid "Deploy Directory"
+msgstr ""
+
+#. 
+#. Server View Dialog Heading
+#: ServerDialogHeading
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:60
+#, java-format
+msgctxt "ServerDialogHeading"
+msgid "JBoss Server"
+msgstr ""
+
+#. 
+#. View's Module extension
+#: ModulePropertyType
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:63
+#, java-format
+msgctxt "ModulePropertyType"
+msgid "Type"
+msgstr ""
+
+#: ModulePropertyProject
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:64
+#, java-format
+msgctxt "ModulePropertyProject"
+msgid "Project"
+msgstr ""
+
+#: ModulePropertyModuleFactory
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:65
+#, java-format
+msgctxt "ModulePropertyModuleFactory"
+msgid "Factory"
+msgstr ""
+
+#: ModulePropertyName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:66
+#, java-format
+msgctxt "ModulePropertyName"
+msgid "Name"
+msgstr ""
+
+#: DeleteModuleText
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:67
+#, java-format
+msgctxt "DeleteModuleText"
+msgid "Remove"
+msgstr ""
+
+#: FullPublishModuleText
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:68
+#, java-format
+msgctxt "FullPublishModuleText"
+msgid "Full Publish"
+msgstr ""
+
+#: IncrementalPublishModuleText
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:69
+#, java-format
+msgctxt "IncrementalPublishModuleText"
+msgid "Incremental Publish"
+msgstr ""
+
+#: DeleteModuleDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:70
+#, java-format
+msgctxt "DeleteModuleDescription"
+msgid "Remove this module from the server."
+msgstr ""
+
+#: PublishModuleDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:71
+#, java-format
+msgctxt "PublishModuleDescription"
+msgid "Force a republish action on this module."
+msgstr ""
+
+#: DeleteModuleConfirm
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:72
+#, java-format
+msgctxt "DeleteModuleConfirm"
+msgid "Are you sure you want to remove the module from the server?"
+msgstr ""
+
+#. 
+#. 
+#. Action Delegate
+#: ActionDelegateStartServer
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:76
+#, java-format
+msgctxt "ActionDelegateStartServer"
+msgid "Start Server"
+msgstr ""
+
+#: ActionDelegateStopServer
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:77
+#, java-format
+msgctxt "ActionDelegateStopServer"
+msgid "Stop Server"
+msgstr ""
+
+#: ActionDelegateDebugServer
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:78
+#, java-format
+msgctxt "ActionDelegateDebugServer"
+msgid "Start Server (Debug Mode)"
+msgstr ""
+
+#: ActionDelegateNew
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:79
+#, java-format
+msgctxt "ActionDelegateNew"
+msgid "New"
+msgstr ""
+
+#: ActionDelegateNewMBeanStubs
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:80
+#, java-format
+msgctxt "ActionDelegateNewMBeanStubs"
+msgid "New MBean Stubs"
+msgstr ""
+
+#: ActionDelegateNewServer
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:81
+#, java-format
+msgctxt "ActionDelegateNewServer"
+msgid "New Server"
+msgstr ""
+
+#: ActionDelegateMakeDeployable
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:82
+#, java-format
+msgctxt "ActionDelegateMakeDeployable"
+msgid "Make Deployable"
+msgstr ""
+
+#: ActionDelegateMakeUndeployable
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:83
+#, java-format
+msgctxt "ActionDelegateMakeUndeployable"
+msgid "Make Undeployable"
+msgstr ""
+
+#: ActionDelegateDeployableServersNotFoundTitle
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:84
+#, java-format
+msgctxt "ActionDelegateDeployableServersNotFoundTitle"
+msgid "No deployable servers found"
+msgstr ""
+
+#: ActionDelegateDeployableServersNotFoundDesc
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:85
+#, java-format
+msgctxt "ActionDelegateDeployableServersNotFoundDesc"
+msgid "There are no servers that support deploying single files."
+msgstr ""
+
+#: ActionDelegateCannotPublish
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:86
+#, java-format
+msgctxt "ActionDelegateCannotPublish"
+msgid "Cannot Publish To Server"
+msgstr ""
+
+#: ActionDelegatePublishFailed
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:87
+#, java-format
+msgctxt "ActionDelegatePublishFailed"
+msgid "Publishing files to server failed"
+msgstr ""
+
+#: ActionDelegateFileResourcesOnly
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:88
+#, java-format
+msgctxt "ActionDelegateFileResourcesOnly"
+msgid "One or more selected objects are not Files."
+msgstr ""
+
+#: ActionDelegateSelectServer
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:89
+#, java-format
+msgctxt "ActionDelegateSelectServer"
+msgid "Select a server to publish to"
+msgstr ""
+
+#. 
+#. Console
+#: ConsoleResourceNotFound
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:92
+#, java-format
+msgctxt "ConsoleResourceNotFound"
+msgid "Resource not found"
+msgstr ""
+
+#: ConsoleCouldNotLocateInWorkspace
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:93
+#, java-format
+msgctxt "ConsoleCouldNotLocateInWorkspace"
+msgid "Could not locate {0} in workspace."
+msgstr ""
+
+#. 
+#. Twiddle Dialog
+#: TwiddleDialog
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:96
+#, java-format
+msgctxt "TwiddleDialog"
+msgid "Twiddle Dialog"
+msgstr ""
+
+#: TwiddleDialogExecute
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:97
+#, java-format
+msgctxt "TwiddleDialogExecute"
+msgid "Execute Twiddle"
+msgstr ""
+
+#: TwiddleDialogDone
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:98
+#, java-format
+msgctxt "TwiddleDialogDone"
+msgid "Done"
+msgstr ""
+
+#: TwiddleDialogArguments
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:99
+#, java-format
+msgctxt "TwiddleDialogArguments"
+msgid "Twiddle Arguments:"
+msgstr ""
+
+#: TwiddleDialogTutorial
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:100
+#, java-format
+msgctxt "TwiddleDialogTutorial"
+msgid "Twiddle Tutorial"
+msgstr ""
+
+#. 
+#. 
+#. XPath Dialog
+#: XPathNewCategory
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:104
+#, java-format
+msgctxt "XPathNewCategory"
+msgid "New Category"
+msgstr ""
+
+#: XPathNewCategoryNameInUse
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:105
+#, java-format
+msgctxt "XPathNewCategoryNameInUse"
+msgid "Category Name In use."
+msgstr ""
+
+#: XPathCategoryName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:106
+#, java-format
+msgctxt "XPathCategoryName"
+msgid "Category Name"
+msgstr ""
+
+#: XPathNewXpath
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:107
+#, java-format
+msgctxt "XPathNewXpath"
+msgid "New XPath"
+msgstr ""
+
+#: XPathNameEmpty
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:108
+#, java-format
+msgctxt "XPathNameEmpty"
+msgid "Name must be set."
+msgstr ""
+
+#: XPathNameInUse
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:109
+#, java-format
+msgctxt "XPathNameInUse"
+msgid "Name already in use."
+msgstr ""
+
+#: XPathColumnLocation
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:110
+#, java-format
+msgctxt "XPathColumnLocation"
+msgid "Location"
+msgstr ""
+
+#: XPathColumnAttributeVals
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:111
+#, java-format
+msgctxt "XPathColumnAttributeVals"
+msgid "Value"
+msgstr ""
+
+#: XPathName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:112
+#, java-format
+msgctxt "XPathName"
+msgid "Name:"
+msgstr ""
+
+#: XPathPattern
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:113
+#, java-format
+msgctxt "XPathPattern"
+msgid "XPath Pattern:"
+msgstr ""
+
+#: XPathAttribute
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:114
+#, java-format
+msgctxt "XPathAttribute"
+msgid "Attribute Name:"
+msgstr ""
+
+#. 
+#. preference page
+#: PreferencePageServerTimeouts
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:118
+#, java-format
+msgctxt "PreferencePageServerTimeouts"
+msgid "Server Timeouts"
+msgstr ""
+
+#: PreferencePageStartTimeouts
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:119
+#, java-format
+msgctxt "PreferencePageStartTimeouts"
+msgid "Start Timeout"
+msgstr ""
+
+#: PreferencePageStopTimeouts
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:120
+#, java-format
+msgctxt "PreferencePageStopTimeouts"
+msgid "Stop Timeout"
+msgstr ""
+
+#: PreferencePageUponTimeout
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:121
+#, java-format
+msgctxt "PreferencePageUponTimeout"
+msgid "Upon Timeout:"
+msgstr ""
+
+#: PreferencePageUponTimeoutAbort
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:122
+#, java-format
+msgctxt "PreferencePageUponTimeoutAbort"
+msgid "Abort Server Transition"
+msgstr ""
+
+#: PreferencePageUponTimeoutIgnore
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:123
+#, java-format
+msgctxt "PreferencePageUponTimeoutIgnore"
+msgid "Set Server State to Target State"
+msgstr ""
+
+#. 
+#. View Preference Page
+#: ViewPreferencePageName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:126
+#, java-format
+msgctxt "ViewPreferencePageName"
+msgid "Name"
+msgstr ""
+
+#: ViewPreferencePageEnabled
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:127
+#, java-format
+msgctxt "ViewPreferencePageEnabled"
+msgid "Enabled"
+msgstr ""
+
+#: ViewPreferencePageWeight
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:128
+#, java-format
+msgctxt "ViewPreferencePageWeight"
+msgid "Weight"
+msgstr ""
+
+#: ViewPreferencePageDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:129
+#, java-format
+msgctxt "ViewPreferencePageDescription"
+msgid "Description"
+msgstr ""
+
+#. 
+#: ViewExtensionEnablementDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:131
+#, java-format
+msgctxt "ViewExtensionEnablementDescription"
+msgid ""
+"Below is a list of extensions that may be enabled for theJBoss Servers View. \n"
+" The enablement box designates whether the extension should be present.The weight field \n"
+"designates how \"heavy\" each extension is. (Heavier elements fall towards the bottom.)"
+msgstr ""
+
+#. 
+#: ViewExtensionPreferenceDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:135
+#, java-format
+msgctxt "ViewExtensionPreferenceDescription"
+msgid ""
+"Below, you may set or clear any preferences specific to each view extension above. \n"
+"Some extensions may have no preferences to set."
+msgstr ""
+
+#. 
+#. ##########################################
+#. ############# view providers
+#. ##########################################
+#. 
+#. Descriptor XPath
+#: DescriptorXPathRemoveCategory
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:142
+#, java-format
+msgctxt "DescriptorXPathRemoveCategory"
+msgid "Remove Category"
+msgstr ""
+
+#: DescriptorXPathRemoveCategoryDesc
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:143
+#, java-format
+msgctxt "DescriptorXPathRemoveCategoryDesc"
+msgid ""
+"Are you sure you want to delete this category and\n"
+"all of its elements?\n"
+" All sub-nodes will be lost."
+msgstr ""
+
+#: DescriptorXPathNewXPath
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:144
+#, java-format
+msgctxt "DescriptorXPathNewXPath"
+msgid "New XPath"
+msgstr ""
+
+#: DescriptorXPathEditXPath
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:145
+#, java-format
+msgctxt "DescriptorXPathEditXPath"
+msgid "Edit XPath"
+msgstr ""
+
+#: DescriptorXPathDeleteXPath
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:146
+#, java-format
+msgctxt "DescriptorXPathDeleteXPath"
+msgid "Delete XPath"
+msgstr ""
+
+#: DescriptorXPathAttributeValue
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:147
+#, java-format
+msgctxt "DescriptorXPathAttributeValue"
+msgid "Value"
+msgstr ""
+
+#: DescriptorXPathXPathXML
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:148
+#, java-format
+msgctxt "DescriptorXPathXPathXML"
+msgid "XPath / XML"
+msgstr ""
+
+#: DescriptorXPathAttributeKeyValue
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:149
+#, java-format
+msgctxt "DescriptorXPathAttributeKeyValue"
+msgid "Attribute Key / Value"
+msgstr ""
+
+#: DescriptorXPathDescriptorValues
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:150
+#, java-format
+msgctxt "DescriptorXPathDescriptorValues"
+msgid "Descriptor Values"
+msgstr ""
+
+#: DescriptorXPathNameLocation
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:151
+#, java-format
+msgctxt "DescriptorXPathNameLocation"
+msgid "Name / Location"
+msgstr ""
+
+#: DescriptorXPathServerName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:152
+#, java-format
+msgctxt "DescriptorXPathServerName"
+msgid "Server Name:"
+msgstr ""
+
+#: DescriptorXPathPortCategory
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:153
+#, java-format
+msgctxt "DescriptorXPathPortCategory"
+msgid "Port Category:"
+msgstr ""
+
+#: DescriptorXPathSimple
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:154
+#, java-format
+msgctxt "DescriptorXPathSimple"
+msgid "Show only xpath value in properties view."
+msgstr ""
+
+#: DescriptorXPathComplex
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:155
+#, java-format
+msgctxt "DescriptorXPathComplex"
+msgid "Show all details in properties view."
+msgstr ""
+
+#: DescriptorXPathMatch
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:156
+#, java-format
+msgctxt "DescriptorXPathMatch"
+msgid "Match"
+msgstr ""
+
+#. 
+#. Editor
+#: EditorUseWorkspaceMetadata
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:159
+#, java-format
+msgctxt "EditorUseWorkspaceMetadata"
+msgid "Use workspace metadata (does not modify JBoss deploy folder)"
+msgstr ""
+
+#: EditorUseServersDeployFolder
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:160
+#, java-format
+msgctxt "EditorUseServersDeployFolder"
+msgid "Use the JBoss deploy folder"
+msgstr ""
+
+#: EditorUseCustomDeployFolder
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:161
+#, java-format
+msgctxt "EditorUseCustomDeployFolder"
+msgid "Use a custom deploy folder"
+msgstr ""
+
+#: EditorSetDeployLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:162
+#, java-format
+msgctxt "EditorSetDeployLabel"
+msgid "Set Deploy Directory"
+msgstr ""
+
+#: EditorSetTempDeployLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:163
+#, java-format
+msgctxt "EditorSetTempDeployLabel"
+msgid "Set Temporary Deploy Directory"
+msgstr ""
+
+#: EditorSetRadioClicked
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:164
+#, java-format
+msgctxt "EditorSetRadioClicked"
+msgid "Set Deploy Location"
+msgstr ""
+
+#: EditorDeployDNE
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:165
+#, java-format
+msgctxt "EditorDeployDNE"
+msgid "The deploy directory \"{0}\" does not exist."
+msgstr ""
+
+#: EditorTempDeployDNE
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:166
+#, java-format
+msgctxt "EditorTempDeployDNE"
+msgid "The temporary deploy directory \"{0}\" does not exist."
+msgstr ""
+
+#: EditorStartupPollerLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:167
+#, java-format
+msgctxt "EditorStartupPollerLabel"
+msgid "Startup Poller"
+msgstr ""
+
+#: EditorShutdownPollerLabel
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:168
+#, java-format
+msgctxt "EditorShutdownPollerLabel"
+msgid "Shutdown Poller"
+msgstr ""
+
+#: EditorChangeStartPollerCommandName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:169
+#, java-format
+msgctxt "EditorChangeStartPollerCommandName"
+msgid "Change Startup Poller"
+msgstr ""
+
+#: EditorChangeStopPollerCommandName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:170
+#, java-format
+msgctxt "EditorChangeStopPollerCommandName"
+msgid "Change Shutdown Poller"
+msgstr ""
+
+#: EditorServerPorts
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:171
+#, java-format
+msgctxt "EditorServerPorts"
+msgid "Server Ports"
+msgstr ""
+
+#: EditorServerPortsDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:172
+#, java-format
+msgctxt "EditorServerPortsDescription"
+msgid ""
+"The ports entered here are which ports the tools\n"
+"will poll the server on. Changing these fields\n"
+"will not change the ports the server itself listens on."
+msgstr ""
+
+#: EditorJNDIPort
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:173
+#, java-format
+msgctxt "EditorJNDIPort"
+msgid "JNDI Port"
+msgstr ""
+
+#: EditorWebPort
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:174
+#, java-format
+msgctxt "EditorWebPort"
+msgid "Web Port"
+msgstr ""
+
+#: EditorAutomaticallyDetectPort
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:175
+#, java-format
+msgctxt "EditorAutomaticallyDetectPort"
+msgid "Automatically detect"
+msgstr ""
+
+#: EditorPortInvalid
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:176
+#, java-format
+msgctxt "EditorPortInvalid"
+msgid "One or more ports have an invalid value. This may adversely affect the tooling's ability to interact with the server."
+msgstr ""
+
+#: EditorChangeJNDICommandName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:177
+#, java-format
+msgctxt "EditorChangeJNDICommandName"
+msgid "Change JNDI Port Details"
+msgstr ""
+
+#: EditorChangeWebCommandName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:178
+#, java-format
+msgctxt "EditorChangeWebCommandName"
+msgid "Change Web Port Details"
+msgstr ""
+
+#: EditorChangeUsernameCommandName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:179
+#, java-format
+msgctxt "EditorChangeUsernameCommandName"
+msgid "Change Username"
+msgstr ""
+
+#: EditorChangePasswordCommandName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:180
+#, java-format
+msgctxt "EditorChangePasswordCommandName"
+msgid "Change Password"
+msgstr ""
+
+#: EditorCPD_Value
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:181
+#, java-format
+msgctxt "EditorCPD_Value"
+msgid "Current Value"
+msgstr ""
+
+#: EditorCPD_DefaultShellTitle
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:182
+#, java-format
+msgctxt "EditorCPD_DefaultShellTitle"
+msgid "Edit Port"
+msgstr ""
+
+#: EditorCPD_DefaultDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:183
+#, java-format
+msgctxt "EditorCPD_DefaultDescription"
+msgid ""
+"This wizard allows you to edit which xpath is used to locate a port used by the tooling.\n"
+"This will not change any server files, only what ports are used to interact with it."
+msgstr ""
+
+#: EditorCPD_RestoreDefault
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:184
+#, java-format
+msgctxt "EditorCPD_RestoreDefault"
+msgid "Restore Default"
+msgstr ""
+
+#: Configure
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:185
+#, java-format
+msgctxt "Configure"
+msgid "Configure..."
+msgstr ""
+
+#. 
+#. misc
+#: ServerSaveFailed
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:188
+#, java-format
+msgctxt "ServerSaveFailed"
+msgid "Server save failed"
+msgstr ""
+
+#. 
+#. Launch Config
+#: LaunchInvalidConfigChanged
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:191
+#, java-format
+msgctxt "LaunchInvalidConfigChanged"
+msgid "Configuration can only be changed by modifying the server's runtime."
+msgstr ""
+
+#: LaunchInvalidHostChanged
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/Messages.properties:192
+#, java-format
+msgctxt "LaunchInvalidHostChanged"
+msgid "The Host can only be changed in the Server Editor."
+msgstr ""
+
+#: START_IN_DEBUG_MODE
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/actions/messages.properties:1
+#, java-format
+msgctxt "START_IN_DEBUG_MODE"
+msgid "Start {0} in debug mode"
+msgstr ""
+
+#: RESTART_IN_DEBUG_MODE
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/actions/messages.properties:2
+#, java-format
+msgctxt "RESTART_IN_DEBUG_MODE"
+msgid "Restart {0} in debug mode"
+msgstr ""
+
+#: START_IN_RUN_MODE
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/actions/messages.properties:3
+#, java-format
+msgctxt "START_IN_RUN_MODE"
+msgid "Start {0}"
+msgstr ""
+
+#: RESTART_IN_RUN_MODE
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/actions/messages.properties:4
+#, java-format
+msgctxt "RESTART_IN_RUN_MODE"
+msgid "Restart {0}"
+msgstr ""
+
+#: SELECT_A_SERVER
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/actions/messages.properties:5
+#, java-format
+msgctxt "SELECT_A_SERVER"
+msgid "Select a default server"
+msgstr ""
+
+#: STOP_SERVER
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/actions/messages.properties:6
+#, java-format
+msgctxt "STOP_SERVER"
+msgid "Shutdown {0}"
+msgstr ""
+
+#: CHANGE_TIME_STAMP
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/actions/messages.properties:7
+#, java-format
+msgctxt "CHANGE_TIME_STAMP"
+msgid "Change Timestamp of {0}"
+msgstr ""
+
+#: CHANGE_TIME_STAMP_DEFAULT
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/jbossui/org/jboss/ide/eclipse/as/ui/actions/messages.properties:8
+#, java-format
+msgctxt "CHANGE_TIME_STAMP_DEFAULT"
+msgid "Touch descriptors"
+msgstr ""
+
+#: pluginName
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:1
+#, java-format
+msgctxt "pluginName"
+msgid "JBoss WTP Server Tools UI Plugin"
+msgstr ""
+
+#: jbossLaunchconfigurationTabGroupDescription
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:2
+#, java-format
+msgctxt "jbossLaunchconfigurationTabGroupDescription"
+msgid "Below is the launch configuration properties for starting JBoss Servers"
+msgstr ""
+
+#. 
+#: actionSets.modelActions.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:4
+#, java-format
+msgctxt "actionSets.modelActions.label"
+msgid "JBoss Tools Run Actions"
+msgstr ""
+
+#: actionSets.modelActions.description
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:5
+#, java-format
+msgctxt "actionSets.modelActions.description"
+msgid "Description For JBoss Tools Model Actions"
+msgstr ""
+
+#: actionSets.projectActions.saveModel.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:6
+#, java-format
+msgctxt "actionSets.projectActions.saveModel.label"
+msgid "Save Model"
+msgstr ""
+
+#. 
+#: actionSets.serverActions.selectServer.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:8
+#, java-format
+msgctxt "actionSets.serverActions.selectServer.label"
+msgid "JBoss Tools WTP Server Actions"
+msgstr ""
+
+#: actionSets.serverActions.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:9
+#, java-format
+msgctxt "actionSets.serverActions.label"
+msgid "JBoss Tools WTP Server Actions"
+msgstr ""
+
+#: actionSets.serverActions.description
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:10
+#, java-format
+msgctxt "actionSets.serverActions.description"
+msgid "Description for JBoss Tools WTP Server Actions"
+msgstr ""
+
+#: actionSets.serverActions.changeWebXmlTimeStamp.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:11
+#, java-format
+msgctxt "actionSets.serverActions.changeWebXmlTimeStamp.label"
+msgid "Touch descriptors"
+msgstr ""
+
+#: actionSets.serverActions.restartServer.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:12
+#, java-format
+msgctxt "actionSets.serverActions.restartServer.label"
+msgid "Restart Server"
+msgstr ""
+
+#: actionSets.serverActions.stopServer.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:13
+#, java-format
+msgctxt "actionSets.serverActions.stopServer.label"
+msgid "Stop Server"
+msgstr ""
+
+#: actionSets.serverActions.debugServer.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:14
+#, java-format
+msgctxt "actionSets.serverActions.debugServer.label"
+msgid "Start Server in Debug Mode"
+msgstr ""
+
+#: actionSets.serverActions.startServer.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:15
+#, java-format
+msgctxt "actionSets.serverActions.startServer.label"
+msgid "Start Server"
+msgstr ""
+
+#: actionSets.serverActions.runApplicationFromSelectedElement.label
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:16
+#, java-format
+msgctxt "actionSets.serverActions.runApplicationFromSelectedElement.label"
+msgid "Run Application from Selected Element"
+msgstr ""
+
+#: perspective.name
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:17
+#, java-format
+msgctxt "perspective.name"
+msgid "JBoss AS"
+msgstr ""
+
+#: ViewName_JBossServerView
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:18
+#, java-format
+msgctxt "ViewName_JBossServerView"
+msgid "JBoss Server View"
+msgstr ""
+
+#: ViewName_ServerLog
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:19
+#, java-format
+msgctxt "ViewName_ServerLog"
+msgid "Server Log"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:21
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "JBossAS Tools"
+msgstr ""
+
+#: NavigatorContent_ServersViewDefaultContent
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:22
+#, java-format
+msgctxt "NavigatorContent_ServersViewDefaultContent"
+msgid "Servers View Default Content"
+msgstr ""
+
+#: NavigatorContent_XMLConfiguration
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:23
+#, java-format
+msgctxt "NavigatorContent_XMLConfiguration"
+msgid "XML Configuration"
+msgstr ""
+
+#: NavigatorContent_JMX
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.ui/plugin.properties:24
+#, java-format
+msgctxt "NavigatorContent_JMX"
+msgid "JMX"
+msgstr ""
+

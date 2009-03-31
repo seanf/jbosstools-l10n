@@ -1,0 +1,84 @@
+#SOME DESCRIPTIVE TITLE.
+#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+#This file is distributed under the same license as the PACKAGE package.
+#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-31 17:37+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+""
+
+#. ##############################################################################
+#. Copyright (c) 2009 JBoss, a division of Red Hat and others.
+#. All rights reserved. This program and the accompanying materials
+#. are made available under the terms of the Eclipse Public License v1.0
+#. which accompanies this distribution, and is available at
+#. http://www.eclipse.org/legal/epl-v10.html
+#. 
+#. Contributors:
+#. JBoss, a division of Red Hat - Initial implementation.
+#. #############################################################################
+#. feature.properties
+#. contains externalized strings for feature.xml
+#. "%foo" in feature.xml corresponds to the key "foo" in this file
+#. java.io.Properties file (ISO 8859-1 with "\" escapes)
+#. This file should be translated.
+#. 
+#. "featureName" property - name of the feature
+#: featureName
+#: ../../../flow/features/org.jboss.tools.flow.common.feature/feature.properties:18
+#, java-format
+msgctxt "featureName"
+msgid "Flow Common Feature"
+msgstr ""
+
+#. 
+#. "providerName" property - name of the company that provides the feature
+#: providerName
+#: ../../../flow/features/org.jboss.tools.flow.common.feature/feature.properties:21
+#, java-format
+msgctxt "providerName"
+msgid "JBoss, a division of Red Hat"
+msgstr ""
+
+#. 
+#. "updateSiteName" property - label for the update site
+#: updateSiteName
+#: ../../../flow/features/org.jboss.tools.flow.common.feature/feature.properties:24
+#, java-format
+msgctxt "updateSiteName"
+msgid "JBossTools Update Site"
+msgstr ""
+
+#. 
+#: devUpdateSiteName
+#: ../../../flow/features/org.jboss.tools.flow.common.feature/feature.properties:26
+#, java-format
+msgctxt "devUpdateSiteName"
+msgid "JBossTools Development Update Site"
+msgstr ""
+
+#. Properties file for org.jboss.tools.flow.common
+#: Bundle-Vendor.0
+#: ../../../flow/plugins/org.jboss.tools.flow.common/plugin.properties:2
+#, java-format
+msgctxt "Bundle-Vendor.0"
+msgid "JBoss"
+msgstr ""
+
+#: Bundle-Name.0
+#: ../../../flow/plugins/org.jboss.tools.flow.common/plugin.properties:3
+#, java-format
+msgctxt "Bundle-Name.0"
+msgid "JBoss Tools Process Plug-in"
+msgstr ""
+
