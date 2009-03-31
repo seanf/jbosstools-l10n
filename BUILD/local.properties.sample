@@ -1,5 +1,5 @@
 # NB no trailing / :
-jbosstoolssrc: ${user.home}/src/jbosstools
+jbosstoolssrc: ..
 
 
 jbosstoolszip: ${user.home}/Download/jbosstools/JBossTools-ALL-win32-3.0.0.GA-R200903040656-H10.zip
