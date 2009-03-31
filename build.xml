@@ -1,8 +1,8 @@
 <project xmlns:artifact="urn:maven-artifact-ant">
 	<property name="build.dir" value="${basedir}/BUILD"/>
 
-	<property file="${build.dir}/i18n.properties" />
 	<property file="${build.dir}/local.properties" />
+	<property file="${build.dir}/i18n.properties" />
 
 	<property name="jbosstools.src" location="${jbosstoolssrc}"/>
 

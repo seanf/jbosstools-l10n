@@ -1,5 +1,6 @@
+# You will need to override this unless you check out jbosstools-l10n under src/jbosstools/
 # NB no trailing / :
-jbosstoolssrc: ..
+#jbosstoolssrc: ..
 
 
 jbosstoolszip: ${user.home}/Download/jbosstools/JBossTools-ALL-win32-3.0.0.GA-R200903040656-H10.zip
