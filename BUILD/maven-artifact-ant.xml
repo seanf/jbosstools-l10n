@@ -1,0 +1,31 @@
+<project>
+	<!-- Fetch Maven Ant Tasks jar: -->
+
+	<target name="-init-maven-props" unless="initmavenprops.done">
+		<property name="maven.version" value="2.0.9" />
+		<xmlproperty file="${user.home}/.m2/settings.xml" prefix="m2"/>
+		<condition property="localRepo" value="${m2.settings.localRepository}">
+			<isset property="m2.settings.localRepository"/>
+		</condition>
+		<condition property="localRepo" value="${user.home}/.m2/repository">
+			<not><isset property="localRepo"/></not>
+		</condition>
+		<property name="maven-artifact-ant.jardir" location="${localRepo}/org/apache/maven/maven-ant-tasks/${maven.version}" />
+		<property name="maven-artifact-ant.jar" location="${maven-artifact-ant.jardir}/maven-ant-tasks-${maven.version}.jar" />
+		<available property="-get-maven-artifact-ant-done" file="${maven-artifact-ant.jar}" />
+        <property name="initmavenprops.done" value="true" />
+	</target>
+
+	<target name="-get-maven-artifact-ant" depends="-init-maven-props" unless="-get-maven-artifact-ant-done">
+		<mkdir dir="${maven-artifact-ant.jardir}" />
+		<get src="http://repository.jboss.com/maven2/org/apache/maven/maven-ant-tasks/${maven.version}/maven-ant-tasks-${maven.version}.jar" 
+			dest="${maven-artifact-ant.jar}" />
+	</target>
+
+	<target name="-init-maven" depends="-get-maven-artifact-ant" unless="initmaven.done">
+		<path id="maven-ant-tasks.classpath" path="${maven-artifact-ant.jar}" />
+		<typedef resource="org/apache/maven/artifact/ant/antlib.xml" uri="urn:maven-artifact-ant" classpathref="maven-ant-tasks.classpath" />
+        <property name="initmaven.done" value="true" />
+	</target>
+
+</project>

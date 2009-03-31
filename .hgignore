@@ -1,0 +1,7 @@
+target
+.ant-targets-build.xml
+BUILD/local.properties
+WORK
+.git
+syntax: glob
+*~

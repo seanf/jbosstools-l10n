@@ -1,0 +1,9 @@
+# NB no trailing / :
+jbosstoolssrc: ${user.home}/src/jbosstools
+
+
+jbosstoolszip: ${user.home}/Download/jbosstools/JBossTools-ALL-win32-3.0.0.GA-R200903040656-H10.zip
+langpackzip: ${user.home}/Download/jbosstools/NLpackja-JBossTools-ALL-win32-3.0.0.GA-R200903040656-H10-20090307C.zip
+
+import.locale: ja
+fuzzy.locale: ja
