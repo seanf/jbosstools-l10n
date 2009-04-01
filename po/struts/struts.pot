@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-03-31 17:37+1000\n"
+"POT-Creation-Date: 2009-04-01 16:58+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -114,114 +114,6 @@ msgstr ""
 #, java-format
 msgctxt "licenseURL"
 msgid "license.html"
-msgstr ""
-
-#. 
-#. 
-#. "license" property - text of the "Feature Update License"
-#. should be plain text version of license agreement pointed to be "licenseURL"
-#: license
-#: ../../../struts/features/org.jboss.tools.struts.feature/feature.properties:85
-#, java-format
-msgctxt "license"
-msgid ""
-"ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
-"March 17, 2005\n"
-"\n"
-"Usage Of Content\n"
-"\n"
-"THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION AND/OR\n"
-"OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\").\n"
-"USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS\n"
-"AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR\n"
-"NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU\n"
-"AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT\n"
-"AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS\n"
-"OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE\n"
-"TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS\n"
-"OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED\n"
-"BELOW, THEN YOU MAY NOT USE THE CONTENT.\n"
-"\n"
-"Applicable Licenses\n"
-"\n"
-"Unless otherwise indicated, all Content made available by the Eclipse Foundation\n"
-"is provided to you under the terms and conditions of the Eclipse Public\n"
-"License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this\n"
-"Content and is also available at http://www.eclipse.org/legal/epl-v10.html.\n"
-"For purposes of the EPL, \"Program\" will mean the Content.\n"
-"\n"
-"Content includes, but is not limited to, source code, object code,\n"
-"documentation and other files maintained in the Eclipse.org CVS\n"
-"repository (\"Repository\") in CVS modules (\"Modules\") and made available\n"
-"as downloadable archives (\"Downloads\").\n"
-"\n"
-"- Content may be structured and packaged into modules to facilitate delivering,\n"
-"extending, and upgrading the Content. Typical modules may include plug-ins (\"Plug-ins\"),\n"
-"plug-in fragments (\"Fragments\"), and features (\"Features\").\n"
-"- Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java? ARchive)\n"
-"in a directory named \"plugins\".\n"
-"- A Feature is a bundle of one or more Plug-ins and/or Fragments and associated material.\n"
-"Each Feature may be packaged as a sub-directory in a directory named \"features\".\n"
-"Within a Feature, files named \"feature.xml\" may contain a list of the names and version\n"
-"numbers of the Plug-ins and/or Fragments associated with that Feature.\n"
-"- Features may also include other Features (\"Included Features\"). Within a Feature, files\n"
-"named \"feature.xml\" may contain a list of the names and version numbers of Included Features.\n"
-"\n"
-"Features may also include other Features (\"Included Features\"). Files named\n"
-"\"feature.xml\" may contain a list of the names and version numbers of\n"
-"Included Features.\n"
-"\n"
-"The terms and conditions governing Plug-ins and Fragments should be\n"
-"contained in files named \"about.html\" (\"Abouts\"). The terms and\n"
-"conditions governing Features and Included Features should be contained\n"
-"in files named \"license.html\" (\"Feature Licenses\"). Abouts and Feature\n"
-"Licenses may be located in any directory of a Download or Module\n"
-"including, but not limited to the following locations:\n"
-"\n"
-"- The top-level (root) directory\n"
-"- Plug-in and Fragment directories\n"
-"- Inside Plug-ins and Fragments packaged as JARs\n"
-"- Sub-directories of the directory named \"src\" of certain Plug-ins\n"
-"- Feature directories\n"
-"\n"
-"Note: if a Feature made available by the Eclipse Foundation is installed using the\n"
-"Eclipse Update Manager, you must agree to a license (\"Feature Update\n"
-"License\") during the installation process. If the Feature contains\n"
-"Included Features, the Feature Update License should either provide you\n"
-"with the terms and conditions governing the Included Features or inform\n"
-"you where you can locate them. Feature Update Licenses may be found in\n"
-"the \"license\" property of files named \"feature.properties\". Such Abouts,\n"
-"Feature Licenses and Feature Update Licenses contain the terms and\n"
-"conditions (or references to such terms and conditions) that govern your\n"
-"use of the associated Content in that directory.\n"
-"\n"
-"THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER\n"
-"TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS.\n"
-"SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED TO):\n"
-"\n"
-"- Common Public License Version 1.0 (available at http://www.eclipse.org/legal/cpl-v10.html)\n"
-"- Apache Software License 1.1 (available at http://www.apache.org/licenses/LICENSE)\n"
-"- Apache Software License 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0)\n"
-"- IBM Public License 1.0 (available at http://oss.software.ibm.com/developerworks/opensource/license10.html)\n"
-"- Metro Link Public License 1.00 (available at http://www.opengroup.org/openmotif/supporters/metrolink/license.html)\n"
-"- Mozilla Public License Version 1.1 (available at http://www.mozilla.org/MPL/MPL-1.1.html)\n"
-"\n"
-"IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS PRIOR\n"
-"TO USE OF THE CONTENT. If no About, Feature License or Feature Update License\n"
-"is provided, please contact the Eclipse Foundation to determine what terms and conditions\n"
-"govern that particular Content.\n"
-"\n"
-"Cryptography\n"
-"\n"
-"Content may contain encryption software. The country in which you are\n"
-"currently may have restrictions on the import, possession, and use,\n"
-"and/or re-export to another country, of encryption software. BEFORE\n"
-"using any encryption software, please check the country's laws,\n"
-"regulations and policies concerning the import, possession, or use,\n"
-"and re-export of encryption software, to see if this is permitted.\n"
-"\n"
-"Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. in the United States, other countries, or both.\n"
-""
 msgstr ""
 
 #. 
@@ -822,15 +714,6 @@ msgid "Plug-in Insets"
 msgstr ""
 
 #. 
-#. ##### Attribute Depends #####
-#: Wizard_Validation_Dependency
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:5
-#, java-format
-msgctxt "Wizard_Validation_Dependency"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #. 
 #. 
 #. 
@@ -839,7 +722,7 @@ msgstr ""
 #. 
 #. ##### Attribute Depends #####
 #: Wizard_Validation_Dependency.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:7
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:11
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1319
 #, java-format
 msgctxt "Wizard_Validation_Dependency.WindowTitle"
@@ -849,7 +732,7 @@ msgstr ""
 #. 
 #. 
 #: Wizard_Validation_Dependency.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:9
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:13
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1321
 #, java-format
 msgctxt "Wizard_Validation_Dependency.Title"
@@ -857,26 +740,8 @@ msgid "Validation Field"
 msgstr ""
 
 #. 
-#. 
-#. ##### File *.tld 1.2 #####
-#: FileTLD_1_2
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:17
-#, java-format
-msgctxt "FileTLD_1_2"
-msgid "/struts/FileTLD_1_2.html"
-msgstr ""
-
-#. 
-#: FileTLD_1_2_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:21
-#, java-format
-msgctxt "FileTLD_1_2_Properties"
-msgid "/struts/FileTLD_1_2_Properties.html"
-msgstr ""
-
-#. 
 #: FileTLD_1_2_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:23
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:35
 #, java-format
 msgctxt "FileTLD_1_2_Properties.WindowTitle"
 msgid "Properties"
@@ -884,23 +749,15 @@ msgstr ""
 
 #. 
 #: FileTLD_1_2_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:25
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:37
 #, java-format
 msgctxt "FileTLD_1_2_Properties.Title"
 msgid "File TLD"
 msgstr ""
 
 #. 
-#: FileTLD_1_2_CreateListener
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:29
-#, java-format
-msgctxt "FileTLD_1_2_CreateListener"
-msgid "/struts/FileTLD_1_2_CreateListener.html"
-msgstr ""
-
-#. 
 #: FileTLD_1_2_CreateListener.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:31
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:47
 #, java-format
 msgctxt "FileTLD_1_2_CreateListener.WindowTitle"
 msgid "Add Listener"
@@ -908,23 +765,15 @@ msgstr ""
 
 #. 
 #: FileTLD_1_2_CreateListener.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:33
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:49
 #, java-format
 msgctxt "FileTLD_1_2_CreateListener.Title"
 msgid "TLD Listener"
 msgstr ""
 
 #. 
-#: FileTLD_1_2_CreateTag
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:37
-#, java-format
-msgctxt "FileTLD_1_2_CreateTag"
-msgid "/struts/FileTLD_1_2_CreateTag.html"
-msgstr ""
-
-#. 
 #: FileTLD_1_2_CreateTag.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:39
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:59
 #, java-format
 msgctxt "FileTLD_1_2_CreateTag.WindowTitle"
 msgid "Add Tag"
@@ -932,23 +781,15 @@ msgstr ""
 
 #. 
 #: FileTLD_1_2_CreateTag.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:41
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:61
 #, java-format
 msgctxt "FileTLD_1_2_CreateTag.Title"
 msgid "TLD Tag"
 msgstr ""
 
 #. 
-#: FileTLD_1_2_CreateValidator
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:45
-#, java-format
-msgctxt "FileTLD_1_2_CreateValidator"
-msgid "/struts/FileTLD_1_2_CreateValidator.html"
-msgstr ""
-
-#. 
 #: FileTLD_1_2_CreateValidator.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:47
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:71
 #, java-format
 msgctxt "FileTLD_1_2_CreateValidator.WindowTitle"
 msgid "Add Validator"
@@ -956,31 +797,15 @@ msgstr ""
 
 #. 
 #: FileTLD_1_2_CreateValidator.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:49
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:73
 #, java-format
 msgctxt "FileTLD_1_2_CreateValidator.Title"
 msgid "TLD Validator"
 msgstr ""
 
 #. 
-#: FileTLD_PRO
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:53
-#, java-format
-msgctxt "FileTLD_PRO"
-msgid "/struts/FileTLD.html"
-msgstr ""
-
-#. 
-#: FileTLD_PRO_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:57
-#, java-format
-msgctxt "FileTLD_PRO_Properties"
-msgid "/struts/FileTLD_Properties.html"
-msgstr ""
-
-#. 
 #: FileTLD_PRO_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:59
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:91
 #, java-format
 msgctxt "FileTLD_PRO_Properties.WindowTitle"
 msgid "Properties"
@@ -988,23 +813,15 @@ msgstr ""
 
 #. 
 #: FileTLD_PRO_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:61
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:93
 #, java-format
 msgctxt "FileTLD_PRO_Properties.Title"
 msgid "File TLD"
 msgstr ""
 
 #. 
-#: FileTLD_PRO_CreateTag
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:65
-#, java-format
-msgctxt "FileTLD_PRO_CreateTag"
-msgid "/struts/FileTLD_CreateTag.html"
-msgstr ""
-
-#. 
 #: FileTLD_PRO_CreateTag.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:67
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:103
 #, java-format
 msgctxt "FileTLD_PRO_CreateTag.WindowTitle"
 msgid "Add Tag"
@@ -1012,33 +829,15 @@ msgstr ""
 
 #. 
 #: FileTLD_PRO_CreateTag.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:69
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:105
 #, java-format
 msgctxt "FileTLD_PRO_CreateTag.Title"
 msgid "TLD Tag"
 msgstr ""
 
 #. 
-#. 
-#. #### TLD Tag #####
-#: TLDTag
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:77
-#, java-format
-msgctxt "TLDTag"
-msgid "/struts_pro/TLDTag.html"
-msgstr ""
-
-#. 
-#: TLDTag_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:81
-#, java-format
-msgctxt "TLDTag_Properties"
-msgid "/struts_pro/TLDTag_Properties.html"
-msgstr ""
-
-#. 
 #: TLDTag_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:83
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:127
 #, java-format
 msgctxt "TLDTag_Properties.WindowTitle"
 msgid "Properties"
@@ -1046,23 +845,15 @@ msgstr ""
 
 #. 
 #: TLDTag_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:85
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:129
 #, java-format
 msgctxt "TLDTag_Properties.Title"
 msgid "TLD Tag"
 msgstr ""
 
 #. 
-#: TLDTag_CreateAttribute
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:89
-#, java-format
-msgctxt "TLDTag_CreateAttribute"
-msgid "/struts_pro/TLDTag_CreateAttribute.html"
-msgstr ""
-
-#. 
 #: TLDTag_CreateAttribute.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:91
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:139
 #, java-format
 msgctxt "TLDTag_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
@@ -1070,31 +861,15 @@ msgstr ""
 
 #. 
 #: TLDTag_CreateAttribute.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:93
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:141
 #, java-format
 msgctxt "TLDTag_CreateAttribute.Title"
 msgid "TLD Attribute"
 msgstr ""
 
 #. 
-#: TLDTag12
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:97
-#, java-format
-msgctxt "TLDTag12"
-msgid "/struts_pro/TLDTag12.html"
-msgstr ""
-
-#. 
-#: TLDTag12_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:101
-#, java-format
-msgctxt "TLDTag12_Properties"
-msgid "/struts_pro/TLDTag12_Properties.html"
-msgstr ""
-
-#. 
 #: TLDTag12_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:103
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:159
 #, java-format
 msgctxt "TLDTag12_Properties.WindowTitle"
 msgid "Properties"
@@ -1102,23 +877,15 @@ msgstr ""
 
 #. 
 #: TLDTag12_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:105
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:161
 #, java-format
 msgctxt "TLDTag12_Properties.Title"
 msgid "TLD Tag"
 msgstr ""
 
 #. 
-#: TLDTag12_CreateVariable
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:109
-#, java-format
-msgctxt "TLDTag12_CreateVariable"
-msgid "/struts_pro/TLDTag12_CreateVariable.html"
-msgstr ""
-
-#. 
 #: TLDTag12_CreateVariable.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:111
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:171
 #, java-format
 msgctxt "TLDTag12_CreateVariable.WindowTitle"
 msgid "Add Variable"
@@ -1126,23 +893,15 @@ msgstr ""
 
 #. 
 #: TLDTag12_CreateVariable.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:113
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:173
 #, java-format
 msgctxt "TLDTag12_CreateVariable.Title"
 msgid "TLD Variable"
 msgstr ""
 
 #. 
-#: TLDTag12_CreateAttribute
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:117
-#, java-format
-msgctxt "TLDTag12_CreateAttribute"
-msgid "/struts_pro/TLDTag12_CreateAttribute.html"
-msgstr ""
-
-#. 
 #: TLDTag12_CreateAttribute.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:119
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:183
 #, java-format
 msgctxt "TLDTag12_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
@@ -1150,33 +909,15 @@ msgstr ""
 
 #. 
 #: TLDTag12_CreateAttribute.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:121
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:185
 #, java-format
 msgctxt "TLDTag12_CreateAttribute.Title"
 msgid "TLD Attribute"
 msgstr ""
 
 #. 
-#. 
-#. #### TLD Attribute #####
-#: TLDAttribute
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:129
-#, java-format
-msgctxt "TLDAttribute"
-msgid "/struts_pro/TLDAttribute.html"
-msgstr ""
-
-#. 
-#: TLDAttribute_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:133
-#, java-format
-msgctxt "TLDAttribute_Properties"
-msgid "/struts_pro/TLDAttribute_Properties.html"
-msgstr ""
-
-#. 
 #: TLDAttribute_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:135
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:207
 #, java-format
 msgctxt "TLDAttribute_Properties.WindowTitle"
 msgid "Properties"
@@ -1184,31 +925,15 @@ msgstr ""
 
 #. 
 #: TLDAttribute_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:137
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:209
 #, java-format
 msgctxt "TLDAttribute_Properties.Title"
 msgid "TLD Attribute"
 msgstr ""
 
 #. 
-#: TLDAttribute12
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:141
-#, java-format
-msgctxt "TLDAttribute12"
-msgid "/struts_pro/TLDAttribute12.html"
-msgstr ""
-
-#. 
-#: TLDAttribute12_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:145
-#, java-format
-msgctxt "TLDAttribute12_Properties"
-msgid "/struts_pro/TLDAttribute12_Properties.html"
-msgstr ""
-
-#. 
 #: TLDAttribute12_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:147
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:227
 #, java-format
 msgctxt "TLDAttribute12_Properties.WindowTitle"
 msgid "Properties"
@@ -1216,33 +941,15 @@ msgstr ""
 
 #. 
 #: TLDAttribute12_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:149
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:229
 #, java-format
 msgctxt "TLDAttribute12_Properties.Title"
 msgid "TLD Attribute"
 msgstr ""
 
 #. 
-#. 
-#. #### TLD 1.2 Variable #####
-#: TLDVariable
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:157
-#, java-format
-msgctxt "TLDVariable"
-msgid "/struts_pro/TLDVariable.html"
-msgstr ""
-
-#. 
-#: TLDVariable_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:161
-#, java-format
-msgctxt "TLDVariable_Properties"
-msgid "/struts_pro/TLDVariable_Properties.html"
-msgstr ""
-
-#. 
 #: TLDVariable_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:163
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:251
 #, java-format
 msgctxt "TLDVariable_Properties.WindowTitle"
 msgid "Properties"
@@ -1250,23 +957,15 @@ msgstr ""
 
 #. 
 #: TLDVariable_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:165
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:253
 #, java-format
 msgctxt "TLDVariable_Properties.Title"
 msgid "TLD Variable"
 msgstr ""
 
 #. 
-#: TLDVariable_CreateInitParam
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:169
-#, java-format
-msgctxt "TLDVariable_CreateInitParam"
-msgid "/struts_pro/WebAppServlet_CreateInitParam.html"
-msgstr ""
-
-#. 
 #: TLDVariable_CreateInitParam.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:171
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:263
 #, java-format
 msgctxt "TLDVariable_CreateInitParam.WindowTitle"
 msgid "Add Init Param"
@@ -1274,33 +973,15 @@ msgstr ""
 
 #. 
 #: TLDVariable_CreateInitParam.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:173
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:265
 #, java-format
 msgctxt "TLDVariable_CreateInitParam.Title"
 msgid "TLD Init Param"
 msgstr ""
 
 #. 
-#. 
-#. #### TLD 1.2 Validator #####
-#: TLDValidator
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:181
-#, java-format
-msgctxt "TLDValidator"
-msgid "/struts_pro/TLDValidator.html"
-msgstr ""
-
-#. 
-#: TLDValidator_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:185
-#, java-format
-msgctxt "TLDValidator_Properties"
-msgid "/struts_pro/TLDValidator.html"
-msgstr ""
-
-#. 
 #: TLDValidator_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:187
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:287
 #, java-format
 msgctxt "TLDValidator_Properties.WindowTitle"
 msgid "Properties"
@@ -1308,23 +989,15 @@ msgstr ""
 
 #. 
 #: TLDValidator_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:189
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:289
 #, java-format
 msgctxt "TLDValidator_Properties.Title"
 msgid "TLD Validator"
 msgstr ""
 
 #. 
-#: TLDValidator_CreateInitParam
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:193
-#, java-format
-msgctxt "TLDValidator_CreateInitParam"
-msgid "/struts_pro/WebAppServlet_CreateInitParam.html"
-msgstr ""
-
-#. 
 #: TLDValidator_CreateInitParam.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:195
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:299
 #, java-format
 msgctxt "TLDValidator_CreateInitParam.WindowTitle"
 msgid "Add Init Param"
@@ -1332,33 +1005,15 @@ msgstr ""
 
 #. 
 #: TLDValidator_CreateInitParam.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:197
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:301
 #, java-format
 msgctxt "TLDValidator_CreateInitParam.Title"
 msgid "TLD Init Param"
 msgstr ""
 
 #. 
-#. 
-#. #### TLD 1.2 Listener #####
-#: TLDListener
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:203
-#, java-format
-msgctxt "TLDListener"
-msgid "/struts_pro/TLDListener.html"
-msgstr ""
-
-#. 
-#: TLDListener_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:207
-#, java-format
-msgctxt "TLDListener_Properties"
-msgid "/struts_pro/TLDListener.html"
-msgstr ""
-
-#. 
 #: TLDListener_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:209
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:321
 #, java-format
 msgctxt "TLDListener_Properties.WindowTitle"
 msgid "Properties"
@@ -1366,33 +1021,15 @@ msgstr ""
 
 #. 
 #: TLDListener_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:211
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:323
 #, java-format
 msgctxt "TLDListener_Properties.Title"
 msgid "TLD Listener"
 msgstr ""
 
 #. 
-#. 
-#. #### TLD Taglib element #####
-#: TLDTaglib
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:219
-#, java-format
-msgctxt "TLDTaglib"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: TLDTaglib_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:223
-#, java-format
-msgctxt "TLDTaglib_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #: TLDTaglib_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:225
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:345
 #, java-format
 msgctxt "TLDTaglib_Properties.WindowTitle"
 msgid "Properties"
@@ -1400,23 +1037,15 @@ msgstr ""
 
 #. 
 #: TLDTaglib_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:227
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:347
 #, java-format
 msgctxt "TLDTaglib_Properties.Title"
 msgid "TLD Taglib"
 msgstr ""
 
 #. 
-#: TLDTaglib_CreateTag
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:231
-#, java-format
-msgctxt "TLDTaglib_CreateTag"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #: TLDTaglib_CreateTag.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:233
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:357
 #, java-format
 msgctxt "TLDTaglib_CreateTag.WindowTitle"
 msgid "Add Tag"
@@ -1424,34 +1053,15 @@ msgstr ""
 
 #. 
 #: TLDTaglib_CreateTag.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:235
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:359
 #, java-format
 msgctxt "TLDTaglib_CreateTag.Title"
 msgid "TLD Tag"
 msgstr ""
 
 #. 
-#. 
-#. 
-#. #### File Tiles #####
-#: FileTiles
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:245
-#, java-format
-msgctxt "FileTiles"
-msgid "/struts_pro/FileTiles.html"
-msgstr ""
-
-#. 
-#: FileTiles_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:249
-#, java-format
-msgctxt "FileTiles_Properties"
-msgid "/struts_pro/FileTiles_Properties.html"
-msgstr ""
-
-#. 
 #: FileTiles_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:251
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:383
 #, java-format
 msgctxt "FileTiles_Properties.WindowTitle"
 msgid "Properties"
@@ -1459,23 +1069,15 @@ msgstr ""
 
 #. 
 #: FileTiles_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:253
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:385
 #, java-format
 msgctxt "FileTiles_Properties.Title"
 msgid "File Tiles"
 msgstr ""
 
 #. 
-#: FileTiles_CreateDefinition
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:257
-#, java-format
-msgctxt "FileTiles_CreateDefinition"
-msgid "/struts_pro/FileTiles_CreateDefinition.html"
-msgstr ""
-
-#. 
 #: FileTiles_CreateDefinition.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:259
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:395
 #, java-format
 msgctxt "FileTiles_CreateDefinition.WindowTitle"
 msgid "Add Definition"
@@ -1483,25 +1085,15 @@ msgstr ""
 
 #. 
 #: FileTiles_CreateDefinition.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:261
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:397
 #, java-format
 msgctxt "FileTiles_CreateDefinition.Title"
 msgid "Tiles Definition"
 msgstr ""
 
 #. 
-#. 
-#. #### Creating File Tiles #####
-#: FileFolder_CreateTiles
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:269
-#, java-format
-msgctxt "FileFolder_CreateTiles"
-msgid "/struts_pro/FileFolder_CreateTiles.html"
-msgstr ""
-
-#. 
 #: FileFolder_CreateTiles.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:271
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:411
 #, java-format
 msgctxt "FileFolder_CreateTiles.WindowTitle"
 msgid "New Tiles File"
@@ -1509,23 +1101,15 @@ msgstr ""
 
 #. 
 #: FileFolder_CreateTiles.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:273
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:413
 #, java-format
 msgctxt "FileFolder_CreateTiles.Title"
 msgid "Tiles File"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateTiles
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:277
-#, java-format
-msgctxt "FileSystemFolder_CreateTiles"
-msgid "/struts_pro/FileFolder_CreateTiles.html"
-msgstr ""
-
-#. 
 #: FileSystemFolder_CreateTiles.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:279
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:423
 #, java-format
 msgctxt "FileSystemFolder_CreateTiles.WindowTitle"
 msgid "New Tiles File"
@@ -1533,33 +1117,15 @@ msgstr ""
 
 #. 
 #: FileSystemFolder_CreateTiles.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:281
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:425
 #, java-format
 msgctxt "FileSystemFolder_CreateTiles.Title"
 msgid "Tiles File"
 msgstr ""
 
 #. 
-#. 
-#. #### Tiles Add element #####
-#: TilesAdd
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:289
-#, java-format
-msgctxt "TilesAdd"
-msgid "/struts_pro/TilesAdd.html"
-msgstr ""
-
-#. 
-#: TilesAdd_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:293
-#, java-format
-msgctxt "TilesAdd_Properties"
-msgid "/struts_pro/TilesAdd.html"
-msgstr ""
-
-#. 
 #: TilesAdd_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:295
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:447
 #, java-format
 msgctxt "TilesAdd_Properties.WindowTitle"
 msgid "Properties"
@@ -1567,33 +1133,15 @@ msgstr ""
 
 #. 
 #: TilesAdd_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:297
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:449
 #, java-format
 msgctxt "TilesAdd_Properties.Title"
 msgid "Tiles Add"
 msgstr ""
 
 #. 
-#. 
-#. #### Tiles Bean element #####
-#: TilesBean
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:305
-#, java-format
-msgctxt "TilesBean"
-msgid "/struts_pro/TilesBean.html"
-msgstr ""
-
-#. 
-#: TilesBean_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:309
-#, java-format
-msgctxt "TilesBean_Properties"
-msgid "/struts_pro/TilesBean.html"
-msgstr ""
-
-#. 
 #: TilesBean_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:311
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:471
 #, java-format
 msgctxt "TilesBean_Properties.WindowTitle"
 msgid "Properties"
@@ -1601,23 +1149,15 @@ msgstr ""
 
 #. 
 #: TilesBean_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:313
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:473
 #, java-format
 msgctxt "TilesBean_Properties.Title"
 msgid "Tiles Bean"
 msgstr ""
 
 #. 
-#: TilesBean_CreateSetProperty
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:317
-#, java-format
-msgctxt "TilesBean_CreateSetProperty"
-msgid "/struts/CreateSetProperty.html"
-msgstr ""
-
-#. 
 #: TilesBean_CreateSetProperty.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:319
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:483
 #, java-format
 msgctxt "TilesBean_CreateSetProperty.WindowTitle"
 msgid "Add Set Property"
@@ -1625,33 +1165,15 @@ msgstr ""
 
 #. 
 #: TilesBean_CreateSetProperty.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:321
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:485
 #, java-format
 msgctxt "TilesBean_CreateSetProperty.Title"
 msgid "Tiles Set Property"
 msgstr ""
 
 #. 
-#. 
-#. #### Tiles Definition element #####
-#: TilesDefinition
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:329
-#, java-format
-msgctxt "TilesDefinition"
-msgid "/struts_pro/TilesDefinition.html"
-msgstr ""
-
-#. 
-#: TilesDefinition_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:333
-#, java-format
-msgctxt "TilesDefinition_Properties"
-msgid "/struts_pro/TilesDefinition_Properties.html"
-msgstr ""
-
-#. 
 #: TilesDefinition_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:335
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:507
 #, java-format
 msgctxt "TilesDefinition_Properties.WindowTitle"
 msgid "Properties"
@@ -1659,23 +1181,15 @@ msgstr ""
 
 #. 
 #: TilesDefinition_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:337
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:509
 #, java-format
 msgctxt "TilesDefinition_Properties.Title"
 msgid "Tiles Definition"
 msgstr ""
 
 #. 
-#: TilesDefinition_CreatePut
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:341
-#, java-format
-msgctxt "TilesDefinition_CreatePut"
-msgid "/struts_pro/TilesDefinition_CreatePut.html"
-msgstr ""
-
-#. 
 #: TilesDefinition_CreatePut.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:343
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:519
 #, java-format
 msgctxt "TilesDefinition_CreatePut.WindowTitle"
 msgid "Add Put"
@@ -1683,23 +1197,15 @@ msgstr ""
 
 #. 
 #: TilesDefinition_CreatePut.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:345
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:521
 #, java-format
 msgctxt "TilesDefinition_CreatePut.Title"
 msgid "Tiles Put"
 msgstr ""
 
 #. 
-#: TilesDefinition_CreatePutList
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:349
-#, java-format
-msgctxt "TilesDefinition_CreatePutList"
-msgid "/struts_pro/TilesDefinition_CreatePutList.html"
-msgstr ""
-
-#. 
 #: TilesDefinition_CreatePutList.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:351
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:531
 #, java-format
 msgctxt "TilesDefinition_CreatePutList.WindowTitle"
 msgid "Add Put List"
@@ -1707,33 +1213,15 @@ msgstr ""
 
 #. 
 #: TilesDefinition_CreatePutList.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:353
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:533
 #, java-format
 msgctxt "TilesDefinition_CreatePutList.Title"
 msgid "Tiles Put List"
 msgstr ""
 
 #. 
-#. 
-#. #### Tiles Item element #####
-#: TilesItem
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:361
-#, java-format
-msgctxt "TilesItem"
-msgid "/struts_pro/TilesItem.html"
-msgstr ""
-
-#. 
-#: TilesItem_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:363
-#, java-format
-msgctxt "TilesItem_Properties"
-msgid "/struts_pro/TilesItem.html"
-msgstr ""
-
-#. 
 #: TilesItem_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:365
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:553
 #, java-format
 msgctxt "TilesItem_Properties.WindowTitle"
 msgid "Properties"
@@ -1741,33 +1229,15 @@ msgstr ""
 
 #. 
 #: TilesItem_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:367
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:555
 #, java-format
 msgctxt "TilesItem_Properties.Title"
 msgid "Tiles Item"
 msgstr ""
 
 #. 
-#. 
-#. #### Tiles List element #####
-#: TilesList
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:375
-#, java-format
-msgctxt "TilesList"
-msgid "/struts_pro/TilesList.html"
-msgstr ""
-
-#. 
-#: TilesList_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:379
-#, java-format
-msgctxt "TilesList_Properties"
-msgid "/struts_pro/TilesList_Properties.html"
-msgstr ""
-
-#. 
 #: TilesList_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:381
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:577
 #, java-format
 msgctxt "TilesList_Properties.WindowTitle"
 msgid "Properties"
@@ -1775,23 +1245,15 @@ msgstr ""
 
 #. 
 #: TilesList_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:383
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:579
 #, java-format
 msgctxt "TilesList_Properties.Title"
 msgid "Tiles List"
 msgstr ""
 
 #. 
-#: TilesList_CreateAdd
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:387
-#, java-format
-msgctxt "TilesList_CreateAdd"
-msgid "/struts_pro/TilesList_CreateAdd.html"
-msgstr ""
-
-#. 
 #: TilesList_CreateAdd.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:389
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:589
 #, java-format
 msgctxt "TilesList_CreateAdd.WindowTitle"
 msgid "Add \"Add\" Element"
@@ -1799,23 +1261,15 @@ msgstr ""
 
 #. 
 #: TilesList_CreateAdd.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:391
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:591
 #, java-format
 msgctxt "TilesList_CreateAdd.Title"
 msgid "Tiles Add"
 msgstr ""
 
 #. 
-#: TilesList_CreateItem
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:395
-#, java-format
-msgctxt "TilesList_CreateItem"
-msgid "/struts_pro/TilesList_CreateItem.html"
-msgstr ""
-
-#. 
 #: TilesList_CreateItem.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:397
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:601
 #, java-format
 msgctxt "TilesList_CreateItem.WindowTitle"
 msgid "Add Item"
@@ -1823,23 +1277,15 @@ msgstr ""
 
 #. 
 #: TilesList_CreateItem.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:399
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:603
 #, java-format
 msgctxt "TilesList_CreateItem.Title"
 msgid "Tiles Item"
 msgstr ""
 
 #. 
-#: TilesList_CreateBean
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:403
-#, java-format
-msgctxt "TilesList_CreateBean"
-msgid "/struts_pro/TilesList_CreateBean.html"
-msgstr ""
-
-#. 
 #: TilesList_CreateBean.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:405
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:613
 #, java-format
 msgctxt "TilesList_CreateBean.WindowTitle"
 msgid "Add Bean"
@@ -1847,23 +1293,15 @@ msgstr ""
 
 #. 
 #: TilesList_CreateBean.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:407
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:615
 #, java-format
 msgctxt "TilesList_CreateBean.Title"
 msgid "Tiles Bean"
 msgstr ""
 
 #. 
-#: TilesList_CreatePutList
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:411
-#, java-format
-msgctxt "TilesList_CreatePutList"
-msgid "/struts_pro/TilesDefinition_CreatePutList.html"
-msgstr ""
-
-#. 
 #: TilesList_CreatePutList.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:413
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:625
 #, java-format
 msgctxt "TilesList_CreatePutList.WindowTitle"
 msgid "Add Put List"
@@ -1871,33 +1309,15 @@ msgstr ""
 
 #. 
 #: TilesList_CreatePutList.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:415
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:627
 #, java-format
 msgctxt "TilesList_CreatePutList.Title"
 msgid "Tiles Put List"
 msgstr ""
 
 #. 
-#. 
-#. #### Tiles Put element #####
-#: TilesPut
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:423
-#, java-format
-msgctxt "TilesPut"
-msgid "/struts_pro/TilesPut.html"
-msgstr ""
-
-#. 
-#: TilesPut_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:427
-#, java-format
-msgctxt "TilesPut_Properties"
-msgid "/struts_pro/TilesPut_Properties.html"
-msgstr ""
-
-#. 
 #: TilesPut_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:429
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:649
 #, java-format
 msgctxt "TilesPut_Properties.WindowTitle"
 msgid "Properties"
@@ -1905,33 +1325,15 @@ msgstr ""
 
 #. 
 #: TilesPut_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:431
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:651
 #, java-format
 msgctxt "TilesPut_Properties.Title"
 msgid "Tiles Put"
 msgstr ""
 
 #. 
-#. 
-#. #### File web.xml #####
-#: FileWebApp
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:439
-#, java-format
-msgctxt "FileWebApp"
-msgid "/struts_pro/FileWebApp.html"
-msgstr ""
-
-#. 
-#: FileWebApp_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:443
-#, java-format
-msgctxt "FileWebApp_Properties"
-msgid "/struts_pro/FileWebApp_Properties.html"
-msgstr ""
-
-#. 
 #: FileWebApp_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:445
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:673
 #, java-format
 msgctxt "FileWebApp_Properties.WindowTitle"
 msgid "Properties"
@@ -1939,23 +1341,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:447
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:675
 #, java-format
 msgctxt "FileWebApp_Properties.Title"
 msgid "File Web Descriptor"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateContextParam
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:453
-#, java-format
-msgctxt "FileWebApp_CreateContextParam"
-msgid "/struts_pro/FileWebApp_CreateContextParam.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateContextParam.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:455
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:687
 #, java-format
 msgctxt "FileWebApp_CreateContextParam.WindowTitle"
 msgid "Add Context Param"
@@ -1963,23 +1357,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateContextParam.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:457
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:689
 #, java-format
 msgctxt "FileWebApp_CreateContextParam.Title"
 msgid "Web Context Param"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateServlet
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:461
-#, java-format
-msgctxt "FileWebApp_CreateServlet"
-msgid "/struts_pro/FileWebApp_CreateServlet.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateServlet.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:463
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:699
 #, java-format
 msgctxt "FileWebApp_CreateServlet.WindowTitle"
 msgid "Add Servlet"
@@ -1987,23 +1373,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateServlet.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:465
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:701
 #, java-format
 msgctxt "FileWebApp_CreateServlet.Title"
 msgid "Web Servlet"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateServletMapping
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:469
-#, java-format
-msgctxt "FileWebApp_CreateServletMapping"
-msgid "/struts_pro/FileWebApp_CreateServletMapping.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateServletMapping.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:471
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:711
 #, java-format
 msgctxt "FileWebApp_CreateServletMapping.WindowTitle"
 msgid "Add Servlet Mapping"
@@ -2011,23 +1389,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateServletMapping.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:473
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:713
 #, java-format
 msgctxt "FileWebApp_CreateServletMapping.Title"
 msgid "Web Servlet Mapping"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateSessionConfig
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:477
-#, java-format
-msgctxt "FileWebApp_CreateSessionConfig"
-msgid "/struts_pro/FileWebApp_CreateSessionConfig.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateSessionConfig.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:479
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:723
 #, java-format
 msgctxt "FileWebApp_CreateSessionConfig.WindowTitle"
 msgid "Add Session Config"
@@ -2035,23 +1405,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateSessionConfig.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:481
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:725
 #, java-format
 msgctxt "FileWebApp_CreateSessionConfig.Title"
 msgid "Web Session Config"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateMimeMapping
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:485
-#, java-format
-msgctxt "FileWebApp_CreateMimeMapping"
-msgid "/struts_pro/FileWebApp_CreateMimeMapping.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateMimeMapping.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:487
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:735
 #, java-format
 msgctxt "FileWebApp_CreateMimeMapping.WindowTitle"
 msgid "Add Mime Mapping"
@@ -2059,23 +1421,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateMimeMapping.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:489
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:737
 #, java-format
 msgctxt "FileWebApp_CreateMimeMapping.Title"
 msgid "Web Mime Mapping"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateErrorPage
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:493
-#, java-format
-msgctxt "FileWebApp_CreateErrorPage"
-msgid "/struts_pro/FileWebApp_CreateErrorPage.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateErrorPage.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:495
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:747
 #, java-format
 msgctxt "FileWebApp_CreateErrorPage.WindowTitle"
 msgid "Add Error Page"
@@ -2083,23 +1437,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateErrorPage.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:497
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:749
 #, java-format
 msgctxt "FileWebApp_CreateErrorPage.Title"
 msgid "Web Error Page"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateTaglib
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:501
-#, java-format
-msgctxt "FileWebApp_CreateTaglib"
-msgid "/struts_pro/FileWebApp_CreateTaglib.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateTaglib.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:503
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:759
 #, java-format
 msgctxt "FileWebApp_CreateTaglib.WindowTitle"
 msgid "Add Taglib"
@@ -2107,23 +1453,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateTaglib.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:505
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:761
 #, java-format
 msgctxt "FileWebApp_CreateTaglib.Title"
 msgid "Web Taglib"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateResourceRef
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:509
-#, java-format
-msgctxt "FileWebApp_CreateResourceRef"
-msgid "/struts_pro/FileWebApp_CreateResourceRef.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateResourceRef.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:511
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:771
 #, java-format
 msgctxt "FileWebApp_CreateResourceRef.WindowTitle"
 msgid "Add Resource Reference"
@@ -2131,23 +1469,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateResourceRef.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:513
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:773
 #, java-format
 msgctxt "FileWebApp_CreateResourceRef.Title"
 msgid "Web Resource Reference"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateSecurityConstraint
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:517
-#, java-format
-msgctxt "FileWebApp_CreateSecurityConstraint"
-msgid "/struts_pro/FileWebApp_CreateSecurityConstraint.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateSecurityConstraint.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:519
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:783
 #, java-format
 msgctxt "FileWebApp_CreateSecurityConstraint.WindowTitle"
 msgid "Add Security Constraint"
@@ -2155,23 +1485,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateSecurityConstraint.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:521
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:785
 #, java-format
 msgctxt "FileWebApp_CreateSecurityConstraint.Title"
 msgid "Web Security Constraint"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateLoginConfig
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:525
-#, java-format
-msgctxt "FileWebApp_CreateLoginConfig"
-msgid "/struts_pro/FileWebApp_CreateLoginConfig.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateLoginConfig.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:527
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:795
 #, java-format
 msgctxt "FileWebApp_CreateLoginConfig.WindowTitle"
 msgid "Add Login Config"
@@ -2179,23 +1501,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateLoginConfig.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:529
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:797
 #, java-format
 msgctxt "FileWebApp_CreateLoginConfig.Title"
 msgid "Web Login Config"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateSecurityRole
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:533
-#, java-format
-msgctxt "FileWebApp_CreateSecurityRole"
-msgid "/struts_pro/FileWebApp_CreateSecurityRole.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateSecurityRole.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:535
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:807
 #, java-format
 msgctxt "FileWebApp_CreateSecurityRole.WindowTitle"
 msgid "Add Security Role"
@@ -2203,23 +1517,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateSecurityRoleWeb
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:537
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:809
 #, java-format
 msgctxt "FileWebApp_CreateSecurityRoleWeb"
 msgid "Security Role"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateEnvEntry
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:541
-#, java-format
-msgctxt "FileWebApp_CreateEnvEntry"
-msgid "/struts_pro/FileWebApp_CreateEnvEntry.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateEnvEntry.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:543
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:819
 #, java-format
 msgctxt "FileWebApp_CreateEnvEntry.WindowTitle"
 msgid "Add Env Entry"
@@ -2227,23 +1533,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateEnvEntry.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:545
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:821
 #, java-format
 msgctxt "FileWebApp_CreateEnvEntry.Title"
 msgid "Web Env Entry"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateEjbRef
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:549
-#, java-format
-msgctxt "FileWebApp_CreateEjbRef"
-msgid "/struts_pro/FileWebApp_CreateEjbRef.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateEjbRef.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:551
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:831
 #, java-format
 msgctxt "FileWebApp_CreateEjbRef.WindowTitle"
 msgid "Add EJB Ref"
@@ -2251,23 +1549,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateEjbRef.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:553
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:833
 #, java-format
 msgctxt "FileWebApp_CreateEjbRef.Title"
 msgid "Web Ejb Ref"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateFilterMapping
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:557
-#, java-format
-msgctxt "FileWebApp_CreateFilterMapping"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateFilterMapping.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:559
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:843
 #, java-format
 msgctxt "FileWebApp_CreateFilterMapping.WindowTitle"
 msgid "Add FilterMapping"
@@ -2275,23 +1565,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateFilterMapping.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:561
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:845
 #, java-format
 msgctxt "FileWebApp_CreateFilterMapping.Title"
 msgid "Filter Mapping"
 msgstr ""
 
 #. 
-#: FileWebApp_CreateListener
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:565
-#, java-format
-msgctxt "FileWebApp_CreateListener"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #: FileWebApp_CreateListener.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:567
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:855
 #, java-format
 msgctxt "FileWebApp_CreateListener.WindowTitle"
 msgid "Add Listener"
@@ -2299,33 +1581,15 @@ msgstr ""
 
 #. 
 #: FileWebApp_CreateListener.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:569
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:857
 #, java-format
 msgctxt "FileWebApp_CreateListener.Title"
 msgid "Web Listener"
 msgstr ""
 
 #. 
-#. 
-#. #### web auth-constraint element #####
-#: WebAppAuthConstraint
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:577
-#, java-format
-msgctxt "WebAppAuthConstraint"
-msgid "/struts_pro/WebAppAuthConstraint.html"
-msgstr ""
-
-#. 
-#: WebAppAuthConstraint_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:581
-#, java-format
-msgctxt "WebAppAuthConstraint_Properties"
-msgid "/struts_pro/WebAppAuthConstraint_Properties.html"
-msgstr ""
-
-#. 
 #: WebAppAuthConstraint_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:583
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:879
 #, java-format
 msgctxt "WebAppAuthConstraint_Properties.WindowTitle"
 msgid "Properties"
@@ -2333,23 +1597,15 @@ msgstr ""
 
 #. 
 #: WebAppAuthConstraint_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:585
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:881
 #, java-format
 msgctxt "WebAppAuthConstraint_Properties.Title"
 msgid "Web Auth Constraint"
 msgstr ""
 
 #. 
-#: WebAppAuthConstraint_CreateRole
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:589
-#, java-format
-msgctxt "WebAppAuthConstraint_CreateRole"
-msgid "/struts_pro/WebAppAuthConstraint_CreateRole.html"
-msgstr ""
-
-#. 
 #: WebAppAuthConstraint_CreateRole.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:591
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:891
 #, java-format
 msgctxt "WebAppAuthConstraint_CreateRole.WindowTitle"
 msgid "Add Role"
@@ -2357,33 +1613,15 @@ msgstr ""
 
 #. 
 #: WebAppAuthConstraint_CreateRole.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:593
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:893
 #, java-format
 msgctxt "WebAppAuthConstraint_CreateRole.Title"
 msgid "Web Role"
 msgstr ""
 
 #. 
-#. 
-#. #### web context-param element #####
-#: WebAppContextParam
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:601
-#, java-format
-msgctxt "WebAppContextParam"
-msgid "/struts_pro/WebAppContextParam.html"
-msgstr ""
-
-#. 
-#: WebAppContextParam_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:605
-#, java-format
-msgctxt "WebAppContextParam_Properties"
-msgid "/struts_pro/WebAppContextParam.html"
-msgstr ""
-
-#. 
 #: WebAppContextParam_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:607
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:915
 #, java-format
 msgctxt "WebAppContextParam_Properties.WindowTitle"
 msgid "Properties"
@@ -2391,33 +1629,15 @@ msgstr ""
 
 #. 
 #: WebAppContextParam_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:609
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:917
 #, java-format
 msgctxt "WebAppContextParam_Properties.Title"
 msgid "Web Context Param"
 msgstr ""
 
 #. 
-#. 
-#. #### web ejb-ref element #####
-#: WebAppEjbRef
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:617
-#, java-format
-msgctxt "WebAppEjbRef"
-msgid "/struts_pro/WebAppEjbRef.html"
-msgstr ""
-
-#. 
-#: WebAppEjbRef_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:621
-#, java-format
-msgctxt "WebAppEjbRef_Properties"
-msgid "/struts_pro/WebAppEjbRef.html"
-msgstr ""
-
-#. 
 #: WebAppEjbRef_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:623
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:939
 #, java-format
 msgctxt "WebAppEjbRef_Properties.WindowTitle"
 msgid "Properties"
@@ -2425,33 +1645,15 @@ msgstr ""
 
 #. 
 #: WebAppEjbRef_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:625
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:941
 #, java-format
 msgctxt "WebAppEjbRef_Properties.Title"
 msgid "Web Ejb Ref"
 msgstr ""
 
 #. 
-#. 
-#. #### web env-entry element #####
-#: WebAppEnvEntry
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:633
-#, java-format
-msgctxt "WebAppEnvEntry"
-msgid "/struts_pro/WebAppEnvEntry.html"
-msgstr ""
-
-#. 
-#: WebAppEnvEntry_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:637
-#, java-format
-msgctxt "WebAppEnvEntry_Properties"
-msgid "/struts_pro/WebAppEnvEntry.html"
-msgstr ""
-
-#. 
 #: WebAppEnvEntry_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:639
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:963
 #, java-format
 msgctxt "WebAppEnvEntry_Properties.WindowTitle"
 msgid "Properties"
@@ -2459,33 +1661,15 @@ msgstr ""
 
 #. 
 #: WebAppEnvEntry_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:641
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:965
 #, java-format
 msgctxt "WebAppEnvEntry_Properties.Title"
 msgid "Web Env Entry"
 msgstr ""
 
 #. 
-#. 
-#. #### web error-page element #####
-#: WebAppErrorPage
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:649
-#, java-format
-msgctxt "WebAppErrorPage"
-msgid "/struts_pro/WebAppErrorPage.html"
-msgstr ""
-
-#. 
-#: WebAppErrorPage_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:653
-#, java-format
-msgctxt "WebAppErrorPage_Properties"
-msgid "/struts_pro/WebAppErrorPage.html"
-msgstr ""
-
-#. 
 #: WebAppErrorPage_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:655
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:987
 #, java-format
 msgctxt "WebAppErrorPage_Properties.WindowTitle"
 msgid "Properties"
@@ -2493,32 +1677,15 @@ msgstr ""
 
 #. 
 #: WebAppErrorPage_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:657
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:989
 #, java-format
 msgctxt "WebAppErrorPage_Properties.Title"
 msgid "Web Error Page"
 msgstr ""
 
 #. 
-#. #### web init-param element #####
-#: WebAppInitParam
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:663
-#, java-format
-msgctxt "WebAppInitParam"
-msgid "/struts_pro/WebAppInitParam.html"
-msgstr ""
-
-#. 
-#: WebAppInitParam_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:667
-#, java-format
-msgctxt "WebAppInitParam_Properties"
-msgid "/struts_pro/WebAppInitParam.html"
-msgstr ""
-
-#. 
 #: WebAppInitParam_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:669
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1009
 #, java-format
 msgctxt "WebAppInitParam_Properties.WindowTitle"
 msgid "Properties"
@@ -2526,34 +1693,15 @@ msgstr ""
 
 #. 
 #: WebAppInitParam_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:671
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1011
 #, java-format
 msgctxt "WebAppInitParam_Properties.Title"
 msgid "Web Init Param"
 msgstr ""
 
 #. 
-#. 
-#. 
-#. #### web login-config element #####
-#: WebAppLoginConfig
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:681
-#, java-format
-msgctxt "WebAppLoginConfig"
-msgid "/struts_pro/WebAppLoginConfig.html"
-msgstr ""
-
-#. 
-#: WebAppLoginConfig_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:685
-#, java-format
-msgctxt "WebAppLoginConfig_Properties"
-msgid "/struts_pro/WebAppLoginConfig.html"
-msgstr ""
-
-#. 
 #: WebAppLoginConfig_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:687
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1035
 #, java-format
 msgctxt "WebAppLoginConfig_Properties.WindowTitle"
 msgid "Properties"
@@ -2561,67 +1709,31 @@ msgstr ""
 
 #. 
 #: WebAppLoginConfig_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:689
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1037
 #, java-format
 msgctxt "WebAppLoginConfig_Properties.Title"
 msgid "Web Login Config"
 msgstr ""
 
 #. 
-#. 
-#. #### web mime-mapping element #####
-#: WebAppMimeMapping
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:697
-#, java-format
-msgctxt "WebAppMimeMapping"
-msgid "/struts_pro/WebAppMimeMapping.html"
-msgstr ""
-
-#. 
 #: WebAppMimeMapping_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:701
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1053
 #, java-format
 msgctxt "WebAppMimeMapping_Properties.WindowTitle"
 msgid "Properties"
 msgstr ""
 
 #. 
-#: WebAppMimeMapping_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:703
-#, java-format
-msgctxt "WebAppMimeMapping_Properties"
-msgid "/struts_pro/WebAppMimeMapping.html"
-msgstr ""
-
-#. 
 #: WebAppMimeMapping_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:705
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1061
 #, java-format
 msgctxt "WebAppMimeMapping_Properties.Title"
 msgid "Web Mime Mapping"
 msgstr ""
 
 #. 
-#. 
-#. #### web resource-collection element #####
-#: WebAppResourceCollection
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:713
-#, java-format
-msgctxt "WebAppResourceCollection"
-msgid "/struts_pro/WebAppResourceCollection.html"
-msgstr ""
-
-#. 
-#: WebAppResourceCollection_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:717
-#, java-format
-msgctxt "WebAppResourceCollection_Properties"
-msgid "/struts_pro/WebAppResourceCollection.html"
-msgstr ""
-
-#. 
 #: WebAppResourceCollection_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:719
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1083
 #, java-format
 msgctxt "WebAppResourceCollection_Properties.WindowTitle"
 msgid "Properties"
@@ -2629,33 +1741,15 @@ msgstr ""
 
 #. 
 #: WebAppResourceCollection_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:721
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1085
 #, java-format
 msgctxt "WebAppResourceCollection_Properties.Title"
 msgid "Web Resource Collection"
 msgstr ""
 
 #. 
-#. 
-#. #### web resource-ref element #####
-#: WebAppResourceRef
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:729
-#, java-format
-msgctxt "WebAppResourceRef"
-msgid "/struts_pro/WebAppResourceRef.html"
-msgstr ""
-
-#. 
-#: WebAppResourceRef_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:733
-#, java-format
-msgctxt "WebAppResourceRef_Properties"
-msgid "/struts_pro/WebAppResourceRef.html"
-msgstr ""
-
-#. 
 #: WebAppResourceRef_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:735
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1107
 #, java-format
 msgctxt "WebAppResourceRef_Properties.WindowTitle"
 msgid "Properties"
@@ -2663,33 +1757,15 @@ msgstr ""
 
 #. 
 #: WebAppResourceRef_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:737
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1109
 #, java-format
 msgctxt "WebAppResourceRef_Properties.Title"
 msgid "Web Resource Ref"
 msgstr ""
 
 #. 
-#. 
-#. #### web security-constraint element #####
-#: WebAppSecurityConstraint
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:745
-#, java-format
-msgctxt "WebAppSecurityConstraint"
-msgid "/struts_pro/WebAppSecurityConstraint.html"
-msgstr ""
-
-#. 
-#: WebAppSecurityConstraint_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:749
-#, java-format
-msgctxt "WebAppSecurityConstraint_Properties"
-msgid "/struts_pro/WebAppSecurityConstraint_Properties.html"
-msgstr ""
-
-#. 
 #: WebAppSecurityConstraint_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:751
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1131
 #, java-format
 msgctxt "WebAppSecurityConstraint_Properties.WindowTitle"
 msgid "Properties"
@@ -2697,23 +1773,15 @@ msgstr ""
 
 #. 
 #: WebAppSecurityConstraint_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:753
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1133
 #, java-format
 msgctxt "WebAppSecurityConstraint_Properties.Title"
 msgid "Web Security Constraint"
 msgstr ""
 
 #. 
-#: WebAppSecurityConstraint_CreateResourceCollection
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:757
-#, java-format
-msgctxt "WebAppSecurityConstraint_CreateResourceCollection"
-msgid "/struts_pro/WebAppSecurityConstraint_CreateResourceCollection.html"
-msgstr ""
-
-#. 
 #: WebAppSecurityConstraint_CreateResourceCollection.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:759
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1143
 #, java-format
 msgctxt "WebAppSecurityConstraint_CreateResourceCollection.WindowTitle"
 msgid "Add Resource Collection"
@@ -2721,23 +1789,15 @@ msgstr ""
 
 #. 
 #: WebAppSecurityConstraint_CreateResourceCollection.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:761
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1145
 #, java-format
 msgctxt "WebAppSecurityConstraint_CreateResourceCollection.Title"
 msgid "Web Resource Collection"
 msgstr ""
 
 #. 
-#: WebAppSecurityConstraint_CreateAuthConstraint
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:765
-#, java-format
-msgctxt "WebAppSecurityConstraint_CreateAuthConstraint"
-msgid "/struts_pro/WebAppSecurityConstraint_CreateAuthConstraint.html"
-msgstr ""
-
-#. 
 #: WebAppSecurityConstraint_CreateAuthConstraint.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:767
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1155
 #, java-format
 msgctxt "WebAppSecurityConstraint_CreateAuthConstraint.WindowTitle"
 msgid "Add Auth Constraint"
@@ -2745,23 +1805,15 @@ msgstr ""
 
 #. 
 #: WebAppSecurityConstraint_CreateAuthConstraint.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:769
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1157
 #, java-format
 msgctxt "WebAppSecurityConstraint_CreateAuthConstraint.Title"
 msgid "Web Auth Constraint"
 msgstr ""
 
 #. 
-#: WebAppSecurityConstraint_CreateUserConstraint
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:773
-#, java-format
-msgctxt "WebAppSecurityConstraint_CreateUserConstraint"
-msgid "/struts_pro/WebAppSecurityConstraint_CreateUserConstraint.html"
-msgstr ""
-
-#. 
 #: WebAppSecurityConstraint_CreateUserConstraint.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:775
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1167
 #, java-format
 msgctxt "WebAppSecurityConstraint_CreateUserConstraint.WindowTitle"
 msgid "Add User Constraint"
@@ -2769,33 +1821,15 @@ msgstr ""
 
 #. 
 #: WebAppSecurityConstraint_CreateUserConstraint.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:777
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1169
 #, java-format
 msgctxt "WebAppSecurityConstraint_CreateUserConstraint.Title"
 msgid "Web User Constraint"
 msgstr ""
 
 #. 
-#. 
-#. #### web security-role element #####
-#: WebAppSecurityRole
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:785
-#, java-format
-msgctxt "WebAppSecurityRole"
-msgid "/struts_pro/WebAppSecurityRole.html"
-msgstr ""
-
-#. 
-#: WebAppSecurityRole_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:789
-#, java-format
-msgctxt "WebAppSecurityRole_Properties"
-msgid "/struts_pro/WebAppSecurityRole.html"
-msgstr ""
-
-#. 
 #: WebAppSecurityRole_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:791
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1191
 #, java-format
 msgctxt "WebAppSecurityRole_Properties.WindowTitle"
 msgid "Properties"
@@ -2803,33 +1837,15 @@ msgstr ""
 
 #. 
 #: WebAppSecurityRole_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:793
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1193
 #, java-format
 msgctxt "WebAppSecurityRole_Properties.Title"
 msgid "Web Security Role"
 msgstr ""
 
 #. 
-#. 
-#. #### web security-role-ref element #####
-#: WebAppSecurityRoleRef
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:801
-#, java-format
-msgctxt "WebAppSecurityRoleRef"
-msgid "/struts_pro/WebAppSecurityRoleRef.html"
-msgstr ""
-
-#. 
-#: WebAppSecurityRoleRef_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:805
-#, java-format
-msgctxt "WebAppSecurityRoleRef_Properties"
-msgid "/struts_pro/WebAppSecurityRoleRef.html"
-msgstr ""
-
-#. 
 #: WebAppSecurityRoleRef_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:807
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1215
 #, java-format
 msgctxt "WebAppSecurityRoleRef_Properties.WindowTitle"
 msgid "Properties"
@@ -2837,33 +1853,15 @@ msgstr ""
 
 #. 
 #: WebAppSecurityRoleRef_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:809
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1217
 #, java-format
 msgctxt "WebAppSecurityRoleRef_Properties.Title"
 msgid "Web Security Role Ref"
 msgstr ""
 
 #. 
-#. 
-#. #### web servlet element #####
-#: WebAppServlet
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:817
-#, java-format
-msgctxt "WebAppServlet"
-msgid "/struts_pro/WebAppServlet.html"
-msgstr ""
-
-#. 
-#: WebAppServlet_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:821
-#, java-format
-msgctxt "WebAppServlet_Properties"
-msgid "/struts_pro/WebAppServlet.html"
-msgstr ""
-
-#. 
 #: WebAppServlet_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:823
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1239
 #, java-format
 msgctxt "WebAppServlet_Properties.WindowTitle"
 msgid "Properties"
@@ -2871,23 +1869,15 @@ msgstr ""
 
 #. 
 #: WebAppServlet_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:825
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1241
 #, java-format
 msgctxt "WebAppServlet_Properties.Title"
 msgid "Web Servlet"
 msgstr ""
 
 #. 
-#: WebAppServlet_CreateInitParam
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:829
-#, java-format
-msgctxt "WebAppServlet_CreateInitParam"
-msgid "/struts_pro/WebAppServlet_CreateInitParam.html"
-msgstr ""
-
-#. 
 #: WebAppServlet_CreateInitParam.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:831
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1251
 #, java-format
 msgctxt "WebAppServlet_CreateInitParam.WindowTitle"
 msgid "Add Init Param"
@@ -2895,23 +1885,15 @@ msgstr ""
 
 #. 
 #: WebAppServlet_CreateInitParam.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:833
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1253
 #, java-format
 msgctxt "WebAppServlet_CreateInitParam.Title"
 msgid "Web Init Param"
 msgstr ""
 
 #. 
-#: WebAppServlet_CreateSecurityRoleRef
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:837
-#, java-format
-msgctxt "WebAppServlet_CreateSecurityRoleRef"
-msgid "/struts_pro/WebAppServlet_CreateSecurityRoleRef.html"
-msgstr ""
-
-#. 
 #: WebAppServlet_CreateSecurityRoleRef.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:839
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1263
 #, java-format
 msgctxt "WebAppServlet_CreateSecurityRoleRef.WindowTitle"
 msgid "Add Security Role Reference"
@@ -2919,33 +1901,15 @@ msgstr ""
 
 #. 
 #: WebAppServlet_CreateSecurityRoleRef.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:841
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1265
 #, java-format
 msgctxt "WebAppServlet_CreateSecurityRoleRef.Title"
 msgid "Web Security Role Reference"
 msgstr ""
 
 #. 
-#. 
-#. #### web servlet-mapping element #####
-#: WebAppServletMapping
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:849
-#, java-format
-msgctxt "WebAppServletMapping"
-msgid "/struts_pro/WebAppServletMapping.html"
-msgstr ""
-
-#. 
-#: WebAppServletMapping_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:853
-#, java-format
-msgctxt "WebAppServletMapping_Properties"
-msgid "/struts_pro/WebAppServletMapping.html"
-msgstr ""
-
-#. 
 #: WebAppServletMapping_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:855
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1287
 #, java-format
 msgctxt "WebAppServletMapping_Properties.WindowTitle"
 msgid "Properties"
@@ -2953,33 +1917,15 @@ msgstr ""
 
 #. 
 #: WebAppServletMapping_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:857
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1289
 #, java-format
 msgctxt "WebAppServletMapping_Properties.Title"
 msgid "Web Servlet Mapping"
 msgstr ""
 
 #. 
-#. 
-#. #### web session-config element #####
-#: WebAppSessionConfig
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:865
-#, java-format
-msgctxt "WebAppSessionConfig"
-msgid "/struts_pro/WebAppSessionConfig.html"
-msgstr ""
-
-#. 
-#: WebAppSessionConfig_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:869
-#, java-format
-msgctxt "WebAppSessionConfig_Properties"
-msgid "/struts_pro/WebAppSessionConfig.html"
-msgstr ""
-
-#. 
 #: WebAppSessionConfig_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:871
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1311
 #, java-format
 msgctxt "WebAppSessionConfig_Properties.WindowTitle"
 msgid "Properties"
@@ -2987,33 +1933,15 @@ msgstr ""
 
 #. 
 #: WebAppSessionConfig_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:873
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1313
 #, java-format
 msgctxt "WebAppSessionConfig_Properties.Title"
 msgid "Web Session Config"
 msgstr ""
 
 #. 
-#. 
-#. #### web taglib element #####
-#: WebAppTaglib
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:881
-#, java-format
-msgctxt "WebAppTaglib"
-msgid "/struts_pro/WebAppTaglib.html"
-msgstr ""
-
-#. 
-#: WebAppTaglib_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:885
-#, java-format
-msgctxt "WebAppTaglib_Properties"
-msgid "/struts_pro/WebAppTaglib.html"
-msgstr ""
-
-#. 
 #: WebAppTaglib_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:887
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1335
 #, java-format
 msgctxt "WebAppTaglib_Properties.WindowTitle"
 msgid "Properties"
@@ -3021,33 +1949,15 @@ msgstr ""
 
 #. 
 #: WebAppTaglib_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:889
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1337
 #, java-format
 msgctxt "WebAppTaglib_Properties.Title"
 msgid "Web taglib"
 msgstr ""
 
 #. 
-#. 
-#. #### web user-constraint element #####
-#: WebAppUserConstraint
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:897
-#, java-format
-msgctxt "WebAppUserConstraint"
-msgid "/struts_pro/WebAppUserConstraint.html"
-msgstr ""
-
-#. 
-#: WebAppUserConstraint_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:901
-#, java-format
-msgctxt "WebAppUserConstraint_Properties"
-msgid "/struts_pro/WebAppUserConstraint.html"
-msgstr ""
-
-#. 
 #: WebAppUserConstraint_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:903
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1359
 #, java-format
 msgctxt "WebAppUserConstraint_Properties.WindowTitle"
 msgid "Properties"
@@ -3055,33 +1965,15 @@ msgstr ""
 
 #. 
 #: WebAppUserConstraint_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:905
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1361
 #, java-format
 msgctxt "WebAppUserConstraint_Properties.Title"
 msgid "Web User Constraint"
 msgstr ""
 
 #. 
-#. 
-#. #### web welcome-file element #####
-#: WebAppWelcomFile
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:913
-#, java-format
-msgctxt "WebAppWelcomFile"
-msgid "/struts_pro/WebAppWelcomFile.html"
-msgstr ""
-
-#. 
-#: WebAppWelcomFile_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:917
-#, java-format
-msgctxt "WebAppWelcomFile_Properties"
-msgid "/struts_pro/WebAppWelcomFile.html"
-msgstr ""
-
-#. 
 #: WebAppWelcomFile_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:919
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1383
 #, java-format
 msgctxt "WebAppWelcomFile_Properties.WindowTitle"
 msgid "Properties"
@@ -3089,33 +1981,15 @@ msgstr ""
 
 #. 
 #: WebAppWelcomFile_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:921
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1385
 #, java-format
 msgctxt "WebAppWelcomFile_Properties.Title"
 msgid "Web Welcome File"
 msgstr ""
 
 #. 
-#. 
-#. #### web welcome-file-list element #####
-#: WebAppWelcomFileList
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:929
-#, java-format
-msgctxt "WebAppWelcomFileList"
-msgid "/struts_pro/WebAppWelcomFileList.html"
-msgstr ""
-
-#. 
-#: WebAppWelcomFileList_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:933
-#, java-format
-msgctxt "WebAppWelcomFileList_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #: WebAppWelcomFileList_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:935
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1407
 #, java-format
 msgctxt "WebAppWelcomFileList_Properties.WindowTitle"
 msgid "Properties"
@@ -3123,23 +1997,15 @@ msgstr ""
 
 #. 
 #: WebAppWelcomFileList_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:937
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1409
 #, java-format
 msgctxt "WebAppWelcomFileList_Properties.Title"
 msgid "Web Welcom File List"
 msgstr ""
 
 #. 
-#: WebAppWelcomFileList_CreateWelcomFile
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:941
-#, java-format
-msgctxt "WebAppWelcomFileList_CreateWelcomFile"
-msgid "/struts_pro/WebAppWelcomFileList_CreateWelcomFile.html"
-msgstr ""
-
-#. 
 #: WebAppWelcomFileList_CreateWelcomFile.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:943
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1419
 #, java-format
 msgctxt "WebAppWelcomFileList_CreateWelcomFile.WindowTitle"
 msgid "Add Welcome File"
@@ -3147,33 +2013,15 @@ msgstr ""
 
 #. 
 #: WebAppWelcomFileList_CreateWelcomFile.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:945
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1421
 #, java-format
 msgctxt "WebAppWelcomFileList_CreateWelcomFile.Title"
 msgid "Web Welcome File"
 msgstr ""
 
 #. 
-#. 
-#. #### web role element #####
-#: WebAppRoleName
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:953
-#, java-format
-msgctxt "WebAppRoleName"
-msgid "/struts_pro/WebAppRoleName.html"
-msgstr ""
-
-#. 
-#: WebAppRoleName_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:957
-#, java-format
-msgctxt "WebAppRoleName_Properties"
-msgid "/struts_pro/WebAppRoleName.html"
-msgstr ""
-
-#. 
 #: WebAppRoleName_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:959
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1443
 #, java-format
 msgctxt "WebAppRoleName_Properties.WindowTitle"
 msgid "Properties"
@@ -3181,25 +2029,15 @@ msgstr ""
 
 #. 
 #: WebAppRoleName_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:961
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1445
 #, java-format
 msgctxt "WebAppRoleName_Properties.Title"
 msgid "Web Role"
 msgstr ""
 
 #. 
-#. 
-#. #### Create File web.xml #####
-#: FileFolder_CreateWebApp
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:969
-#, java-format
-msgctxt "FileFolder_CreateWebApp"
-msgid "/struts_pro/FileFolder_CreateWebApp.html"
-msgstr ""
-
-#. 
 #: FileFolder_CreateWebApp.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:971
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1459
 #, java-format
 msgctxt "FileFolder_CreateWebApp.WindowTitle"
 msgid "New Web Descriptor File"
@@ -3207,23 +2045,15 @@ msgstr ""
 
 #. 
 #: FileFolder_CreateWebApp.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:973
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1461
 #, java-format
 msgctxt "FileFolder_CreateWebApp.Title"
 msgid "Web Descriptor File"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateWebApp
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:977
-#, java-format
-msgctxt "FileSystemFolder_CreateWebApp"
-msgid "/struts_pro/FileFolder_CreateWebApp.html"
-msgstr ""
-
-#. 
 #: FileSystemFolder_CreateWebApp.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:979
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1471
 #, java-format
 msgctxt "FileSystemFolder_CreateWebApp.WindowTitle"
 msgid "New Web Descriptor File"
@@ -3231,38 +2061,15 @@ msgstr ""
 
 #. 
 #: FileSystemFolder_CreateWebApp.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:981
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1473
 #, java-format
 msgctxt "FileSystemFolder_CreateWebApp.Title"
 msgid "Web Descriptor File"
 msgstr ""
 
 #. 
-#. 
-#. #####################################
-#. ############# To be joined
-#. 
-#. File Validator
-#. 
-#. #### File validation.xml #####
-#: FileValidationRules
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:999
-#, java-format
-msgctxt "FileValidationRules"
-msgid "/struts_pro/FileValidationRules.html"
-msgstr ""
-
-#. 
-#: FileValidationRules_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1003
-#, java-format
-msgctxt "FileValidationRules_Properties"
-msgid "/struts_pro/FileValidationRules.html"
-msgstr ""
-
-#. 
 #: FileValidationRules_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1005
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1505
 #, java-format
 msgctxt "FileValidationRules_Properties.WindowTitle"
 msgid "Properties"
@@ -3275,7 +2082,7 @@ msgstr ""
 #. 
 #. #### File validation.xml #####
 #: FileValidationRules_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1007
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1507
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1333
 #, java-format
 msgctxt "FileValidationRules_Properties.Title"
@@ -3283,17 +2090,9 @@ msgid "Validation Framework"
 msgstr ""
 
 #. 
-#: FileValidationRules_AddFormset_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1011
-#, java-format
-msgctxt "FileValidationRules_AddFormset_0"
-msgid "/struts_pro/FileValidationRules_AddFormset_0.html"
-msgstr ""
-
-#. 
 #. 
 #: FileValidationRules_AddFormset_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1013
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1517
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1337
 #, java-format
 msgctxt "FileValidationRules_AddFormset_0.WindowTitle"
@@ -3303,7 +2102,7 @@ msgstr ""
 #. 
 #. 
 #: FileValidationRules_AddFormset_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1015
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1519
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1339
 #, java-format
 msgctxt "FileValidationRules_AddFormset_0.Title"
@@ -3312,20 +2111,10 @@ msgstr ""
 
 #. 
 #. 
-#. helper for bundle editor
-#: FileValidationRules_AddBundle_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1021
-#, java-format
-msgctxt "FileValidationRules_AddBundle_0"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#. 
 #. 
 #. helper for bundle editor
 #: FileValidationRules_AddBundle_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1023
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1531
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1355
 #, java-format
 msgctxt "FileValidationRules_AddBundle_0.WindowTitle"
@@ -3335,7 +2124,7 @@ msgstr ""
 #. 
 #. 
 #: FileValidationRules_AddBundle_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1025
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1533
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1357
 #, java-format
 msgctxt "FileValidationRules_AddBundle_0.Title"
@@ -3343,26 +2132,8 @@ msgid "Bundle"
 msgstr ""
 
 #. 
-#. 
-#. #### property file selector
-#: PropertyFileSelector
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1033
-#, java-format
-msgctxt "PropertyFileSelector"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: PropertyFileSelector_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1037
-#, java-format
-msgctxt "PropertyFileSelector_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #: PropertyFileSelector_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1039
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1555
 #, java-format
 msgctxt "PropertyFileSelector_Properties.WindowTitle"
 msgid "Properties"
@@ -3373,7 +2144,7 @@ msgstr ""
 #. 
 #. #### property file selector
 #: PropertyFileSelector_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1041
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1557
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1365
 #, java-format
 msgctxt "PropertyFileSelector_Properties.Title"
@@ -3381,17 +2152,9 @@ msgid "Property File"
 msgstr ""
 
 #. 
-#: PropertyFileSelector_Edit
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1045
-#, java-format
-msgctxt "PropertyFileSelector_Edit"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #. 
 #: PropertyFileSelector_Edit.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1047
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1567
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1369
 #, java-format
 msgctxt "PropertyFileSelector_Edit.WindowTitle"
@@ -3401,7 +2164,7 @@ msgstr ""
 #. 
 #. 
 #: PropertyFileSelector_Edit.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1049
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1569
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1371
 #, java-format
 msgctxt "PropertyFileSelector_Edit.Title"
@@ -3410,28 +2173,10 @@ msgstr ""
 
 #. 
 #. 
-#. ### Validation args #####
-#: ValidationArg0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1057
-#, java-format
-msgctxt "ValidationArg0"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
-#: ValidationArg0_Edit_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1061
-#, java-format
-msgctxt "ValidationArg0_Edit_0"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
-#. 
 #. 
 #. ### Validation args #####
 #: ValidationArg0_Edit_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1063
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1591
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1379
 #, java-format
 msgctxt "ValidationArg0_Edit_0.WindowTitle"
@@ -3441,7 +2186,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationArg0_Edit_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1065
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1593
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1381
 #, java-format
 msgctxt "ValidationArg0_Edit_0.Title"
@@ -3449,17 +2194,9 @@ msgid "Validation Arg0"
 msgstr ""
 
 #. 
-#: ValidationArg0_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1069
-#, java-format
-msgctxt "ValidationArg0_Properties"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationArg0_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1071
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1603
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1385
 #, java-format
 msgctxt "ValidationArg0_Properties.WindowTitle"
@@ -3469,7 +2206,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationArg0_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1073
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1605
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1387
 #, java-format
 msgctxt "ValidationArg0_Properties.Title"
@@ -3477,25 +2214,9 @@ msgid "Validation Arg0"
 msgstr ""
 
 #. 
-#: ValidationArg1
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1077
-#, java-format
-msgctxt "ValidationArg1"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
-#: ValidationArg1_Edit_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1081
-#, java-format
-msgctxt "ValidationArg1_Edit_0"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationArg1_Edit_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1083
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1623
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1391
 #, java-format
 msgctxt "ValidationArg1_Edit_0.WindowTitle"
@@ -3505,7 +2226,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationArg1_Edit_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1085
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1625
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1393
 #, java-format
 msgctxt "ValidationArg1_Edit_0.Title"
@@ -3513,17 +2234,9 @@ msgid "Validation Arg1"
 msgstr ""
 
 #. 
-#: ValidationArg1_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1089
-#, java-format
-msgctxt "ValidationArg1_Properties"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationArg1_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1091
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1635
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1397
 #, java-format
 msgctxt "ValidationArg1_Properties.WindowTitle"
@@ -3533,7 +2246,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationArg1_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1093
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1637
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1399
 #, java-format
 msgctxt "ValidationArg1_Properties.Title"
@@ -3541,25 +2254,9 @@ msgid "Validation Arg1"
 msgstr ""
 
 #. 
-#: ValidationArg2
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1097
-#, java-format
-msgctxt "ValidationArg2"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
-#: ValidationArg2_Edit_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1101
-#, java-format
-msgctxt "ValidationArg2_Edit_0"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationArg2_Edit_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1103
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1655
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1403
 #, java-format
 msgctxt "ValidationArg2_Edit_0.WindowTitle"
@@ -3569,7 +2266,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationArg2_Edit_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1105
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1657
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1405
 #, java-format
 msgctxt "ValidationArg2_Edit_0.Title"
@@ -3577,17 +2274,9 @@ msgid "Validation Arg2"
 msgstr ""
 
 #. 
-#: ValidationArg2_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1109
-#, java-format
-msgctxt "ValidationArg2_Properties"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationArg2_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1111
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1667
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1409
 #, java-format
 msgctxt "ValidationArg2_Properties.WindowTitle"
@@ -3597,7 +2286,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationArg2_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1113
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1669
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1411
 #, java-format
 msgctxt "ValidationArg2_Properties.Title"
@@ -3605,25 +2294,9 @@ msgid "Validation Arg2"
 msgstr ""
 
 #. 
-#: ValidationArg3
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1117
-#, java-format
-msgctxt "ValidationArg3"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
-#: ValidationArg3_Edit_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1121
-#, java-format
-msgctxt "ValidationArg3_Edit_0"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationArg3_Edit_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1123
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1687
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1415
 #, java-format
 msgctxt "ValidationArg3_Edit_0.WindowTitle"
@@ -3633,7 +2306,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationArg3_Edit_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1125
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1689
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1417
 #, java-format
 msgctxt "ValidationArg3_Edit_0.Title"
@@ -3641,17 +2314,9 @@ msgid "Validation Arg3"
 msgstr ""
 
 #. 
-#: ValidationArg3_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1129
-#, java-format
-msgctxt "ValidationArg3_Properties"
-msgid "/struts_pro/ValidationArg.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationArg3_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1131
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1699
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1421
 #, java-format
 msgctxt "ValidationArg3_Properties.WindowTitle"
@@ -3661,7 +2326,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationArg3_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1133
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1701
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1423
 #, java-format
 msgctxt "ValidationArg3_Properties.Title"
@@ -3670,29 +2335,11 @@ msgstr ""
 
 #. 
 #. 
-#. #### Validation constant element #####
-#: ValidationConstant
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1141
-#, java-format
-msgctxt "ValidationConstant"
-msgid "/struts_pro/ValidationConstant.html"
-msgstr ""
-
-#. 
-#: ValidationConstant_Edit
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1145
-#, java-format
-msgctxt "ValidationConstant_Edit"
-msgid "/struts_pro/ValidationConstant_Edit.html"
-msgstr ""
-
-#. 
-#. 
 #. 
 #. 
 #. #### Validation constant element #####
 #: ValidationConstant_Edit.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1147
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1723
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1439
 #, java-format
 msgctxt "ValidationConstant_Edit.WindowTitle"
@@ -3702,7 +2349,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationConstant_Edit.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1149
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1725
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1441
 #, java-format
 msgctxt "ValidationConstant_Edit.Title"
@@ -3710,16 +2357,8 @@ msgid "Validation Constant"
 msgstr ""
 
 #. 
-#: ValidationConstant_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1153
-#, java-format
-msgctxt "ValidationConstant_Properties"
-msgid "/struts_pro/ValidationConstant.html"
-msgstr ""
-
-#. 
 #: ValidationConstant_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1155
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1735
 #, java-format
 msgctxt "ValidationConstant_Properties.WindowTitle"
 msgid "Properties"
@@ -3728,7 +2367,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationConstant_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1157
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1737
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1445
 #, java-format
 msgctxt "ValidationConstant_Properties.Title"
@@ -3736,26 +2375,8 @@ msgid "Validation Properties"
 msgstr ""
 
 #. 
-#. 
-#. #### Validation field element #####
-#: ValidationField
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1165
-#, java-format
-msgctxt "ValidationField"
-msgid "/struts_pro/ValidationField.html"
-msgstr ""
-
-#. 
-#: ValidationField_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1169
-#, java-format
-msgctxt "ValidationField_Properties"
-msgid "/struts_pro/ValidationField.html"
-msgstr ""
-
-#. 
 #: ValidationField_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1171
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1759
 #, java-format
 msgctxt "ValidationField_Properties.WindowTitle"
 msgid "Properties"
@@ -3766,7 +2387,7 @@ msgstr ""
 #. 
 #. #### Validation field element #####
 #: ValidationField_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1173
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1761
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1463
 #, java-format
 msgctxt "ValidationField_Properties.Title"
@@ -3774,17 +2395,9 @@ msgid "Validation Field"
 msgstr ""
 
 #. 
-#: ValidationField_AddMsg
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1177
-#, java-format
-msgctxt "ValidationField_AddMsg"
-msgid "/struts_pro/ValidationField_AddMsg.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationField_AddMsg.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1179
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1771
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1467
 #, java-format
 msgctxt "ValidationField_AddMsg.WindowTitle"
@@ -3794,7 +2407,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationField_AddMsg.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1181
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1773
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1469
 #, java-format
 msgctxt "ValidationField_AddMsg.Title"
@@ -3802,17 +2415,9 @@ msgid "Validation Msg"
 msgstr ""
 
 #. 
-#: ValidationField_AddArg_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1185
-#, java-format
-msgctxt "ValidationField_AddArg_0"
-msgid "/struts_pro/ValidationField_AddArg_0.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationField_AddArg_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1187
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1783
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1473
 #, java-format
 msgctxt "ValidationField_AddArg_0.WindowTitle"
@@ -3822,7 +2427,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationField_AddArg_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1189
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1785
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1475
 #, java-format
 msgctxt "ValidationField_AddArg_0.Title"
@@ -3830,17 +2435,9 @@ msgid "Validation Arg"
 msgstr ""
 
 #. 
-#: ValidationField_AddVar
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1193
-#, java-format
-msgctxt "ValidationField_AddVar"
-msgid "/struts_pro/ValidationField_AddVar.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationField_AddVar.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1195
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1795
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1479
 #, java-format
 msgctxt "ValidationField_AddVar.WindowTitle"
@@ -3850,7 +2447,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationField_AddVar.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1197
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1797
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1481
 #, java-format
 msgctxt "ValidationField_AddVar.Title"
@@ -3858,17 +2455,9 @@ msgid "Validation Var"
 msgstr ""
 
 #. 
-#: ValidationField_EditPage
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1201
-#, java-format
-msgctxt "ValidationField_EditPage"
-msgid "/struts_pro/ValidationField.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationField_EditPage.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1203
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1807
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1485
 #, java-format
 msgctxt "ValidationField_EditPage.WindowTitle"
@@ -3878,7 +2467,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationField_EditPage.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1205
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1809
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1487
 #, java-format
 msgctxt "ValidationField_EditPage.Title"
@@ -3886,17 +2475,9 @@ msgid "Validation Field"
 msgstr ""
 
 #. 
-#: ValidationField_EditIndex
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1209
-#, java-format
-msgctxt "ValidationField_EditIndex"
-msgid "/struts_pro/ValidationField.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationField_EditIndex.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1211
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1819
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1491
 #, java-format
 msgctxt "ValidationField_EditIndex.WindowTitle"
@@ -3906,7 +2487,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationField_EditIndex.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1213
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1821
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1493
 #, java-format
 msgctxt "ValidationField_EditIndex.Title"
@@ -3914,26 +2495,8 @@ msgid "Validation Field"
 msgstr ""
 
 #. 
-#. 
-#. #### Validation form element #####
-#: ValidationForm
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1221
-#, java-format
-msgctxt "ValidationForm"
-msgid "/struts_pro/ValidationForm.html"
-msgstr ""
-
-#. 
-#: ValidationForm_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1225
-#, java-format
-msgctxt "ValidationForm_Properties"
-msgid "/struts_pro/ValidationForm.html"
-msgstr ""
-
-#. 
 #: ValidationForm_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1227
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1843
 #, java-format
 msgctxt "ValidationForm_Properties.WindowTitle"
 msgid "Properties"
@@ -3944,7 +2507,7 @@ msgstr ""
 #. 
 #. #### Validation form element #####
 #: ValidationForm_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1229
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1845
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1535
 #, java-format
 msgctxt "ValidationForm_Properties.Title"
@@ -3952,17 +2515,9 @@ msgid "Validation Form"
 msgstr ""
 
 #. 
-#: ValidationForm_AddField
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1233
-#, java-format
-msgctxt "ValidationForm_AddField"
-msgid "/struts_pro/ValidationForm_AddField.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationForm_AddField.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1235
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1855
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1539
 #, java-format
 msgctxt "ValidationForm_AddField.WindowTitle"
@@ -3972,7 +2527,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationForm_AddField.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1237
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1857
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1541
 #, java-format
 msgctxt "ValidationForm_AddField.Title"
@@ -3980,26 +2535,8 @@ msgid "Validation Field"
 msgstr ""
 
 #. 
-#. 
-#. #### Validation formset element #####
-#: ValidationFormset
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1245
-#, java-format
-msgctxt "ValidationFormset"
-msgid "/struts_pro/ValidationFormset.html"
-msgstr ""
-
-#. 
-#: ValidationFormset_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1249
-#, java-format
-msgctxt "ValidationFormset_Properties"
-msgid "/struts_pro/ValidationFormset.html"
-msgstr ""
-
-#. 
 #: ValidationFormset_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1251
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1879
 #, java-format
 msgctxt "ValidationFormset_Properties.WindowTitle"
 msgid "Properties"
@@ -4010,7 +2547,7 @@ msgstr ""
 #. 
 #. #### Validation formset element #####
 #: ValidationFormset_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1253
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1881
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1559
 #, java-format
 msgctxt "ValidationFormset_Properties.Title"
@@ -4018,17 +2555,9 @@ msgid "Validation Formset"
 msgstr ""
 
 #. 
-#: ValidationFormset_AddConstant
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1257
-#, java-format
-msgctxt "ValidationFormset_AddConstant"
-msgid "/struts_pro/ValidationFormset_AddConstant.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationFormset_AddConstant.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1259
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1891
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1563
 #, java-format
 msgctxt "ValidationFormset_AddConstant.WindowTitle"
@@ -4038,7 +2567,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationFormset_AddConstant.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1261
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1893
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1565
 #, java-format
 msgctxt "ValidationFormset_AddConstant.Title"
@@ -4046,17 +2575,9 @@ msgid "Formset Constant"
 msgstr ""
 
 #. 
-#: ValidationFormset_AddForm
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1265
-#, java-format
-msgctxt "ValidationFormset_AddForm"
-msgid "/struts_pro/ValidationFormset_AddForm.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationFormset_AddForm.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1267
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1903
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1569
 #, java-format
 msgctxt "ValidationFormset_AddForm.WindowTitle"
@@ -4066,7 +2587,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationFormset_AddForm.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1269
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1905
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1571
 #, java-format
 msgctxt "ValidationFormset_AddForm.Title"
@@ -4074,26 +2595,8 @@ msgid "Validation Form"
 msgstr ""
 
 #. 
-#. 
-#. #### Validation global element #####
-#: ValidationGlobal
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1277
-#, java-format
-msgctxt "ValidationGlobal"
-msgid "/struts_pro/ValidationGlobal.html"
-msgstr ""
-
-#. 
-#: ValidationGlobal_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1281
-#, java-format
-msgctxt "ValidationGlobal_Properties"
-msgid "/struts_pro/ValidationGlobal.html"
-msgstr ""
-
-#. 
 #: ValidationGlobal_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1283
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1927
 #, java-format
 msgctxt "ValidationGlobal_Properties.WindowTitle"
 msgid "Properties"
@@ -4104,7 +2607,7 @@ msgstr ""
 #. 
 #. #### Validation global element #####
 #: ValidationGlobal_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1285
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1929
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1595
 #, java-format
 msgctxt "ValidationGlobal_Properties.Title"
@@ -4112,17 +2615,9 @@ msgid "Validation Global"
 msgstr ""
 
 #. 
-#: ValidationGlobal_AddValidator
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1289
-#, java-format
-msgctxt "ValidationGlobal_AddValidator"
-msgid "/struts_pro/ValidationGlobal_AddValidator.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationGlobal_AddValidator.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1291
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1939
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1599
 #, java-format
 msgctxt "ValidationGlobal_AddValidator.WindowTitle"
@@ -4132,7 +2627,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationGlobal_AddValidator.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1293
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1941
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1601
 #, java-format
 msgctxt "ValidationGlobal_AddValidator.Title"
@@ -4140,17 +2635,9 @@ msgid "Validator"
 msgstr ""
 
 #. 
-#: ValidationGlobal_AddConstant
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1297
-#, java-format
-msgctxt "ValidationGlobal_AddConstant"
-msgid "/struts_pro/ValidationGlobal_AddConstant.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationGlobal_AddConstant.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1299
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1951
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1605
 #, java-format
 msgctxt "ValidationGlobal_AddConstant.WindowTitle"
@@ -4160,7 +2647,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationGlobal_AddConstant.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1301
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1953
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1607
 #, java-format
 msgctxt "ValidationGlobal_AddConstant.Title"
@@ -4169,28 +2656,10 @@ msgstr ""
 
 #. 
 #. 
-#. #### Validation msg element #####
-#: ValidationMsg
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1309
-#, java-format
-msgctxt "ValidationMsg"
-msgid "/struts_pro/ValidationMsg.html"
-msgstr ""
-
-#. 
-#: ValidationMsg_Edit
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1313
-#, java-format
-msgctxt "ValidationMsg_Edit"
-msgid "/struts_pro/ValidationMsg.html"
-msgstr ""
-
-#. 
-#. 
 #. 
 #. #### Validation msg element #####
 #: ValidationMsg_Edit.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1315
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1975
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1631
 #, java-format
 msgctxt "ValidationMsg_Edit.WindowTitle"
@@ -4200,7 +2669,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationMsg_Edit.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1317
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1977
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1633
 #, java-format
 msgctxt "ValidationMsg_Edit.Title"
@@ -4208,16 +2677,8 @@ msgid "Validation Msg"
 msgstr ""
 
 #. 
-#: ValidationMsg_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1321
-#, java-format
-msgctxt "ValidationMsg_Properties"
-msgid "/struts_pro/ValidationMsg.html"
-msgstr ""
-
-#. 
 #: ValidationMsg_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1323
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1987
 #, java-format
 msgctxt "ValidationMsg_Properties.WindowTitle"
 msgid "Properties"
@@ -4226,7 +2687,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationMsg_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1325
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1989
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1637
 #, java-format
 msgctxt "ValidationMsg_Properties.Title"
@@ -4235,26 +2696,8 @@ msgstr ""
 
 #. 
 #. 
-#. #### Validation validator element #####
-#: ValidationValidator
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1333
-#, java-format
-msgctxt "ValidationValidator"
-msgid "/struts_pro/ValidationValidator.html"
-msgstr ""
-
-#. 
-#: ValidationValidator_Edit
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1337
-#, java-format
-msgctxt "ValidationValidator_Edit"
-msgid "/struts_pro/ValidationValidator_Edit.html"
-msgstr ""
-
-#. 
-#. 
 #: ValidationValidator_Edit.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1339
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2011
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1659
 #, java-format
 msgctxt "ValidationValidator_Edit.WindowTitle"
@@ -4264,7 +2707,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationValidator_Edit.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1341
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2013
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1661
 #, java-format
 msgctxt "ValidationValidator_Edit.Title"
@@ -4272,17 +2715,9 @@ msgid "Validator"
 msgstr ""
 
 #. 
-#: ValidationValidator_EditBody
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1345
-#, java-format
-msgctxt "ValidationValidator_EditBody"
-msgid "/struts_pro/ValidationValidator_EditBody.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationValidator_EditBody.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1347
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2023
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1665
 #, java-format
 msgctxt "ValidationValidator_EditBody.WindowTitle"
@@ -4292,7 +2727,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationValidator_EditBody.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1349
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2025
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1667
 #, java-format
 msgctxt "ValidationValidator_EditBody.Title"
@@ -4300,16 +2735,8 @@ msgid "Validator"
 msgstr ""
 
 #. 
-#: ValidationValidator_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1353
-#, java-format
-msgctxt "ValidationValidator_Properties"
-msgid "/struts_pro/ValidationValidator.html"
-msgstr ""
-
-#. 
 #: ValidationValidator_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1355
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2035
 #, java-format
 msgctxt "ValidationValidator_Properties.WindowTitle"
 msgid "Properties"
@@ -4318,7 +2745,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationValidator_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1357
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2037
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1671
 #, java-format
 msgctxt "ValidationValidator_Properties.Title"
@@ -4327,28 +2754,10 @@ msgstr ""
 
 #. 
 #. 
-#. #### Validation var element #####
-#: ValidationVar
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1365
-#, java-format
-msgctxt "ValidationVar"
-msgid "/struts_pro/ValidationVar.html"
-msgstr ""
-
-#. 
-#: ValidationVar_Edit
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1369
-#, java-format
-msgctxt "ValidationVar_Edit"
-msgid "/struts_pro/ValidationVar.html"
-msgstr ""
-
-#. 
-#. 
 #. 
 #. #### Validation var element #####
 #: ValidationVar_Edit.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1371
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2059
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1695
 #, java-format
 msgctxt "ValidationVar_Edit.WindowTitle"
@@ -4358,7 +2767,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationVar_Edit.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1373
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2061
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1697
 #, java-format
 msgctxt "ValidationVar_Edit.Title"
@@ -4366,16 +2775,8 @@ msgid "Validation Var"
 msgstr ""
 
 #. 
-#: ValidationVar_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1377
-#, java-format
-msgctxt "ValidationVar_Properties"
-msgid "/struts_pro/ValidationVar.html"
-msgstr ""
-
-#. 
 #: ValidationVar_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1379
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2071
 #, java-format
 msgctxt "ValidationVar_Properties.WindowTitle"
 msgid "Properties"
@@ -4384,7 +2785,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationVar_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1381
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2073
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1701
 #, java-format
 msgctxt "ValidationVar_Properties.Title"
@@ -4393,28 +2794,10 @@ msgstr ""
 
 #. 
 #. 
-#. #### Validation file selector #####
-#: ValidatorFileSelector
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1389
-#, java-format
-msgctxt "ValidatorFileSelector"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: ValidatorFileSelector_Edit
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1393
-#, java-format
-msgctxt "ValidatorFileSelector_Edit"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#. 
 #. 
 #. #### Validation file selector #####
 #: ValidatorFileSelector_Edit.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1395
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2095
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1719
 #, java-format
 msgctxt "ValidatorFileSelector_Edit.WindowTitle"
@@ -4424,7 +2807,7 @@ msgstr ""
 #. 
 #. 
 #: ValidatorFileSelector_Edit.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1397
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2097
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1721
 #, java-format
 msgctxt "ValidatorFileSelector_Edit.Title"
@@ -4432,16 +2815,8 @@ msgid "Validation Framework File"
 msgstr ""
 
 #. 
-#: ValidatorFileSelector_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1401
-#, java-format
-msgctxt "ValidatorFileSelector_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #: ValidatorFileSelector_Properties.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1403
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2107
 #, java-format
 msgctxt "ValidatorFileSelector_Properties.WindowTitle"
 msgid "Properties"
@@ -4450,7 +2825,7 @@ msgstr ""
 #. 
 #. 
 #: ValidatorFileSelector_Properties.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1405
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2109
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1725
 #, java-format
 msgctxt "ValidatorFileSelector_Properties.Title"
@@ -4459,20 +2834,10 @@ msgstr ""
 
 #. 
 #. 
-#. #### Creating Validation file #####
-#: FileFolder_CreateValidator
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1413
-#, java-format
-msgctxt "FileFolder_CreateValidator"
-msgid "/struts_pro/FileSystemFolder_CreateValidator.html"
-msgstr ""
-
-#. 
-#. 
 #. 
 #. #### Creating Validation file #####
 #: FileFolder_CreateValidator.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1415
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2123
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1733
 #, java-format
 msgctxt "FileFolder_CreateValidator.WindowTitle"
@@ -4482,7 +2847,7 @@ msgstr ""
 #. 
 #. 
 #: FileFolder_CreateValidator.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1417
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2125
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1735
 #, java-format
 msgctxt "FileFolder_CreateValidator.Title"
@@ -4490,17 +2855,9 @@ msgid "Validation File"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateValidator
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1421
-#, java-format
-msgctxt "FileSystemFolder_CreateValidator"
-msgid "/struts_pro/FileSystemFolder_CreateValidator.html"
-msgstr ""
-
-#. 
 #. 
 #: FileSystemFolder_CreateValidator.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1423
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2135
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1739
 #, java-format
 msgctxt "FileSystemFolder_CreateValidator.WindowTitle"
@@ -4510,21 +2867,11 @@ msgstr ""
 #. 
 #. 
 #: FileSystemFolder_CreateValidator.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1425
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2137
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1741
 #, java-format
 msgctxt "FileSystemFolder_CreateValidator.Title"
 msgid "Validation File"
-msgstr ""
-
-#. 
-#. 
-#. #### Helper actions in Tiles Validators Editor #####
-#: SVWAddArgN_AddArg_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1431
-#, java-format
-msgctxt "SVWAddArgN_AddArg_0"
-msgid "/model/noHelpYet.html"
 msgstr ""
 
 #. 
@@ -4546,7 +2893,7 @@ msgstr ""
 #. 
 #. #### Helper actions in Tiles Validators Editor #####
 #: SVWAddArgN_AddArg_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1433
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2149
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1787
 #, java-format
 msgctxt "SVWAddArgN_AddArg_0.WindowTitle"
@@ -4556,7 +2903,7 @@ msgstr ""
 #. 
 #. 
 #: SVWAddArgN_AddArg_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1435
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2151
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1789
 #, java-format
 msgctxt "SVWAddArgN_AddArg_0.Title"
@@ -4564,17 +2911,9 @@ msgid "Arg"
 msgstr ""
 
 #. 
-#: SVWAddMsg_AddMsg_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1439
-#, java-format
-msgctxt "SVWAddMsg_AddMsg_0"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #. 
 #: SVWAddMsg_AddMsg_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1441
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2161
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1793
 #, java-format
 msgctxt "SVWAddMsg_AddMsg_0.WindowTitle"
@@ -4584,7 +2923,7 @@ msgstr ""
 #. 
 #. 
 #: SVWAddMsg_AddMsg_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1443
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2163
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1795
 #, java-format
 msgctxt "SVWAddMsg_AddMsg_0.Title"
@@ -4592,17 +2931,9 @@ msgid "Msg"
 msgstr ""
 
 #. 
-#: SVWAddMsg_Edit_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1447
-#, java-format
-msgctxt "SVWAddMsg_Edit_0"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #. 
 #: SVWAddMsg_Edit_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1449
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2173
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1799
 #, java-format
 msgctxt "SVWAddMsg_Edit_0.WindowTitle"
@@ -4612,7 +2943,7 @@ msgstr ""
 #. 
 #. 
 #: SVWAddMsg_Edit_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1451
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2175
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1801
 #, java-format
 msgctxt "SVWAddMsg_Edit_0.Title"
@@ -4620,17 +2951,9 @@ msgid "Msg"
 msgstr ""
 
 #. 
-#: SVWEditArg_Edit_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1455
-#, java-format
-msgctxt "SVWEditArg_Edit_0"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #. 
 #: SVWEditArg_Edit_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1457
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2185
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1805
 #, java-format
 msgctxt "SVWEditArg_Edit_0.WindowTitle"
@@ -4640,7 +2963,7 @@ msgstr ""
 #. 
 #. 
 #: SVWEditArg_Edit_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1459
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2187
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1807
 #, java-format
 msgctxt "SVWEditArg_Edit_0.Title"
@@ -4648,17 +2971,9 @@ msgid "Arg"
 msgstr ""
 
 #. 
-#: SVWEditArgN_Edit_0
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1463
-#, java-format
-msgctxt "SVWEditArgN_Edit_0"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #. 
 #: SVWEditArgN_Edit_0.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1465
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2197
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1811
 #, java-format
 msgctxt "SVWEditArgN_Edit_0.WindowTitle"
@@ -4668,7 +2983,7 @@ msgstr ""
 #. 
 #. 
 #: SVWEditArgN_Edit_0.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1467
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2199
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1813
 #, java-format
 msgctxt "SVWEditArgN_Edit_0.Title"
@@ -4678,61 +2993,10 @@ msgstr ""
 #. 
 #. 
 #. 
-#. #### Help keys for tree nodes in Tiles Validators Editor #####
-#: Validation_Editor_Formset
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1477
-#, java-format
-msgctxt "Validation_Editor_Formset"
-msgid "/struts_pro/Validation_Editor_Formset.html"
-msgstr ""
-
-#. 
-#: Validation_Editor_Form
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1479
-#, java-format
-msgctxt "Validation_Editor_Form"
-msgid "/struts_pro/Validation_Editor_Form.html"
-msgstr ""
-
-#. 
-#: Validation_Editor_Field
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1481
-#, java-format
-msgctxt "Validation_Editor_Field"
-msgid "/struts_pro/Validation_Editor_Field.html"
-msgstr ""
-
-#. 
-#: Validation_Editor_Rule
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1483
-#, java-format
-msgctxt "Validation_Editor_Rule"
-msgid "/struts_pro/Validation_Editor_Rule.html"
-msgstr ""
-
-#. 
-#: Validation_Editor_Constants
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1485
-#, java-format
-msgctxt "Validation_Editor_Constants"
-msgid "/struts_pro/Validation_Editor_Constants.html"
-msgstr ""
-
-#. 
-#: ValidationValidator_EditClassName
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1489
-#, java-format
-msgctxt "ValidationValidator_EditClassName"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#. 
-#. 
 #. 
 #. #### Help keys for tree nodes in Tiles Validators Editor #####
 #: ValidationValidator_EditClassName.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1491
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2231
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1823
 #, java-format
 msgctxt "ValidationValidator_EditClassName.WindowTitle"
@@ -4742,7 +3006,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationValidator_EditClassName.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1493
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2233
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1825
 #, java-format
 msgctxt "ValidationValidator_EditClassName.Title"
@@ -4750,17 +3014,9 @@ msgid "Validator"
 msgstr ""
 
 #. 
-#: ValidationValidator_EditMethod
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1497
-#, java-format
-msgctxt "ValidationValidator_EditMethod"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationValidator_EditMethod.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1499
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2243
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1829
 #, java-format
 msgctxt "ValidationValidator_EditMethod.WindowTitle"
@@ -4770,7 +3026,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationValidator_EditMethod.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1501
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2245
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1831
 #, java-format
 msgctxt "ValidationValidator_EditMethod.Title"
@@ -4778,16 +3034,8 @@ msgid "Validator"
 msgstr ""
 
 #. 
-#: ValidationValidator_EditMethodParams
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1505
-#, java-format
-msgctxt "ValidationValidator_EditMethodParams"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #: ValidationValidator_EditMethodParams.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1507
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2255
 #, java-format
 msgctxt "ValidationValidator_EditMethodParams.WindowTitle"
 msgid "Edit Method Parameters"
@@ -4796,7 +3044,7 @@ msgstr ""
 #. 
 #. 
 #: ValidationValidator_EditMethodParams.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1509
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2257
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1837
 #, java-format
 msgctxt "ValidationValidator_EditMethodParams.Title"
@@ -4804,17 +3052,9 @@ msgid "Validator"
 msgstr ""
 
 #. 
-#: ValidationValidator_EditFunctionName
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1513
-#, java-format
-msgctxt "ValidationValidator_EditFunctionName"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
 #. 
 #: ValidationValidator_EditFunctionName.WindowTitle
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1515
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2267
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1841
 #, java-format
 msgctxt "ValidationValidator_EditFunctionName.WindowTitle"
@@ -4824,78 +3064,11 @@ msgstr ""
 #. 
 #. 
 #: ValidationValidator_EditFunctionName.Title
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1517
+#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:2269
 #: ../../../struts/plugins/org.jboss.tools.struts/resources/help/keys-struts.properties:1843
 #, java-format
 msgctxt "ValidationValidator_EditFunctionName.Title"
 msgid "Validator"
-msgstr ""
-
-#. 
-#. 
-#. 
-#. obsolete #Options Editor - Customization
-#: SharableCustomization
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1525
-#, java-format
-msgctxt "SharableCustomization"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: SharableCustomization_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1527
-#, java-format
-msgctxt "SharableCustomization_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: SharablePlugin
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1529
-#, java-format
-msgctxt "SharablePlugin"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: SharablePlugin_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1531
-#, java-format
-msgctxt "SharablePlugin_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: SharablePlugins
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1533
-#, java-format
-msgctxt "SharablePlugins"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: SharablePlugins_CreatePlugin
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1535
-#, java-format
-msgctxt "SharablePlugins_CreatePlugin"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: SharablePlugins_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1537
-#, java-format
-msgctxt "SharablePlugins_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#: SharableOptions_Properties
-#: ../../../struts/plugins/org.jboss.tools.struts.ui/resources/help/keys.properties:1539
-#, java-format
-msgctxt "SharableOptions_Properties"
-msgid "/model/noHelpYet.html"
 msgstr ""
 
 #. PD (PREFERENCE DESCRIPTION)

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-03-31 17:37+1000\n"
+"POT-Creation-Date: 2009-04-01 16:58+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4652,52 +4652,9 @@ msgid "Session"
 msgstr ""
 
 #. 
-#. 
-#. env-entry.env-entry-type
-#: Web.lists.java.lang.Boolean
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:33
-#, java-format
-msgctxt "Web.lists.java.lang.Boolean"
-msgid "java.lang.Boolean"
-msgstr ""
-
-#. 
-#: Web.lists.java.lang.String
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:35
-#, java-format
-msgctxt "Web.lists.java.lang.String"
-msgid "java.lang.String"
-msgstr ""
-
-#. 
-#: Web.lists.java.lang.Integer
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:37
-#, java-format
-msgctxt "Web.lists.java.lang.Integer"
-msgid "java.lang.Integer"
-msgstr ""
-
-#. 
-#: Web.lists.java.lang.Double
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:39
-#, java-format
-msgctxt "Web.lists.java.lang.Double"
-msgid "java.lang.Double"
-msgstr ""
-
-#. 
-#: Web.lists.java.lang.Float
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:41
-#, java-format
-msgctxt "Web.lists.java.lang.Float"
-msgid "java.lang.Float"
-msgstr ""
-
-#. 
-#. 
 #. login-config.auth-method
 #: Web.lists.BASIC
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:47
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:51
 #, java-format
 msgctxt "Web.lists.BASIC"
 msgid "BASIC"
@@ -4705,7 +4662,7 @@ msgstr ""
 
 #. 
 #: Web.lists.DIGEST
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:49
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:53
 #, java-format
 msgctxt "Web.lists.DIGEST"
 msgid "DIGEST"
@@ -4713,7 +4670,7 @@ msgstr ""
 
 #. 
 #: Web.lists.FORM
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:51
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:55
 #, java-format
 msgctxt "Web.lists.FORM"
 msgid "FORM"
@@ -4721,269 +4678,16 @@ msgstr ""
 
 #. 
 #: Web.lists.CLIENT_CERT
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:53
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:57
 #, java-format
 msgctxt "Web.lists.CLIENT_CERT"
 msgid "CLIENT-CERT"
 msgstr ""
 
 #. 
-#. 
-#. mime-mapping.extension
-#: Web.lists.doc
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:59
-#, java-format
-msgctxt "Web.lists.doc"
-msgid "doc"
-msgstr ""
-
-#. 
-#: Web.lists.gif
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:61
-#, java-format
-msgctxt "Web.lists.gif"
-msgid "gif"
-msgstr ""
-
-#. 
-#: Web.lists.html
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:63
-#, java-format
-msgctxt "Web.lists.html"
-msgid "html"
-msgstr ""
-
-#. 
-#: Web.lists.txt
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:65
-#, java-format
-msgctxt "Web.lists.txt"
-msgid "txt"
-msgstr ""
-
-#. 
-#. 
-#. mime-mapping.mime-type
-#: Web.lists.text_plain
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:71
-#, java-format
-msgctxt "Web.lists.text_plain"
-msgid "text/plain"
-msgstr ""
-
-#. 
-#: Web.lists.text_richtext
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:73
-#, java-format
-msgctxt "Web.lists.text_richtext"
-msgid "text/richtext"
-msgstr ""
-
-#. 
-#: Web.lists.text_html
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:75
-#, java-format
-msgctxt "Web.lists.text_html"
-msgid "text/html"
-msgstr ""
-
-#. 
-#: Web.lists.audio_x_aiff
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:77
-#, java-format
-msgctxt "Web.lists.audio_x_aiff"
-msgid "audio/x-aiff"
-msgstr ""
-
-#. 
-#: Web.lists.audio_basic
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:79
-#, java-format
-msgctxt "Web.lists.audio_basic"
-msgid "audio/basic"
-msgstr ""
-
-#. 
-#: Web.lists.audio_wav
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:81
-#, java-format
-msgctxt "Web.lists.audio_wav"
-msgid "audio/wav"
-msgstr ""
-
-#. 
-#: Web.lists.image_gif
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:83
-#, java-format
-msgctxt "Web.lists.image_gif"
-msgid "image/gif"
-msgstr ""
-
-#. 
-#: Web.lists.image_jpeg
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:85
-#, java-format
-msgctxt "Web.lists.image_jpeg"
-msgid "image/jpeg"
-msgstr ""
-
-#. 
-#: Web.lists.image_pjpeg
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:87
-#, java-format
-msgctxt "Web.lists.image_pjpeg"
-msgid "image/pjpeg"
-msgstr ""
-
-#. 
-#: Web.lists.image_tiff
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:89
-#, java-format
-msgctxt "Web.lists.image_tiff"
-msgid "image/tiff"
-msgstr ""
-
-#. 
-#: Web.lists.image_x_png
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:91
-#, java-format
-msgctxt "Web.lists.image_x_png"
-msgid "image/x-png"
-msgstr ""
-
-#. 
-#: Web.lists.image_x_xbitmap
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:93
-#, java-format
-msgctxt "Web.lists.image_x_xbitmap"
-msgid "image/x-xbitmap"
-msgstr ""
-
-#. 
-#: Web.lists.image_bmp
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:95
-#, java-format
-msgctxt "Web.lists.image_bmp"
-msgid "image/bmp"
-msgstr ""
-
-#. 
-#: Web.lists.image_x_jg
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:97
-#, java-format
-msgctxt "Web.lists.image_x_jg"
-msgid "image/x-jg"
-msgstr ""
-
-#. 
-#: Web.lists.image_x_emf
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:99
-#, java-format
-msgctxt "Web.lists.image_x_emf"
-msgid "image/x-emf"
-msgstr ""
-
-#. 
-#: Web.lists.image_x_wmf
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:101
-#, java-format
-msgctxt "Web.lists.image_x_wmf"
-msgid "image/x-wmf"
-msgstr ""
-
-#. 
-#: Web.lists.video_avi
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:103
-#, java-format
-msgctxt "Web.lists.video_avi"
-msgid "video/avi"
-msgstr ""
-
-#. 
-#: Web.lists.video_mpeg
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:105
-#, java-format
-msgctxt "Web.lists.video_mpeg"
-msgid "video/mpeg"
-msgstr ""
-
-#. 
-#: Web.lists.application_postscript
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:107
-#, java-format
-msgctxt "Web.lists.application_postscript"
-msgid "application/postscript"
-msgstr ""
-
-#. 
-#: Web.lists.application_base64
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:109
-#, java-format
-msgctxt "Web.lists.application_base64"
-msgid "application/base64"
-msgstr ""
-
-#. 
-#: Web.lists.application_macbinhex40
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:111
-#, java-format
-msgctxt "Web.lists.application_macbinhex40"
-msgid "application/macbinhex40"
-msgstr ""
-
-#. 
-#: Web.lists.application_pdf
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:113
-#, java-format
-msgctxt "Web.lists.application_pdf"
-msgid "application/pdf"
-msgstr ""
-
-#. 
-#: Web.lists.application_x_compressed
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:115
-#, java-format
-msgctxt "Web.lists.application_x_compressed"
-msgid "application/x-compressed"
-msgstr ""
-
-#. 
-#: Web.lists.application_x_zip_compressed
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:117
-#, java-format
-msgctxt "Web.lists.application_x_zip_compressed"
-msgid "application/x-zip-compressed"
-msgstr ""
-
-#. 
-#: Web.lists.application_x_gzip_compressed
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:119
-#, java-format
-msgctxt "Web.lists.application_x_gzip_compressed"
-msgid "application/x-gzip-compressed"
-msgstr ""
-
-#. 
-#: Web.lists.application_java
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:121
-#, java-format
-msgctxt "Web.lists.application_java"
-msgid "application/java"
-msgstr ""
-
-#. 
-#: Web.lists.application_x_msdownload
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:123
-#, java-format
-msgctxt "Web.lists.application_x_msdownload"
-msgid "application/x-msdownload"
-msgstr ""
-
-#. 
-#. 
 #. web-resource-collection.http-methods
 #: Web.lists.GET
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:129
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:141
 #, java-format
 msgctxt "Web.lists.GET"
 msgid "GET"
@@ -4991,7 +4695,7 @@ msgstr ""
 
 #. 
 #: Web.lists.POST
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:131
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:143
 #, java-format
 msgctxt "Web.lists.POST"
 msgid "POST"
@@ -4999,7 +4703,7 @@ msgstr ""
 
 #. 
 #: Web.lists.PUT
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:133
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:145
 #, java-format
 msgctxt "Web.lists.PUT"
 msgid "PUT"
@@ -5007,7 +4711,7 @@ msgstr ""
 
 #. 
 #: Web.lists.DELETE
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:135
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:147
 #, java-format
 msgctxt "Web.lists.DELETE"
 msgid "DELETE"
@@ -5015,7 +4719,7 @@ msgstr ""
 
 #. 
 #: Web.lists.HEAD
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:137
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:149
 #, java-format
 msgctxt "Web.lists.HEAD"
 msgid "HEAD"
@@ -5023,7 +4727,7 @@ msgstr ""
 
 #. 
 #: Web.lists.OPTIONS
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:139
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:151
 #, java-format
 msgctxt "Web.lists.OPTIONS"
 msgid "OPTIONS"
@@ -5031,7 +4735,7 @@ msgstr ""
 
 #. 
 #: Web.lists.TRACE
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:141
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:153
 #, java-format
 msgctxt "Web.lists.TRACE"
 msgid "TRACE"
@@ -5039,7 +4743,7 @@ msgstr ""
 
 #. 
 #: Web.lists.Container
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:143
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:155
 #, java-format
 msgctxt "Web.lists.Container"
 msgid "Container"
@@ -5047,7 +4751,7 @@ msgstr ""
 
 #. 
 #: Web.lists.Application
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:145
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:157
 #, java-format
 msgctxt "Web.lists.Application"
 msgid "Application"
@@ -5055,7 +4759,7 @@ msgstr ""
 
 #. 
 #: Web.lists.Shareable
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:147
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:159
 #, java-format
 msgctxt "Web.lists.Shareable"
 msgid "Shareable"
@@ -5063,7 +4767,7 @@ msgstr ""
 
 #. 
 #: Web.lists.Unshareable
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:149
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:161
 #, java-format
 msgctxt "Web.lists.Unshareable"
 msgid "Unshareable"
@@ -5073,7 +4777,7 @@ msgstr ""
 #. 
 #. user-data-constraint.transport-guarantee
 #: Web.lists.NONE
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:155
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:167
 #, java-format
 msgctxt "Web.lists.NONE"
 msgid "NONE"
@@ -5081,7 +4785,7 @@ msgstr ""
 
 #. 
 #: Web.lists.INTEGRAL
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:157
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:169
 #, java-format
 msgctxt "Web.lists.INTEGRAL"
 msgid "INTEGRAL"
@@ -5089,7 +4793,7 @@ msgstr ""
 
 #. 
 #: Web.lists.CONFIDENTIAL
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:159
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:171
 #, java-format
 msgctxt "Web.lists.CONFIDENTIAL"
 msgid "CONFIDENTIAL"
@@ -5097,7 +4801,7 @@ msgstr ""
 
 #. 
 #: Web.lists.Exact_structure_of_war_file
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:163
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:175
 #, java-format
 msgctxt "Web.lists.Exact_structure_of_war_file"
 msgid "Exact structure of war file"
@@ -5105,7 +4809,7 @@ msgstr ""
 
 #. 
 #: Web.lists.Classic_Eclipse_project_structure
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:165
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:177
 #, java-format
 msgctxt "Web.lists.Classic_Eclipse_project_structure"
 msgid "Classic Eclipse project structure"
@@ -5113,7 +4817,7 @@ msgstr ""
 
 #. 
 #: Web.lists.none
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:169
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:181
 #, java-format
 msgctxt "Web.lists.none"
 msgid "none"
@@ -5121,7 +4825,7 @@ msgstr ""
 
 #. 
 #: Web.lists.compile
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:171
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:183
 #, java-format
 msgctxt "Web.lists.compile"
 msgid "compile"
@@ -5129,7 +4833,7 @@ msgstr ""
 
 #. 
 #: Web.lists.create_jar
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:173
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:185
 #, java-format
 msgctxt "Web.lists.create_jar"
 msgid "create jar"
@@ -5139,7 +4843,7 @@ msgstr ""
 #. 
 #. filter-mapping.dispatchers
 #: Web.lists.FORWARD
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:179
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:191
 #, java-format
 msgctxt "Web.lists.FORWARD"
 msgid "FORWARD"
@@ -5147,7 +4851,7 @@ msgstr ""
 
 #. 
 #: Web.lists.INCLUDE
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:181
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:193
 #, java-format
 msgctxt "Web.lists.INCLUDE"
 msgid "INCLUDE"
@@ -5155,7 +4859,7 @@ msgstr ""
 
 #. 
 #: Web.lists.REQUEST
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:183
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:195
 #, java-format
 msgctxt "Web.lists.REQUEST"
 msgid "REQUEST"
@@ -5163,7 +4867,7 @@ msgstr ""
 
 #. 
 #: Web.lists.ERROR
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:185
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:197
 #, java-format
 msgctxt "Web.lists.ERROR"
 msgid "ERROR"
@@ -5173,7 +4877,7 @@ msgstr ""
 #. 
 #. message-destination-ref.message-destination-usage
 #: Web.lists.Consumes
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:191
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:203
 #, java-format
 msgctxt "Web.lists.Consumes"
 msgid "Consumes"
@@ -5181,7 +4885,7 @@ msgstr ""
 
 #. 
 #: Web.lists.Produces
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:193
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:205
 #, java-format
 msgctxt "Web.lists.Produces"
 msgid "Produces"
@@ -5189,7 +4893,7 @@ msgstr ""
 
 #. 
 #: Web.lists.ConsumesProduces
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:195
+#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-lists.properties:207
 #, java-format
 msgctxt "Web.lists.ConsumesProduces"
 msgid "ConsumesProduces"

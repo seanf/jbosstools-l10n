@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-03-31 17:37+1000\n"
+"POT-Creation-Date: 2009-04-01 16:58+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2601,84 +2601,9 @@ msgid "project"
 msgstr ""
 
 #. 
-#. 
-#. File extensions
-#: Model.lists.html
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:41
-#, java-format
-msgctxt "Model.lists.html"
-msgid "html"
-msgstr ""
-
-#. 
-#: Model.lists.htm
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:43
-#, java-format
-msgctxt "Model.lists.htm"
-msgid "htm"
-msgstr ""
-
-#. 
-#: Model.lists.java
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:45
-#, java-format
-msgctxt "Model.lists.java"
-msgid "java"
-msgstr ""
-
-#. 
-#: Model.lists.jsp
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:47
-#, java-format
-msgctxt "Model.lists.jsp"
-msgid "jsp"
-msgstr ""
-
-#. 
-#: Model.lists.xhtml
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:49
-#, java-format
-msgctxt "Model.lists.xhtml"
-msgid "xhtml"
-msgstr ""
-
-#. 
-#: Model.lists.xml
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:51
-#, java-format
-msgctxt "Model.lists.xml"
-msgid "xml"
-msgstr ""
-
-#. 
-#: Model.lists.HTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:53
-#, java-format
-msgctxt "Model.lists.HTML"
-msgid "HTML"
-msgstr ""
-
-#. 
-#: Model.lists.JAVA
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:55
-#, java-format
-msgctxt "Model.lists.JAVA"
-msgid "JAVA"
-msgstr ""
-
-#. 
-#: Model.lists.XSL
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:57
-#, java-format
-msgctxt "Model.lists.XSL"
-msgid "XSL"
-msgstr ""
-
-#. 
-#. 
 #. types
 #: Model.lists.Monospaced
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:63
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:71
 #, java-format
 msgctxt "Model.lists.Monospaced"
 msgid "Monospaced"
@@ -2686,7 +2611,7 @@ msgstr ""
 
 #. 
 #: Model.lists.Serif
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:65
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:73
 #, java-format
 msgctxt "Model.lists.Serif"
 msgid "Serif"
@@ -2694,7 +2619,7 @@ msgstr ""
 
 #. 
 #: Model.lists.SansSerif
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:67
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:75
 #, java-format
 msgctxt "Model.lists.SansSerif"
 msgid "SansSerif"
@@ -2702,7 +2627,7 @@ msgstr ""
 
 #. 
 #: Model.lists.Dialog
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:69
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:77
 #, java-format
 msgctxt "Model.lists.Dialog"
 msgid "Dialog"
@@ -2710,7 +2635,7 @@ msgstr ""
 
 #. 
 #: Model.lists.DialogInput
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:71
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:79
 #, java-format
 msgctxt "Model.lists.DialogInput"
 msgid "DialogInput"
@@ -2718,7 +2643,7 @@ msgstr ""
 
 #. 
 #: Model.lists.SmallSystem
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:73
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:81
 #, java-format
 msgctxt "Model.lists.SmallSystem"
 msgid "SmallSystem"
@@ -2726,7 +2651,7 @@ msgstr ""
 
 #. 
 #: Model.lists.System
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:75
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:83
 #, java-format
 msgctxt "Model.lists.System"
 msgid "System"
@@ -2736,7 +2661,7 @@ msgstr ""
 #. 
 #. defaults for some integer attributes
 #: Model.lists.default_20_
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:81
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:89
 #, java-format
 msgctxt "Model.lists.default_20_"
 msgid "default(20)"
@@ -2744,7 +2669,7 @@ msgstr ""
 
 #. 
 #: Model.lists.default_185_
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:83
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:91
 #, java-format
 msgctxt "Model.lists.default_185_"
 msgid "default(185)"
@@ -2754,7 +2679,7 @@ msgstr ""
 #. 
 #. miscellaneous
 #: Model.lists.Top
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:89
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:97
 #, java-format
 msgctxt "Model.lists.Top"
 msgid "Top"
@@ -2762,7 +2687,7 @@ msgstr ""
 
 #. 
 #: Model.lists.Center
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:91
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:99
 #, java-format
 msgctxt "Model.lists.Center"
 msgid "Center"
@@ -2770,7 +2695,7 @@ msgstr ""
 
 #. 
 #: Model.lists.Application
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:93
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:101
 #, java-format
 msgctxt "Model.lists.Application"
 msgid "Application"
@@ -2778,7 +2703,7 @@ msgstr ""
 
 #. 
 #: Model.lists.never
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:95
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:103
 #, java-format
 msgctxt "Model.lists.never"
 msgid "never"
@@ -2786,7 +2711,7 @@ msgstr ""
 
 #. 
 #: Model.lists.once_a_week
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:97
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:105
 #, java-format
 msgctxt "Model.lists.once_a_week"
 msgid "once a week"
@@ -2794,7 +2719,7 @@ msgstr ""
 
 #. 
 #: Model.lists.once_a_month
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:99
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:107
 #, java-format
 msgctxt "Model.lists.once_a_month"
 msgid "once a month"
@@ -2802,7 +2727,7 @@ msgstr ""
 
 #. 
 #: Model.lists.coincides
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:101
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:109
 #, java-format
 msgctxt "Model.lists.coincides"
 msgid "coincides"
@@ -2810,7 +2735,7 @@ msgstr ""
 
 #. 
 #: Model.lists.contains
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:103
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:111
 #, java-format
 msgctxt "Model.lists.contains"
 msgid "contains"
@@ -2818,7 +2743,7 @@ msgstr ""
 
 #. 
 #: Model.lists.is_contained
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:105
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:113
 #, java-format
 msgctxt "Model.lists.is_contained"
 msgid "is contained"
@@ -2828,7 +2753,7 @@ msgstr ""
 #. 
 #. Specific values of model objects used as names of tabs in preference pages
 #: lists.Editors
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:111
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:119
 #, java-format
 msgctxt "lists.Editors"
 msgid "Editors"
@@ -2836,7 +2761,7 @@ msgstr ""
 
 #. 
 #: lists.JSF_Flow_Diagram
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:113
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:121
 #, java-format
 msgctxt "lists.JSF_Flow_Diagram"
 msgid "JSF Flow Diagram"
@@ -2844,7 +2769,7 @@ msgstr ""
 
 #. 
 #: lists.Struts_Flow_Diagram
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:115
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:123
 #, java-format
 msgctxt "lists.Struts_Flow_Diagram"
 msgid "Struts Flow Diagram"
@@ -2852,7 +2777,7 @@ msgstr ""
 
 #. 
 #: lists.Seam_Pages_Diagram
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:117
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:125
 #, java-format
 msgctxt "lists.Seam_Pages_Diagram"
 msgid "Seam Pages Diagram"
@@ -2860,7 +2785,7 @@ msgstr ""
 
 #. 
 #: lists.Add_Page
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:119
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:127
 #, java-format
 msgctxt "lists.Add_Page"
 msgid "Add Page"
@@ -2868,7 +2793,7 @@ msgstr ""
 
 #. 
 #: lists.Add_View
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:121
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:129
 #, java-format
 msgctxt "lists.Add_View"
 msgid "Add View"
@@ -2876,7 +2801,7 @@ msgstr ""
 
 #. 
 #: lists.New_Project
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:123
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:131
 #, java-format
 msgctxt "lists.New_Project"
 msgid "New Project"
@@ -2884,7 +2809,7 @@ msgstr ""
 
 #. 
 #: lists.Import_Project
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:125
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:133
 #, java-format
 msgctxt "lists.Import_Project"
 msgid "Import Project"
@@ -2892,7 +2817,7 @@ msgstr ""
 
 #. 
 #: lists.Struts_Support_1.2
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:127
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:135
 #, java-format
 msgctxt "lists.Struts_Support_1.2"
 msgid "Struts Support 1.2"
@@ -2900,7 +2825,7 @@ msgstr ""
 
 #. 
 #: lists.Struts_Support_1.1
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:129
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:137
 #, java-format
 msgctxt "lists.Struts_Support_1.1"
 msgid "Struts Support 1.1"
@@ -2908,7 +2833,7 @@ msgstr ""
 
 #. 
 #: lists.Struts_Support_1.0
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:131
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:139
 #, java-format
 msgctxt "lists.Struts_Support_1.0"
 msgid "Struts Support 1.0"
@@ -2916,7 +2841,7 @@ msgstr ""
 
 #. 
 #: lists.Default_Error_Messages
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:133
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:141
 #, java-format
 msgctxt "lists.Default_Error_Messages"
 msgid "Default Error Messages"
@@ -2924,7 +2849,7 @@ msgstr ""
 
 #. 
 #: lists.Tiles
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:135
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:143
 #, java-format
 msgctxt "lists.Tiles"
 msgid "Tiles"
@@ -2932,7 +2857,7 @@ msgstr ""
 
 #. 
 #: lists.Validators
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:137
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:145
 #, java-format
 msgctxt "lists.Validators"
 msgid "Validators"
@@ -2940,7 +2865,7 @@ msgstr ""
 
 #. 
 #: lists.Verification
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:139
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-lists.properties:147
 #, java-format
 msgctxt "lists.Verification"
 msgid "Options"
@@ -3425,360 +3350,177 @@ msgid "Properties"
 msgstr ""
 
 #. 
-#. #### File Systems #####
-#: FileSystems
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:5
-#, java-format
-msgctxt "FileSystems"
-msgid "/model/FileSystems.html"
-msgstr ""
-
-#. 
-#: FileSystems_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:7
-#, java-format
-msgctxt "FileSystems_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
 #: FileSystems_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:8
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:12
 #, java-format
 msgctxt "FileSystems_Properties.Title"
 msgid "Project"
 msgstr ""
 
 #. 
-#: FileSystems_CreateFileSystemFolder
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:10
-#, java-format
-msgctxt "FileSystems_CreateFileSystemFolder"
-msgid "/model/FileSystems_CreateFileSystemFolder.html"
-msgstr ""
-
 #: FileSystems_CreateFileSystemFolder.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:11
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:17
 #, java-format
 msgctxt "FileSystems_CreateFileSystemFolder.WindowTitle"
 msgid "Add File System"
 msgstr ""
 
 #: FileSystems_CreateFileSystemFolder.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:12
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:18
 #, java-format
 msgctxt "FileSystems_CreateFileSystemFolder.Title"
 msgid "Folder System"
 msgstr ""
 
 #. 
-#: FileSystems_CreateFileSystemJar
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:14
-#, java-format
-msgctxt "FileSystems_CreateFileSystemJar"
-msgid "/model/FileSystems_CreateFileSystemJar.html"
-msgstr ""
-
 #: FileSystems_CreateFileSystemJar.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:15
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:23
 #, java-format
 msgctxt "FileSystems_CreateFileSystemJar.WindowTitle"
 msgid "Add File System"
 msgstr ""
 
 #: FileSystems_CreateFileSystemJar.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:16
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:24
 #, java-format
 msgctxt "FileSystems_CreateFileSystemJar.Title"
 msgid "Jar File System"
 msgstr ""
 
 #. 
-#: FileSystems_SynchronizeModules_0
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:18
-#, java-format
-msgctxt "FileSystems_SynchronizeModules_0"
-msgid "/model/FileSystems_SynchronizeModules_0.html"
-msgstr ""
-
 #: FileSystems_SynchronizeModules_0.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:19
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:29
 #, java-format
 msgctxt "FileSystems_SynchronizeModules_0.WindowTitle"
 msgid "Modules Configuration"
 msgstr ""
 
 #: FileSystems_SynchronizeModules_0.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:20
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:30
 #, java-format
 msgctxt "FileSystems_SynchronizeModules_0.Title"
 msgid "Struts Project"
 msgstr ""
 
 #. 
-#: FileSystems_RegisterInServerXML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:22
-#, java-format
-msgctxt "FileSystems_RegisterInServerXML"
-msgid "/struts/FileSystems_RegisterInServerXML.html"
-msgstr ""
-
-#. 
-#: FileSystems_Add
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:24
-#, java-format
-msgctxt "FileSystems_Add"
-msgid "/model/FileSystems_Add.html"
-msgstr ""
-
 #: FileSystems_Add.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:25
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:39
 #, java-format
 msgctxt "FileSystems_Add.WindowTitle"
 msgid "File Systems"
 msgstr ""
 
 #. 
-#: FileSystems_ShowHide
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:27
-#, java-format
-msgctxt "FileSystems_ShowHide"
-msgid "/model/FileSystems_ShowHide.html"
-msgstr ""
-
 #: FileSystems_ShowHide.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:28
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:44
 #, java-format
 msgctxt "FileSystems_ShowHide.WindowTitle"
 msgid "Show/Hide File Systems"
 msgstr ""
 
 #: FileSystems_ShowHide.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:29
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:45
 #, java-format
 msgctxt "FileSystems_ShowHide.Title"
 msgid "Customize Struts Projects View"
 msgstr ""
 
 #: FileSystems_ShowHide.Message
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:30
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:46
 #, java-format
 msgctxt "FileSystems_ShowHide.Message"
 msgid "Please check entities for show, uncheck for hide"
 msgstr ""
 
 #. 
-#. #### File System #####
-#: FileSystemFolder
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:34
-#, java-format
-msgctxt "FileSystemFolder"
-msgid "/model/FileSystemFolder.html"
-msgstr ""
-
-#. 
-#: FileSystemFolder_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:36
-#, java-format
-msgctxt "FileSystemFolder_Properties"
-msgid "/model/FolderProperty.html"
-msgstr ""
-
 #: FileSystemFolder_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:37
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:57
 #, java-format
 msgctxt "FileSystemFolder_Properties.Title"
 msgid "Folder System"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateFolder
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:39
-#, java-format
-msgctxt "FileSystemFolder_CreateFolder"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileSystemFolder_CreateFolder.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:40
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:62
 #, java-format
 msgctxt "FileSystemFolder_CreateFolder.WindowTitle"
 msgid "New Folder"
 msgstr ""
 
 #: FileSystemFolder_CreateFolder.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:41
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:63
 #, java-format
 msgctxt "FileSystemFolder_CreateFolder.Title"
 msgid "Folder"
 msgstr ""
 
 #. 
-#: OverlappedFileSystem
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:43
-#, java-format
-msgctxt "OverlappedFileSystem"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
 #: OverlappedFileSystem.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:44
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:68
 #, java-format
 msgctxt "OverlappedFileSystem.WindowTitle"
 msgid "File System"
 msgstr ""
 
 #. 
-#. #### Jar File System #####
-#: FileSystemJar
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:48
-#, java-format
-msgctxt "FileSystemJar"
-msgid "/model/FileSystemJar.html"
-msgstr ""
-
-#. 
-#: FileSystemJar_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:50
-#, java-format
-msgctxt "FileSystemJar_Properties"
-msgid "/model/FileSystemJar_Properties.html"
-msgstr ""
-
 #: FileSystemJar_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:51
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:79
 #, java-format
 msgctxt "FileSystemJar_Properties.Title"
 msgid "File System"
 msgstr ""
 
 #. 
-#. #### Folder #####
-#: FileFolder
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:55
-#, java-format
-msgctxt "FileFolder"
-msgid "/model/FileFolder.html"
-msgstr ""
-
-#. 
-#: FileFolder_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:57
-#, java-format
-msgctxt "FileFolder_Properties"
-msgid "/model/FolderProperty.html"
-msgstr ""
-
 #: FileFolder_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:58
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:90
 #, java-format
 msgctxt "FileFolder_Properties.Title"
 msgid "Folder"
 msgstr ""
 
 #. 
-#: FileFolder_CreateFolder
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:60
-#, java-format
-msgctxt "FileFolder_CreateFolder"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileFolder_CreateFolder.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:61
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:95
 #, java-format
 msgctxt "FileFolder_CreateFolder.WindowTitle"
 msgid "New Folder"
 msgstr ""
 
 #: FileFolder_CreateFolder.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:62
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:96
 #, java-format
 msgctxt "FileFolder_CreateFolder.Title"
 msgid "Folder"
 msgstr ""
 
 #. 
-#. #### Jar Folder #####
-#: JarFolder
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:66
-#, java-format
-msgctxt "JarFolder"
-msgid "/model/JarFolder.html"
-msgstr ""
-
-#. 
-#: JarFolder_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:68
-#, java-format
-msgctxt "JarFolder_Properties"
-msgid "/model/JarFolder_Properties.html"
-msgstr ""
-
 #: JarFolder_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:69
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:107
 #, java-format
 msgctxt "JarFolder_Properties.Title"
 msgid "Jar Folder"
 msgstr ""
 
 #. 
-#: FileGIF
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:71
-#, java-format
-msgctxt "FileGIF"
-msgid "/model/FileGIF.html"
-msgstr ""
-
-#: FileGIF_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:72
-#, java-format
-msgctxt "FileGIF_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileGIF_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:73
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:115
 #, java-format
 msgctxt "FileGIF_Properties.Title"
 msgid "File GIF"
 msgstr ""
 
 #. 
-#. #### File Properties #####
-#: FilePROPERTIES
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:77
-#, java-format
-msgctxt "FilePROPERTIES"
-msgid "/model/FilePROPERTIES.html"
-msgstr ""
-
-#. 
-#: FilePROPERTIES_Rename
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:79
-#, java-format
-msgctxt "FilePROPERTIES_Rename"
-msgid "/model/FilePROPERTIES.html"
-msgstr ""
-
-#. 
 #: FilePROPERTIES_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:81
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:127
 #, java-format
 msgctxt "FilePROPERTIES_Properties.Title"
 msgid "File Properties"
 msgstr ""
 
 #. 
-#: Property
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:83
-#, java-format
-msgctxt "Property"
-msgid "/model/Property.html"
-msgstr ""
-
-#. 
 #: Property_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:85
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:133
 #, java-format
 msgctxt "Property_Properties.Title"
 msgid "Property"
@@ -3786,14 +3528,14 @@ msgstr ""
 
 #. 
 #: Property_Edit.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:87
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:135
 #, java-format
 msgctxt "Property_Edit.WindowTitle"
 msgid "Edit"
 msgstr ""
 
 #: Property_Edit.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:88
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:136
 #, java-format
 msgctxt "Property_Edit.Title"
 msgid "Property"
@@ -3801,506 +3543,272 @@ msgstr ""
 
 #. 
 #: FilePROPERTIES_CreateProperty.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:90
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:138
 #, java-format
 msgctxt "FilePROPERTIES_CreateProperty.WindowTitle"
 msgid "Add Property"
 msgstr ""
 
 #: FilePROPERTIES_CreateProperty.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:91
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:139
 #, java-format
 msgctxt "FilePROPERTIES_CreateProperty.Title"
 msgid "Property"
 msgstr ""
 
 #. 
-#. #### File #####
-#: FileAnyAuxiliary
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:95
-#, java-format
-msgctxt "FileAnyAuxiliary"
-msgid "/model/FileAny.html"
-msgstr ""
-
-#. 
-#: FileAnyAuxiliary_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:97
-#, java-format
-msgctxt "FileAnyAuxiliary_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileAnyAuxiliary_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:98
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:150
 #, java-format
 msgctxt "FileAnyAuxiliary_Properties.Title"
 msgid "File"
 msgstr ""
 
 #. 
-#: FileAny
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:100
-#, java-format
-msgctxt "FileAny"
-msgid "/model/FileAny.html"
-msgstr ""
-
-#. 
-#: FileAny_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:102
-#, java-format
-msgctxt "FileAny_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileAny_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:103
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:159
 #, java-format
 msgctxt "FileAny_Properties.Title"
 msgid "File"
 msgstr ""
 
 #. 
-#: FileAnyLong
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:105
-#, java-format
-msgctxt "FileAnyLong"
-msgid "/model/FileAny.html"
-msgstr ""
-
-#. 
-#: FileAnyLong_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:107
-#, java-format
-msgctxt "FileAnyLong_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileAnyLong_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:108
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:168
 #, java-format
 msgctxt "FileAnyLong_Properties.Title"
 msgid "File"
 msgstr ""
 
 #. 
-#: FileTXT
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:110
-#, java-format
-msgctxt "FileTXT"
-msgid "/model/FileTXT.html"
-msgstr ""
-
-#. 
-#: FileTXT_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:112
-#, java-format
-msgctxt "FileTXT_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileTXT_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:113
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:177
 #, java-format
 msgctxt "FileTXT_Properties.Title"
 msgid "File"
 msgstr ""
 
 #. 
-#. #### Create File #####
-#: FileFolder_CreateFile
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:117
-#, java-format
-msgctxt "FileFolder_CreateFile"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileFolder_CreateFile.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:118
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:184
 #, java-format
 msgctxt "FileFolder_CreateFile.WindowTitle"
 msgid "New File"
 msgstr ""
 
 #: FileFolder_CreateFile.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:119
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:185
 #, java-format
 msgctxt "FileFolder_CreateFile.Title"
 msgid "File"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateFile
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:121
-#, java-format
-msgctxt "FileSystemFolder_CreateFile"
-msgid "/model/CreateFile.html"
-msgstr ""
-
-#: FileSystemFolder_CreateFile_0
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:122
-#, java-format
-msgctxt "FileSystemFolder_CreateFile_0"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileSystemFolder_CreateFile.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:123
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:191
 #, java-format
 msgctxt "FileSystemFolder_CreateFile.WindowTitle"
 msgid "New File"
 msgstr ""
 
 #: FileSystemFolder_CreateFile.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:124
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:192
 #, java-format
 msgctxt "FileSystemFolder_CreateFile.Title"
 msgid "File"
 msgstr ""
 
 #. 
-#. #### File JSP #####
-#: FileJSP
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:128
-#, java-format
-msgctxt "FileJSP"
-msgid "/model/FileJSP.html"
-msgstr ""
-
-#: FileJSP_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:129
-#, java-format
-msgctxt "FileJSP_Properties"
-msgid "/model/FileJSP.html"
-msgstr ""
-
 #: FileJSP_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:130
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:202
 #, java-format
 msgctxt "FileJSP_Properties.Title"
 msgid "File JSP"
 msgstr ""
 
-#: FileJSP_Rename
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:131
-#, java-format
-msgctxt "FileJSP_Rename"
-msgid "/model/FileJSP.html"
-msgstr ""
-
 #. 
-#. #### Create File JSP #####
-#: FileFolder_CreateFileJSP
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:135
-#, java-format
-msgctxt "FileFolder_CreateFileJSP"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileFolder_CreateFileJSP.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:136
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:212
 #, java-format
 msgctxt "FileFolder_CreateFileJSP.WindowTitle"
 msgid "New File JSP"
 msgstr ""
 
 #: FileFolder_CreateFileJSP.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:137
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:213
 #, java-format
 msgctxt "FileFolder_CreateFileJSP.Title"
 msgid "File JSP"
 msgstr ""
 
 #: FileFolder_CreateFileJSP_1.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:138
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:214
 #, java-format
 msgctxt "FileFolder_CreateFileJSP_1.Title"
 msgid "Select Tag Libraries"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateFileJSP
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:140
-#, java-format
-msgctxt "FileSystemFolder_CreateFileJSP"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileSystemFolder_CreateFileJSP.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:141
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:219
 #, java-format
 msgctxt "FileSystemFolder_CreateFileJSP.WindowTitle"
 msgid "New File JSP"
 msgstr ""
 
 #: FileSystemFolder_CreateFileJSP.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:142
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:220
 #, java-format
 msgctxt "FileSystemFolder_CreateFileJSP.Title"
 msgid "File JSP"
 msgstr ""
 
 #: FileSystemFolder_CreateFileJSP_1.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:143
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:221
 #, java-format
 msgctxt "FileSystemFolder_CreateFileJSP_1.Title"
 msgid "Select Tag Libraries"
 msgstr ""
 
 #. 
-#. #### File XHTML #####
-#: FileXHTML_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:147
-#, java-format
-msgctxt "FileXHTML_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileXHTML_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:148
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:228
 #, java-format
 msgctxt "FileXHTML_Properties.Title"
 msgid "File XHTML"
 msgstr ""
 
-#: FileXHTML_Rename
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:149
-#, java-format
-msgctxt "FileXHTML_Rename"
-msgid "/model/FileXHTML.html"
-msgstr ""
-
 #. 
-#. #### Create File JSP #####
-#: FileFolder_CreateFileXHTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:153
-#, java-format
-msgctxt "FileFolder_CreateFileXHTML"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileFolder_CreateFileXHTML.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:154
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:238
 #, java-format
 msgctxt "FileFolder_CreateFileXHTML.WindowTitle"
 msgid "New File XHTML"
 msgstr ""
 
 #: FileFolder_CreateFileXHTML.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:155
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:239
 #, java-format
 msgctxt "FileFolder_CreateFileXHTML.Title"
 msgid "File XHTML"
 msgstr ""
 
 #: FileFolder_CreateFileXHTML_1.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:156
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:240
 #, java-format
 msgctxt "FileFolder_CreateFileXHTML_1.Title"
 msgid "Select Tag Libraries"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateFileXHTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:158
-#, java-format
-msgctxt "FileSystemFolder_CreateFileXHTML"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileSystemFolder_CreateFileXHTML.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:159
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:245
 #, java-format
 msgctxt "FileSystemFolder_CreateFileXHTML.WindowTitle"
 msgid "New File XHTML"
 msgstr ""
 
 #: FileSystemFolder_CreateFileXHTML.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:160
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:246
 #, java-format
 msgctxt "FileSystemFolder_CreateFileXHTML.Title"
 msgid "File XHTML"
 msgstr ""
 
 #: FileSystemFolder_CreateFileXHTML_1.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:161
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:247
 #, java-format
 msgctxt "FileSystemFolder_CreateFileXHTML_1.Title"
 msgid "Select Tag Libraries"
 msgstr ""
 
 #. 
-#. #### File HTML #####
-#: FileHTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:164
-#, java-format
-msgctxt "FileHTML"
-msgid "/model/FileHTML.html"
-msgstr ""
-
-#. 
-#: FileHTML_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:166
-#, java-format
-msgctxt "FileHTML_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileHTML_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:167
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:257
 #, java-format
 msgctxt "FileHTML_Properties.Title"
 msgid "File HTML"
 msgstr ""
 
-#: FileHTML_Rename
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:168
-#, java-format
-msgctxt "FileHTML_Rename"
-msgid "/model/FileHTML.html"
-msgstr ""
-
 #. 
-#. #### Create File HTML #####
-#: FileFolder_CreateFileHTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:172
-#, java-format
-msgctxt "FileFolder_CreateFileHTML"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileFolder_CreateFileHTML.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:173
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:267
 #, java-format
 msgctxt "FileFolder_CreateFileHTML.WindowTitle"
 msgid "New File HTML"
 msgstr ""
 
 #: FileFolder_CreateFileHTML.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:174
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:268
 #, java-format
 msgctxt "FileFolder_CreateFileHTML.Title"
 msgid "File HTML"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateFileHTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:176
-#, java-format
-msgctxt "FileSystemFolder_CreateFileHTML"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileSystemFolder_CreateFileHTML.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:177
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:273
 #, java-format
 msgctxt "FileSystemFolder_CreateFileHTML.WindowTitle"
 msgid "New File HTML"
 msgstr ""
 
 #: FileSystemFolder_CreateFileHTML.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:178
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:274
 #, java-format
 msgctxt "FileSystemFolder_CreateFileHTML.Title"
 msgid "File HTML"
 msgstr ""
 
 #. 
-#. #### File XSL #####
-#: FileXSL
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:182
-#, java-format
-msgctxt "FileXSL"
-msgid "/model/FileXSL.html"
-msgstr ""
-
-#. 
-#: FileXSL_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:184
-#, java-format
-msgctxt "FileXSL_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileXSL_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:185
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:285
 #, java-format
 msgctxt "FileXSL_Properties.Title"
 msgid "File XSL"
 msgstr ""
 
 #. 
-#. #### Create File XSL #####
-#: FileFolder_CreateFileXSL
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:189
-#, java-format
-msgctxt "FileFolder_CreateFileXSL"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileFolder_CreateFileXSL.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:190
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:292
 #, java-format
 msgctxt "FileFolder_CreateFileXSL.WindowTitle"
 msgid "New File XSL"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateFileXSL
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:192
-#, java-format
-msgctxt "FileSystemFolder_CreateFileXSL"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileSystemFolder_CreateFileXSL.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:193
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:297
 #, java-format
 msgctxt "FileSystemFolder_CreateFileXSL.WindowTitle"
 msgid "New File XSL"
 msgstr ""
 
 #. 
-#. #### Create File Properties #####
-#: FileFolder_CreateFileProperties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:197
-#, java-format
-msgctxt "FileFolder_CreateFileProperties"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileFolder_CreateFileProperties.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:198
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:304
 #, java-format
 msgctxt "FileFolder_CreateFileProperties.WindowTitle"
 msgid "New File Properties"
 msgstr ""
 
 #: FileFolder_CreateFileProperties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:199
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:305
 #, java-format
 msgctxt "FileFolder_CreateFileProperties.Title"
 msgid "File Properties"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateFileProperties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:201
-#, java-format
-msgctxt "FileSystemFolder_CreateFileProperties"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileSystemFolder_CreateFileProperties.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:202
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:310
 #, java-format
 msgctxt "FileSystemFolder_CreateFileProperties.WindowTitle"
 msgid "New File Properties"
 msgstr ""
 
 #: FileSystemFolder_CreateFileProperties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:203
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:311
 #, java-format
 msgctxt "FileSystemFolder_CreateFileProperties.Title"
 msgid "File Properties"
@@ -4308,51 +3816,36 @@ msgstr ""
 
 #. 
 #: FileSystemFolder_CreateFile_0.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:205
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:313
 #, java-format
 msgctxt "FileSystemFolder_CreateFile_0.WindowTitle"
 msgid "New File"
 msgstr ""
 
 #: FileSystemFolder_CreateFile_0.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:206
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:314
 #, java-format
 msgctxt "FileSystemFolder_CreateFile_0.Title"
 msgid "File"
 msgstr ""
 
 #: FileFolder_CreateFile_0.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:207
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:315
 #, java-format
 msgctxt "FileFolder_CreateFile_0.WindowTitle"
 msgid "New File"
 msgstr ""
 
 #: FileFolder_CreateFile_0.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:208
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:316
 #, java-format
 msgctxt "FileFolder_CreateFile_0.Title"
 msgid "File"
 msgstr ""
 
 #. 
-#. #### File ANT #####
-#: FileANT
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:212
-#, java-format
-msgctxt "FileANT"
-msgid "/model/FileANT.html"
-msgstr ""
-
-#: FileANT_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:213
-#, java-format
-msgctxt "FileANT_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileANT_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:214
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:326
 #, java-format
 msgctxt "FileANT_Properties.Title"
 msgid "File ANT"
@@ -4361,2375 +3854,138 @@ msgstr ""
 #. 
 #. #### Create File ANT #####
 #: FileSystemFolder_CreateFileANT_0.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:218
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:330
 #, java-format
 msgctxt "FileSystemFolder_CreateFileANT_0.WindowTitle"
 msgid "New File ANT"
 msgstr ""
 
 #: FileSystemFolder_CreateFileANT_0.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:219
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:331
 #, java-format
 msgctxt "FileSystemFolder_CreateFileANT_0.Title"
 msgid "File ANT"
 msgstr ""
 
 #: FileFolder_CreateFileANT_0.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:220
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:332
 #, java-format
 msgctxt "FileFolder_CreateFileANT_0.WindowTitle"
 msgid "New File ANT"
 msgstr ""
 
 #: FileFolder_CreateFileANT_0.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:221
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:333
 #, java-format
 msgctxt "FileFolder_CreateFileANT_0.Title"
 msgid "File ANT"
 msgstr ""
 
 #. 
-#. #### File *.class #####
-#: FileCLASS
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:225
-#, java-format
-msgctxt "FileCLASS"
-msgid "/model/FileCLASS.html"
-msgstr ""
-
-#. 
-#: FileCLASS_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:227
-#, java-format
-msgctxt "FileCLASS_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileCLASS_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:228
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:344
 #, java-format
 msgctxt "FileCLASS_Properties.Title"
 msgid "Java Class File"
 msgstr ""
 
 #. 
-#. #### File *.java #####
-#: FileJAVA
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:232
-#, java-format
-msgctxt "FileJAVA"
-msgid "/model/FileJAVA.html"
-msgstr ""
-
-#. 
-#: FileJAVA_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:234
-#, java-format
-msgctxt "FileJAVA_Properties"
-msgid "/model/FileProperty.html"
-msgstr ""
-
 #: FileJAVA_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:235
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:355
 #, java-format
 msgctxt "FileJAVA_Properties.Title"
 msgid "Java File"
 msgstr ""
 
 #. 
-#. ### Create file *.java #####
-#: FileFolder_CreateFileJAVA
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:239
-#, java-format
-msgctxt "FileFolder_CreateFileJAVA"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileFolder_CreateFileJAVA.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:240
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:362
 #, java-format
 msgctxt "FileFolder_CreateFileJAVA.WindowTitle"
 msgid "New File Java"
 msgstr ""
 
 #: FileFolder_CreateFileJAVA.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:241
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:363
 #, java-format
 msgctxt "FileFolder_CreateFileJAVA.Title"
 msgid "File Java"
 msgstr ""
 
 #. 
-#: FileSystemFolder_CreateFileJAVA
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:243
-#, java-format
-msgctxt "FileSystemFolder_CreateFileJAVA"
-msgid "/model/CreateFile.html"
-msgstr ""
-
 #: FileSystemFolder_CreateFileJAVA.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:244
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:368
 #, java-format
 msgctxt "FileSystemFolder_CreateFileJAVA.WindowTitle"
 msgid "New File Java"
 msgstr ""
 
 #: FileSystemFolder_CreateFileJAVA.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:245
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:369
 #, java-format
 msgctxt "FileSystemFolder_CreateFileJAVA.Title"
 msgid "File Java"
 msgstr ""
 
 #. 
-#: ObjectModifier
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:247
-#, java-format
-msgctxt "ObjectModifier"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#: ObjectModifier_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:248
-#, java-format
-msgctxt "ObjectModifier_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#. 
-#. #### Palette #####
-#: SharableIcon
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:252
-#, java-format
-msgctxt "SharableIcon"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableIcon_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:254
-#, java-format
-msgctxt "SharableIcon_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
 #: SharableIcon_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:255
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:387
 #, java-format
 msgctxt "SharableIcon_Properties.Title"
 msgid "Icon"
 msgstr ""
 
 #. 
-#: SharableIcons
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:257
-#, java-format
-msgctxt "SharableIcons"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableIcons_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:259
-#, java-format
-msgctxt "SharableIcons_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
 #: SharableIcons_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:260
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:396
 #, java-format
 msgctxt "SharableIcons_Properties.Title"
 msgid "Icons Folder"
 msgstr ""
 
 #. 
-#: SharableIcons_CreateIconSet
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:262
-#, java-format
-msgctxt "SharableIcons_CreateIconSet"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
 #: SharableIcons_CreateIconSet.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:263
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:401
 #, java-format
 msgctxt "SharableIcons_CreateIconSet.WindowTitle"
 msgid "Add Icon Set"
 msgstr ""
 
 #: SharableIcons_CreateIconSet.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:264
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:402
 #, java-format
 msgctxt "SharableIcons_CreateIconSet.Title"
 msgid "Icon Set"
 msgstr ""
 
 #. 
-#: SharableIcons_CreateIcon
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:266
-#, java-format
-msgctxt "SharableIcons_CreateIcon"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
 #: SharableIcons_CreateIcon.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:267
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:407
 #, java-format
 msgctxt "SharableIcons_CreateIcon.WindowTitle"
 msgid "Add Icon"
 msgstr ""
 
 #: SharableIcons_CreateIcon.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:268
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:408
 #, java-format
 msgctxt "SharableIcons_CreateIcon.Title"
 msgid "Icon"
 msgstr ""
 
 #. 
-#: SharableXStudioIcons
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:270
-#, java-format
-msgctxt "SharableXStudioIcons"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableXStudioIcons_CreateIcons
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:272
-#, java-format
-msgctxt "SharableXStudioIcons_CreateIcons"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
 #: SharableXStudioIcons_CreateIcons.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:273
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:417
 #, java-format
 msgctxt "SharableXStudioIcons_CreateIcons.WindowTitle"
 msgid "Add Icon Set"
 msgstr ""
 
 #: SharableXStudioIcons_CreateIcons.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:274
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:418
 #, java-format
 msgctxt "SharableXStudioIcons_CreateIcons.Title"
 msgid "Icon Set"
-msgstr ""
-
-#. 
-#: SharableXStudioIcons_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:276
-#, java-format
-msgctxt "SharableXStudioIcons_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharablePalette
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:279
-#, java-format
-msgctxt "SharablePalette"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharablePalette_CreatePageTabHTML_0
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:281
-#, java-format
-msgctxt "SharablePalette_CreatePageTabHTML_0"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharablePalette_CreatePageTabHTML_0.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:282
-#, java-format
-msgctxt "SharablePalette_CreatePageTabHTML_0.WindowTitle"
-msgid "Create Group"
-msgstr ""
-
-#: SharablePalette_CreatePageTabHTML_0.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:283
-#, java-format
-msgctxt "SharablePalette_CreatePageTabHTML_0.Title"
-msgid "Palette Top-Level Group"
-msgstr ""
-
-#. 
-#: SharablePalette_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:285
-#, java-format
-msgctxt "SharablePalette_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharablePalette_HiddenTabs
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:288
-#, java-format
-msgctxt "SharablePalette_HiddenTabs"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharablePalette_HiddenTabs.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:289
-#, java-format
-msgctxt "SharablePalette_HiddenTabs.WindowTitle"
-msgid "Show/Hide Drawers"
-msgstr ""
-
-#: SharablePalette_HiddenTabs.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:290
-#, java-format
-msgctxt "SharablePalette_HiddenTabs.Title"
-msgid "Customize Palette"
-msgstr ""
-
-#. 
-#: SharableXStudio
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:292
-#, java-format
-msgctxt "SharableXStudio"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableXStudio_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:294
-#, java-format
-msgctxt "SharableXStudio_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableGroup
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:296
-#, java-format
-msgctxt "SharableGroup"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableGroup_CreateGroup
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:298
-#, java-format
-msgctxt "SharableGroup_CreateGroup"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableGroup_CreateGroup.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:299
-#, java-format
-msgctxt "SharableGroup_CreateGroup.WindowTitle"
-msgid "Add Palette Group"
-msgstr ""
-
-#. 
-#: SharableGroup_CreateMacro
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:301
-#, java-format
-msgctxt "SharableGroup_CreateMacro"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableGroup_CreateMacro.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:302
-#, java-format
-msgctxt "SharableGroup_CreateMacro.WindowTitle"
-msgid "Add Palette Macro"
-msgstr ""
-
-#. 
-#: SharableGroup_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:304
-#, java-format
-msgctxt "SharableGroup_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableGroupHTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:307
-#, java-format
-msgctxt "SharableGroupHTML"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableGroupHTML_CreateMacro
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:309
-#, java-format
-msgctxt "SharableGroupHTML_CreateMacro"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableGroupHTML_CreateMacro.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:310
-#, java-format
-msgctxt "SharableGroupHTML_CreateMacro.WindowTitle"
-msgid "Add Palette Macro"
-msgstr ""
-
-#: SharableGroupHTML_CreateMacro.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:311
-#, java-format
-msgctxt "SharableGroupHTML_CreateMacro.Title"
-msgid "Palette Macro"
-msgstr ""
-
-#. 
-#: SharableGroupHTML_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:313
-#, java-format
-msgctxt "SharableGroupHTML_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableGroupHTML_Edit
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:316
-#, java-format
-msgctxt "SharableGroupHTML_Edit"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableGroupHTML_Edit.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:317
-#, java-format
-msgctxt "SharableGroupHTML_Edit.WindowTitle"
-msgid "Edit"
-msgstr ""
-
-#: SharableGroupHTML_Edit.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:318
-#, java-format
-msgctxt "SharableGroupHTML_Edit.Title"
-msgid "Palette Group"
-msgstr ""
-
-#. 
-#: SharableMacro
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:320
-#, java-format
-msgctxt "SharableMacro"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableMacro_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:322
-#, java-format
-msgctxt "SharableMacro_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableMacro_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:323
-#, java-format
-msgctxt "SharableMacro_Properties.Title"
-msgid "Macro"
-msgstr ""
-
-#. 
-#: SharableMacroHTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:325
-#, java-format
-msgctxt "SharableMacroHTML"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharableMacroHTML_Edit
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:327
-#, java-format
-msgctxt "SharableMacroHTML_Edit"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableMacroHTML_Edit_start_text
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:328
-#, java-format
-msgctxt "SharableMacroHTML_Edit_start_text"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableMacroHTML_Edit_end_text
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:329
-#, java-format
-msgctxt "SharableMacroHTML_Edit_end_text"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableMacroHTML_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:330
-#, java-format
-msgctxt "SharableMacroHTML_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharableMacroHTML_Properties.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:331
-#, java-format
-msgctxt "SharableMacroHTML_Properties.Title"
-msgid "Macro"
-msgstr ""
-
-#. 
-#: SharableMacroHTML_Edit_description
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:333
-#, java-format
-msgctxt "SharableMacroHTML_Edit_description"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#: SharableMacroHTML_Edit_description.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:334
-#, java-format
-msgctxt "SharableMacroHTML_Edit_description.Title"
-msgid "Edit Description"
-msgstr ""
-
-#: SharableMacroHTML_Edit_description.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:335
-#, java-format
-msgctxt "SharableMacroHTML_Edit_description.WindowTitle"
-msgid "Macro"
-msgstr ""
-
-#. 
-#: SharableMacroHTML_Edit.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:337
-#, java-format
-msgctxt "SharableMacroHTML_Edit.WindowTitle"
-msgid "Edit"
-msgstr ""
-
-#: SharableMacroHTML_Edit.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:338
-#, java-format
-msgctxt "SharableMacroHTML_Edit.Title"
-msgid "Palette Macro"
-msgstr ""
-
-#. 
-#: SharablePageTab
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:340
-#, java-format
-msgctxt "SharablePageTab"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharablePageTab_CreateGroup
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:342
-#, java-format
-msgctxt "SharablePageTab_CreateGroup"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharablePageTab_CreateGroup.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:343
-#, java-format
-msgctxt "SharablePageTab_CreateGroup.WindowTitle"
-msgid "Add Palette Group"
-msgstr ""
-
-#. 
-#: SharablePageTab_CreateMacro
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:345
-#, java-format
-msgctxt "SharablePageTab_CreateMacro"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharablePageTab_CreateMacro.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:346
-#, java-format
-msgctxt "SharablePageTab_CreateMacro.WindowTitle"
-msgid "Add Palette Macro"
-msgstr ""
-
-#: SharablePageTab_CreateMacro.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:347
-#, java-format
-msgctxt "SharablePageTab_CreateMacro.Title"
-msgid "Edit Description"
-msgstr ""
-
-#. 
-#: SharablePageTab_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:349
-#, java-format
-msgctxt "SharablePageTab_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#. #### Palette items #####
-#: SharablePageTabHTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:384
-#, java-format
-msgctxt "SharablePageTabHTML"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharablePageTabHTML_CreateGroup
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:354
-#, java-format
-msgctxt "SharablePageTabHTML_CreateGroup"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharablePageTabHTML_CreateGroup.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:355
-#, java-format
-msgctxt "SharablePageTabHTML_CreateGroup.WindowTitle"
-msgid "Add Palette Group"
-msgstr ""
-
-#: SharablePageTabHTML_CreateGroup.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:356
-#, java-format
-msgctxt "SharablePageTabHTML_CreateGroup.Title"
-msgid "Palette Group"
-msgstr ""
-
-#. 
-#: SharablePageTabHTML_CreateMacro
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:358
-#, java-format
-msgctxt "SharablePageTabHTML_CreateMacro"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: SharablePageTabHTML_CreateMacro.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:359
-#, java-format
-msgctxt "SharablePageTabHTML_CreateMacro.WindowTitle"
-msgid "Add Palette Macro"
-msgstr ""
-
-#. 
-#: SharablePageTabHTML_CreateMacro_0
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:362
-#, java-format
-msgctxt "SharablePageTabHTML_CreateMacro_0"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharablePageTabHTML_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:364
-#, java-format
-msgctxt "SharablePageTabHTML_Properties"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: SharablePageTabHTML_Edit.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:367
-#, java-format
-msgctxt "SharablePageTabHTML_Edit.WindowTitle"
-msgid "Edit"
-msgstr ""
-
-#: SharablePageTabHTML_Edit.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:368
-#, java-format
-msgctxt "SharablePageTabHTML_Edit.Title"
-msgid "Palette Top-Level Group"
-msgstr ""
-
-#. 
-#: SharablePageTabHTML_EditNamespace
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:370
-#, java-format
-msgctxt "SharablePageTabHTML_EditNamespace"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#. 
-#: PaletteEditor
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:372
-#, java-format
-msgctxt "PaletteEditor"
-msgid "/model/PaletteEditor.html"
-msgstr ""
-
-#: PaletteEditor.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:373
-#, java-format
-msgctxt "PaletteEditor.WindowTitle"
-msgid "Palette"
-msgstr ""
-
-#. 
-#. #### New Version #####
-#: CheckNewVersion
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:377
-#, java-format
-msgctxt "CheckNewVersion"
-msgid "/model/CheckNewVersion.html"
-msgstr ""
-
-#: CheckNewVersion.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:378
-#, java-format
-msgctxt "CheckNewVersion.WindowTitle"
-msgid "Struts Studio Version"
-msgstr ""
-
-#. 
-#: UpdateReminder
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:380
-#, java-format
-msgctxt "UpdateReminder"
-msgid "/model/UpdateReminder.html"
-msgstr ""
-
-#: UpdateReminder.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:381
-#, java-format
-msgctxt "UpdateReminder.WindowTitle"
-msgid "Struts Studio Version Update"
-msgstr ""
-
-#: SharablePageTabHTML_Struts_Bean
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:385
-#, java-format
-msgctxt "SharablePageTabHTML_Struts_Bean"
-msgid "/model/palette/noHelpYet.html"
-msgstr ""
-
-#: SharablePageTabHTML_Struts_Common
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:390
-#, java-format
-msgctxt "SharablePageTabHTML_Struts_Common"
-msgid "/model/palette/noHelpYet.html"
-msgstr ""
-
-#: SharablePageTabHTML_Struts_HTML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:387
-#, java-format
-msgctxt "SharablePageTabHTML_Struts_HTML"
-msgid "/model/palette/noHelpYet.html"
-msgstr ""
-
-#: SharablePageTabHTML_Struts_Logic
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:388
-#, java-format
-msgctxt "SharablePageTabHTML_Struts_Logic"
-msgid "/model/palette/noHelpYet.html"
-msgstr ""
-
-#: SharablePageTabHTML_Tables
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:389
-#, java-format
-msgctxt "SharablePageTabHTML_Tables"
-msgid "/model/palette/noHelpYet.html"
-msgstr ""
-
-#: SharablePageTabHTML_Fonts
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:391
-#, java-format
-msgctxt "SharablePageTabHTML_Fonts"
-msgid "/model/palette/noHelpYet.html"
-msgstr ""
-
-#: SharablePageTabHTML_Lists
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:392
-#, java-format
-msgctxt "SharablePageTabHTML_Lists"
-msgid "/model/palette/noHelpYet.html"
-msgstr ""
-
-#: SharablePageTabHTML_Frames
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:393
-#, java-format
-msgctxt "SharablePageTabHTML_Frames"
-msgid "/model/palette/noHelpYet.html"
-msgstr ""
-
-#. 
-#: SharablePageTabHTML_Struts_Common.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:395
-#, java-format
-msgctxt "SharablePageTabHTML_Struts_Common.WindowTitle"
-msgid "Tab Common"
-msgstr ""
-
-#: SharablePageTabHTML_Struts_HTML.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:396
-#, java-format
-msgctxt "SharablePageTabHTML_Struts_HTML.WindowTitle"
-msgid "Tab HTML"
-msgstr ""
-
-#: SharablePageTabHTML_Struts_Logic.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:397
-#, java-format
-msgctxt "SharablePageTabHTML_Struts_Logic.WindowTitle"
-msgid "Tab Logic"
-msgstr ""
-
-#: SharablePageTabHTML_Tables.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:398
-#, java-format
-msgctxt "SharablePageTabHTML_Tables.WindowTitle"
-msgid "Tab Tables"
-msgstr ""
-
-#: SharablePageTabHTML_Fonts.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:399
-#, java-format
-msgctxt "SharablePageTabHTML_Fonts.WindowTitle"
-msgid "Tab Fonts"
-msgstr ""
-
-#: SharablePageTabHTML_Lists.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:400
-#, java-format
-msgctxt "SharablePageTabHTML_Lists.WindowTitle"
-msgid "Tab Lists"
-msgstr ""
-
-#: SharablePageTabHTML_Frames.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:401
-#, java-format
-msgctxt "SharablePageTabHTML_Frames.WindowTitle"
-msgid "Tab Frames"
-msgstr ""
-
-#. 
-#. ### Options (obsolete) #####
-#: OptionsEditor
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:405
-#, java-format
-msgctxt "OptionsEditor"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#: OptionsEditor.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:406
-#, java-format
-msgctxt "OptionsEditor.WindowTitle"
-msgid "Preferences"
-msgstr ""
-
-#. 
-#: SharableOptions
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:408
-#, java-format
-msgctxt "SharableOptions"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#: SharableOptions_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:409
-#, java-format
-msgctxt "SharableOptions_Properties"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#: SharablePreferences
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:410
-#, java-format
-msgctxt "SharablePreferences"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#: SharablePreferences_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:411
-#, java-format
-msgctxt "SharablePreferences_Properties"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#: SharableXStudioSet
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:412
-#, java-format
-msgctxt "SharableXStudioSet"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#: SharableXStudioSet_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:413
-#, java-format
-msgctxt "SharableXStudioSet_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#: SharableEnginesOption
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:414
-#, java-format
-msgctxt "SharableEnginesOption"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#: SharableEnginesOption_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:415
-#, java-format
-msgctxt "SharableEnginesOption_Properties"
-msgid "/model/noHelpYet.html"
-msgstr ""
-
-#: SharablePaletteOption
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:416
-#, java-format
-msgctxt "SharablePaletteOption"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#: SharablePaletteOption_Properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:417
-#, java-format
-msgctxt "SharablePaletteOption_Properties"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#. 
-#: SharableStruts10Support.servlet_class
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:419
-#, java-format
-msgctxt "SharableStruts10Support.servlet_class"
-msgid "Servlet Class"
-msgstr ""
-
-#: SharableStruts10Support.url_pattern
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:420
-#, java-format
-msgctxt "SharableStruts10Support.url_pattern"
-msgid "URL Pattern"
-msgstr ""
-
-#: SharableStruts10Support.tld_files
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:421
-#, java-format
-msgctxt "SharableStruts10Support.tld_files"
-msgid "TLD Files"
-msgstr ""
-
-#: SharableStruts11Support.servlet_class
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:422
-#, java-format
-msgctxt "SharableStruts11Support.servlet_class"
-msgid "Servlet Class"
-msgstr ""
-
-#: SharableStruts11Support.url_pattern
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:423
-#, java-format
-msgctxt "SharableStruts11Support.url_pattern"
-msgid "URL Pattern"
-msgstr ""
-
-#: SharableStruts11Support.tld_files
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:424
-#, java-format
-msgctxt "SharableStruts11Support.tld_files"
-msgid "TLD Files"
-msgstr ""
-
-#. 
-#: SharableEditors.useRedHatEditors
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:426
-#, java-format
-msgctxt "SharableEditors.useRedHatEditors"
-msgid "Always use JBoss Tools editors with Open option"
-msgstr ""
-
-#: SharableEditors.tabWidth
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:427
-#, java-format
-msgctxt "SharableEditors.tabWidth"
-msgid "Displayed tab width"
-msgstr ""
-
-#: SharableEditors.replaceTab
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:428
-#, java-format
-msgctxt "SharableEditors.replaceTab"
-msgid "Insert space for tabs"
-msgstr ""
-
-#: SharableEditors.selectSourceTab
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:429
-#, java-format
-msgctxt "SharableEditors.selectSourceTab"
-msgid "Use Source tab as a default for mutli-tab editors"
-msgstr ""
-
-#: SharableEditors.natureWarning
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:430
-#, java-format
-msgctxt "SharableEditors.natureWarning"
-msgid "Show warning when project has no JBoss Tools capabilities"
-msgstr ""
-
-#: SharableEditors.natureWarning.message
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:431
-#, java-format
-msgctxt "SharableEditors.natureWarning.message"
-msgid "In order to use the full power of JBoss Tools editors (including any GUI tabbed viewers), the current project needs to have an JBoss Tools capabilities (for instance, JBoss Tools JSF or JBoss Tools Struts) associated with it."
-msgstr ""
-
-#: SharableEditors.natureWarning.jsf.message
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:432
-#, java-format
-msgctxt "SharableEditors.natureWarning.jsf.message"
-msgid "In order to use the full power of Faces Config editor (including Diagram and Tree viewers), the current project needs to have JSF capabilities associated with it."
-msgstr ""
-
-#: SharableEditors.natureWarning.struts.message
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:433
-#, java-format
-msgctxt "SharableEditors.natureWarning.struts.message"
-msgid "In order to use the full power of Struts Config editor (including GUI tabbed viewers), the current project needs to have Struts capabilities associated with it."
-msgstr ""
-
-#: SharableEditors.natureWarning.box.message
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:434
-#, java-format
-msgctxt "SharableEditors.natureWarning.box.message"
-msgid "Do not show this warning in the future"
-msgstr ""
-
-#. 
-#: SharableReportProblem.showErrorDialog
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:436
-#, java-format
-msgctxt "SharableReportProblem.showErrorDialog"
-msgid "Show Report Problem Dialog Automatically on Error"
-msgstr ""
-
-#: SharableReportProblem.submitProblemAutomatically
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:437
-#, java-format
-msgctxt "SharableReportProblem.submitProblemAutomatically"
-msgid "Submit Errors Automatically to Red Hat"
-msgstr ""
-
-#: SharableReportProblem.eMail
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:438
-#, java-format
-msgctxt "SharableReportProblem.eMail"
-msgid "E-Mail"
-msgstr ""
-
-#: SharableReportProblem.attachRedHatLog
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:439
-#, java-format
-msgctxt "SharableReportProblem.attachRedHatLog"
-msgid "Include stack traces into the report"
-msgstr ""
-
-#: SharableReportProblem.attachEclipseLog
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:440
-#, java-format
-msgctxt "SharableReportProblem.attachEclipseLog"
-msgid "Include Eclipse .log into the report"
-msgstr ""
-
-#. 
-#: SharableStrutsEditor.doNotShowDiagram
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:442
-#, java-format
-msgctxt "SharableStrutsEditor.doNotShowDiagram"
-msgid "Do not show diagram tab"
-msgstr ""
-
-#. 
-#. ### trial limitations #####
-#: TrialLimitation
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:445
-#, java-format
-msgctxt "TrialLimitation"
-msgid "/limitedversion.html"
-msgstr ""
-
-#. 
-#: JSPLinkRecognizer_CreateLink
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:447
-#, java-format
-msgctxt "JSPLinkRecognizer_CreateLink"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#: JSPLinkRecognizer_CreateLink.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:448
-#, java-format
-msgctxt "JSPLinkRecognizer_CreateLink.WindowTitle"
-msgid "Add Link Recognizer Rule"
-msgstr ""
-
-#: JSPLinkRecognizer_CreateLink.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:449
-#, java-format
-msgctxt "JSPLinkRecognizer_CreateLink.Title"
-msgid "Link Recognizer Rule"
-msgstr ""
-
-#. 
-#: JSPLink_Edit
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:451
-#, java-format
-msgctxt "JSPLink_Edit"
-msgid "/model/OptionsEditor.html"
-msgstr ""
-
-#: JSPLink_Edit.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:452
-#, java-format
-msgctxt "JSPLink_Edit.WindowTitle"
-msgid "Edit"
-msgstr ""
-
-#: JSPLink_Edit.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:453
-#, java-format
-msgctxt "JSPLink_Edit.Title"
-msgid "Link Recognizer Rule"
-msgstr ""
-
-#. 
-#. Wizard-Common.begin
-#. 
-#. New Struts Project wizard
-#: NEW_STRUTS_PROJECT_WIZARD_WINDOW_TITLE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:458
-#, java-format
-msgctxt "NEW_STRUTS_PROJECT_WIZARD_WINDOW_TITLE"
-msgid "New Struts Project"
-msgstr ""
-
-#: NEW_STRUTS_PROJECT_WIZARD_CREATE_STRUTS_PROJECT
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:459
-#, java-format
-msgctxt "NEW_STRUTS_PROJECT_WIZARD_CREATE_STRUTS_PROJECT"
-msgid "Create Struts Project"
-msgstr ""
-
-#. 
-#: newStrutsProjectPage1_introduction
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:461
-#, java-format
-msgctxt "newStrutsProjectPage1_introduction"
-msgid "The Create New Project Wizard is used for creating a brand new project. If you already have a pre-existing project, just use the Import Project Wizard to start working with it in JBoss Tools."
-msgstr ""
-
-#: newStrutsProjectPage1_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:462
-#, java-format
-msgctxt "newStrutsProjectPage1_name"
-msgid "Project Name"
-msgstr ""
-
-#: newStrutsProjectPage1_location
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:463
-#, java-format
-msgctxt "newStrutsProjectPage1_location"
-msgid "Location"
-msgstr ""
-
-#: newStrutsProjectPage1_use_default_path
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:464
-#, java-format
-msgctxt "newStrutsProjectPage1_use_default_path"
-msgid "Use default path"
-msgstr ""
-
-#: newStrutsProjectPage1_version
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:465
-#, java-format
-msgctxt "newStrutsProjectPage1_version"
-msgid "Struts Environment"
-msgstr ""
-
-#: newStrutsProjectPage1_template
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:466
-#, java-format
-msgctxt "newStrutsProjectPage1_template"
-msgid "Template"
-msgstr ""
-
-#: WebPrjCreateStepDirs_servletVersion
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:467
-#, java-format
-msgctxt "WebPrjCreateStepDirs_servletVersion"
-msgid "Servlet Version"
-msgstr ""
-
-#. 
-#: newStrutsProjectPage1_specifyProjectName
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:469
-#, java-format
-msgctxt "newStrutsProjectPage1_specifyProjectName"
-msgid "Specify Project Name"
-msgstr ""
-
-#: newStrutsProjectPage1_specifyLocation
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:470
-#, java-format
-msgctxt "newStrutsProjectPage1_specifyLocation"
-msgid "Specify location"
-msgstr ""
-
-#: newStrutsProjectPage1_locationError
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:471
-#, java-format
-msgctxt "newStrutsProjectPage1_locationError"
-msgid "Location Error"
-msgstr ""
-
-#: newStrutsProjectPage1_projectExistsMessage
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:472
-#, java-format
-msgctxt "newStrutsProjectPage1_projectExistsMessage"
-msgid "Project already exists"
-msgstr ""
-
-#. Errors
-#: NewStrutsProjectWizard.CannotCreateLocation.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:474
-#, java-format
-msgctxt "NewStrutsProjectWizard.CannotCreateLocation.WindowTitle"
-msgid "Error"
-msgstr ""
-
-#: NewStrutsProjectWizard.CannotCreateLocation.ErrorMessage
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:475
-#, java-format
-msgctxt "NewStrutsProjectWizard.CannotCreateLocation.ErrorMessage"
-msgid "Cannot create specify location"
-msgstr ""
-
-#. 
-#. New Eclipse4Web Struts Project wizard
-#: newStrutsLightProjectPage1_introduction
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:478
-#, java-format
-msgctxt "newStrutsLightProjectPage1_introduction"
-msgid "The Create New Project Wizard is used for creating a brand new project. If you already have a pre-existing project, just use the Import Project Wizard to start working with it in Eclipse4Web."
-msgstr ""
-
-#: newStrutsLightProjectPage1_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:479
-#, java-format
-msgctxt "newStrutsLightProjectPage1_name"
-msgid "Project Name"
-msgstr ""
-
-#: newStrutsLightProjectPage1_location
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:480
-#, java-format
-msgctxt "newStrutsLightProjectPage1_location"
-msgid "Location"
-msgstr ""
-
-#: newStrutsLightProjectPage1_use_default_path
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:481
-#, java-format
-msgctxt "newStrutsLightProjectPage1_use_default_path"
-msgid "Use default path"
-msgstr ""
-
-#: newStrutsLightProjectPage1_version
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:482
-#, java-format
-msgctxt "newStrutsLightProjectPage1_version"
-msgid "Struts Environment"
-msgstr ""
-
-#: newStrutsLightProjectPage1_template
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:483
-#, java-format
-msgctxt "newStrutsLightProjectPage1_template"
-msgid "Template"
-msgstr ""
-
-#. 
-#: newStrutsLightProjectPage1_specifyProjectName
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:485
-#, java-format
-msgctxt "newStrutsLightProjectPage1_specifyProjectName"
-msgid "Specify Project Name"
-msgstr ""
-
-#: newStrutsLightProjectPage1_specifyLocation
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:486
-#, java-format
-msgctxt "newStrutsLightProjectPage1_specifyLocation"
-msgid "Specify location"
-msgstr ""
-
-#: newStrutsLightProjectPage1_locationError
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:487
-#, java-format
-msgctxt "newStrutsLightProjectPage1_locationError"
-msgid "Location Error"
-msgstr ""
-
-#: newStrutsLightProjectPage1_projectExistsMessage
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:488
-#, java-format
-msgctxt "newStrutsLightProjectPage1_projectExistsMessage"
-msgid "Project already exists"
-msgstr ""
-
-#. 
-#. New Eclipse4Web JSF Project wizard
-#: newJSFLightProjectPage1_introduction
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:491
-#, java-format
-msgctxt "newJSFLightProjectPage1_introduction"
-msgid "The Create New Project Wizard is used for creating a brand new project. If you already have a pre-existing project, just use the Import Project Wizard to start working with it in Eclipse4Web."
-msgstr ""
-
-#: newJSFLightProjectPage1_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:492
-#, java-format
-msgctxt "newJSFLightProjectPage1_name"
-msgid "Project Name"
-msgstr ""
-
-#: newJSFLightProjectPage1_location
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:493
-#, java-format
-msgctxt "newJSFLightProjectPage1_location"
-msgid "Location"
-msgstr ""
-
-#: newJSFLightProjectPage1_use_default_path
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:494
-#, java-format
-msgctxt "newJSFLightProjectPage1_use_default_path"
-msgid "Use default path"
-msgstr ""
-
-#: newJSFLightProjectPage1_version
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:495
-#, java-format
-msgctxt "newJSFLightProjectPage1_version"
-msgid "JSF Environment"
-msgstr ""
-
-#: newJSFLightProjectPage1_template
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:496
-#, java-format
-msgctxt "newJSFLightProjectPage1_template"
-msgid "Template"
-msgstr ""
-
-#. 
-#: newJSFLightProjectPage1_specifyProjectName
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:498
-#, java-format
-msgctxt "newJSFLightProjectPage1_specifyProjectName"
-msgid "Specify Project Name"
-msgstr ""
-
-#: newJSFLightProjectPage1_specifyLocation
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:499
-#, java-format
-msgctxt "newJSFLightProjectPage1_specifyLocation"
-msgid "Specify location"
-msgstr ""
-
-#: newJSFLightProjectPage1_locationError
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:500
-#, java-format
-msgctxt "newJSFLightProjectPage1_locationError"
-msgid "Location Error"
-msgstr ""
-
-#: newJSFLightProjectPage1_projectExistsMessage
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:501
-#, java-format
-msgctxt "newJSFLightProjectPage1_projectExistsMessage"
-msgid "Project already exists"
-msgstr ""
-
-#. 
-#. New JSF Project wizard
-#: NEW_JSF_PROJECT_WIZARD_WINDOW_TITLE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:504
-#, java-format
-msgctxt "NEW_JSF_PROJECT_WIZARD_WINDOW_TITLE"
-msgid "New JSF Project"
-msgstr ""
-
-#: NEW_JSF_PROJECT_WIZARD_CREATE_STRUTS_PROJECT
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:505
-#, java-format
-msgctxt "NEW_JSF_PROJECT_WIZARD_CREATE_STRUTS_PROJECT"
-msgid "Create JSF Project"
-msgstr ""
-
-#. 
-#: newJSFProjectPage1_introduction
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:507
-#, java-format
-msgctxt "newJSFProjectPage1_introduction"
-msgid "The Create New Project Wizard is used for creating a brand new project. If you already have a pre-existing project, just use the Import Project Wizard to start working with it in JBoss Tools."
-msgstr ""
-
-#: newJSFProjectPage1_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:508
-#, java-format
-msgctxt "newJSFProjectPage1_name"
-msgid "Project Name"
-msgstr ""
-
-#: newJSFProjectPage1_location
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:509
-#, java-format
-msgctxt "newJSFProjectPage1_location"
-msgid "Location"
-msgstr ""
-
-#: newJSFProjectPage1_use_default_path
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:510
-#, java-format
-msgctxt "newJSFProjectPage1_use_default_path"
-msgid "Use default path"
-msgstr ""
-
-#: newJSFProjectPage1_version
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:511
-#, java-format
-msgctxt "newJSFProjectPage1_version"
-msgid "JSF Environment"
-msgstr ""
-
-#: newJSFProjectPage1_template
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:512
-#, java-format
-msgctxt "newJSFProjectPage1_template"
-msgid "Template"
-msgstr ""
-
-#. 
-#: newJSFProjectPage1_specifyProjectName
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:514
-#, java-format
-msgctxt "newJSFProjectPage1_specifyProjectName"
-msgid "Specify Project Name"
-msgstr ""
-
-#: newJSFProjectPage1_specifyLocation
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:515
-#, java-format
-msgctxt "newJSFProjectPage1_specifyLocation"
-msgid "Specify location"
-msgstr ""
-
-#: newJSFProjectPage1_locationError
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:516
-#, java-format
-msgctxt "newJSFProjectPage1_locationError"
-msgid "Location Error"
-msgstr ""
-
-#: newJSFProjectPage1_projectExistsMessage
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:517
-#, java-format
-msgctxt "newJSFProjectPage1_projectExistsMessage"
-msgid "Project already exists"
-msgstr ""
-
-#. Errors
-#: NewJSFProjectWizard.CannotCreateLocation.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:519
-#, java-format
-msgctxt "NewJSFProjectWizard.CannotCreateLocation.WindowTitle"
-msgid "Error"
-msgstr ""
-
-#: NewJSFProjectWizard.CannotCreateLocation.ErrorMessage
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:520
-#, java-format
-msgctxt "NewJSFProjectWizard.CannotCreateLocation.ErrorMessage"
-msgid "Cannot create specify location"
-msgstr ""
-
-#. 
-#. Import Struts Project wizard
-#: IMPORT_STRUTS_PROJECT_WIZARD_WINDOW_TITLE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:523
-#, java-format
-msgctxt "IMPORT_STRUTS_PROJECT_WIZARD_WINDOW_TITLE"
-msgid "Import Struts Project"
-msgstr ""
-
-#: IMPORT_STRUTS_PROJECT_WIZARD_PROJECT_LOCATION
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:524
-#, java-format
-msgctxt "IMPORT_STRUTS_PROJECT_WIZARD_PROJECT_LOCATION"
-msgid "Project Location"
-msgstr ""
-
-#: IMPORT_STRUTS_PROJECT_SELECT_WEB_XML
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:525
-#, java-format
-msgctxt "IMPORT_STRUTS_PROJECT_SELECT_WEB_XML"
-msgid "Please select web.xml location"
-msgstr ""
-
-#: IMPORT_STRUTS_PROJECT_WIZARD_PROJECT_MODULES
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:526
-#, java-format
-msgctxt "IMPORT_STRUTS_PROJECT_WIZARD_PROJECT_MODULES"
-msgid "Project Modules"
-msgstr ""
-
-#: IMPORT_STRUTS_PROJECT_CONFIGURE_PROJECT_MODULES
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:527
-#, java-format
-msgctxt "IMPORT_STRUTS_PROJECT_CONFIGURE_PROJECT_MODULES"
-msgid "Configure Project Modules"
-msgstr ""
-
-#: IMPORT_STRUTS_PROJECT_WIZARD_PROJECT_FOLDERS
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:528
-#, java-format
-msgctxt "IMPORT_STRUTS_PROJECT_WIZARD_PROJECT_FOLDERS"
-msgid "Project Folders"
-msgstr ""
-
-#: IMPORT_STRUTS_PROJECT_SELECT_PROJECT_FOLDERS
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:529
-#, java-format
-msgctxt "IMPORT_STRUTS_PROJECT_SELECT_PROJECT_FOLDERS"
-msgid "Select Project Folders"
-msgstr ""
-
-#. 
-#: ADD_STRUTS_NATURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:531
-#, java-format
-msgctxt "ADD_STRUTS_NATURE"
-msgid "Add Struts Capabilities"
-msgstr ""
-
-#. 
-#: org.jboss.tools.jsf.ui.wizard.project.ImportJSFWarWizard.mainPageTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:533
-#, java-format
-msgctxt "org.jboss.tools.jsf.ui.wizard.project.ImportJSFWarWizard.mainPageTitle"
-msgid "JSF project"
-msgstr ""
-
-#: org.jboss.tools.struts.ui.wizard.project.ImportStrutsWarWizard.mainPageTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:534
-#, java-format
-msgctxt "org.jboss.tools.struts.ui.wizard.project.ImportStrutsWarWizard.mainPageTitle"
-msgid "Struts project"
-msgstr ""
-
-#: org.jboss.tools.jst.web.ui.wizards.project.ImportWebWarWizard.mainPagePrompt
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:535
-#, java-format
-msgctxt "org.jboss.tools.jst.web.ui.wizards.project.ImportWebWarWizard.mainPagePrompt"
-msgid "Select *.war file"
-msgstr ""
-
-#. 
-#: IMPORT_STRUTS_PROJECT_EARLIER_VERSION_WARNING
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:537
-#, java-format
-msgctxt "IMPORT_STRUTS_PROJECT_EARLIER_VERSION_WARNING"
-msgid "This project has been created in an earlier version of Struts Studio. Select Yes if you want import and convert this project to the current version. Once this project is converted you will not be able to open it in a previous version. Select No if you want to cancel project import and leave it as it is."
-msgstr ""
-
-#. 
-#: IMPORT_JSF_PROJECT_WIZARD_WINDOW_TITLE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:539
-#, java-format
-msgctxt "IMPORT_JSF_PROJECT_WIZARD_WINDOW_TITLE"
-msgid "Import JSF Project"
-msgstr ""
-
-#: ADD_JSF_NATURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:540
-#, java-format
-msgctxt "ADD_JSF_NATURE"
-msgid "Add JSF Capabilities"
-msgstr ""
-
-#. 
-#. step 1 content
-#: WebPrjAdoptStepName_web.xml_location
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:543
-#, java-format
-msgctxt "WebPrjAdoptStepName_web.xml_location"
-msgid "web.xml Location"
-msgstr ""
-
-#: WebPrjAdoptStepName_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:544
-#, java-format
-msgctxt "WebPrjAdoptStepName_name"
-msgid "Project Name"
-msgstr ""
-
-#: WebPrjAdoptStepName_link
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:545
-#, java-format
-msgctxt "WebPrjAdoptStepName_link"
-msgid "Create Eclipse project in Workspace  "
-msgstr ""
-
-#. step 1A content
-#: WebPrjAdoptAddStruts_version
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:547
-#, java-format
-msgctxt "WebPrjAdoptAddStruts_version"
-msgid "Version"
-msgstr ""
-
-#: WebPrjAdoptAddStruts_servlet_class
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:548
-#, java-format
-msgctxt "WebPrjAdoptAddStruts_servlet_class"
-msgid "Servlet Class"
-msgstr ""
-
-#: WebPrjAdoptAddStruts_url_pattern
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:549
-#, java-format
-msgctxt "WebPrjAdoptAddStruts_url_pattern"
-msgid "URL Pattern"
-msgstr ""
-
-#: WebPrjAdoptAddStruts_tld_files
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:550
-#, java-format
-msgctxt "WebPrjAdoptAddStruts_tld_files"
-msgid "Tag Libraries"
-msgstr ""
-
-#. step 2 content
-#: ModuleTableClass_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:552
-#, java-format
-msgctxt "ModuleTableClass_name"
-msgid "Name"
-msgstr ""
-
-#: ModuleTableClass_URI
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:553
-#, java-format
-msgctxt "ModuleTableClass_URI"
-msgid "URI"
-msgstr ""
-
-#: ModuleTableClass_path_on_disk
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:554
-#, java-format
-msgctxt "ModuleTableClass_path_on_disk"
-msgid "Path on Disk"
-msgstr ""
-
-#: ModuleTableClass_java_src
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:555
-#, java-format
-msgctxt "ModuleTableClass_java_src"
-msgid "Sources Path"
-msgstr ""
-
-#: ModuleTableClass_root
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:556
-#, java-format
-msgctxt "ModuleTableClass_root"
-msgid "Module Root"
-msgstr ""
-
-#. step 3 content
-#: WebPrjAdoptStepFolders_classes
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:558
-#, java-format
-msgctxt "WebPrjAdoptStepFolders_classes"
-msgid "Classes Folder"
-msgstr ""
-
-#: WebPrjAdoptStepFolders_lib
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:559
-#, java-format
-msgctxt "WebPrjAdoptStepFolders_lib"
-msgid "Lib Folder"
-msgstr ""
-
-#: WebPrjAdoptStepFolders_build
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:560
-#, java-format
-msgctxt "WebPrjAdoptStepFolders_build"
-msgid "Ant Build File"
-msgstr ""
-
-#: WebPrjAdoptStepFolders_src
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:561
-#, java-format
-msgctxt "WebPrjAdoptStepFolders_src"
-msgid "Source Folder"
-msgstr ""
-
-#: WebPrjAdoptStepFolders_web_root
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:562
-#, java-format
-msgctxt "WebPrjAdoptStepFolders_web_root"
-msgid "Web Root"
-msgstr ""
-
-#: WebPrjAdoptStepFolders_version
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:563
-#, java-format
-msgctxt "WebPrjAdoptStepFolders_version"
-msgid "Environment"
-msgstr ""
-
-#. other content
-#: WebPrjAdoptStepName_locationError
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:565
-#, java-format
-msgctxt "WebPrjAdoptStepName_locationError"
-msgid "Location error"
-msgstr ""
-
-#: WebPrjAdoptStepName_notAProject
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:566
-#, java-format
-msgctxt "WebPrjAdoptStepName_notAProject"
-msgid "Not a project"
-msgstr ""
-
-#: WebPrjAdoptStepName_existsInWorkspace
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:567
-#, java-format
-msgctxt "WebPrjAdoptStepName_existsInWorkspace"
-msgid "A project with that name already exists in the workspace."
-msgstr ""
-
-#: JstWebModule_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:568
-#, java-format
-msgctxt "JstWebModule_name"
-msgid "Name"
-msgstr ""
-
-#: JstWebModule_URI
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:569
-#, java-format
-msgctxt "JstWebModule_URI"
-msgid "URI"
-msgstr ""
-
-#: JstWebModule_path_on_disk
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:570
-#, java-format
-msgctxt "JstWebModule_path_on_disk"
-msgid "Path on Disk"
-msgstr ""
-
-#: JstWebModule_java_src
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:571
-#, java-format
-msgctxt "JstWebModule_java_src"
-msgid "Soures Path"
-msgstr ""
-
-#: JstWebModule_root
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:572
-#, java-format
-msgctxt "JstWebModule_root"
-msgid "Module Root"
-msgstr ""
-
-#. 
-#. Error Dialog
-#: ErrorDialog.DefaultWindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:575
-#, java-format
-msgctxt "ErrorDialog.DefaultWindowTitle"
-msgid "Error"
-msgstr ""
-
-#: ErrorDialog.DefaultExceptionLabel
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:576
-#, java-format
-msgctxt "ErrorDialog.DefaultExceptionLabel"
-msgid "Exception occurs"
-msgstr ""
-
-#. 
-#. Print Action
-#: PRN_ERROR
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:579
-#, java-format
-msgctxt "PRN_ERROR"
-msgid "Problem with printer"
-msgstr ""
-
-#. 
-#. Register Application in server.xml
-#: WebPrjRegisterApplication_register
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:582
-#, java-format
-msgctxt "WebPrjRegisterApplication_register"
-msgid "Register Web Context in %1"
-msgstr ""
-
-#: WebPrjRegisterApplication_application_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:583
-#, java-format
-msgctxt "WebPrjRegisterApplication_application_name"
-msgid "Context Path"
-msgstr ""
-
-#: WebPrjRegisterApplication_location
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:584
-#, java-format
-msgctxt "WebPrjRegisterApplication_location"
-msgid "%1 Path"
-msgstr ""
-
-#: WebPrjRegisterApplication.register
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:585
-#, java-format
-msgctxt "WebPrjRegisterApplication.register"
-msgid "Register Web Context in %1"
-msgstr ""
-
-#: WebPrjRegisterApplication.application_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:586
-#, java-format
-msgctxt "WebPrjRegisterApplication.application_name"
-msgid "Context Path"
-msgstr ""
-
-#: WebPrjRegisterApplication.location
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:587
-#, java-format
-msgctxt "WebPrjRegisterApplication.location"
-msgid "%1 Path"
-msgstr ""
-
-#. 
-#: WebPrjRegisterApplication_text_import
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:589
-#, java-format
-msgctxt "WebPrjRegisterApplication_text_import"
-msgid "To have the imported project's registration in %1 produce the desired effect, you need to have a common predeployed project structure."
-msgstr ""
-
-#: WebPrjRegisterApplication_text_new
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:590
-#, java-format
-msgctxt "WebPrjRegisterApplication_text_new"
-msgid "Registering Web Context in %1 will allow you to modify and run the application without an additional deployment process."
-msgstr ""
-
-#: WebPrjRegisterApplication_text_import_light
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:591
-#, java-format
-msgctxt "WebPrjRegisterApplication_text_import_light"
-msgid "To have the imported project's registration in %1 produce the desired effect, you need to have a common predeployed project structure."
-msgstr ""
-
-#: WebPrjRegisterApplication_text_new_light
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:592
-#, java-format
-msgctxt "WebPrjRegisterApplication_text_new_light"
-msgid "Registering Web Context in %1 will allow you to modify and run the application without an additional deployment process."
-msgstr ""
-
-#. 
-#. 
-#. Wizard-Common.end
-#. 
-#. Wizard-Labels.begin
-#. 
-#. Generate java code - step 1
-#: StrutsGen11_Start_actions
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:600
-#, java-format
-msgctxt "StrutsGen11_Start_actions"
-msgid "Generate classes for Actions"
-msgstr ""
-
-#: StrutsGen11_Start_formbeans
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:601
-#, java-format
-msgctxt "StrutsGen11_Start_formbeans"
-msgid "Generate classes for FormBeans"
-msgstr ""
-
-#: StrutsGen11_Start_forwards
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:602
-#, java-format
-msgctxt "StrutsGen11_Start_forwards"
-msgid "Generate classes for Forwards"
-msgstr ""
-
-#: StrutsGen11_Start_exceptions
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:603
-#, java-format
-msgctxt "StrutsGen11_Start_exceptions"
-msgid "Generate classes for Exceptions"
-msgstr ""
-
-#: StrutsGen11_Start_overwrite
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:604
-#, java-format
-msgctxt "StrutsGen11_Start_overwrite"
-msgid "Overwrite existing files"
-msgstr ""
-
-#: StrutsGen11_Start_base_package
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:605
-#, java-format
-msgctxt "StrutsGen11_Start_base_package"
-msgid "Base package"
-msgstr ""
-
-#. Generate java code - step 2
-#: StrutsGen11_Actions_base_class
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:607
-#, java-format
-msgctxt "StrutsGen11_Actions_base_class"
-msgid "Base class"
-msgstr ""
-
-#: StrutsGen11_Actions_properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:608
-#, java-format
-msgctxt "StrutsGen11_Actions_properties"
-msgid "Generate JavaBeans properties"
-msgstr ""
-
-#: StrutsGen11_Actions_global_forwards
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:609
-#, java-format
-msgctxt "StrutsGen11_Actions_global_forwards"
-msgid "Generate constraints for global forwards"
-msgstr ""
-
-#: StrutsGen11_Actions_local_forwards
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:610
-#, java-format
-msgctxt "StrutsGen11_Actions_local_forwards"
-msgid "Generate constraints for local forwards"
-msgstr ""
-
-#. Generate java code - step 3
-#: StrutsGen11_FormBeans_base_class
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:612
-#, java-format
-msgctxt "StrutsGen11_FormBeans_base_class"
-msgid "Base class"
-msgstr ""
-
-#: StrutsGen11_FormBeans_properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:613
-#, java-format
-msgctxt "StrutsGen11_FormBeans_properties"
-msgid "Generate JavaBeans properties"
-msgstr ""
-
-#. Generate java code - step 4
-#: StrutsGen11_Forwards_base_class
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:615
-#, java-format
-msgctxt "StrutsGen11_Forwards_base_class"
-msgid "Base class"
-msgstr ""
-
-#: StrutsGen11_Forwards_properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:616
-#, java-format
-msgctxt "StrutsGen11_Forwards_properties"
-msgid "Generate JavaBeans properties"
-msgstr ""
-
-#. Generate java code - step 5
-#: StrutsGen11_Exceptions_base_class
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:618
-#, java-format
-msgctxt "StrutsGen11_Exceptions_base_class"
-msgid "Base class"
-msgstr ""
-
-#: StrutsGen11_Exceptions_properties
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:619
-#, java-format
-msgctxt "StrutsGen11_Exceptions_properties"
-msgid "Generate JavaBeans properties"
-msgstr ""
-
-#. 
-#. Wizard-Labels.end
-#: SharableVPEEditor.show_comments
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:623
-#, java-format
-msgctxt "SharableVPEEditor.show_comments"
-msgid "Show Comments in Visual Editor"
-msgstr ""
-
-#. 
-#: ReportProblemWizard.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:625
-#, java-format
-msgctxt "ReportProblemWizard.WindowTitle"
-msgid "Report Problems"
-msgstr ""
-
-#: ReportProblemWizard.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:626
-#, java-format
-msgctxt "ReportProblemWizard.Title"
-msgid "JBoss Tools"
-msgstr ""
-
-#. 
-#: SharableImportJSFProject.Register_Web_Context_in_server.xml
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:628
-#, java-format
-msgctxt "SharableImportJSFProject.Register_Web_Context_in_server.xml"
-msgid "Register Web Context in server.xml"
-msgstr ""
-
-#: SharableImportProject.Register_Web_Context_in_server.xml
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:629
-#, java-format
-msgctxt "SharableImportProject.Register_Web_Context_in_server.xml"
-msgid "Register Web Context in server.xml"
-msgstr ""
-
-#: SharableNewJSFProject.Register_Web_Context_in_server.xml
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:630
-#, java-format
-msgctxt "SharableNewJSFProject.Register_Web_Context_in_server.xml"
-msgid "Register Web Context in server.xml"
-msgstr ""
-
-#: SharableNewProject.Register_Web_Context_in_server.xml
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:631
-#, java-format
-msgctxt "SharableNewProject.Register_Web_Context_in_server.xml"
-msgid "Register Web Context in server.xml"
-msgstr ""
-
-#. 
-#: SharableVPEEditor.option_list
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:633
-#, java-format
-msgctxt "SharableVPEEditor.option_list"
-msgid "Default Editor Tab"
-msgstr ""
-
-#: SharableVPEEditor.source_visual_editors_weights
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:634
-#, java-format
-msgctxt "SharableVPEEditor.source_visual_editors_weights"
-msgid "Size of Visual Editor pane 0-100%"
-msgstr ""
-
-#. 
-#. ####  XBundle model   #####
-#: ACCESSOR_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:638
-#, java-format
-msgctxt "ACCESSOR_CREATION_FAILURE"
-msgid "Cannot create accessor method."
-msgstr ""
-
-#. 
-#: MODIFIER_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:640
-#, java-format
-msgctxt "MODIFIER_CREATION_FAILURE"
-msgid "Cannot create modifier method."
-msgstr ""
-
-#. 
-#. DefaultCreateHandler
-#: ATTRIBUTE_REQUIRED
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:643
-#, java-format
-msgctxt "ATTRIBUTE_REQUIRED"
-msgid "Attribute {0} must be set."
-msgstr ""
-
-#: OBJECT_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:644
-#, java-format
-msgctxt "OBJECT_CREATION_FAILURE"
-msgid "Cannot create model object."
-msgstr ""
-
-#: OBJECT_ADDING_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:645
-#, java-format
-msgctxt "OBJECT_ADDING_FAILURE"
-msgid "Cannot add new object to model."
-msgstr ""
-
-#: CONTAINS_OBJECT_1
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:646
-#, java-format
-msgctxt "CONTAINS_OBJECT_1"
-msgid "{0} already contains {1}."
-msgstr ""
-
-#: CONTAINS_OBJECT_2
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:647
-#, java-format
-msgctxt "CONTAINS_OBJECT_2"
-msgid "{0} contains {1},{2}{3} cannot be added."
-msgstr ""
-
-#. 
-#. NewProjectHandler
-#: INVALID_TEMPLATE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:650
-#, java-format
-msgctxt "INVALID_TEMPLATE"
-msgid "Invalid template."
-msgstr ""
-
-#: INVALID_TEMPLATE_LOCATION
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:651
-#, java-format
-msgctxt "INVALID_TEMPLATE_LOCATION"
-msgid "Invalid location for Red Hat project."
-msgstr ""
-
-#: PROJECT_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:652
-#, java-format
-msgctxt "PROJECT_CREATION_FAILURE"
-msgid "Cannot create new project \"{0}\" because folder \"{1}\" contains a {2} with this name."
-msgstr ""
-
-#: SAVE_REQUEST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:653
-#, java-format
-msgctxt "SAVE_REQUEST"
-msgid "Current model is modified. Do you want save changes?"
-msgstr ""
-
-#: TEMPLATE_DESCRIPTION_UNFOUND
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:654
-#, java-format
-msgctxt "TEMPLATE_DESCRIPTION_UNFOUND"
-msgid "File \"{0}\" with template description is not found."
-msgstr ""
-
-#. 
-#. CompileProjectInfo
-#: INVALID_COMPILER_PATH
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:657
-#, java-format
-msgctxt "INVALID_COMPILER_PATH"
-msgid "Invalid path to compiler {0}: {1}"
-msgstr ""
-
-#: INVALID_COMPILER_OPTION_1
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:658
-#, java-format
-msgctxt "INVALID_COMPILER_OPTION_1"
-msgid "Option \"{0}\" in compiler \"{1}\" is not set."
-msgstr ""
-
-#: INVALID_COMPILER_OPTION_2
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:659
-#, java-format
-msgctxt "INVALID_COMPILER_OPTION_2"
-msgid "Option \"{0}\" in compiler \"{1}\" is invalid:{2}{3}"
-msgstr ""
-
-#: INVALID_COMPILER_OPTION_3
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:660
-#, java-format
-msgctxt "INVALID_COMPILER_OPTION_3"
-msgid "Invalid option \"{0}\" in compiler \"{1}\":{2}{3} is not a folder."
-msgstr ""
-
-#: OPTION_FOLDER_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:661
-#, java-format
-msgctxt "OPTION_FOLDER_CREATION_FAILURE"
-msgid "Cannot create folder \"{3}\"{2}for option \"{0}\" of compiler \"{1}\"."
-msgstr ""
-
-#. 
-#. .model.impl.meta.constraints.*
-#. used as parameter {2} of SET_ATTRIBUTE_FAILURE
-#: CONSTRAINT_NOLOOP
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:665
-#, java-format
-msgctxt "CONSTRAINT_NOLOOP"
-msgid "causes a loop of classes extending one another"
-msgstr ""
-
-#: CONSTRAINT_INTEGER
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:666
-#, java-format
-msgctxt "CONSTRAINT_INTEGER"
-msgid "must be an integer"
-msgstr ""
-
-#: CONSTRAINT_NONEMPTY
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:667
-#, java-format
-msgctxt "CONSTRAINT_NONEMPTY"
-msgid "cannot be empty"
-msgstr ""
-
-#: CONSTRAINT_NO_JAVA_KEYWORD
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:668
-#, java-format
-msgctxt "CONSTRAINT_NO_JAVA_KEYWORD"
-msgid "is a Java keyword"
-msgstr ""
-
-#: CONSTRAINT_JAVA_NAME
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:669
-#, java-format
-msgctxt "CONSTRAINT_JAVA_NAME"
-msgid "is not a Java name"
-msgstr ""
-
-#: CONSTRAINT_INTEGER_OR_LIST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:670
-#, java-format
-msgctxt "CONSTRAINT_INTEGER_OR_LIST"
-msgid "must be an integer or be selected from the list"
-msgstr ""
-
-#: CONSTRAINT_RED_HAT_TEMPLATE_NAME
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:671
-#, java-format
-msgctxt "CONSTRAINT_RED_HAT_TEMPLATE_NAME"
-msgid "is not an Red Hat project template name"
-msgstr ""
-
-#: CONSTRAINT_XML_NAME
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:672
-#, java-format
-msgctxt "CONSTRAINT_XML_NAME"
-msgid "is not xml name"
-msgstr ""
-
-#: CONSTRAINT_IS_NOT_IN_LIST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:673
-#, java-format
-msgctxt "CONSTRAINT_IS_NOT_IN_LIST"
-msgid "is not the value of the list"
-msgstr ""
-
-#. 
-#. com.elt.model.viewedit.impl.XModelImpl
-#: UNKNOUN_ENTITY
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:676
-#, java-format
-msgctxt "UNKNOUN_ENTITY"
-msgid "Unknown entity: {0}"
-msgstr ""
-
-#: CREATION_ENTITY_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:677
-#, java-format
-msgctxt "CREATION_ENTITY_FAILURE"
-msgid "Cannot create entity: {0}"
-msgstr ""
-
-#: SET_ATTRIBUTE_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:678
-#, java-format
-msgctxt "SET_ATTRIBUTE_FAILURE"
-msgid "Cannot set \"{0}\" = \"{1}\" because the value {2}."
-msgstr ""
-
-#. 
-#. .convertors.MoveExternalBodies
-#: EXTERNAL_BODY_REFERENCE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:681
-#, java-format
-msgctxt "EXTERNAL_BODY_REFERENCE"
-msgid "Created {0}{1}references to the same location{1}{2}{1}as the source object.{1}Do you want to change reference to new location{1}{3}."
-msgstr ""
-
-#. 
-#. flow.ChangeBaseClassName
-#: BIND_STATE_KIND_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:684
-#, java-format
-msgctxt "BIND_STATE_KIND_FAILURE"
-msgid ""
-"State {0} of module {1} \n"
-"bound to class {2} \n"
-"has kind {3} different from the kind {4}."
-msgstr ""
-
-#: BIND_STATE_MERGE_REQUEST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:685
-#, java-format
-msgctxt "BIND_STATE_MERGE_REQUEST"
-msgid ""
-"State {0} of module {1} \n"
-"bound to class {2} \n"
-"has message lists different from those of the current state. \n"
-"Do you want to merge message lists?"
-msgstr ""
-
-#: BIND_STATE_MERGE_CANCELLED
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:686
-#, java-format
-msgctxt "BIND_STATE_MERGE_CANCELLED"
-msgid "Change of base class name has been cancelled."
-msgstr ""
-
-#. .flow.CreateStateHandler
-#: CREATE_STATE_CLASS_TYPE_REQUEST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:688
-#, java-format
-msgctxt "CREATE_STATE_CLASS_TYPE_REQUEST"
-msgid ""
-"Class {0} does not exist.\n"
-"Select type of flow class to be created."
-msgstr ""
-
-#. 
-#. 
-#. ###open_project
-#: AnyElement_CreateTag.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:694
-#, java-format
-msgctxt "AnyElement_CreateTag.WindowTitle"
-msgid "Add Tag"
-msgstr ""
-
-#: AnyElement_CreateTag.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:695
-#, java-format
-msgctxt "AnyElement_CreateTag.Title"
-msgid "Tag"
-msgstr ""
-
-#. 
-#: AnyElement_CreateAttribute.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:697
-#, java-format
-msgctxt "AnyElement_CreateAttribute.WindowTitle"
-msgid "Add Attribute"
-msgstr ""
-
-#: AnyElement_CreateAttribute.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:698
-#, java-format
-msgctxt "AnyElement_CreateAttribute.Title"
-msgid "Attribute"
 msgstr ""
 
 #: ERR_GET_MESSAGE
