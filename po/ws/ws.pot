@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-01 16:58+1000\n"
+"POT-Creation-Date: 2009-04-06 13:21+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -208,78 +208,43 @@ msgctxt "Dir_Client"
 msgid "client"
 msgstr ""
 
-#: Dir_Web_Inf
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:5
-#, java-format
-msgctxt "Dir_Web_Inf"
-msgid "WEB-INF"
-msgstr ""
-
-#: Dir_Web_Content
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:6
-#, java-format
-msgctxt "Dir_Web_Content"
-msgid "WebContent"
-msgstr ""
-
 #: Error_Copy
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:7
+#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:5
 #, java-format
 msgctxt "Error_Copy"
 msgid "Exception while copy JBossWS jars"
 msgstr ""
 
 #: WS_Location
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:8
+#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:6
 #, java-format
 msgctxt "WS_Location"
 msgid "jbosswsruntimelocation"
 msgstr ""
 
 #: JBossWS_Runtime_Lib
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:9
+#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:7
 #, java-format
 msgctxt "JBossWS_Runtime_Lib"
 msgid "JBossWS_Runtime"
 msgstr ""
 
 #: JBossWS_Runtime
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:10
+#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:8
 #, java-format
 msgctxt "JBossWS_Runtime"
 msgid "JBoss WS Runtime"
 msgstr ""
 
-#: JBossAS
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:11
-#, java-format
-msgctxt "JBossAS"
-msgid "JBOSS"
-msgstr ""
-
-#: Error_WS_Location
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:12
-#, java-format
-msgctxt "Error_WS_Location"
-msgid "The JBoss WS Runtime Location is NULL"
-msgstr ""
-
-#: Error_WS_Classpath
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:13
-#, java-format
-msgctxt "Error_WS_Classpath"
-msgid "A error comes up when create JBoss WS Classpath"
-msgstr ""
-
 #: Error_Add_Facet_JBossWS
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:14
+#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:9
 #, java-format
 msgctxt "Error_Add_Facet_JBossWS"
 msgid "Exception while install JBossWS facet"
 msgstr ""
 
 #: Error_Remove_Facet_JBossWS
-#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:15
+#: ../../../ws/plugins/org.jboss.tools.ws.core/src/org/jboss/tools/ws/core/messages/JBossWSCore.properties:10
 #, java-format
 msgctxt "Error_Remove_Facet_JBossWS"
 msgid "Exception while uninstall JBossWS facet"
@@ -356,22 +321,9 @@ msgctxt "Label_Update_Webxml"
 msgid "Update the default Web.xml"
 msgstr ""
 
-#: Value_Target_0
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:9
-#, java-format
-msgctxt "Value_Target_0"
-msgid "2.0"
-msgstr ""
-
-#: Value_Target_1
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:10
-#, java-format
-msgctxt "Value_Target_1"
-msgid "2.1"
-msgstr ""
-
+#. 
 #: Label_Button_Text_Remove
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:11
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:13
 #, java-format
 msgctxt "Label_Button_Text_Remove"
 msgid "Remove"
@@ -379,45 +331,31 @@ msgstr ""
 
 #. 
 #: Error_Message_Invalid_Binding_File
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:13
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:15
 #, java-format
 msgctxt "Error_Message_Invalid_Binding_File"
 msgid "{0} is not a valid JAX-WS or JAXB binding file"
 msgstr ""
 
-#: Error_Read_Binding_File
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:14
-#, java-format
-msgctxt "Error_Read_Binding_File"
-msgid "Exception occurred while reading binding file"
-msgstr ""
-
 #: Error_Message_Failed_To_Generate_Code
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:15
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:16
 #, java-format
 msgctxt "Error_Message_Failed_To_Generate_Code"
 msgid "Failed to Generate Web Service code, please check the log for more details"
 msgstr ""
 
 #: Error_Message_Failed_to_Generate_Implementation
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:16
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:17
 #, java-format
 msgctxt "Error_Message_Failed_to_Generate_Implementation"
 msgid "Failed to generate implementation class"
 msgstr ""
 
 #: Error_Message_Command_File_Not_Found
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:17
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:18
 #, java-format
 msgctxt "Error_Message_Command_File_Not_Found"
 msgid "The command file: \"{0}\"  does not exist, please check the JBoss Web Service runtime setting to make sure the location of JBoss Web Service runtime is valid."
-msgstr ""
-
-#: Error_Message_Execute_Command
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:18
-#, java-format
-msgctxt "Error_Message_Execute_Command"
-msgid "Exception occurred while execute JBossWS tool command"
 msgstr ""
 
 #: Error_Message_No_Runtime_Specified
@@ -427,101 +365,39 @@ msgctxt "Error_Message_No_Runtime_Specified"
 msgid "No JBoss Web Service runtime has been specified."
 msgstr ""
 
-#: Separator_Java
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:20
-#, java-format
-msgctxt "Separator_Java"
-msgid "/"
-msgstr ""
-
 #. 
-#: Error_Implemetation_Code_Generation
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:22
-#, java-format
-msgctxt "Error_Implemetation_Code_Generation"
-msgid "Exception occurred while generating implementation class"
-msgstr ""
-
 #: Error_No_Annotation
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:23
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:22
 #, java-format
 msgctxt "Error_No_Annotation"
 msgid "This class has no required JAXWS Annotation!"
 msgstr ""
 
-#: WebserviceClient_Annotation
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:24
-#, java-format
-msgctxt "WebserviceClient_Annotation"
-msgid "@WebServiceClient"
-msgstr ""
-
-#: Webservice_Annotation
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:25
-#, java-format
-msgctxt "Webservice_Annotation"
-msgid "@WebService"
-msgstr ""
-
-#: Webservice_Annotation_Prefix
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:26
-#, java-format
-msgctxt "Webservice_Annotation_Prefix"
-msgid "@javax.jws.WebService"
-msgstr ""
-
+#. 
 #: Error_No_Class
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:27
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:34
 #, java-format
 msgctxt "Error_No_Class"
 msgid "The class {0} cannot be loaded via project {1}.Check that the project contains the class, or that the class is loadable according to the Java Build Path of the project."
 msgstr ""
 
 #: Error_WS_Location
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:28
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:35
 #, java-format
 msgctxt "Error_WS_Location"
 msgid "The JBoss WS Runtime Location is NULL. Please set the location on JBoss WS preferences page."
 msgstr ""
 
-#: Webservice_Annotation_Check
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:29
-#, java-format
-msgctxt "Webservice_Annotation_Check"
-msgid "@WebService("
-msgstr ""
-
-#: Client_Sample_Package_Name
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:30
-#, java-format
-msgctxt "Client_Sample_Package_Name"
-msgid ".clientsample"
-msgstr ""
-
-#: Client_Sample_Class_Name
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:31
-#, java-format
-msgctxt "Client_Sample_Class_Name"
-msgid "ClientSample"
-msgstr ""
-
 #: Error_Create_Client_Sample
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:32
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:36
 #, java-format
 msgctxt "Error_Create_Client_Sample"
 msgid "When create a client sample, a error comes up. Please check the generated files."
 msgstr ""
 
-#: WebEndpoint
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:33
-#, java-format
-msgctxt "WebEndpoint"
-msgid "WebEndpoint"
-msgstr ""
-
 #. 
 #: Error_WS_Chose_runtime
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:35
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:39
 #, java-format
 msgctxt "Error_WS_Chose_runtime"
 msgid ""
@@ -530,49 +406,49 @@ msgid ""
 msgstr ""
 
 #: Error_WS_No_Runtime_Specifed
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:36
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:40
 #, java-format
 msgctxt "Error_WS_No_Runtime_Specifed"
 msgid "A JBossWS runtime has not been chosen"
 msgstr ""
 
 #: JBossWSFacetInstallPage_Title
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:37
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:41
 #, java-format
 msgctxt "JBossWSFacetInstallPage_Title"
 msgid "JBossWS Facet"
 msgstr ""
 
 #: JBossWSFacetInstallPage_Description
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:38
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:42
 #, java-format
 msgctxt "JBossWSFacetInstallPage_Description"
 msgid "Select JBossWS Web Service runtime"
 msgstr ""
 
 #: JBossWSFacetInstallPage_ServerSuppliedJBossWS
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:39
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:43
 #, java-format
 msgctxt "JBossWSFacetInstallPage_ServerSuppliedJBossWS"
 msgid "Server Supplied JBossWS Runtime"
 msgstr ""
 
 #: JBossWSFacetInstallPage_Deploy
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:40
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:44
 #, java-format
 msgctxt "JBossWSFacetInstallPage_Deploy"
 msgid "Package all JBossWS runtime jars into the deployment archive"
 msgstr ""
 
 #: JBossWSFacetInstallPage_New
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:41
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:45
 #, java-format
 msgctxt "JBossWSFacetInstallPage_New"
 msgid "New..."
 msgstr ""
 
 #: Client_Sample_Run_Over
-#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:42
+#: ../../../ws/plugins/org.jboss.tools.ws.creation.core/src/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:46
 #, java-format
 msgctxt "Client_Sample_Run_Over"
 msgid "Call Over!"

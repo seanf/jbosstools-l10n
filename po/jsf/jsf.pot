@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-01 16:58+1000\n"
+"POT-Creation-Date: 2009-04-06 13:21+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4825,7 +4825,7 @@ msgstr ""
 #, java-format
 msgctxt "THE_VIEW_WITH_PATH_IS_ALREADY_CREATED"
 msgid ""
-"The View with frow-view-id '{0}' is already created.\n"
+"The View with frow-view-id ''{0}'' is already created.\n"
 ""
 msgstr ""
 
@@ -4955,7 +4955,7 @@ msgstr ""
 #, java-format
 msgctxt "CLASS_IS_REFERENCED_BY_SEVERAL_BEANS"
 msgid ""
-"Class {0}is referenced by several beans.\n"
+"Class {0} is referenced by several beans.\n"
 " Please select one of them."
 msgstr ""
 
@@ -5240,40 +5240,24 @@ msgid "The project has conflicting library {0}. Do you want to replace it with s
 msgstr ""
 
 #. 
-#: CONTINUE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:113
-#, java-format
-msgctxt "CONTINUE"
-msgid "Continue"
-msgstr ""
-
-#. 
 #: OVERWRITE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:115
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:113
 #, java-format
 msgctxt "OVERWRITE"
 msgid "Overwrite"
 msgstr ""
 
 #. 
-#: CANNOT_LOAD_JSF_CAPABILITIES
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:117
-#, java-format
-msgctxt "CANNOT_LOAD_JSF_CAPABILITIES"
-msgid "Cannot load JSF Capabilities"
-msgstr ""
-
-#. 
 #: CONFIGURATION_FILE_ISNOT_FOUND_IN_PROJECT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:119
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:115
 #, java-format
 msgctxt "CONFIGURATION_FILE_ISNOT_FOUND_IN_PROJECT"
-msgid "Configuration file '{0}' is not found in project {0}."
+msgid "Configuration file ''{0}'' is not found in project {0}."
 msgstr ""
 
 #. 
 #: FILE_EXISTS
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:121
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:117
 #, java-format
 msgctxt "FILE_EXISTS"
 msgid "File {0} exists."
@@ -5281,7 +5265,7 @@ msgstr ""
 
 #. 
 #: CREATE_NEW_JSF_PROJECT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:123
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:119
 #, java-format
 msgctxt "CREATE_NEW_JSF_PROJECT"
 msgid "Create New JSF Project"
@@ -5289,7 +5273,7 @@ msgstr ""
 
 #. 
 #: IMPORT_JSF_PROJECT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:125
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:121
 #, java-format
 msgctxt "IMPORT_JSF_PROJECT"
 msgid "Import JSF Project"
@@ -5297,7 +5281,7 @@ msgstr ""
 
 #. 
 #: FACES_CONFIG_EDITOR
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:127
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:123
 #, java-format
 msgctxt "FACES_CONFIG_EDITOR"
 msgid "Faces Config Editor"
@@ -5305,7 +5289,7 @@ msgstr ""
 
 #. 
 #: PRINT_DIAGRAM
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:129
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:125
 #, java-format
 msgctxt "PRINT_DIAGRAM"
 msgid "Print Diagram"
@@ -5313,7 +5297,7 @@ msgstr ""
 
 #. 
 #: REPARENTING_JSFSUBPART
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:131
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:127
 #, java-format
 msgctxt "REPARENTING_JSFSUBPART"
 msgid "Reparenting JSFSubpart"
@@ -5321,7 +5305,7 @@ msgstr ""
 
 #. 
 #: OF_NORMAL_SIZE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:133
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:129
 #, java-format
 msgctxt "OF_NORMAL_SIZE"
 msgid "% of normal size"
@@ -5329,7 +5313,7 @@ msgstr ""
 
 #. 
 #: PRINT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:135
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:131
 #, java-format
 msgctxt "PRINT"
 msgid "Print"
@@ -5337,23 +5321,15 @@ msgstr ""
 
 #. 
 #: ZOOM
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:137
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:133
 #, java-format
 msgctxt "ZOOM"
 msgid "Zoom"
 msgstr ""
 
 #. 
-#: ALL
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:139
-#, java-format
-msgctxt "ALL"
-msgid "All"
-msgstr ""
-
-#. 
 #: SELECT_ALL
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:141
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:135
 #, java-format
 msgctxt "SELECT_ALL"
 msgid "Select All"
@@ -5361,7 +5337,7 @@ msgstr ""
 
 #. 
 #: UNSELECT_ALL
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:143
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:137
 #, java-format
 msgctxt "UNSELECT_ALL"
 msgid "Unselect All"
@@ -5369,7 +5345,7 @@ msgstr ""
 
 #. 
 #: SELECTED_PAGES
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:145
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:139
 #, java-format
 msgctxt "SELECTED_PAGES"
 msgid "Selected Pages"
@@ -5377,7 +5353,7 @@ msgstr ""
 
 #. 
 #: PRINT_PREVIEW
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:147
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:141
 #, java-format
 msgctxt "PRINT_PREVIEW"
 msgid "Print Preview"
@@ -5385,7 +5361,7 @@ msgstr ""
 
 #. 
 #: LIBRARY_SETS
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:149
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:143
 #, java-format
 msgctxt "LIBRARY_SETS"
 msgid "Library Sets"
@@ -5393,47 +5369,15 @@ msgstr ""
 
 #. 
 #: CONFIGURATION_FILE_ADDITIONS
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:151
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:145
 #, java-format
 msgctxt "CONFIGURATION_FILE_ADDITIONS"
 msgid "Configuration File Additions"
 msgstr ""
 
 #. 
-#: SHOW_DIAGRAM_NAVIGATOR
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:153
-#, java-format
-msgctxt "SHOW_DIAGRAM_NAVIGATOR"
-msgid "Show Diagram Navigator"
-msgstr ""
-
-#. 
-#: DIAGRAM_NAVIGATOR
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:155
-#, java-format
-msgctxt "DIAGRAM_NAVIGATOR"
-msgid "Diagram Navigator"
-msgstr ""
-
-#. 
-#: SHOW_TREE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:157
-#, java-format
-msgctxt "SHOW_TREE"
-msgid "Show Tree"
-msgstr ""
-
-#. 
-#: TREE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:159
-#, java-format
-msgctxt "TREE"
-msgid "Tree"
-msgstr ""
-
-#. 
 #: DELETE_JAVA_SOURCE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:161
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:147
 #, java-format
 msgctxt "DELETE_JAVA_SOURCE"
 msgid "Delete Java Source"

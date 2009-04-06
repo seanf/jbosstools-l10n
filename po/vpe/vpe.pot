@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-01 16:58+1000\n"
+"POT-Creation-Date: 2009-04-06 13:21+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -781,7 +781,7 @@ msgstr ""
 #: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:1
 #, java-format
 msgctxt "NAMESPACE_NOT_DEFINED"
-msgid "Namespace not defined. Template could not be edit."
+msgid "Namespace is not defined. Template could not be edited."
 msgstr ""
 
 #: PREFERENCES
@@ -819,571 +819,446 @@ msgctxt "SHOW_SELECTION_BAR"
 msgid "Show Selection Bar"
 msgstr ""
 
-#: SHOW_BORDER_FOR_ALL_TAGS
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:7
-#, java-format
-msgctxt "SHOW_BORDER_FOR_ALL_TAGS"
-msgid "show border for all tags"
-msgstr ""
-
 #: MOZILLA_LOADING_ERROR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:8
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:7
 #, java-format
 msgctxt "MOZILLA_LOADING_ERROR"
 msgid "The VPE editor can't be run because your system environment needs to be changed slightly. "
 msgstr ""
 
 #: MOZILLA_LOADING_ERROR_LINK_TEXT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:9
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:8
 #, java-format
 msgctxt "MOZILLA_LOADING_ERROR_LINK_TEXT"
 msgid "Find out more."
 msgstr ""
 
-#: MOZILLA_LOADING_ERROR_LINK
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:10
-#, java-format
-msgctxt "MOZILLA_LOADING_ERROR_LINK"
-msgid "http://labs.jboss.com/wiki/JBosstoolsVisualEditorFAQ"
-msgstr ""
-
-#: SHOW_COMMENTS
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:11
-#, java-format
-msgctxt "SHOW_COMMENTS"
-msgid "show comments"
-msgstr ""
-
-#: SHOW_BORDER_FOR_UNKNOWN_TAGS
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:12
-#, java-format
-msgctxt "SHOW_BORDER_FOR_UNKNOWN_TAGS"
-msgid "show border for unknown tags"
-msgstr ""
-
-#: USE_DETAIL_BORDER
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:13
-#, java-format
-msgctxt "USE_DETAIL_BORDER"
-msgid "use detail border"
-msgstr ""
-
-#: SHOW_RESOURCE_BUNDLES_USAGE_AS_EL
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:14
-#, java-format
-msgctxt "SHOW_RESOURCE_BUNDLES_USAGE_AS_EL"
-msgid "show resource bundles usage as EL expressions"
-msgstr ""
-
-#: USE_ABSOLUTE_POSITION
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:15
-#, java-format
-msgctxt "USE_ABSOLUTE_POSITION"
-msgid "use absolute position"
-msgstr ""
-
-#: ALWAYS_PROMPT_FOR_TAG_ATTRIBUTES_DURING_TAG_INSERT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:16
-#, java-format
-msgctxt "ALWAYS_PROMPT_FOR_TAG_ATTRIBUTES_DURING_TAG_INSERT"
-msgid "always prompt for tag attributes during tag insert"
-msgstr ""
-
-#: OPTION_LIST
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:17
-#, java-format
-msgctxt "OPTION_LIST"
-msgid "option list"
-msgstr ""
-
-#: SOURCE_VISUAL_EDITORS_WEIGHTS
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:18
-#, java-format
-msgctxt "SOURCE_VISUAL_EDITORS_WEIGHTS"
-msgid "Size of Visual Editor pane 0-100%"
-msgstr ""
-
+#. 
 #: GENERAL
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:19
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:12
 #, java-format
 msgctxt "GENERAL"
 msgid "General"
 msgstr ""
 
 #: TEMPLATES
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:20
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:13
 #, java-format
 msgctxt "TEMPLATES"
 msgid "Templates"
 msgstr ""
 
 #: TEMPLATE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:21
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:14
 #, java-format
 msgctxt "TEMPLATE"
 msgid "Template"
 msgstr ""
 
 #: TAG_ATTRIBUTES
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:22
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:15
 #, java-format
 msgctxt "TAG_ATTRIBUTES"
 msgid "Tag Attributes"
 msgstr ""
 
 #: TAG_NAME
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:23
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:16
 #, java-format
 msgctxt "TAG_NAME"
-msgid "Tag Name: "
+msgid "Tag Name: {0}"
+msgstr ""
+
+#: TAG_URI
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:17
+#, java-format
+msgctxt "TAG_URI"
+msgid "Tag URI: {0}"
 msgstr ""
 
 #: CHILDREN
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:24
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:18
 #, java-format
 msgctxt "CHILDREN"
 msgid "Children"
 msgstr ""
 
-#: DISPLAY
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:25
-#, java-format
-msgctxt "DISPLAY"
-msgid "Display"
-msgstr ""
-
-#: ICON
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:26
-#, java-format
-msgctxt "ICON"
-msgid "Icon"
-msgstr ""
-
 #: VALUE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:27
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:19
 #, java-format
 msgctxt "VALUE"
 msgid "Value"
 msgstr ""
 
-#: VALUE_COLOR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:28
+#: VALUE_IS_NOT_VALID
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:20
 #, java-format
-msgctxt "VALUE_COLOR"
-msgid "Value Color"
-msgstr ""
-
-#: VALUE_BACKGROUND_COLOR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:29
-#, java-format
-msgctxt "VALUE_BACKGROUND_COLOR"
-msgid "Value Background Color"
+msgctxt "VALUE_IS_NOT_VALID"
+msgid "Value is not valid ({0})."
 msgstr ""
 
 #: BACKGROUND_COLOR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:30
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:21
 #, java-format
 msgctxt "BACKGROUND_COLOR"
 msgid "Background Color"
 msgstr ""
 
-#: BORDER
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:31
-#, java-format
-msgctxt "BORDER"
-msgid "Border"
-msgstr ""
-
-#: BORDER_COLOR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:32
-#, java-format
-msgctxt "BORDER_COLOR"
-msgid "Border Color"
-msgstr ""
-
 #: ERROR_OF_TYPE_CONVERSION
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:33
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:22
 #, java-format
 msgctxt "ERROR_OF_TYPE_CONVERSION"
 msgid "Error of type conversion"
 msgstr ""
 
 #: INCORRECT_PARAMETER_ERROR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:34
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:23
 #, java-format
 msgctxt "INCORRECT_PARAMETER_ERROR"
 msgid "Incorrect parameter error"
 msgstr ""
 
-#: HIDE_TOOLBAR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:35
-#, java-format
-msgctxt "HIDE_TOOLBAR"
-msgid "Hide Text Formatting Toolbar"
-msgstr ""
-
-#: SHOW_TOOLBAR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:36
-#, java-format
-msgctxt "SHOW_TOOLBAR"
-msgid "Show Text Formatting Toolbar"
-msgstr ""
-
 #: MENU
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:37
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:24
 #, java-format
 msgctxt "MENU"
 msgid "Menu"
 msgstr ""
 
 #: SET_BACKGROUND_COLOR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:38
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:25
 #, java-format
 msgctxt "SET_BACKGROUND_COLOR"
 msgid "Set Background Color"
 msgstr ""
 
 #: SET_FOREGROUND_COLOR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:39
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:26
 #, java-format
 msgctxt "SET_FOREGROUND_COLOR"
 msgid "Set Foreground color"
 msgstr ""
 
 #: TEXT_FORMATTING
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:40
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:27
 #, java-format
 msgctxt "TEXT_FORMATTING"
 msgid "Text Formatting"
 msgstr ""
 
 #: BLOCK_FORMAT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:41
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:28
 #, java-format
 msgctxt "BLOCK_FORMAT"
 msgid "Block Format"
 msgstr ""
 
 #: FONT_NAME
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:42
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:29
 #, java-format
 msgctxt "FONT_NAME"
 msgid "Font Name"
 msgstr ""
 
 #: FONT_SIZE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:43
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:30
 #, java-format
 msgctxt "FONT_SIZE"
 msgid "Font Size"
 msgstr ""
 
 #: BOLD
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:44
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:31
 #, java-format
 msgctxt "BOLD"
 msgid "Bold"
 msgstr ""
 
 #: ITALIC
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:45
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:32
 #, java-format
 msgctxt "ITALIC"
 msgid "Italic"
 msgstr ""
 
 #: UNDERLINE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:46
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:33
 #, java-format
 msgctxt "UNDERLINE"
 msgid "Underline"
 msgstr ""
 
 #: FOREGROUND_COLOR
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:47
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:34
 #, java-format
 msgctxt "FOREGROUND_COLOR"
 msgid "Foreground Color"
 msgstr ""
 
-#: ALIGN_LEFT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:48
-#, java-format
-msgctxt "ALIGN_LEFT"
-msgid "Align Left"
-msgstr ""
-
-#: CENTER
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:49
-#, java-format
-msgctxt "CENTER"
-msgid "Center"
-msgstr ""
-
-#: ALIGN_RIGHT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:50
-#, java-format
-msgctxt "ALIGN_RIGHT"
-msgid "Align Right"
-msgstr ""
-
-#: JUSTIFY
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:51
-#, java-format
-msgctxt "JUSTIFY"
-msgid "Justify"
-msgstr ""
-
-#: BULLETS
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:52
-#, java-format
-msgctxt "BULLETS"
-msgid "Bullets"
-msgstr ""
-
-#: NUMBERING
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:53
-#, java-format
-msgctxt "NUMBERING"
-msgid "Numbering"
-msgstr ""
-
 #: CONFIRM_SELECTION_BAR_DIALOG_TITLE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:54
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:35
 #, java-format
 msgctxt "CONFIRM_SELECTION_BAR_DIALOG_TITLE"
 msgid "Confirm hide selection bar"
 msgstr ""
 
 #: CONFIRM_SELECTION_BAR_DIALOG_MESSAGE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:55
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:36
 #, java-format
 msgctxt "CONFIRM_SELECTION_BAR_DIALOG_MESSAGE"
-msgid "Hide selection bar ?"
+msgid "Hide selection bar?"
 msgstr ""
 
 #: CONFIRM_SELECTION_BAR_DIALOG_TOGGLE_MESSAGE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:56
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:37
 #, java-format
 msgctxt "CONFIRM_SELECTION_BAR_DIALOG_TOGGLE_MESSAGE"
 msgid "Always hide selection bar without prompt"
 msgstr ""
 
 #: VPE_UPDATE_JOB_TITLE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:57
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:38
 #, java-format
 msgctxt "VPE_UPDATE_JOB_TITLE"
 msgid "Visual Editor View Update"
 msgstr ""
 
 #: VPE_VISUAL_REFRESH_JOB
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:58
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:39
 #, java-format
 msgctxt "VPE_VISUAL_REFRESH_JOB"
-msgid "Visual Editor Refresh "
+msgid "Visual Editor Refresh"
+msgstr ""
+
+#: SHOW_NON_VISUAL_TAGS
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:40
+#, java-format
+msgctxt "SHOW_NON_VISUAL_TAGS"
+msgid "Show non-visual tags"
+msgstr ""
+
+#: HIDE_NON_VISUAL_TAGS
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:41
+#, java-format
+msgctxt "HIDE_NON_VISUAL_TAGS"
+msgid "Hide non-visual tags"
+msgstr ""
+
+#: SHOW_TOOLBAR
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:42
+#, java-format
+msgctxt "SHOW_TOOLBAR"
+msgid "Show {0}"
+msgstr ""
+
+#: HIDE_TOOLBAR
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:43
+#, java-format
+msgctxt "HIDE_TOOLBAR"
+msgid "Hide {0}"
 msgstr ""
 
 #: NON_VISUAL_TAGS
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:59
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:44
 #, java-format
 msgctxt "NON_VISUAL_TAGS"
 msgid "Non-visual tags"
 msgstr ""
 
 #: SHOW
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:60
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:45
 #, java-format
 msgctxt "SHOW"
 msgid "Show"
 msgstr ""
 
 #: HIDE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:61
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:46
 #, java-format
 msgctxt "HIDE"
 msgid "Hide"
 msgstr ""
 
+#: TAG_FOR_DISPLAY_IS_NOT_VALID
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:47
+#, java-format
+msgctxt "TAG_FOR_DISPLAY_IS_NOT_VALID"
+msgid "Tag for display is not valid ({0})."
+msgstr ""
+
 #: TAG_FOR_DISPLAY
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:62
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:48
 #, java-format
 msgctxt "TAG_FOR_DISPLAY"
 msgid "Tag for Display"
 msgstr ""
 
-#: ERROR_MESSAGE_POSTFIX
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:63
-#, java-format
-msgctxt "ERROR_MESSAGE_POSTFIX"
-msgid " is not valid"
-msgstr ""
-
 #: TemplatesPreferencePage_Edit
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:64
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:49
 #, java-format
 msgctxt "TemplatesPreferencePage_Edit"
 msgid "Edit"
 msgstr ""
 
 #: TemplatesPreferencePage_Remove
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:65
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:50
 #, java-format
 msgctxt "TemplatesPreferencePage_Remove"
 msgid "Remove"
 msgstr ""
 
 #: TemplatesTableProvider_Children
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:66
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:51
 #, java-format
 msgctxt "TemplatesTableProvider_Children"
 msgid "Children"
 msgstr ""
 
 #: TemplatesTableProvider_No
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:67
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:52
 #, java-format
 msgctxt "TemplatesTableProvider_No"
 msgid "no"
 msgstr ""
 
 #: TemplatesTableProvider_TagForDisplay
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:68
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:53
 #, java-format
 msgctxt "TemplatesTableProvider_TagForDisplay"
 msgid "Tag for Display"
 msgstr ""
 
 #: TemplatesTableProvider_TagName
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:69
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:54
 #, java-format
 msgctxt "TemplatesTableProvider_TagName"
 msgid "Tag Name"
 msgstr ""
 
 #: TemplatesTableProvider_URI
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:70
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:55
 #, java-format
 msgctxt "TemplatesTableProvider_URI"
 msgid "URI"
 msgstr ""
 
 #: TemplatesTableProvider_Yes
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:71
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:56
 #, java-format
 msgctxt "TemplatesTableProvider_Yes"
 msgid "yes"
 msgstr ""
 
 #: STYLE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:72
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:57
 #, java-format
 msgctxt "STYLE"
 msgid "Style"
 msgstr ""
 
 #: MAX_SOURCE_PANE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:73
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:58
 #, java-format
 msgctxt "MAX_SOURCE_PANE"
 msgid "Maximize Source Pane"
 msgstr ""
 
 #: MAX_VISUAL_PANE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:74
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:59
 #, java-format
 msgctxt "MAX_VISUAL_PANE"
 msgid "Maximize Visual Pane"
 msgstr ""
 
 #: RESTORE_PREVIOUS_LOCATION
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:75
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:60
 #, java-format
 msgctxt "RESTORE_PREVIOUS_LOCATION"
 msgid "Restore Previous Location"
 msgstr ""
 
 #: BACKGROUND_COLOR_TIP
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:76
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:61
 #, java-format
 msgctxt "BACKGROUND_COLOR_TIP"
 msgid "Choose background color"
 msgstr ""
 
 #: SETUP_TEMPLATE_FOR_MENU
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:77
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:62
 #, java-format
 msgctxt "SETUP_TEMPLATE_FOR_MENU"
 msgid "Setup Template for <{0}>"
 msgstr ""
 
 #: INSERT_AROUND
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:78
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:63
 #, java-format
 msgctxt "INSERT_AROUND"
 msgid "Insert Around"
 msgstr ""
 
 #: INSERT_BEFORE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:79
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:64
 #, java-format
 msgctxt "INSERT_BEFORE"
 msgid "Insert Before"
 msgstr ""
 
 #: INSERT_AFTER
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:80
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:65
 #, java-format
 msgctxt "INSERT_AFTER"
 msgid "Insert After"
 msgstr ""
 
 #: REPLACE_WITH
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:81
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:66
 #, java-format
 msgctxt "REPLACE_WITH"
 msgid "Replace With"
 msgstr ""
 
 #: FROM_PALETTE
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:82
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:67
 #, java-format
 msgctxt "FROM_PALETTE"
 msgid "From Palette"
 msgstr ""
 
 #: PAGE_DESIGN_OPTIONS_ABOUT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:83
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:68
 #, java-format
 msgctxt "PAGE_DESIGN_OPTIONS_ABOUT"
 msgid "Here you can configure Visual Page Editor options, which will be used for generating a preview"
 msgstr ""
 
 #: ACTUAL_RUN_TIME_FOLDERS_ABOUT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:84
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:69
 #, java-format
 msgctxt "ACTUAL_RUN_TIME_FOLDERS_ABOUT"
 msgid "These options will be used by Visual Page Editor for replacing absolute and relative path values when generating a preview"
 msgstr ""
 
 #: INCLUDED_CSS_FILES_ABOUT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:85
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:70
 #, java-format
 msgctxt "INCLUDED_CSS_FILES_ABOUT"
 msgid "These CSS files will be linked by Visual Page Editor when generating a preview"
 msgstr ""
 
 #: INCLUDED_TAG_LIBS_ABOUT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:86
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:71
 #, java-format
 msgctxt "INCLUDED_TAG_LIBS_ABOUT"
 msgid "These Taglibs will be used by Visual Page Editor for getting appropriate template for generating a preview, if this Taglibs doesn't included on page"
 msgstr ""
 
 #: SUBSTITUTED_EL_EXPRESSIONS_ABOUT
-#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:87
+#: ../../../vpe/plugins/org.jboss.tools.vpe/src/org/jboss/tools/vpe/messages/messages.properties:72
 #, java-format
 msgctxt "SUBSTITUTED_EL_EXPRESSIONS_ABOUT"
-msgid "These EL expressions will be substituted by Visual Page Editor when generating a  preview "
+msgid "These EL expressions will be substituted by Visual Page Editor when generating a  preview"
 msgstr ""
 
 #: blurb

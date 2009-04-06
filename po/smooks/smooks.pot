@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-01 16:58+1000\n"
+"POT-Creation-Date: 2009-04-06 13:21+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -741,29 +741,16 @@ msgctxt "SmooksResourceChangeListener.CoverFile"
 msgid "Cover"
 msgstr ""
 
-#: SmooksResourceChangeListener.SmooksFileExtensionName
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:9
-#, java-format
-msgctxt "SmooksResourceChangeListener.SmooksFileExtensionName"
-msgid "smooks"
-msgstr ""
-
-#: SmooksResourceChangeListener.SmooksGraphFileExtensionName
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:10
-#, java-format
-msgctxt "SmooksResourceChangeListener.SmooksGraphFileExtensionName"
-msgid ".graph"
-msgstr ""
-
+#. 
 #: SmooksTextEdtor.NotifyTitleMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:11
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:13
 #, java-format
 msgctxt "SmooksTextEdtor.NotifyTitleMessage"
 msgid "Incorrect or currently unsupported file content. The graphical display can not be rendered. "
 msgstr ""
 
 #: SmooksTextEdtor.UnKnownErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:12
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:14
 #, java-format
 msgctxt "SmooksTextEdtor.UnKnownErrorMessage"
 msgid "Unknown error"
@@ -818,43 +805,44 @@ msgctxt "SmooksConfigFileNewWizard.TargetDataTypeSelectionTitle"
 msgid "Target Data Selection"
 msgstr ""
 
+#. translators: please ensure the filename still ends in ".smooks"
 #: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDefaultFileName
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:8
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:9
 #, java-format
 msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDefaultFileName"
 msgid "newConfig.smooks"
 msgstr ""
 
 #: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDescription
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:9
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:10
 #, java-format
 msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDescription"
 msgid "Create a new Smooks configuration file"
 msgstr ""
 
 #: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageErrorMessage1
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:10
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:11
 #, java-format
 msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageErrorMessage1"
 msgid "File extension must be \"smooks\""
 msgstr ""
 
 #: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:11
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:12
 #, java-format
 msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageTitle"
 msgid "Smooks Configuration"
 msgstr ""
 
 #: TransformDataWizardSelectionPage.TransformDataWizardDescription
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:12
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:13
 #, java-format
 msgctxt "TransformDataWizardSelectionPage.TransformDataWizardDescription"
 msgid "Select the transform data type"
 msgstr ""
 
 #: TransformDataWizardSelectionPage.TransformDataWizardTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:13
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:14
 #, java-format
 msgctxt "TransformDataWizardSelectionPage.TransformDataWizardTitle"
 msgid "Data Type Selection"

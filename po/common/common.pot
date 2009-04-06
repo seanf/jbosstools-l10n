@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-01 16:58+1000\n"
+"POT-Creation-Date: 2009-04-06 13:20+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -697,19 +697,11 @@ msgctxt "PropertyPage_templates"
 msgid "Templates"
 msgstr ""
 
-#: Editor.error.activated.outofsync.title
+#: PAGES_EDITOR_SOURCE_TAB
 #: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/editor/ObjectMultiPageEditorMessages.properties:1
 #, java-format
-msgctxt "Editor.error.activated.outofsync.title"
-msgid "File Changed"
-msgstr ""
-
-#. 
-#: Editor.error.activated.outofsync.message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/editor/ObjectMultiPageEditorMessages.properties:3
-#, java-format
-msgctxt "Editor.error.activated.outofsync.message"
-msgid "The file has been changed on the file system. Do you want to load the changes?"
+msgctxt "PAGES_EDITOR_SOURCE_TAB"
+msgid "Source"
 msgstr ""
 
 #. JavaChoicerFieldEditor
@@ -1046,48 +1038,8 @@ msgctxt "org.jboss.tools.common.model.ui.forms.Form.CANNOT_LOAD_ATTRIBUTE"
 msgid "Cannot load attribute \"{0}\" from model."
 msgstr ""
 
-#: ERROR_CREATING_NESTED_TEXT_EDITOR
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/messages/messages.properties:1
-#, java-format
-msgctxt "ERROR_CREATING_NESTED_TEXT_EDITOR"
-msgid "Error creating nested text editor"
-msgstr ""
-
-#. 
-#: CHANGE_FONT
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/messages/messages.properties:3
-#, java-format
-msgctxt "CHANGE_FONT"
-msgid "Change Font..."
-msgstr ""
-
-#. 
-#: PROPERTIES
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/messages/messages.properties:5
-#, java-format
-msgctxt "PROPERTIES"
-msgid "Properties"
-msgstr ""
-
-#. 
-#: PREVIEW
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/messages/messages.properties:7
-#, java-format
-msgctxt "PREVIEW"
-msgid "Preview"
-msgstr ""
-
-#. 
-#: MUST_BE_IFILEEDITORINPUT
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/messages/messages.properties:9
-#, java-format
-msgctxt "MUST_BE_IFILEEDITORINPUT"
-msgid "Invalid Input: Must be IFileEditorInput"
-msgstr ""
-
-#. 
 #: CANNOT_DISPLAY_DOCUMENT_CONTENTS
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/messages/messages.properties:11
+#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/messages/messages.properties:1
 #, java-format
 msgctxt "CANNOT_DISPLAY_DOCUMENT_CONTENTS"
 msgid "Cannot display document contents."
@@ -1236,584 +1188,11 @@ msgctxt "ClassTemplateComponent_XPATH"
 msgid "XPath"
 msgstr ""
 
-#: JavaPlugin.internal_error
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:1
-#, java-format
-msgctxt "JavaPlugin.internal_error"
-msgid "Internal Error"
-msgstr ""
-
-#. 
-#: JavaElementProperties.name
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:3
-#, java-format
-msgctxt "JavaElementProperties.name"
-msgid "Name"
-msgstr ""
-
-#. 
-#. 
-#. ########
-#. # actions
-#. ########
-#: AddMethodStubAction.label
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:15
-#, java-format
-msgctxt "AddMethodStubAction.label"
-msgid "Create Method"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.detailed.implement
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:17
-#, java-format
-msgctxt "AddMethodStubAction.detailed.implement"
-msgid "&Implement in ''{0}''"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.detailed.override
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:19
-#, java-format
-msgctxt "AddMethodStubAction.detailed.override"
-msgid "&Override in ''{0}''"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.description
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:21
-#, java-format
-msgctxt "AddMethodStubAction.description"
-msgid "Add method stub to type"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.tooltip
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:23
-#, java-format
-msgctxt "AddMethodStubAction.tooltip"
-msgid "Add Method Stub to Type"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.error.title
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:27
-#, java-format
-msgctxt "AddMethodStubAction.error.title"
-msgid "Add Method Stub Failed"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.error.type_removed_in_editor
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:29
-#, java-format
-msgctxt "AddMethodStubAction.error.type_removed_in_editor"
-msgid "Input type has been removed in editor"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.QueryDialog.title
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:33
-#, java-format
-msgctxt "AddMethodStubAction.QueryDialog.title"
-msgid "Create Method Stub"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.OverridesFinalDialog.message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:35
-#, java-format
-msgctxt "AddMethodStubAction.OverridesFinalDialog.message"
-msgid ""
-"This will override the final method ''{0}'' from ''{1}''\n"
-"OK to continue?"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.OverridesPrivateDialog.message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:37
-#, java-format
-msgctxt "AddMethodStubAction.OverridesPrivateDialog.message"
-msgid ""
-"This will override the private method ''{0}'' from ''{1}''\n"
-"OK to continue?"
-msgstr ""
-
-#. 
-#: AddMethodStubAction.ReplaceExistingDialog.message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:39
-#, java-format
-msgctxt "AddMethodStubAction.ReplaceExistingDialog.message"
-msgid ""
-"This will replace the existing method ''{0}''.\n"
-"OK to continue?"
-msgstr ""
-
-#. 
-#: OpenTypeAction.description
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:43
-#, java-format
-msgctxt "OpenTypeAction.description"
-msgid "Open a type in the editor"
-msgstr ""
-
-#. 
-#: OpenTypeAction.tooltip
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:45
-#, java-format
-msgctxt "OpenTypeAction.tooltip"
-msgid "Open a Type"
-msgstr ""
-
-#. 
-#: OpenTypeAction.dialogMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:47
-#, java-format
-msgctxt "OpenTypeAction.dialogMessage"
-msgid "&Choose a type (? = any character, * = any string):"
-msgstr ""
-
-#. 
-#: OpenTypeAction.dialogTitle
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:49
-#, java-format
-msgctxt "OpenTypeAction.dialogTitle"
-msgid "Open Type"
-msgstr ""
-
-#. 
-#: OpenTypeAction.errorMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:51
-#, java-format
-msgctxt "OpenTypeAction.errorMessage"
-msgid "An exception occurred while opening the type."
-msgstr ""
-
-#. 
-#: OpenTypeAction.errorTitle
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:53
-#, java-format
-msgctxt "OpenTypeAction.errorTitle"
-msgid "Open Type"
-msgstr ""
-
-#. 
-#: OpenTypeAction.label
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:55
-#, java-format
-msgctxt "OpenTypeAction.label"
-msgid "Open Type..."
-msgstr ""
-
-#. 
-#. 
-#. 
-#. ######
-#. # dialogs
-#. ######
-#: JavaUI.defaultDialogMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:67
-#, java-format
-msgctxt "JavaUI.defaultDialogMessage"
-msgid "Select entries:"
-msgstr ""
-
-#. 
-#: MultiElementListSelectionDialog.pageInfoMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:71
-#, java-format
-msgctxt "MultiElementListSelectionDialog.pageInfoMessage"
-msgid "Page {0} of {1}"
-msgstr ""
-
-#. 
-#: MultiTypeSelectionDialog.dialogMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:75
-#, java-format
-msgctxt "MultiTypeSelectionDialog.dialogMessage"
-msgid "Could not uniquely map the type name to a type. Path is {0}"
-msgstr ""
-
-#. 
-#: MultiTypeSelectionDialog.dialogTitle
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:77
-#, java-format
-msgctxt "MultiTypeSelectionDialog.dialogTitle"
-msgid "Select Type"
-msgstr ""
-
-#. 
-#: MultiTypeSelectionDialog.errorMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:79
-#, java-format
-msgctxt "MultiTypeSelectionDialog.errorMessage"
-msgid "Could not uniquely map the type name to a type."
-msgstr ""
-
-#. 
-#: MultiTypeSelectionDialog.errorTitle
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:81
-#, java-format
-msgctxt "MultiTypeSelectionDialog.errorTitle"
-msgid "Select Type"
-msgstr ""
-
-#. 
-#: MultiTypeSelectionDialog.error2Message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:83
-#, java-format
-msgctxt "MultiTypeSelectionDialog.error2Message"
-msgid "Unexpected exception. See log for details."
-msgstr ""
-
-#. 
-#: MultiTypeSelectionDialog.error2Title
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:85
-#, java-format
-msgctxt "MultiTypeSelectionDialog.error2Title"
-msgid "Exception"
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.errorMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:89
-#, java-format
-msgctxt "TypeSelectionDialog.errorMessage"
-msgid "Could not uniquely map the type name to a type."
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.dialogMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:91
-#, java-format
-msgctxt "TypeSelectionDialog.dialogMessage"
-msgid "Could not uniquely map the type name to a type. Path is {0}"
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.errorTitle
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:93
-#, java-format
-msgctxt "TypeSelectionDialog.errorTitle"
-msgid "Select Type"
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.lowerLabel
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:95
-#, java-format
-msgctxt "TypeSelectionDialog.lowerLabel"
-msgid "&Qualifier:"
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.upperLabel
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:97
-#, java-format
-msgctxt "TypeSelectionDialog.upperLabel"
-msgid "&Matching types:"
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.notypes.title
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:99
-#, java-format
-msgctxt "TypeSelectionDialog.notypes.title"
-msgid "Type Selection"
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.notypes.message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:101
-#, java-format
-msgctxt "TypeSelectionDialog.notypes.message"
-msgid "No types available."
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.error2Message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:103
-#, java-format
-msgctxt "TypeSelectionDialog.error2Message"
-msgid "Unexpected exception. See log for details."
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.error2Title
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:105
-#, java-format
-msgctxt "TypeSelectionDialog.error2Title"
-msgid "Exception"
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.error3Message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:107
-#, java-format
-msgctxt "TypeSelectionDialog.error3Message"
-msgid "Unexpected exception. See log for details."
-msgstr ""
-
-#. 
-#: TypeSelectionDialog.error3Title
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:109
-#, java-format
-msgctxt "TypeSelectionDialog.error3Title"
-msgid "Exception"
-msgstr ""
-
-#. 
-#: ExceptionDialog.seeErrorLogMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:113
-#, java-format
-msgctxt "ExceptionDialog.seeErrorLogMessage"
-msgid "See error log for more details."
-msgstr ""
-
-#. 
-#: MainTypeSelectionDialog.errorTitle
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:117
-#, java-format
-msgctxt "MainTypeSelectionDialog.errorTitle"
-msgid "Error"
-msgstr ""
-
-#. 
-#: MultiMainTypeSelectionDialog.errorTitle
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:119
-#, java-format
-msgctxt "MultiMainTypeSelectionDialog.errorTitle"
-msgid "Error"
-msgstr ""
-
-#. 
-#: BuildPathDialog.title
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:123
-#, java-format
-msgctxt "BuildPathDialog.title"
-msgid "Java Build Path for {0}"
-msgstr ""
-
-#. 
-#. 
-#. #####
-#. # dnd
-#. #####
-#: LocalSelectionTransfer.errorMessage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:133
-#, java-format
-msgctxt "LocalSelectionTransfer.errorMessage"
-msgid "Received wrong transfer data."
-msgstr ""
-
-#. 
-#. 
-#. ##########
-#. # viewsupport
-#. ##########
-#: JavaImageLabelprovider.assert.wrongImage
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:143
-#, java-format
-msgctxt "JavaImageLabelprovider.assert.wrongImage"
-msgid "no image for this JavaElement Type"
-msgstr ""
-
-#. 
-#: JavaElementLabels.default_package
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:147
-#, java-format
-msgctxt "JavaElementLabels.default_package"
-msgid "(default package)"
-msgstr ""
-
-#. 
-#: JavaElementLabels.import_container
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:149
-#, java-format
-msgctxt "JavaElementLabels.import_container"
-msgid "import declarations"
-msgstr ""
-
-#. 
-#: JavaElementLabels.initializer
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:151
-#, java-format
-msgctxt "JavaElementLabels.initializer"
-msgid "{...}"
-msgstr ""
-
-#. 
-#: JavaElementLabels.concat_string
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:153
-#, java-format
-msgctxt "JavaElementLabels.concat_string"
-msgid " - "
-msgstr ""
-
-#. 
-#: JavaElementLabels.comma_string
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:155
-#, java-format
-msgctxt "JavaElementLabels.comma_string"
-msgid ", "
-msgstr ""
-
-#. 
-#: JavaElementLabels.declseparator_string
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:157
-#, java-format
-msgctxt "JavaElementLabels.declseparator_string"
-msgid " : "
-msgstr ""
-
-#. 
-#: StatusBarUpdater.num_elements_selected
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:161
-#, java-format
-msgctxt "StatusBarUpdater.num_elements_selected"
-msgid "{0} items selected"
-msgstr ""
-
-#. 
-#. 
-#. ########
-#. # util
-#. ########
-#: OpenTypeHierarchyUtil.error.open_view
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:173
-#, java-format
-msgctxt "OpenTypeHierarchyUtil.error.open_view"
-msgid "Problems opening Type Hierarchy View"
-msgstr ""
-
-#. 
-#: OpenTypeHierarchyUtil.error.open_perspective
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:175
-#, java-format
-msgctxt "OpenTypeHierarchyUtil.error.open_perspective"
-msgid "Problems opening Type Hierarchy Perspective"
-msgstr ""
-
-#. 
-#: OpenTypeHierarchyUtil.error.open_editor
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:177
-#, java-format
-msgctxt "OpenTypeHierarchyUtil.error.open_editor"
-msgid "Problems opening Java Editor"
-msgstr ""
-
-#. 
-#: OpenTypeHierarchyUtil.selectionDialog.title
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:179
-#, java-format
-msgctxt "OpenTypeHierarchyUtil.selectionDialog.title"
-msgid "Open In Type Hierarchy"
-msgstr ""
-
-#. 
-#: OpenTypeHierarchyUtil.selectionDialog.message
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:181
-#, java-format
-msgctxt "OpenTypeHierarchyUtil.selectionDialog.message"
-msgid "&Select the type to be shown in the Type Hierarchy:"
-msgstr ""
-
-#. 
-#: TypeInfoLabelProvider.default_package
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:185
-#, java-format
-msgctxt "TypeInfoLabelProvider.default_package"
-msgid "(default package)"
-msgstr ""
-
-#. 
-#: TypeInfoLabelProvider.dash
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:187
-#, java-format
-msgctxt "TypeInfoLabelProvider.dash"
-msgid " - "
-msgstr ""
-
-#. 
-#: JavaUIHelp.link.label
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:191
-#, java-format
-msgctxt "JavaUIHelp.link.label"
-msgid "Javadoc for {0}"
-msgstr ""
-
-#. 
-#. 
-#. ########
-#. DnD
-#. ########
-#: ResourceTransferDragAdapter.cannot_delete_resource
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:201
-#, java-format
-msgctxt "ResourceTransferDragAdapter.cannot_delete_resource"
-msgid "Cannot delete resources"
-msgstr ""
-
-#. 
-#: ResourceTransferDragAdapter.moving_resource
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:203
-#, java-format
-msgctxt "ResourceTransferDragAdapter.moving_resource"
-msgid "Moving Resources with Drag and Drop"
-msgstr ""
-
-#. 
-#: ResourceTransferDragAdapter.cannot_delete_files
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:205
-#, java-format
-msgctxt "ResourceTransferDragAdapter.cannot_delete_files"
-msgid "Cannot delete the following file(s)"
-msgstr ""
-
-#. 
-#. 
-#. ########
-#. misc
-#. ########
-#: JavaAnnotationHover.multipleMarkersAtThisLine
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:217
-#, java-format
-msgctxt "JavaAnnotationHover.multipleMarkersAtThisLine"
-msgid "Multiple markers at this line"
-msgstr ""
-
-#. 
-#. 
-#: HTML2TextReader.dash
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:223
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:25
-#, java-format
-msgctxt "HTML2TextReader.dash"
-msgid "- "
-msgstr ""
-
-#. 
-#: JavaEditor.codeassist.noCompletions
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:227
-#, java-format
-msgctxt "JavaEditor.codeassist.noCompletions"
-msgid "No completions available."
-msgstr ""
-
-#. 
-#: OptionalMessageDialog.dontShowAgain
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:231
-#, java-format
-msgctxt "OptionalMessageDialog.dontShowAgain"
-msgid "Don't show this message again"
-msgstr ""
-
-#. 
-#: ElementValidator.cannotPerform
-#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/util/JavaUIMessages.properties:235
-#, java-format
-msgctxt "ElementValidator.cannotPerform"
-msgid "The requested operation cannot be performed."
+#: ClassTemplateComponent_LIST_OF_TEMPLATE_GROUPS
+#: ../../../common/plugins/org.jboss.tools.common.model.ui/src/org/jboss/tools/common/model/ui/templates/preferences/messages.properties:9
+#, java-format
+msgctxt "ClassTemplateComponent_LIST_OF_TEMPLATE_GROUPS"
+msgid "List of template groups."
 msgstr ""
 
 #. 
@@ -3988,6 +3367,52 @@ msgctxt "SharableXStudioIcons_CreateIcons.Title"
 msgid "Icon Set"
 msgstr ""
 
+#. 
+#: SharablePalette_CreatePageTabHTML_0.WindowTitle
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:432
+#, java-format
+msgctxt "SharablePalette_CreatePageTabHTML_0.WindowTitle"
+msgid "Create Group"
+msgstr ""
+
+#: SharablePalette_CreatePageTabHTML_0.Title
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:433
+#, java-format
+msgctxt "SharablePalette_CreatePageTabHTML_0.Title"
+msgid "Palette Top-Level Group"
+msgstr ""
+
+#. 
+#: SharablePalette_HiddenTabs.WindowTitle
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:443
+#, java-format
+msgctxt "SharablePalette_HiddenTabs.WindowTitle"
+msgid "Show/Hide Drawers"
+msgstr ""
+
+#: SharablePalette_HiddenTabs.Title
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:444
+#, java-format
+msgctxt "SharablePalette_HiddenTabs.Title"
+msgid "Customize Palette"
+msgstr ""
+
+#. 
+#: SharableGroup_CreateGroup.WindowTitle
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:461
+#, java-format
+msgctxt "SharableGroup_CreateGroup.WindowTitle"
+msgid "Add Palette Group"
+msgstr ""
+
+#. 
+#: SharableGroup_CreateMacro.WindowTitle
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:466
+#, java-format
+msgctxt "SharableGroup_CreateMacro.WindowTitle"
+msgid "Add Palette Macro"
+msgstr ""
+
 #: ERR_GET_MESSAGE
 #: ../../../common/plugins/org.jboss.tools.common.model/src/org/jboss/tools/common/model/util/XBundle.properties:1
 #, java-format
@@ -3996,22 +3421,6 @@ msgid ""
 "Failure in building message.\n"
 "id = {0}:{1}\n"
 "Message : {2}."
-msgstr ""
-
-#. 
-#: ERR_TEMPLATE_NOT_FOUND
-#: ../../../common/plugins/org.jboss.tools.common.model/src/org/jboss/tools/common/model/util/XBundle.properties:3
-#, java-format
-msgctxt "ERR_TEMPLATE_NOT_FOUND"
-msgid "Template '{0}' has not been found in resource '{1}'."
-msgstr ""
-
-#. 
-#: ERR_RESOURCE_NOT_FOUND
-#: ../../../common/plugins/org.jboss.tools.common.model/src/org/jboss/tools/common/model/util/XBundle.properties:5
-#, java-format
-msgctxt "ERR_RESOURCE_NOT_FOUND"
-msgid "Resource '{0}{1}' has not been found."
 msgstr ""
 
 #: pluginName
@@ -4086,10 +3495,10 @@ msgstr ""
 
 #. 
 #: BrowseToFilterNameDefinition
-#: ../../../common/plugins/org.jboss.tools.common.text.ext/src/org/jboss/tools/common/text/ext/hyperlink/xpl/Messages.properties:39
+#: ../../../common/plugins/org.jboss.tools.common.text.ext/src/org/jboss/tools/common/text/ext/hyperlink/xpl/Messages.properties:33
 #, java-format
 msgctxt "BrowseToFilterNameDefinition"
-msgid "Browse to TLD Attribute Name declaration"
+msgid "Browse to ''filter-name'' definition"
 msgstr ""
 
 #. 
@@ -4106,6 +3515,14 @@ msgstr ""
 #, java-format
 msgctxt "BrowseToServletNameDefinition"
 msgid "Browse to ''servlet-name'' definition"
+msgstr ""
+
+#. 
+#: BrowseToTLDAttributeNameDeclaration
+#: ../../../common/plugins/org.jboss.tools.common.text.ext/src/org/jboss/tools/common/text/ext/hyperlink/xpl/Messages.properties:39
+#, java-format
+msgctxt "BrowseToTLDAttributeNameDeclaration"
+msgid "Browse to TLD Attribute Name declaration"
 msgstr ""
 
 #. 
@@ -4414,9 +3831,11 @@ msgctxt "Bundle-Name.0"
 msgid "Xml Editor Plug-in"
 msgstr ""
 
+#. "ContentAssistProposal." messages possibly obsolete.  See
+#. org.jboss.tools.common.model.ui.texteditors.AbstractMultiPageContributor.createAssistObjects()
 #. 
 #: ContentAssistProposal.label
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:1
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:5
 #: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/XmlEditorMessages.properties:3
 #, java-format
 msgctxt "ContentAssistProposal.label"
@@ -4426,7 +3845,7 @@ msgstr ""
 #. 
 #. 
 #: ContentAssistProposal.tooltip
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:3
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:7
 #: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/XmlEditorMessages.properties:5
 #, java-format
 msgctxt "ContentAssistProposal.tooltip"
@@ -4436,7 +3855,7 @@ msgstr ""
 #. 
 #. 
 #: ContentAssistProposal.description
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:7
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:11
 #: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/XmlEditorMessages.properties:9
 #, java-format
 msgctxt "ContentAssistProposal.description"
@@ -4445,8 +3864,12 @@ msgstr ""
 
 #. 
 #. 
+#. 
+#. "ContentAssistTip." messages used with RetargetTextEditorAction
+#. in org.jboss.tools.common.model.ui.texteditors.AbstractMultiPageContributor
+#. 
 #: ContentAssistTip.label
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:11
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:21
 #: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/XmlEditorMessages.properties:13
 #, java-format
 msgctxt "ContentAssistTip.label"
@@ -4456,7 +3879,7 @@ msgstr ""
 #. 
 #. 
 #: ContentAssistTip.tooltip
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:13
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:23
 #: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/XmlEditorMessages.properties:15
 #, java-format
 msgctxt "ContentAssistTip.tooltip"
@@ -4466,11 +3889,19 @@ msgstr ""
 #. 
 #. 
 #: ContentAssistTip.description
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:17
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:27
 #: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/XmlEditorMessages.properties:19
 #, java-format
 msgctxt "ContentAssistTip.description"
 msgid "Content Tip"
+msgstr ""
+
+#. 
+#: HTML2TextReader.dash
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/common/text/xml/ui/TextEditorMessages.properties:37
+#, java-format
+msgctxt "HTML2TextReader.dash"
+msgid "- "
 msgstr ""
 
 #. 
@@ -4888,8 +4319,11 @@ msgid "Sticky"
 msgstr ""
 
 #. 
+#. 
+#. Prefix "ToggleOccurencesMarkUpAction." used
+#. in org.jboss.tools.common.text.xml.xpl.ToggleOccurencesMarkUpAction
 #: ToggleOccurencesMarkUpAction.label
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:43
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:45
 #, java-format
 msgctxt "ToggleOccurencesMarkUpAction.label"
 msgid "Change Presentation"
@@ -4897,7 +4331,7 @@ msgstr ""
 
 #. 
 #: ToggleOccurencesMarkUpAction.tooltip
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:45
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:47
 #, java-format
 msgctxt "ToggleOccurencesMarkUpAction.tooltip"
 msgid "Enable/Disable Occurences Mark Up "
@@ -4905,7 +4339,7 @@ msgstr ""
 
 #. 
 #: ToggleOccurencesMarkUpAction.image
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:47
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:49
 #, java-format
 msgctxt "ToggleOccurencesMarkUpAction.image"
 msgid "mark_occurrences_on.gif"
@@ -4913,7 +4347,7 @@ msgstr ""
 
 #. 
 #: ToggleOccurencesMarkUpAction.disabledImage
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:49
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:51
 #, java-format
 msgctxt "ToggleOccurencesMarkUpAction.disabledImage"
 msgid "mark_occurrences_off.gif"
@@ -4921,7 +4355,7 @@ msgstr ""
 
 #. 
 #: ToggleOccurencesMarkUpAction.description
-#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:51
+#: ../../../common/plugins/org.jboss.tools.common.text.xml/src/org/jboss/tools/jst/jsp/preferences/xpl/messages.properties:53
 #, java-format
 msgctxt "ToggleOccurencesMarkUpAction.description"
 msgid "Enable/Disable Occurences Mark Up "
