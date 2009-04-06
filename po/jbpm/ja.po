@@ -1,0 +1,605 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-06 13:27+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ##############################################################################
+#. Copyright (c) 2008 JBoss, a division of Red Hat and others.
+#. All rights reserved. This program and the accompanying materials
+#. are made available under the terms of the Eclipse Public License v1.0
+#. which accompanies this distribution, and is available at
+#. http://www.eclipse.org/legal/epl-v10.html
+#.
+#. Contributors:
+#. JBoss, a division of Red Hat - Initial implementation.
+#. #############################################################################
+#. feature.properties
+#. contains externalized strings for feature.xml
+#. "%foo" in feature.xml corresponds to the key "foo" in this file
+#. java.io.Properties file (ISO 8859-1 with "\" escapes)
+#. This file should be translated.
+#.
+#. "featureName" property - name of the feature
+#: featureName
+#: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:35
+#, fuzzy, java-format
+msgctxt "featureName"
+msgid "jBPM Convert"
+msgstr "jBPM 変換"
+
+#.
+#.
+#. "providerName" property - name of the company that provides the feature
+#: providerName
+#: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:41
+#, fuzzy, java-format
+msgctxt "providerName"
+msgid "JBoss, a division of Red Hat"
+msgstr "JBoss, a division of Red Hat"
+
+#.
+#.
+#. "updateSiteName" property - label for the update site
+#: updateSiteName
+#: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:47
+#, fuzzy, java-format
+msgctxt "updateSiteName"
+msgid "JBossTools Update Site"
+msgstr "JBossTools Update Site"
+
+#.
+#.
+#. "description" property - description of the feature
+#: description
+#: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:53
+#, fuzzy, java-format
+msgctxt "description"
+msgid "Conversion of bpmn files to jBPM syntax."
+msgstr "BPMN ファイルから jBPM 記法への変換。"
+
+#.
+#.
+#. "copyright" property - text of the "Feature Update Copyright"
+#: copyright
+#: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:59
+#, fuzzy, java-format
+msgctxt "copyright"
+msgid ""
+"Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
+"All rights reserved. This program and the accompanying materials\n"
+" "
+msgstr ""
+"Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
+"All rights reserved. This program and the accompanying materials\n"
+" "
+
+#.
+#: are
+#: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:61
+#, fuzzy, java-format
+msgctxt "are"
+msgid ""
+"made available under the terms of the Eclipse Public License v1.0\n"
+"which accompanies this distribution, and is available at\n"
+"http://www.eclipse.org/legal/epl-v10.html\n"
+"\n"
+"Contributors:\n"
+"JBoss, a division of Red Hat - Initial implementation.\n"
+msgstr ""
+"made available under the terms of the Eclipse Public License v1.0which "
+"accompanies this distribution, and is available athttp//www.eclipse.org/"
+"legal/epl-v10.htmlContributorsJBoss, a division of Red Hat - Initial "
+"implementation."
+
+#.
+#. ############## end of copyright property ####################################
+#.
+#. "licenseURL" property - URL of the "Feature License"
+#. do not translate value - just change to point to a locale-specific HTML page
+#: licenseURL
+#: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:71
+#, fuzzy, java-format
+msgctxt "licenseURL"
+msgid "epl-v10.html"
+msgstr "epl-v10.html"
+
+#.
+#.
+#. "license" property - text of the "Feature Update License"
+#. should be plain text version of license agreement pointed to be "licenseURL"
+#: license
+#: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:79
+#, fuzzy, java-format
+msgctxt "license"
+msgid ""
+"ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
+"March 17, 2005\n"
+"\n"
+"Usage Of Content\n"
+"\n"
+"THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION "
+"AND/OR\n"
+"OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\").\n"
+"USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS\n"
+"AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR\n"
+"NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU\n"
+"AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT\n"
+"AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS\n"
+"OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE\n"
+"TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS\n"
+"OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED\n"
+"BELOW, THEN YOU MAY NOT USE THE CONTENT.\n"
+"\n"
+"Applicable Licenses\n"
+"\n"
+"Unless otherwise indicated, all Content made available by the Eclipse "
+"Foundation\n"
+"is provided to you under the terms and conditions of the Eclipse Public\n"
+"License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this\n"
+"Content and is also available at http://www.eclipse.org/legal/epl-v10.html.\n"
+"For purposes of the EPL, \"Program\" will mean the Content.\n"
+"\n"
+"Content includes, but is not limited to, source code, object code,\n"
+"documentation and other files maintained in the Eclipse.org CVS\n"
+"repository (\"Repository\") in CVS modules (\"Modules\") and made available\n"
+"as downloadable archives (\"Downloads\").\n"
+"\n"
+"- Content may be structured and packaged into modules to facilitate "
+"delivering,\n"
+"extending, and upgrading the Content. Typical modules may include plug-ins "
+"(\"Plug-ins\"),\n"
+"plug-in fragments (\"Fragments\"), and features (\"Features\").\n"
+"- Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java? "
+"ARchive)\n"
+"in a directory named \"plugins\".\n"
+"- A Feature is a bundle of one or more Plug-ins and/or Fragments and "
+"associated material.\n"
+"Each Feature may be packaged as a sub-directory in a directory named "
+"\"features\".\n"
+"Within a Feature, files named \"feature.xml\" may contain a list of the "
+"names and version\n"
+"numbers of the Plug-ins and/or Fragments associated with that Feature.\n"
+"- Features may also include other Features (\"Included Features\"). Within a "
+"Feature, files\n"
+"named \"feature.xml\" may contain a list of the names and version numbers of "
+"Included Features.\n"
+"\n"
+"Features may also include other Features (\"Included Features\"). Files "
+"named\n"
+"\"feature.xml\" may contain a list of the names and version numbers of\n"
+"Included Features.\n"
+"\n"
+"The terms and conditions governing Plug-ins and Fragments should be\n"
+"contained in files named \"about.html\" (\"Abouts\"). The terms and\n"
+"conditions governing Features and Included Features should be contained\n"
+"in files named \"license.html\" (\"Feature Licenses\"). Abouts and Feature\n"
+"Licenses may be located in any directory of a Download or Module\n"
+"including, but not limited to the following locations:\n"
+"\n"
+"- The top-level (root) directory\n"
+"- Plug-in and Fragment directories\n"
+"- Inside Plug-ins and Fragments packaged as JARs\n"
+"- Sub-directories of the directory named \"src\" of certain Plug-ins\n"
+"- Feature directories\n"
+"\n"
+"Note: if a Feature made available by the Eclipse Foundation is installed "
+"using the\n"
+"Eclipse Update Manager, you must agree to a license (\"Feature Update\n"
+"License\") during the installation process. If the Feature contains\n"
+"Included Features, the Feature Update License should either provide you\n"
+"with the terms and conditions governing the Included Features or inform\n"
+"you where you can locate them. Feature Update Licenses may be found in\n"
+"the \"license\" property of files named \"feature.properties\". Such "
+"Abouts,\n"
+"Feature Licenses and Feature Update Licenses contain the terms and\n"
+"conditions (or references to such terms and conditions) that govern your\n"
+"use of the associated Content in that directory.\n"
+"\n"
+"THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER\n"
+"TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS.\n"
+"SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED "
+"TO):\n"
+"\n"
+"- Common Public License Version 1.0 (available at http://www.eclipse.org/"
+"legal/cpl-v10.html)\n"
+"- Apache Software License 1.1 (available at http://www.apache.org/licenses/"
+"LICENSE)\n"
+"- Apache Software License 2.0 (available at http://www.apache.org/licenses/"
+"LICENSE-2.0)\n"
+"- IBM Public License 1.0 (available at http://oss.software.ibm.com/"
+"developerworks/opensource/license10.html)\n"
+"- Metro Link Public License 1.00 (available at http://www.opengroup.org/"
+"openmotif/supporters/metrolink/license.html)\n"
+"- Mozilla Public License Version 1.1 (available at http://www.mozilla.org/"
+"MPL/MPL-1.1.html)\n"
+"\n"
+"IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS "
+"PRIOR\n"
+"TO USE OF THE CONTENT. If no About, Feature License or Feature Update "
+"License\n"
+"is provided, please contact the Eclipse Foundation to determine what terms "
+"and conditions\n"
+"govern that particular Content.\n"
+"\n"
+"Cryptography\n"
+"\n"
+"Content may contain encryption software. The country in which you are\n"
+"currently may have restrictions on the import, possession, and use,\n"
+"and/or re-export to another country, of encryption software. BEFORE\n"
+"using any encryption software, please check the country's laws,\n"
+"regulations and policies concerning the import, possession, or use,\n"
+"and re-export of encryption software, to see if this is permitted.\n"
+"\n"
+"Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. "
+"in the United States, other countries, or both.\n"
+msgstr ""
+"ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
+"March 17, 2005\n"
+"\n"
+"Usage Of Content\n"
+"\n"
+"THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION "
+"AND/OR\n"
+"OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\").\n"
+"USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS\n"
+"AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR\n"
+"NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU\n"
+"AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT\n"
+"AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS\n"
+"OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE\n"
+"TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS\n"
+"OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED\n"
+"BELOW, THEN YOU MAY NOT USE THE CONTENT.\n"
+"\n"
+"Applicable Licenses\n"
+"\n"
+"Unless otherwise indicated, all Content made available by the Eclipse "
+"Foundation\n"
+"is provided to you under the terms and conditions of the Eclipse Public\n"
+"License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this\n"
+"Content and is also available at http://www.eclipse.org/legal/epl-v10.html.\n"
+"For purposes of the EPL, \"Program\" will mean the Content.\n"
+"\n"
+"Content includes, but is not limited to, source code, object code,\n"
+"documentation and other files maintained in the Eclipse.org CVS\n"
+"repository (\"Repository\") in CVS modules (\"Modules\") and made available\n"
+"as downloadable archives (\"Downloads\").\n"
+"\n"
+"- Content may be structured and packaged into modules to facilitate "
+"delivering,\n"
+"extending, and upgrading the Content. Typical modules may include plug-ins "
+"(\"Plug-ins\"),\n"
+"plug-in fragments (\"Fragments\"), and features (\"Features\").\n"
+"- Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java? "
+"ARchive)\n"
+"in a directory named \"plugins\".\n"
+"- A Feature is a bundle of one or more Plug-ins and/or Fragments and "
+"associated material.\n"
+"Each Feature may be packaged as a sub-directory in a directory named "
+"\"features\".\n"
+"Within a Feature, files named \"feature.xml\" may contain a list of the "
+"names and version\n"
+"numbers of the Plug-ins and/or Fragments associated with that Feature.\n"
+"- Features may also include other Features (\"Included Features\"). Within a "
+"Feature, files\n"
+"named \"feature.xml\" may contain a list of the names and version numbers of "
+"Included Features.\n"
+"\n"
+"Features may also include other Features (\"Included Features\"). Files "
+"named\n"
+"\"feature.xml\" may contain a list of the names and version numbers of\n"
+"Included Features.\n"
+"\n"
+"The terms and conditions governing Plug-ins and Fragments should be\n"
+"contained in files named \"about.html\" (\"Abouts\"). The terms and\n"
+"conditions governing Features and Included Features should be contained\n"
+"in files named \"license.html\" (\"Feature Licenses\"). Abouts and Feature\n"
+"Licenses may be located in any directory of a Download or Module\n"
+"including, but not limited to the following locations:\n"
+"\n"
+"- The top-level (root) directory\n"
+"- Plug-in and Fragment directories\n"
+"- Inside Plug-ins and Fragments packaged as JARs\n"
+"- Sub-directories of the directory named \"src\" of certain Plug-ins\n"
+"- Feature directories\n"
+"\n"
+"Note: if a Feature made available by the Eclipse Foundation is installed "
+"using the\n"
+"Eclipse Update Manager, you must agree to a license (\"Feature Update\n"
+"License\") during the installation process. If the Feature contains\n"
+"Included Features, the Feature Update License should either provide you\n"
+"with the terms and conditions governing the Included Features or inform\n"
+"you where you can locate them. Feature Update Licenses may be found in\n"
+"the \"license\" property of files named \"feature.properties\". Such "
+"Abouts,\n"
+"Feature Licenses and Feature Update Licenses contain the terms and\n"
+"conditions (or references to such terms and conditions) that govern your\n"
+"use of the associated Content in that directory.\n"
+"\n"
+"THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER\n"
+"TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS.\n"
+"SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED "
+"TO):\n"
+"\n"
+"- Common Public License Version 1.0 (available at http://www.eclipse.org/"
+"legal/cpl-v10.html)\n"
+"- Apache Software License 1.1 (available at http://www.apache.org/licenses/"
+"LICENSE)\n"
+"- Apache Software License 2.0 (available at http://www.apache.org/licenses/"
+"LICENSE-2.0)\n"
+"- IBM Public License 1.0 (available at http://oss.software.ibm.com/"
+"developerworks/opensource/license10.html)\n"
+"- Metro Link Public License 1.00 (available at http://www.opengroup.org/"
+"openmotif/supporters/metrolink/license.html)\n"
+"- Mozilla Public License Version 1.1 (available at http://www.mozilla.org/"
+"MPL/MPL-1.1.html)\n"
+"\n"
+"IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS "
+"PRIOR\n"
+"TO USE OF THE CONTENT. If no About, Feature License or Feature Update "
+"License\n"
+"is provided, please contact the Eclipse Foundation to determine what terms "
+"and conditions\n"
+"govern that particular Content.\n"
+"\n"
+"Cryptography\n"
+"\n"
+"Content may contain encryption software. The country in which you are\n"
+"currently may have restrictions on the import, possession, and use,\n"
+"and/or re-export to another country, of encryption software. BEFORE\n"
+"using any encryption software, please check the country's laws,\n"
+"regulations and policies concerning the import, possession, or use,\n"
+"and re-export of encryption software, to see if this is permitted.\n"
+"\n"
+"Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. "
+"in the United States, other countries, or both.\n"
+
+#: blurb
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/about.properties:1
+#, fuzzy, java-format
+msgctxt "blurb"
+msgid ""
+"jBPM Convert\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+msgstr ""
+"jBPM 変換\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+
+#: Label_Select_All
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:1
+#, fuzzy, java-format
+msgctxt "Label_Select_All"
+msgid "Select All"
+msgstr "すべて選択"
+
+#.
+#: Label_Deselect_All
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:3
+#, fuzzy, java-format
+msgctxt "Label_Deselect_All"
+msgid "Deselect All"
+msgstr "選択をすべて解除"
+
+#.
+#: Label_Button_Browse
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:5
+#, fuzzy, java-format
+msgctxt "Label_Button_Browse"
+msgid "Browse..."
+msgstr "参照..."
+
+#.
+#: Bpmn_Wizard_Title
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:7
+#, fuzzy, java-format
+msgctxt "Bpmn_Wizard_Title"
+msgid "BPMN to jPDL Conversion"
+msgstr "BPMN を jPDL に変換"
+
+#.
+#: Bpmn_File_Choose_WizardPage_Name
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:9
+#, fuzzy, java-format
+msgctxt "Bpmn_File_Choose_WizardPage_Name"
+msgid "FileChoosePage"
+msgstr "FileChoosePage"
+
+#.
+#: Bpmn_File_Choose_WizardPage_Title
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:11
+#, fuzzy, java-format
+msgctxt "Bpmn_File_Choose_WizardPage_Title"
+msgid "BPMN Resources"
+msgstr "BPMN リソース"
+
+#.
+#: Bpmn_File_Choose_WizardPage_ViewerTitle
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:13
+#, fuzzy, java-format
+msgctxt "Bpmn_File_Choose_WizardPage_ViewerTitle"
+msgid "BPMN resources"
+msgstr "BPMN リソース"
+
+#.
+#: Bpmn_File_Choose_WizardPage_Message
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:15
+#, fuzzy, java-format
+msgctxt "Bpmn_File_Choose_WizardPage_Message"
+msgid "Select BPMN resources to convert"
+msgstr "変換する BPMN リソースを選択してください"
+
+#.
+#: Bpmn_Pool_Choose_WizardPage_Name
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:17
+#, fuzzy, java-format
+msgctxt "Bpmn_Pool_Choose_WizardPage_Name"
+msgid "PoolPage"
+msgstr "PoolPage"
+
+#.
+#: Bpmn_Pool_Choose_WizardPage_Title
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:19
+#, fuzzy, java-format
+msgctxt "Bpmn_Pool_Choose_WizardPage_Title"
+msgid "BPMN Pools"
+msgstr "BPMN プール"
+
+#.
+#: Bpmn_Pool_Choose_WizardPage_ViewerTitle
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:21
+#, fuzzy, java-format
+msgctxt "Bpmn_Pool_Choose_WizardPage_ViewerTitle"
+msgid "BPMN pools"
+msgstr "BPMN プール"
+
+#.
+#: Bpmn_Pool_Choose_WizardPage_Message
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:23
+#, fuzzy, java-format
+msgctxt "Bpmn_Pool_Choose_WizardPage_Message"
+msgid "Select BPMN pools to translate"
+msgstr "変換するBPMN プールを選択してください"
+
+#.
+#: Bpmn_GeneratedFile_Location_WizardPage_Name
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:25
+#, fuzzy, java-format
+msgctxt "Bpmn_GeneratedFile_Location_WizardPage_Name"
+msgid "LocationPage"
+msgstr "LocationPage"
+
+#.
+#: Bpmn_GeneratedFile_Location_WizardPage_Title
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:27
+#, fuzzy, java-format
+msgctxt "Bpmn_GeneratedFile_Location_WizardPage_Title"
+msgid "Target Location"
+msgstr "ターゲット・ロケーション"
+
+#.
+#: Bpmn_GeneratedFile_Location_WizardPage_ViewerTitle
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:29
+#, fuzzy, java-format
+msgctxt "Bpmn_GeneratedFile_Location_WizardPage_ViewerTitle"
+msgid "Target location"
+msgstr "ターゲット・ロケーション"
+
+#.
+#: Bpmn_GeneratedFile_Location_WizardPage_Message
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:31
+#, fuzzy, java-format
+msgctxt "Bpmn_GeneratedFile_Location_WizardPage_Message"
+msgid "Select the target location"
+msgstr "ターゲット・ロケーションを選択してください"
+
+#.
+#: Bpmn_GeneratedFile_Location_WizardPage_CheckBox
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:33
+#, fuzzy, java-format
+msgctxt "Bpmn_GeneratedFile_Location_WizardPage_CheckBox"
+msgid "Overwrite existing resources"
+msgstr "既存のリソースを上書き"
+
+#.
+#: Bpmn_Translate_Message_WizardPage_Name
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:35
+#, fuzzy, java-format
+msgctxt "Bpmn_Translate_Message_WizardPage_Name"
+msgid "MessagePage"
+msgstr "MessagePage"
+
+#.
+#: Bpmn_Translate_Message_WizardPage_Title
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:37
+#, fuzzy, java-format
+msgctxt "Bpmn_Translate_Message_WizardPage_Title"
+msgid "Conversion Warnings and Errors"
+msgstr "警告とエラーの変換"
+
+#.
+#: Bpmn_Translate_Message_WizardpageViewer_Title
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:39
+#, fuzzy, java-format
+msgctxt "Bpmn_Translate_Message_WizardpageViewer_Title"
+msgid "Warnings and Errors"
+msgstr "警告とエラー"
+
+#.
+#: Bpmn_Translate_Message_WizardPage_Message
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:41
+#, fuzzy, java-format
+msgctxt "Bpmn_Translate_Message_WizardPage_Message"
+msgid "Warnings and Errors that occurred during conversion"
+msgstr "変換中に発生した警告とエラー"
+
+#.
+#: Translate_Error_File_CanNotRead
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:43
+#, fuzzy, java-format
+msgctxt "Translate_Error_File_CanNotRead"
+msgid "Error: Couldn't read or parse {0} file to a DOM document: "
+msgstr ""
+"エラー: {0} ファイルを DOM ドキュメントに読み込みあるいはパースできませんでし"
+"た: "
+
+#: wizard.name
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:1
+#, fuzzy, java-format
+msgctxt "wizard.name"
+msgid "BPMN to jPDL"
+msgstr "BPMN を jPDL へ"
+
+#.
+#: wizard.description
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:3
+#, fuzzy, java-format
+msgctxt "wizard.description"
+msgid "Export a BPMN file to jPDL"
+msgstr "BPMN ファイルを jPDL へエクスポート"
+
+#.
+#: category.name
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:5
+#, fuzzy, java-format
+msgctxt "category.name"
+msgid "BPMN"
+msgstr "BPMN"
+
+#.
+#: PLUGIN_NAME
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:7
+#, fuzzy, java-format
+msgctxt "PLUGIN_NAME"
+msgid "jBPM Convert"
+msgstr "jBPM 変換"
+
+#.
+#: PLUGIN_PROVIDER
+#: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:9
+#, fuzzy, java-format
+msgctxt "PLUGIN_PROVIDER"
+msgid "JBoss, a division of Red Hat"
+msgstr "JBoss, a division of Red Hat"

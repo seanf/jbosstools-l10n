@@ -1,0 +1,1173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-06 13:27+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ##############################################################################
+#. Copyright (c) 2008 JBoss, a division of Red Hat and others.
+#. All rights reserved. This program and the accompanying materials
+#. are made available under the terms of the Eclipse Public License v1.0
+#. which accompanies this distribution, and is available at
+#. http://www.eclipse.org/legal/epl-v10.html
+#.
+#. Contributors:
+#. JBoss, a division of Red Hat - Initial implementation.
+#. #############################################################################
+#. feature.properties
+#. contains externalized strings for feature.xml
+#. "%foo" in feature.xml corresponds to the key "foo" in this file
+#. java.io.Properties file (ISO 8859-1 with "\" escapes)
+#. This file should be translated.
+#.
+#. "featureName" property - name of the feature
+#: featureName
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:35
+#, fuzzy, java-format
+msgctxt "featureName"
+msgid "JBoss WebServices Tools"
+msgstr "JBoss Web サービス Tools"
+
+#.
+#.
+#. "providerName" property - name of the company that provides the feature
+#: providerName
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:41
+#, fuzzy, java-format
+msgctxt "providerName"
+msgid "JBoss, a division of Red Hat"
+msgstr "JBoss, a division of Red Hat"
+
+#.
+#.
+#. "updateSiteName" property - label for the update site
+#: updateSiteName
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:47
+#, fuzzy, java-format
+msgctxt "updateSiteName"
+msgid "JBossTools Update Site"
+msgstr "JBossTools Update Site"
+
+#.
+#: discoverySiteName
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:49
+#, fuzzy, java-format
+msgctxt "discoverySiteName"
+msgid "JBossTools Development Update Site"
+msgstr "JBossTools Development Update Site"
+
+#.
+#.
+#. "description" property - description of the feature
+#: description
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:55
+#, fuzzy, java-format
+msgctxt "description"
+msgid "JBoss WebServices Tools"
+msgstr "JBoss Web サービス Tools"
+
+#.
+#.
+#. "copyright" property - text of the "Feature Update Copyright"
+#: copyright
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:61
+#, fuzzy, java-format
+msgctxt "copyright"
+msgid ""
+"Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
+"All rights reserved. This program and the accompanying materials\n"
+" "
+msgstr ""
+"Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
+"All rights reserved. This program and the accompanying materials\n"
+" "
+
+#.
+#: are
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:63
+#, fuzzy, java-format
+msgctxt "are"
+msgid ""
+"made available under the terms of the Eclipse Public License v1.0\n"
+"which accompanies this distribution, and is available at\n"
+"http://www.eclipse.org/legal/epl-v10.html\n"
+"\n"
+"Contributors:\n"
+"JBoss, a division of Red Hat - Initial implementation.\n"
+msgstr ""
+"made available under the terms of the Eclipse Public License v1.0which "
+"accompanies this distribution, and is available athttp//www.eclipse.org/"
+"legal/epl-v10.htmlContributorsJBoss, a division of Red Hat - Initial "
+"implementation."
+
+#.
+#. ############## end of copyright property ####################################
+#.
+#. "licenseURL" property - URL of the "Feature License"
+#. do not translate value - just change to point to a locale-specific HTML page
+#: licenseURL
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:73
+#, fuzzy, java-format
+msgctxt "licenseURL"
+msgid "license.html"
+msgstr "license.html"
+
+#.
+#.
+#. "license" property - text of the "Feature Update License"
+#. should be plain text version of license agreement pointed to be "licenseURL"
+#: license
+#: ../../WORK/modules/ws/features/org.jboss.tools.ws.feature/feature.properties:81
+#, fuzzy, java-format
+msgctxt "license"
+msgid ""
+"ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
+"March 17, 2005\n"
+"\n"
+"Usage Of Content\n"
+"\n"
+"THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION "
+"AND/OR\n"
+"OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\").\n"
+"USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS\n"
+"AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR\n"
+"NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU\n"
+"AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT\n"
+"AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS\n"
+"OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE\n"
+"TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS\n"
+"OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED\n"
+"BELOW, THEN YOU MAY NOT USE THE CONTENT.\n"
+"\n"
+"Applicable Licenses\n"
+"\n"
+"Unless otherwise indicated, all Content made available by the Eclipse "
+"Foundation\n"
+"is provided to you under the terms and conditions of the Eclipse Public\n"
+"License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this\n"
+"Content and is also available at http://www.eclipse.org/legal/epl-v10.html.\n"
+"For purposes of the EPL, \"Program\" will mean the Content.\n"
+"\n"
+"Content includes, but is not limited to, source code, object code,\n"
+"documentation and other files maintained in the Eclipse.org CVS\n"
+"repository (\"Repository\") in CVS modules (\"Modules\") and made available\n"
+"as downloadable archives (\"Downloads\").\n"
+"\n"
+"- Content may be structured and packaged into modules to facilitate "
+"delivering,\n"
+"extending, and upgrading the Content. Typical modules may include plug-ins "
+"(\"Plug-ins\"),\n"
+"plug-in fragments (\"Fragments\"), and features (\"Features\").\n"
+"- Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java? "
+"ARchive)\n"
+"in a directory named \"plugins\".\n"
+"- A Feature is a bundle of one or more Plug-ins and/or Fragments and "
+"associated material.\n"
+"Each Feature may be packaged as a sub-directory in a directory named "
+"\"features\".\n"
+"Within a Feature, files named \"feature.xml\" may contain a list of the "
+"names and version\n"
+"numbers of the Plug-ins and/or Fragments associated with that Feature.\n"
+"- Features may also include other Features (\"Included Features\"). Within a "
+"Feature, files\n"
+"named \"feature.xml\" may contain a list of the names and version numbers of "
+"Included Features.\n"
+"\n"
+"Features may also include other Features (\"Included Features\"). Files "
+"named\n"
+"\"feature.xml\" may contain a list of the names and version numbers of\n"
+"Included Features.\n"
+"\n"
+"The terms and conditions governing Plug-ins and Fragments should be\n"
+"contained in files named \"about.html\" (\"Abouts\"). The terms and\n"
+"conditions governing Features and Included Features should be contained\n"
+"in files named \"license.html\" (\"Feature Licenses\"). Abouts and Feature\n"
+"Licenses may be located in any directory of a Download or Module\n"
+"including, but not limited to the following locations:\n"
+"\n"
+"- The top-level (root) directory\n"
+"- Plug-in and Fragment directories\n"
+"- Inside Plug-ins and Fragments packaged as JARs\n"
+"- Sub-directories of the directory named \"src\" of certain Plug-ins\n"
+"- Feature directories\n"
+"\n"
+"Note: if a Feature made available by the Eclipse Foundation is installed "
+"using the\n"
+"Eclipse Update Manager, you must agree to a license (\"Feature Update\n"
+"License\") during the installation process. If the Feature contains\n"
+"Included Features, the Feature Update License should either provide you\n"
+"with the terms and conditions governing the Included Features or inform\n"
+"you where you can locate them. Feature Update Licenses may be found in\n"
+"the \"license\" property of files named \"feature.properties\". Such "
+"Abouts,\n"
+"Feature Licenses and Feature Update Licenses contain the terms and\n"
+"conditions (or references to such terms and conditions) that govern your\n"
+"use of the associated Content in that directory.\n"
+"\n"
+"THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER\n"
+"TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS.\n"
+"SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED "
+"TO):\n"
+"\n"
+"- Common Public License Version 1.0 (available at http://www.eclipse.org/"
+"legal/cpl-v10.html)\n"
+"- Apache Software License 1.1 (available at http://www.apache.org/licenses/"
+"LICENSE)\n"
+"- Apache Software License 2.0 (available at http://www.apache.org/licenses/"
+"LICENSE-2.0)\n"
+"- IBM Public License 1.0 (available at http://oss.software.ibm.com/"
+"developerworks/opensource/license10.html)\n"
+"- Metro Link Public License 1.00 (available at http://www.opengroup.org/"
+"openmotif/supporters/metrolink/license.html)\n"
+"- Mozilla Public License Version 1.1 (available at http://www.mozilla.org/"
+"MPL/MPL-1.1.html)\n"
+"\n"
+"IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS "
+"PRIOR\n"
+"TO USE OF THE CONTENT. If no About, Feature License or Feature Update "
+"License\n"
+"is provided, please contact the Eclipse Foundation to determine what terms "
+"and conditions\n"
+"govern that particular Content.\n"
+"\n"
+"Cryptography\n"
+"\n"
+"Content may contain encryption software. The country in which you are\n"
+"currently may have restrictions on the import, possession, and use,\n"
+"and/or re-export to another country, of encryption software. BEFORE\n"
+"using any encryption software, please check the country's laws,\n"
+"regulations and policies concerning the import, possession, or use,\n"
+"and re-export of encryption software, to see if this is permitted.\n"
+"\n"
+"Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. "
+"in the United States, other countries, or both.\n"
+msgstr ""
+"ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
+"March 17, 2005\n"
+"\n"
+"Usage Of Content\n"
+"\n"
+"THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION "
+"AND/OR\n"
+"OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\").\n"
+"USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS\n"
+"AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR\n"
+"NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU\n"
+"AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT\n"
+"AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS\n"
+"OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE\n"
+"TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS\n"
+"OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED\n"
+"BELOW, THEN YOU MAY NOT USE THE CONTENT.\n"
+"\n"
+"Applicable Licenses\n"
+"\n"
+"Unless otherwise indicated, all Content made available by the Eclipse "
+"Foundation\n"
+"is provided to you under the terms and conditions of the Eclipse Public\n"
+"License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this\n"
+"Content and is also available at http://www.eclipse.org/legal/epl-v10.html.\n"
+"For purposes of the EPL, \"Program\" will mean the Content.\n"
+"\n"
+"Content includes, but is not limited to, source code, object code,\n"
+"documentation and other files maintained in the Eclipse.org CVS\n"
+"repository (\"Repository\") in CVS modules (\"Modules\") and made available\n"
+"as downloadable archives (\"Downloads\").\n"
+"\n"
+"- Content may be structured and packaged into modules to facilitate "
+"delivering,\n"
+"extending, and upgrading the Content. Typical modules may include plug-ins "
+"(\"Plug-ins\"),\n"
+"plug-in fragments (\"Fragments\"), and features (\"Features\").\n"
+"- Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java? "
+"ARchive)\n"
+"in a directory named \"plugins\".\n"
+"- A Feature is a bundle of one or more Plug-ins and/or Fragments and "
+"associated material.\n"
+"Each Feature may be packaged as a sub-directory in a directory named "
+"\"features\".\n"
+"Within a Feature, files named \"feature.xml\" may contain a list of the "
+"names and version\n"
+"numbers of the Plug-ins and/or Fragments associated with that Feature.\n"
+"- Features may also include other Features (\"Included Features\"). Within a "
+"Feature, files\n"
+"named \"feature.xml\" may contain a list of the names and version numbers of "
+"Included Features.\n"
+"\n"
+"Features may also include other Features (\"Included Features\"). Files "
+"named\n"
+"\"feature.xml\" may contain a list of the names and version numbers of\n"
+"Included Features.\n"
+"\n"
+"The terms and conditions governing Plug-ins and Fragments should be\n"
+"contained in files named \"about.html\" (\"Abouts\"). The terms and\n"
+"conditions governing Features and Included Features should be contained\n"
+"in files named \"license.html\" (\"Feature Licenses\"). Abouts and Feature\n"
+"Licenses may be located in any directory of a Download or Module\n"
+"including, but not limited to the following locations:\n"
+"\n"
+"- The top-level (root) directory\n"
+"- Plug-in and Fragment directories\n"
+"- Inside Plug-ins and Fragments packaged as JARs\n"
+"- Sub-directories of the directory named \"src\" of certain Plug-ins\n"
+"- Feature directories\n"
+"\n"
+"Note: if a Feature made available by the Eclipse Foundation is installed "
+"using the\n"
+"Eclipse Update Manager, you must agree to a license (\"Feature Update\n"
+"License\") during the installation process. If the Feature contains\n"
+"Included Features, the Feature Update License should either provide you\n"
+"with the terms and conditions governing the Included Features or inform\n"
+"you where you can locate them. Feature Update Licenses may be found in\n"
+"the \"license\" property of files named \"feature.properties\". Such "
+"Abouts,\n"
+"Feature Licenses and Feature Update Licenses contain the terms and\n"
+"conditions (or references to such terms and conditions) that govern your\n"
+"use of the associated Content in that directory.\n"
+"\n"
+"THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER\n"
+"TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS.\n"
+"SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED "
+"TO):\n"
+"\n"
+"- Common Public License Version 1.0 (available at http://www.eclipse.org/"
+"legal/cpl-v10.html)\n"
+"- Apache Software License 1.1 (available at http://www.apache.org/licenses/"
+"LICENSE)\n"
+"- Apache Software License 2.0 (available at http://www.apache.org/licenses/"
+"LICENSE-2.0)\n"
+"- IBM Public License 1.0 (available at http://oss.software.ibm.com/"
+"developerworks/opensource/license10.html)\n"
+"- Metro Link Public License 1.00 (available at http://www.opengroup.org/"
+"openmotif/supporters/metrolink/license.html)\n"
+"- Mozilla Public License Version 1.1 (available at http://www.mozilla.org/"
+"MPL/MPL-1.1.html)\n"
+"\n"
+"IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS "
+"PRIOR\n"
+"TO USE OF THE CONTENT. If no About, Feature License or Feature Update "
+"License\n"
+"is provided, please contact the Eclipse Foundation to determine what terms "
+"and conditions\n"
+"govern that particular Content.\n"
+"\n"
+"Cryptography\n"
+"\n"
+"Content may contain encryption software. The country in which you are\n"
+"currently may have restrictions on the import, possession, and use,\n"
+"and/or re-export to another country, of encryption software. BEFORE\n"
+"using any encryption software, please check the country's laws,\n"
+"regulations and policies concerning the import, possession, or use,\n"
+"and re-export of encryption software, to see if this is permitted.\n"
+"\n"
+"Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. "
+"in the United States, other countries, or both.\n"
+
+#: Progress_Install_JBossWS_Runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:1
+#, fuzzy, java-format
+msgctxt "Progress_Install_JBossWS_Runtime"
+msgid "JBoss Web Service Runtime"
+msgstr "JBoss Web サービス・ランタイム"
+
+#: Progress_UnInstall_JBossWS_Runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:2
+#, fuzzy, java-format
+msgctxt "Progress_UnInstall_JBossWS_Runtime"
+msgid "Uninstall JBoss Web Service Runtime"
+msgstr "JBoss Web サービス・ランタイムのアンインストール"
+
+#: Dir_Lib
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:3
+#, fuzzy, java-format
+msgctxt "Dir_Lib"
+msgid "lib"
+msgstr "lib"
+
+#: Dir_Client
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:4
+#, fuzzy, java-format
+msgctxt "Dir_Client"
+msgid "client"
+msgstr "client"
+
+#: Dir_Web_Inf
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:5
+#, fuzzy, java-format
+msgctxt "Dir_Web_Inf"
+msgid "WEB-INF"
+msgstr "WEB-INF"
+
+#: Dir_Web_Content
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:6
+#, fuzzy, java-format
+msgctxt "Dir_Web_Content"
+msgid "WebContent"
+msgstr "WebContent"
+
+#: Error_Copy
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:7
+#, fuzzy, java-format
+msgctxt "Error_Copy"
+msgid "Exception while copy JBossWS jars"
+msgstr "JBoss WS JAR のコピーで例外"
+
+#: WS_Location
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:8
+#, fuzzy, java-format
+msgctxt "WS_Location"
+msgid "jbosswsruntimelocation"
+msgstr "jbosswsruntimelocation"
+
+#: JBossWS_Runtime_Lib
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:9
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_Lib"
+msgid "JBossWS_Runtime"
+msgstr "JBossWS_Runtime"
+
+#: JBossWS_Runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:10
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime"
+msgid "JBoss WS Runtime"
+msgstr "JBoss WS ランタイム"
+
+#: JBossAS
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:11
+#, fuzzy, java-format
+msgctxt "JBossAS"
+msgid "JBOSS"
+msgstr "JBOSS"
+
+#: Error_WS_Location
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:12
+#, fuzzy, java-format
+msgctxt "Error_WS_Location"
+msgid "The JBoss WS Runtime Location is NULL"
+msgstr "JBoss WS ランタイム・ロケーションが空です"
+
+#: Error_WS_Classpath
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:13
+#, fuzzy, java-format
+msgctxt "Error_WS_Classpath"
+msgid "A error comes up when create JBoss WS Classpath"
+msgstr "JBoss WS クラスパスの作成でエラーが発生しました"
+
+#: Error_Add_Facet_JBossWS
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:14
+#, fuzzy, java-format
+msgctxt "Error_Add_Facet_JBossWS"
+msgid "Exception while install JBossWS facet"
+msgstr "JBoss WS ファセットのインストールでエラーが発生しました"
+
+#: Error_Remove_Facet_JBossWS
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/org/jboss/tools/ws/core/messages/JBossWSCore.properties:15
+#, fuzzy, java-format
+msgctxt "Error_Remove_Facet_JBossWS"
+msgid "Exception while uninstall JBossWS facet"
+msgstr "JBoss WS ファセットのアンインストールでエラーが発生しました"
+
+#: PLUGIN_NAME
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/plugin.properties:1
+#, fuzzy, java-format
+msgctxt "PLUGIN_NAME"
+msgid "JBossWS Core"
+msgstr "JBossWS コア"
+
+#: PLUGIN_PROVIDER
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/plugin.properties:2
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.ui/plugin.properties:3
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/plugin.properties:3
+#, fuzzy, java-format
+msgctxt "PLUGIN_PROVIDER"
+msgid "JBoss, a division of Red Hat"
+msgstr "JBoss, a division of Red Hat"
+
+#.
+#: JBOSSWS_CATOGERY_LABEL
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/plugin.properties:4
+#, fuzzy, java-format
+msgctxt "JBOSSWS_CATOGERY_LABEL"
+msgid "JBoss Web Services"
+msgstr "JBoss Web サービス"
+
+#: JBOSSWS_CATOGERY_DISCRIPTION
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/plugin.properties:5
+#, fuzzy, java-format
+msgctxt "JBOSSWS_CATOGERY_DISCRIPTION"
+msgid "Enables Web services generation through the JBoss Web services engine."
+msgstr "JBoss Web サービス・エンジンによる Web サービス生成を有効化。"
+
+#.
+#: JBOSSWS_FACET_CORE_LABEL
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/plugin.properties:7
+#, fuzzy, java-format
+msgctxt "JBOSSWS_FACET_CORE_LABEL"
+msgid "JBoss Web Services Core"
+msgstr "JBoss Web サービス・コア"
+
+#: JBOSSWS_FACET_CORE_DISCRIPTION
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/plugin.properties:8
+#, fuzzy, java-format
+msgctxt "JBOSSWS_FACET_CORE_DISCRIPTION"
+msgid ""
+"Prepares the project for Web services generation through the JBoss Web "
+"services engine."
+msgstr ""
+"JBoss Web サービス・エンジンによる Web サービス生成プロジェクトを準備。"
+
+#.
+#: JBOSSWS_FACET_EXT_LABEL
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/plugin.properties:11
+#, fuzzy, java-format
+msgctxt "JBOSSWS_FACET_EXT_LABEL"
+msgid "JBoss Web Services Extensions"
+msgstr "JBoss Web サービス拡張"
+
+#: JBOSSWS_FACET_EXT_DISCRIPTION
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.core/plugin.properties:12
+#, fuzzy, java-format
+msgctxt "JBOSSWS_FACET_EXT_DISCRIPTION"
+msgid ""
+"Prepares the project for additional Web services support with the JBoss Web "
+"services runtime."
+msgstr ""
+"JBoss Web サービス・ランタイムによる Web サービス・サポート追加プロジェクトを"
+"準備。"
+
+#: Label_Custom_Package_Name
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:1
+#, fuzzy, java-format
+msgctxt "Label_Custom_Package_Name"
+msgid "Package name"
+msgstr "パッケージ名"
+
+#: Label_Catalog_File
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:2
+#, fuzzy, java-format
+msgctxt "Label_Catalog_File"
+msgid "Catalog file"
+msgstr "カタログ・ファイル"
+
+#: Label_Button_Text_Seletion
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:3
+#, fuzzy, java-format
+msgctxt "Label_Button_Text_Seletion"
+msgid "&Add  "
+msgstr "追加(&A)  "
+
+#: Label_Generate_Impelemtation
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:4
+#, fuzzy, java-format
+msgctxt "Label_Generate_Impelemtation"
+msgid "Generate default Web Service Implementation classes"
+msgstr "デフォルト Web サービス実装クラスの生成"
+
+#: Label_Generate_WSDL
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:5
+#, fuzzy, java-format
+msgctxt "Label_Generate_WSDL"
+msgid "Generate WSDL file"
+msgstr "WSDL ファイルの生成"
+
+#: Label_Binding_File
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:6
+#, fuzzy, java-format
+msgctxt "Label_Binding_File"
+msgid "Binding files"
+msgstr "ファイルのバインディング"
+
+#: Label_JaxWS_Target
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:7
+#, fuzzy, java-format
+msgctxt "Label_JaxWS_Target"
+msgid "JAX-WS specification"
+msgstr "JAX-WS 仕様"
+
+#: Label_Update_Webxml
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:8
+#, fuzzy, java-format
+msgctxt "Label_Update_Webxml"
+msgid "Update the default Web.xml"
+msgstr "デフォルト web.xml の更新"
+
+#: Value_Target_0
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:9
+#, fuzzy, java-format
+msgctxt "Value_Target_0"
+msgid "2.0"
+msgstr "2.0"
+
+#: Value_Target_1
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:10
+#, fuzzy, java-format
+msgctxt "Value_Target_1"
+msgid "2.1"
+msgstr "2.1"
+
+#: Label_Button_Text_Remove
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:11
+#, fuzzy, java-format
+msgctxt "Label_Button_Text_Remove"
+msgid "Remove"
+msgstr "除去"
+
+#.
+#: Error_Message_Invalid_Binding_File
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:13
+#, fuzzy, java-format
+msgctxt "Error_Message_Invalid_Binding_File"
+msgid "{0} is not a valid JAX-WS or JAXB binding file"
+msgstr "{0} は JAX-WS や JAXB の有効なバインディング・ファイルではありません"
+
+#: Error_Read_Binding_File
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:14
+#, fuzzy, java-format
+msgctxt "Error_Read_Binding_File"
+msgid "Exception occurred while reading binding file"
+msgstr "バインディング・ファイルの読み込み中に例外が発生"
+
+#: Error_Message_Failed_To_Generate_Code
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:15
+#, fuzzy, java-format
+msgctxt "Error_Message_Failed_To_Generate_Code"
+msgid ""
+"Failed to Generate Web Service code, please check the log for more details"
+msgstr ""
+"Web サービス・コードの生成に失敗しました、詳細をログから確認してください"
+
+#: Error_Message_Failed_to_Generate_Implementation
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:16
+#, fuzzy, java-format
+msgctxt "Error_Message_Failed_to_Generate_Implementation"
+msgid "Failed to generate implementation class"
+msgstr "実装クラス生成に失敗しました"
+
+#: Error_Message_Command_File_Not_Found
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:17
+#, fuzzy, java-format
+msgctxt "Error_Message_Command_File_Not_Found"
+msgid ""
+"The command file: \"{0}\"  does not exist, please check the JBoss Web "
+"Service runtime setting to make sure the location of JBoss Web Service "
+"runtime is valid."
+msgstr ""
+"コマンド・ファイル: \"{0}\" は存在しません、JBoss Web サービス・ランタイム設"
+"定を確認してJBoss Web サービス・ランタイムが有効か確認してください。"
+
+#: Error_Message_Execute_Command
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:18
+#, fuzzy, java-format
+msgctxt "Error_Message_Execute_Command"
+msgid "Exception occurred while execute JBossWS tool command"
+msgstr "JBoss WS Tools のコマンドの実行中にエラーが発生"
+
+#: Error_Message_No_Runtime_Specified
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:19
+#, fuzzy, java-format
+msgctxt "Error_Message_No_Runtime_Specified"
+msgid "No JBoss Web Service runtime has been specified."
+msgstr "JBoss Web サービス・ランタイムが指定されていません。"
+
+#: Separator_Java
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:20
+#, fuzzy, java-format
+msgctxt "Separator_Java"
+msgid "/"
+msgstr "/"
+
+#.
+#: Error_Implemetation_Code_Generation
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:22
+#, fuzzy, java-format
+msgctxt "Error_Implemetation_Code_Generation"
+msgid "Exception occurred while generating implementation class"
+msgstr "実装クラスの生成中に例外が発生"
+
+#: Error_No_Annotation
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:23
+#, fuzzy, java-format
+msgctxt "Error_No_Annotation"
+msgid "This class has no required JAXWS Annotation!"
+msgstr "このクラスには必要なJAX-WS アノテーションがありません!"
+
+#: WebserviceClient_Annotation
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:24
+#, fuzzy, java-format
+msgctxt "WebserviceClient_Annotation"
+msgid "@WebServiceClient"
+msgstr "@WebServiceClient"
+
+#: Webservice_Annotation
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:25
+#, fuzzy, java-format
+msgctxt "Webservice_Annotation"
+msgid "@WebService"
+msgstr "@WebService"
+
+#: Webservice_Annotation_Prefix
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:26
+#, fuzzy, java-format
+msgctxt "Webservice_Annotation_Prefix"
+msgid "@javax.jws.WebService"
+msgstr "@javax.jws.WebService"
+
+#: Error_No_Class
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:27
+#, fuzzy, java-format
+msgctxt "Error_No_Class"
+msgid ""
+"The class {0} cannot be loaded via project {1}.Check that the project "
+"contains the class, or that the class is loadable according to the Java "
+"Build Path of the project."
+msgstr ""
+"プロジェクト {1} にクラス {0} がロードできません。プロジェクトがそのクラスを"
+"含むか、あるいはプロジェクトの Java ビルド・パスによりそのクラスがロードされ"
+"るか確認してください。"
+
+#: Error_WS_Location
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:28
+#, fuzzy, java-format
+msgctxt "Error_WS_Location"
+msgid ""
+"The JBoss WS Runtime Location is NULL. Please set the location on JBoss WS "
+"preferences page."
+msgstr ""
+"JBoss WS ランタイム・ロケーションが空です。JBoss WS 設定ページでロケーション"
+"を設定してください。"
+
+#: Webservice_Annotation_Check
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:29
+#, fuzzy, java-format
+msgctxt "Webservice_Annotation_Check"
+msgid "@WebService("
+msgstr "@WebService("
+
+#: Client_Sample_Package_Name
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:30
+#, fuzzy, java-format
+msgctxt "Client_Sample_Package_Name"
+msgid ".clientsample"
+msgstr ".clientsample"
+
+#: Client_Sample_Class_Name
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:31
+#, fuzzy, java-format
+msgctxt "Client_Sample_Class_Name"
+msgid "ClientSample"
+msgstr "ClientSample"
+
+#: Error_Create_Client_Sample
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:32
+#, fuzzy, java-format
+msgctxt "Error_Create_Client_Sample"
+msgid ""
+"When create a client sample, a error comes up. Please check the generated "
+"files."
+msgstr ""
+"クライアント・サンプルを生成時にエラーが発生しました。生成されたファイルを確"
+"認してください。"
+
+#: WebEndpoint
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:33
+#, fuzzy, java-format
+msgctxt "WebEndpoint"
+msgid "WebEndpoint"
+msgstr "WebEndpoint"
+
+#.
+#: Error_WS_Chose_runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:35
+#, fuzzy, java-format
+msgctxt "Error_WS_Chose_runtime"
+msgid ""
+"Select an JBoss Web Service runtime.   If a server supplied JBoss Web "
+"Service runtime is chosen ,\r\n"
+" the chosen server adapter must be capable of providing the JBoss Web "
+"Service runtime"
+msgstr ""
+"JBoss WS ランタイムの選択。JBoss WS ランタイムを提供するサーバーを選択した場"
+"合、\r\n"
+"選択されたサーバー・アダプターはJBoss WS ランタイムを提供できる必要があります"
+
+#: Error_WS_No_Runtime_Specifed
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:36
+#, fuzzy, java-format
+msgctxt "Error_WS_No_Runtime_Specifed"
+msgid "A JBossWS runtime has not been chosen"
+msgstr "JBoss WS ランタイムが選択されたいません"
+
+#: JBossWSFacetInstallPage_Title
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:37
+#, fuzzy, java-format
+msgctxt "JBossWSFacetInstallPage_Title"
+msgid "JBossWS Facet"
+msgstr "JBoss WS ファセット"
+
+#: JBossWSFacetInstallPage_Description
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:38
+#, fuzzy, java-format
+msgctxt "JBossWSFacetInstallPage_Description"
+msgid "Select JBossWS Web Service runtime"
+msgstr "JBoss WS ランタイムの選択"
+
+#: JBossWSFacetInstallPage_ServerSuppliedJBossWS
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:39
+#, fuzzy, java-format
+msgctxt "JBossWSFacetInstallPage_ServerSuppliedJBossWS"
+msgid "Server Supplied JBossWS Runtime"
+msgstr "サーバー提供の JBoss WS ランタイム"
+
+#: JBossWSFacetInstallPage_Deploy
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:40
+#, fuzzy, java-format
+msgctxt "JBossWSFacetInstallPage_Deploy"
+msgid "Package all JBossWS runtime jars into the deployment archive"
+msgstr "デプロイ・アーカイブにすべての JBoss WS ランタイムをパッケージ"
+
+#: JBossWSFacetInstallPage_New
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:41
+#, fuzzy, java-format
+msgctxt "JBossWSFacetInstallPage_New"
+msgid "New..."
+msgstr "新規..."
+
+#: Client_Sample_Run_Over
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/org/jboss/tools/ws/creation/core/messages/JBossWSCreationCore.properties:42
+#, fuzzy, java-format
+msgctxt "Client_Sample_Run_Over"
+msgid "Call Over!"
+msgstr "呼び出し!"
+
+#. Properties file for org.jboss.tools.ws.creation.core
+#: Bundle-Vendor.0
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/plugin.properties:2
+#, fuzzy, java-format
+msgctxt "Bundle-Vendor.0"
+msgid "JBoss, a division of Red Hat"
+msgstr "JBoss, a division of Red Hat"
+
+#: Bundle-Name.0
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.core/plugin.properties:3
+#, fuzzy, java-format
+msgctxt "Bundle-Name.0"
+msgid "JBossWS Creation Core"
+msgstr "JBossWS 生成コア"
+
+#.
+#: PLUGIN_NAME
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.ui/plugin.properties:2
+#, fuzzy, java-format
+msgctxt "PLUGIN_NAME"
+msgid "JBossWS Creation UI"
+msgstr "JBossWS 生成 UI"
+
+#.
+#: LABEL_RUNTIME_JBossWS1
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.creation.ui/plugin.properties:5
+#, fuzzy, java-format
+msgctxt "LABEL_RUNTIME_JBossWS1"
+msgid "JBossWS"
+msgstr "JBossWS"
+
+#: blurb
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/about.properties:1
+#, fuzzy, java-format
+msgctxt "blurb"
+msgid ""
+"JBoss WebServices Tools\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+msgstr ""
+"JBoss Web サービス Tools\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+
+#: Label_JBossWS_Runtime_Load_Error
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:1
+#, fuzzy, java-format
+msgctxt "Label_JBossWS_Runtime_Load_Error"
+msgid ""
+"Error occurred while loading JBossWS Command. Select the correct JBoss "
+"Server folder."
+msgstr ""
+"JBoss WS コマンドのロード時にエラーが発生しました。正しい JBoss サーバー・"
+"フォルダーを選択してください。"
+
+#.
+#: Command
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:3
+#, fuzzy, java-format
+msgctxt "Command"
+msgid "wsconsume.sh"
+msgstr "wsconsume.sh"
+
+#: Bin
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:4
+#, fuzzy, java-format
+msgctxt "Bin"
+msgid "bin"
+msgstr "bin"
+
+#: Client
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:5
+#, fuzzy, java-format
+msgctxt "Client"
+msgid "client"
+msgstr "client"
+
+#: Lib
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:6
+#, fuzzy, java-format
+msgctxt "Lib"
+msgid "lib"
+msgstr "lib"
+
+#: Endorsed
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:7
+#, fuzzy, java-format
+msgctxt "Endorsed"
+msgid "endorsed"
+msgstr "endorsed"
+
+#.
+#: Error_JBossWS_Basic_Editor_Composite
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:9
+#, fuzzy, java-format
+msgctxt "Error_JBossWS_Basic_Editor_Composite"
+msgid "Parent control should be Composite"
+msgstr "親コントロールはコンポジットでなければなりません"
+
+#: Error_JBossWS_Basic_Editor_Support
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:10
+#, fuzzy, java-format
+msgctxt "Error_JBossWS_Basic_Editor_Support"
+msgid "Editor supports only grid layout"
+msgstr "エディターはグッリド・レイアウトのみをサポートします"
+
+#: Error_JBossWS_Basic_Editor_Different
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:11
+#, fuzzy, java-format
+msgctxt "Error_JBossWS_Basic_Editor_Different"
+msgid "Parent for label is different"
+msgstr "ラベルの親が異なります"
+
+#: JBossWS_Runtime_List_Field_Editor_Name
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:12
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Name"
+msgid "Name"
+msgstr "名前"
+
+#: JBossWS_Runtime_List_Field_Editor_Version
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:13
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Version"
+msgid "Version"
+msgstr "バージョン"
+
+#: JBossWS_Runtime_List_Field_Editor_Path
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:14
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Path"
+msgid "Path"
+msgstr "パス"
+
+#: JBossWS_Runtime_List_Field_Editor_Inputelement_Must_Be
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:15
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Inputelement_Must_Be"
+msgid "inputElement must be"
+msgstr "inputElement は"
+
+#: JBossWS_Runtime_List_Field_Editor_An_Instance_Of_List
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:16
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_An_Instance_Of_List"
+msgid "an instance of List<JBossWSRuntime>."
+msgstr "<JBoss WS ランタイム> リストのインスタンスである必要があります。"
+
+#: JBossWS_Runtime_Delete_Confirm_Title
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:17
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_Delete_Confirm_Title"
+msgid "Confirm Runtime Delete"
+msgstr "ランタイム削除の確認"
+
+#: JBossWS_Runtime_Delete_Used_Confirm
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:18
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_Delete_Used_Confirm"
+msgid ""
+"Runtime ''{0}'' is used by JBossWS projects. Are you sure you want to delete "
+"it?"
+msgstr ""
+"ランタイム ''{0}'' は JBoss WS プロジェクトに使用されています。削除しますか?"
+
+#: JBossWS_Runtime_Delete_Not_Used_Confirm
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:19
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_Delete_Not_Used_Confirm"
+msgid "Are you sure you want to delete runtime ''{0}''?"
+msgstr "ランタイム ''{0}'' を削除しますか?"
+
+#: JBossWS_Runtime_List_Field_Editor_Edit_Runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:20
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Edit_Runtime"
+msgid "Edit JBossWS Runtime"
+msgstr "JBoss WS ランタイムの編集"
+
+#: JBossWS_Runtime_List_Field_Editor_Modify_Runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:21
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Modify_Runtime"
+msgid "Input new values"
+msgstr "新しい値を入力します"
+
+#: JBossWS_Runtime_List_Field_Editor_New_Runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:22
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_New_Runtime"
+msgid "New JBossWS Runtime"
+msgstr "新規 JBoss WS ランタイム"
+
+#: Error_JBossWS_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:23
+#, fuzzy, java-format
+msgctxt "Error_JBossWS_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty"
+msgid "Path to JBossWS home directory cannot be empty"
+msgstr "JBoss WS ホーム・ディレクトリーへのパスは空欄にできません"
+
+#: JBossWS_Runtime_List_Field_Editor_Already_Exists
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:24
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Already_Exists"
+msgid "' already exists"
+msgstr "' は既に存在します"
+
+#: JBossWS_Runtime_List_Field_Editor_Runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:25
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Runtime"
+msgid "JBossWS Runtime "
+msgstr "JBoss WS ランタイム "
+
+#: Error_JBossWS_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:26
+#, fuzzy, java-format
+msgctxt "Error_JBossWS_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct"
+msgid "Runtime name is not correct"
+msgstr "ランタイム名が不正です"
+
+#: Error_JBossWS_Runtime_List_Field_Editor_Name_Cannot_Be_Empty
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:27
+#, fuzzy, java-format
+msgctxt "Error_JBossWS_Runtime_List_Field_Editor_Name_Cannot_Be_Empty"
+msgid "Name cannot be empty"
+msgstr "名前は空欄にできません"
+
+#: JBossWS_Runtime_List_Field_Editor_Create_A_Runtime
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:28
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Create_A_Runtime"
+msgid "Create a JBossWS Runtime"
+msgstr "JBoss WS ランタイムを作成します"
+
+#: JBossWS_Runtime_List_Field_Editor_Home_Folder
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:29
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Home_Folder"
+msgid "Home Folder:"
+msgstr "ホーム・フォルダー:"
+
+#: JBossWS_Composite_Editor_This_Method_Can_Be_Invoked
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:30
+#, fuzzy, java-format
+msgctxt "JBossWS_Composite_Editor_This_Method_Can_Be_Invoked"
+msgid "This metod can be invoked after getEditorControls(parent) only"
+msgstr "このメソッドは getEditorControls(parent) の後のみで実行可能です"
+
+#: JBossWS_Button_Field_Editor_Browse
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:31
+#, fuzzy, java-format
+msgctxt "JBossWS_Button_Field_Editor_Browse"
+msgid "Browse..."
+msgstr "参照..."
+
+#: Error_JBossWS_Button_Field_Editor_Not_Implemented_Yet
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:32
+#, fuzzy, java-format
+msgctxt "Error_JBossWS_Button_Field_Editor_Not_Implemented_Yet"
+msgid "Not implemented yet. Please setup real acion for editor."
+msgstr "まだ実装されていません。エディターで実アクションを設定してください。"
+
+#: JBossWS_SWT_Field_Editor_Factory_Browse
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:33
+#, fuzzy, java-format
+msgctxt "JBossWS_SWT_Field_Editor_Factory_Browse"
+msgid "Browse..."
+msgstr "参照..."
+
+#: JBossWS_SWT_Field_Editor_Factory_Select_Home_Folder
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:34
+#, fuzzy, java-format
+msgctxt "JBossWS_SWT_Field_Editor_Factory_Select_Home_Folder"
+msgid "Select JBossWS Home Folder"
+msgstr "JBoss WS ホーム・フォルダーの選択"
+
+#: JBossWS_Runtime_List_Field_Editor_Name2
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:35
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_List_Field_Editor_Name2"
+msgid "Name:"
+msgstr "名前:"
+
+#: JBossWS_Runtime_Check_Field_Default_Classpath
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:36
+#, fuzzy, java-format
+msgctxt "JBossWS_Runtime_Check_Field_Default_Classpath"
+msgid "Customize JBoss Web Service runtime jars"
+msgstr "JBoss Web サービスのランタイム JAR のカスタマイズ"
+
+#: JBossWS_Preference_Page_Runtimes
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:37
+#, fuzzy, java-format
+msgctxt "JBossWS_Preference_Page_Runtimes"
+msgid "JBossWS Runtimes"
+msgstr "JBoss WS ランタイム"
+
+#: JBOSSWS_PREFERENCE_PAGE
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/plugin.properties:1
+#, fuzzy, java-format
+msgctxt "JBOSSWS_PREFERENCE_PAGE"
+msgid "JBossWS Preferences"
+msgstr "JBoss WS 設定"
+
+#: PLUGIN_NAME
+#: ../../WORK/modules/ws/plugins/org.jboss.tools.ws.ui/plugin.properties:2
+#, fuzzy, java-format
+msgctxt "PLUGIN_NAME"
+msgid "JBoss WebServices Tools"
+msgstr "JBoss Web サービス Tools"

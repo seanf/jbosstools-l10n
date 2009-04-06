@@ -1,0 +1,397 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-06 13:27+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: blurb
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/about.properties:1
+#, fuzzy, java-format
+msgctxt "blurb"
+msgid ""
+"JBoss Project Examples\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+msgstr ""
+"JBoss プロジェクト・サンプル\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+
+#: Category_Other
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:1
+#, fuzzy, java-format
+msgctxt "Category_Other"
+msgid "Other"
+msgstr "その他"
+
+#.
+#: ECFExamplesTransport_Downloading
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:3
+#, fuzzy, java-format
+msgctxt "ECFExamplesTransport_Downloading"
+msgid "Downloading "
+msgstr "ダウンロード中 "
+
+#.
+#: ECFExamplesTransport_Internal_Error
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:5
+#, fuzzy, java-format
+msgctxt "ECFExamplesTransport_Internal_Error"
+msgid "Internal Error"
+msgstr "内部エラー"
+
+#.
+#: ECFExamplesTransport_IO_error
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:7
+#, fuzzy, java-format
+msgctxt "ECFExamplesTransport_IO_error"
+msgid "IO error"
+msgstr "IO エラー"
+
+#.
+#: ECFExamplesTransport_Loading
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:9
+#, fuzzy, java-format
+msgctxt "ECFExamplesTransport_Loading"
+msgid "Loading"
+msgstr "ロード中"
+
+#.
+#: ECFExamplesTransport_of
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:11
+#, fuzzy, java-format
+msgctxt "ECFExamplesTransport_of"
+msgid " of "
+msgstr " of "
+
+#.
+#: ECFExamplesTransport_Server_redirected_too_many_times
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:13
+#, fuzzy, java-format
+msgctxt "ECFExamplesTransport_Server_redirected_too_many_times"
+msgid "Server redirected too many times"
+msgstr "非常に多くの回数サーバーがリダイレクトしました"
+
+#.
+#: ECFExamplesTransport_Unexpected_interrupt_while_waiting_on_ECF_transfer
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:15
+#, fuzzy, java-format
+msgctxt "ECFExamplesTransport_Unexpected_interrupt_while_waiting_on_ECF_transfer"
+msgid "Unexpected interrupt while waiting on ECF transfer"
+msgstr "ECF 転送の待機中に予期せぬ中断"
+
+#.
+#: MarkerDialog_Description
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:17
+#, fuzzy, java-format
+msgctxt "MarkerDialog_Description"
+msgid "Description"
+msgstr "説明"
+
+#.
+#: MarkerDialog_Finish
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:19
+#, fuzzy, java-format
+msgctxt "MarkerDialog_Finish"
+msgid "Finish"
+msgstr "完了"
+
+#.
+#: MarkerDialog_Markers
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:21
+#, fuzzy, java-format
+msgctxt "MarkerDialog_Markers"
+msgid "Markers:"
+msgstr "マーカー:"
+
+#.
+#: MarkerDialog_Quick_Fix
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:23
+#, fuzzy, java-format
+msgctxt "MarkerDialog_Quick_Fix"
+msgid "Quick Fix"
+msgstr "クイック・フィックス"
+
+#.
+#: MarkerDialog_Resource
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:25
+#, fuzzy, java-format
+msgctxt "MarkerDialog_Resource"
+msgid "Resource"
+msgstr "リソース"
+
+#.
+#: MarkerDialog_Select_a_marker_and_click_the_Quick_Fix_button
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:27
+#, fuzzy, java-format
+msgctxt "MarkerDialog_Select_a_marker_and_click_the_Quick_Fix_button"
+msgid "Select a marker and click the Quick Fix button."
+msgstr "マーカーを選択してクイック・フィックス・ボタンをクリックしてください。"
+
+#.
+#: MarkerDialog_Type
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:29
+#, fuzzy, java-format
+msgctxt "MarkerDialog_Type"
+msgid "Type"
+msgstr "型"
+
+#.
+#: NewProjectExamplesWizard_Detail
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:31
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizard_Detail"
+msgid "Detail"
+msgstr "詳細"
+
+#.
+#: NewProjectExamplesWizard_Downloading
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:33
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizard_Downloading"
+msgid "Downloading..."
+msgstr "ダウンロード..."
+
+#.
+#: NewProjectExamplesWizard_Error
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:35
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizard_Error"
+msgid "Error"
+msgstr "エラー"
+
+#.
+#: NewProjectExamplesWizard_File_does_not_exist
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:37
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizard_File_does_not_exist"
+msgid "The {0} does not exist."
+msgstr "{0} は存在しません。"
+
+#.
+#: NewProjectExamplesWizard_Importing
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:39
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizard_Importing"
+msgid "Importing..."
+msgstr "インポート中..."
+
+#.
+#: NewProjectExamplesWizard_New_Project_Example
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:41
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizard_New_Project_Example"
+msgid "New Project Example"
+msgstr "新規プロジェクト・サンプル"
+
+#.
+#: NewProjectExamplesWizard_OverwriteProject
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:43
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizard_OverwriteProject"
+msgid "Overwrite project ''{0}''"
+msgstr "プロジェクト ''{0}'' の上書き"
+
+#.
+#: NewProjectExamplesWizard_Question
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:45
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizard_Question"
+msgid "Question"
+msgstr "質問"
+
+#.
+#: NewProjectExamplesWizardPage_Description
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:47
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_Description"
+msgid "Description:"
+msgstr "説明:"
+
+#.
+#: NewProjectExamplesWizardPage_Import_Project_Example
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:49
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_Import_Project_Example"
+msgid "Import Project Example"
+msgstr "プロジェクト・サンプルのインポート"
+
+#.
+#: NewProjectExamplesWizardPage_Project_Example
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:51
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_Project_Example"
+msgid "Project Example"
+msgstr "プロジェクト・サンプル"
+
+#.
+#: NewProjectExamplesWizardPage_Project_name
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:53
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_Project_name"
+msgid "Project name:"
+msgstr "プロジェクト名:"
+
+#.
+#: NewProjectExamplesWizardPage_Project_size
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:55
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_Project_size"
+msgid "Project size:"
+msgstr "プロジェクト・サイズ:"
+
+#.
+#: NewProjectExamplesWizardPage_Projects
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:57
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_Projects"
+msgid "Projects:"
+msgstr "プロジェクト:"
+
+#.
+#: NewProjectExamplesWizardPage_Show_the_Quick_Fix_dialog
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:59
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_Show_the_Quick_Fix_dialog"
+msgid "Show the Quick Fix dialog"
+msgstr "クイック・フィックス・ダイアログの表示"
+
+#.
+#: NewProjectExamplesWizardPage_URL
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:61
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_URL"
+msgid "URL:"
+msgstr "URL:"
+
+#.
+#: Project_JBoss_Tools_Team_from_jboss_org
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:63
+#, fuzzy, java-format
+msgctxt "Project_JBoss_Tools_Team_from_jboss_org"
+msgid "JBoss Tools Team from jboss.org"
+msgstr "jboss.org の JBoss Tools チーム"
+
+#.
+#: Project_Local
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:65
+#, fuzzy, java-format
+msgctxt "Project_Local"
+msgid "Local"
+msgstr "ローカル"
+
+#.
+#: Project_Unknown
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:67
+#, fuzzy, java-format
+msgctxt "Project_Unknown"
+msgid "Unknown"
+msgstr "不明"
+
+#.
+#: ProjectExamplesActivator_All
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:69
+#, fuzzy, java-format
+msgctxt "ProjectExamplesActivator_All"
+msgid "All"
+msgstr "すべて"
+
+#.
+#: ProjectExamplesActivator_Waiting
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:71
+#, fuzzy, java-format
+msgctxt "ProjectExamplesActivator_Waiting"
+msgid "Waiting..."
+msgstr "待機..."
+
+#.
+#: ProjectUtil_Invalid_URL
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:73
+#, fuzzy, java-format
+msgctxt "ProjectUtil_Invalid_URL"
+msgid "Invalid URL: {0}"
+msgstr "URL が無効です: {0}"
+
+#.
+#: ProjectUtil_Invalid_welcome_element
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:75
+#, fuzzy, java-format
+msgctxt "ProjectUtil_Invalid_welcome_element"
+msgid "The welcome element has invalid the url attribute"
+msgstr "Welcome 要素に不正な URL 属性があります"
+
+#.
+#: NewProjectExamplesWizardPage_Site
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/org/jboss/tools/project/examples/messages.properties:77
+#, fuzzy, java-format
+msgctxt "NewProjectExamplesWizardPage_Site"
+msgid "Site:"
+msgstr "サイト:"
+
+#. Properties file for org.jboss.tools.project.examples
+#: BunldeVendor
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/plugin.properties:3
+#, fuzzy, java-format
+msgctxt "BunldeVendor"
+msgid "JBoss, a division of Red Hat"
+msgstr "JBoss, a division of Red Hat"
+
+#.
+#: BundleName
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/plugin.properties:5
+#, fuzzy, java-format
+msgctxt "BundleName"
+msgid "Project Examples"
+msgstr "プロジェクト・サンプル"
+
+#.
+#: JBoss_Tools_category
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/plugin.properties:7
+#, fuzzy, java-format
+msgctxt "JBoss_Tools_category"
+msgid "JBoss Tools"
+msgstr "JBoss Tools"
+
+#.
+#: Project_Examples_wizard
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/plugin.properties:9
+#, fuzzy, java-format
+msgctxt "Project_Examples_wizard"
+msgid "Project Examples"
+msgstr "プロジェクト・サンプル"
+
+#.
+#: Project_Examples_command
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/plugin.properties:11
+#, fuzzy, java-format
+msgctxt "Project_Examples_command"
+msgid "Project Examples..."
+msgstr "プロジェクト・サンプル..."
+
+#.
+#: ProjectExamples
+#: ../../WORK/modules/examples/plugins/org.jboss.tools.project.examples/plugin.properties:13
+#, fuzzy, java-format
+msgctxt "ProjectExamples"
+msgid "Project Examples file"
+msgstr "プロジェクト・サンプル・ファイル"

@@ -1,0 +1,904 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-06 13:27+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ##############################################################################
+#. Copyright (c) 2008 JBoss, a division of Red Hat and others.
+#. All rights reserved. This program and the accompanying materials
+#. are made available under the terms of the Eclipse Public License v1.0
+#. which accompanies this distribution, and is available at
+#. http://www.eclipse.org/legal/epl-v10.html
+#.
+#. Contributors:
+#. JBoss, a division of Red Hat - Initial implementation.
+#. #############################################################################
+#. feature.properties
+#. contains externalized strings for feature.xml
+#. "%foo" in feature.xml corresponds to the key "foo" in this file
+#. java.io.Properties file (ISO 8859-1 with "\" escapes)
+#. This file should be translated.
+#.
+#. "featureName" property - name of the feature
+#: featureName
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:35
+#, fuzzy, java-format
+msgctxt "featureName"
+msgid "JBoss BIRT Integration"
+msgstr "JBoss BIRT 連携"
+
+#.
+#.
+#. "providerName" property - name of the company that provides the feature
+#: providerName
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:41
+#, fuzzy, java-format
+msgctxt "providerName"
+msgid "JBoss, a division of Red Hat"
+msgstr "JBoss, a division of Red Hat"
+
+#.
+#.
+#. "updateSiteName" property - label for the update site
+#: updateSiteName
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:47
+#, fuzzy, java-format
+msgctxt "updateSiteName"
+msgid "JBossTools Update Site"
+msgstr "JBossTools Update Site"
+
+#.
+#: birtUpdateSiteName
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:49
+#, fuzzy, java-format
+msgctxt "birtUpdateSiteName"
+msgid "Business Intelligence and Reporting Tools (BIRT) Updates"
+msgstr "Business Intelligence and Reporting Tools (BIRT) Updates"
+
+#.
+#.
+#. "description" property - description of the feature
+#: description
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:55
+#, fuzzy, java-format
+msgctxt "description"
+msgid "JBoss BIRT Integration"
+msgstr "JBoss BIRT 連携"
+
+#.
+#.
+#. "copyright" property - text of the "Feature Update Copyright"
+#: copyright
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:61
+#, fuzzy, java-format
+msgctxt "copyright"
+msgid ""
+"Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
+"All rights reserved. This program and the accompanying materials\n"
+" "
+msgstr ""
+"Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
+"All rights reserved. This program and the accompanying materials\n"
+" "
+
+#.
+#: are
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:63
+#, fuzzy, java-format
+msgctxt "are"
+msgid ""
+"made available under the terms of the Eclipse Public License v1.0\n"
+"which accompanies this distribution, and is available at\n"
+"http://www.eclipse.org/legal/epl-v10.html\n"
+"\n"
+"Contributors:\n"
+"JBoss, a division of Red Hat - Initial implementation.\n"
+msgstr ""
+"made available under the terms of the Eclipse Public License v1.0which "
+"accompanies this distribution, and is available athttp//www.eclipse.org/"
+"legal/epl-v10.htmlContributorsJBoss, a division of Red Hat - Initial "
+"implementation."
+
+#.
+#. ############## end of copyright property ####################################
+#.
+#. "licenseURL" property - URL of the "Feature License"
+#. do not translate value - just change to point to a locale-specific HTML page
+#: licenseURL
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:73
+#, fuzzy, java-format
+msgctxt "licenseURL"
+msgid "license.html"
+msgstr "license.html"
+
+#.
+#.
+#. "license" property - text of the "Feature Update License"
+#. should be plain text version of license agreement pointed to be "licenseURL"
+#: license
+#: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:81
+#, fuzzy, java-format
+msgctxt "license"
+msgid ""
+"ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
+"March 17, 2005\n"
+"\n"
+"Usage Of Content\n"
+"\n"
+"THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION "
+"AND/OR\n"
+"OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\").\n"
+"USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS\n"
+"AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR\n"
+"NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU\n"
+"AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT\n"
+"AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS\n"
+"OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE\n"
+"TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS\n"
+"OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED\n"
+"BELOW, THEN YOU MAY NOT USE THE CONTENT.\n"
+"\n"
+"Applicable Licenses\n"
+"\n"
+"Unless otherwise indicated, all Content made available by the Eclipse "
+"Foundation\n"
+"is provided to you under the terms and conditions of the Eclipse Public\n"
+"License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this\n"
+"Content and is also available at http://www.eclipse.org/legal/epl-v10.html.\n"
+"For purposes of the EPL, \"Program\" will mean the Content.\n"
+"\n"
+"Content includes, but is not limited to, source code, object code,\n"
+"documentation and other files maintained in the Eclipse.org CVS\n"
+"repository (\"Repository\") in CVS modules (\"Modules\") and made available\n"
+"as downloadable archives (\"Downloads\").\n"
+"\n"
+"- Content may be structured and packaged into modules to facilitate "
+"delivering,\n"
+"extending, and upgrading the Content. Typical modules may include plug-ins "
+"(\"Plug-ins\"),\n"
+"plug-in fragments (\"Fragments\"), and features (\"Features\").\n"
+"- Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java? "
+"ARchive)\n"
+"in a directory named \"plugins\".\n"
+"- A Feature is a bundle of one or more Plug-ins and/or Fragments and "
+"associated material.\n"
+"Each Feature may be packaged as a sub-directory in a directory named "
+"\"features\".\n"
+"Within a Feature, files named \"feature.xml\" may contain a list of the "
+"names and version\n"
+"numbers of the Plug-ins and/or Fragments associated with that Feature.\n"
+"- Features may also include other Features (\"Included Features\"). Within a "
+"Feature, files\n"
+"named \"feature.xml\" may contain a list of the names and version numbers of "
+"Included Features.\n"
+"\n"
+"Features may also include other Features (\"Included Features\"). Files "
+"named\n"
+"\"feature.xml\" may contain a list of the names and version numbers of\n"
+"Included Features.\n"
+"\n"
+"The terms and conditions governing Plug-ins and Fragments should be\n"
+"contained in files named \"about.html\" (\"Abouts\"). The terms and\n"
+"conditions governing Features and Included Features should be contained\n"
+"in files named \"license.html\" (\"Feature Licenses\"). Abouts and Feature\n"
+"Licenses may be located in any directory of a Download or Module\n"
+"including, but not limited to the following locations:\n"
+"\n"
+"- The top-level (root) directory\n"
+"- Plug-in and Fragment directories\n"
+"- Inside Plug-ins and Fragments packaged as JARs\n"
+"- Sub-directories of the directory named \"src\" of certain Plug-ins\n"
+"- Feature directories\n"
+"\n"
+"Note: if a Feature made available by the Eclipse Foundation is installed "
+"using the\n"
+"Eclipse Update Manager, you must agree to a license (\"Feature Update\n"
+"License\") during the installation process. If the Feature contains\n"
+"Included Features, the Feature Update License should either provide you\n"
+"with the terms and conditions governing the Included Features or inform\n"
+"you where you can locate them. Feature Update Licenses may be found in\n"
+"the \"license\" property of files named \"feature.properties\". Such "
+"Abouts,\n"
+"Feature Licenses and Feature Update Licenses contain the terms and\n"
+"conditions (or references to such terms and conditions) that govern your\n"
+"use of the associated Content in that directory.\n"
+"\n"
+"THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER\n"
+"TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS.\n"
+"SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED "
+"TO):\n"
+"\n"
+"- Common Public License Version 1.0 (available at http://www.eclipse.org/"
+"legal/cpl-v10.html)\n"
+"- Apache Software License 1.1 (available at http://www.apache.org/licenses/"
+"LICENSE)\n"
+"- Apache Software License 2.0 (available at http://www.apache.org/licenses/"
+"LICENSE-2.0)\n"
+"- IBM Public License 1.0 (available at http://oss.software.ibm.com/"
+"developerworks/opensource/license10.html)\n"
+"- Metro Link Public License 1.00 (available at http://www.opengroup.org/"
+"openmotif/supporters/metrolink/license.html)\n"
+"- Mozilla Public License Version 1.1 (available at http://www.mozilla.org/"
+"MPL/MPL-1.1.html)\n"
+"\n"
+"IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS "
+"PRIOR\n"
+"TO USE OF THE CONTENT. If no About, Feature License or Feature Update "
+"License\n"
+"is provided, please contact the Eclipse Foundation to determine what terms "
+"and conditions\n"
+"govern that particular Content.\n"
+"\n"
+"Cryptography\n"
+"\n"
+"Content may contain encryption software. The country in which you are\n"
+"currently may have restrictions on the import, possession, and use,\n"
+"and/or re-export to another country, of encryption software. BEFORE\n"
+"using any encryption software, please check the country's laws,\n"
+"regulations and policies concerning the import, possession, or use,\n"
+"and re-export of encryption software, to see if this is permitted.\n"
+"\n"
+"Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. "
+"in the United States, other countries, or both.\n"
+msgstr ""
+"ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
+"March 17, 2005\n"
+"\n"
+"Usage Of Content\n"
+"\n"
+"THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION "
+"AND/OR\n"
+"OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\").\n"
+"USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS\n"
+"AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR\n"
+"NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU\n"
+"AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT\n"
+"AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS\n"
+"OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE\n"
+"TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS\n"
+"OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED\n"
+"BELOW, THEN YOU MAY NOT USE THE CONTENT.\n"
+"\n"
+"Applicable Licenses\n"
+"\n"
+"Unless otherwise indicated, all Content made available by the Eclipse "
+"Foundation\n"
+"is provided to you under the terms and conditions of the Eclipse Public\n"
+"License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this\n"
+"Content and is also available at http://www.eclipse.org/legal/epl-v10.html.\n"
+"For purposes of the EPL, \"Program\" will mean the Content.\n"
+"\n"
+"Content includes, but is not limited to, source code, object code,\n"
+"documentation and other files maintained in the Eclipse.org CVS\n"
+"repository (\"Repository\") in CVS modules (\"Modules\") and made available\n"
+"as downloadable archives (\"Downloads\").\n"
+"\n"
+"- Content may be structured and packaged into modules to facilitate "
+"delivering,\n"
+"extending, and upgrading the Content. Typical modules may include plug-ins "
+"(\"Plug-ins\"),\n"
+"plug-in fragments (\"Fragments\"), and features (\"Features\").\n"
+"- Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java? "
+"ARchive)\n"
+"in a directory named \"plugins\".\n"
+"- A Feature is a bundle of one or more Plug-ins and/or Fragments and "
+"associated material.\n"
+"Each Feature may be packaged as a sub-directory in a directory named "
+"\"features\".\n"
+"Within a Feature, files named \"feature.xml\" may contain a list of the "
+"names and version\n"
+"numbers of the Plug-ins and/or Fragments associated with that Feature.\n"
+"- Features may also include other Features (\"Included Features\"). Within a "
+"Feature, files\n"
+"named \"feature.xml\" may contain a list of the names and version numbers of "
+"Included Features.\n"
+"\n"
+"Features may also include other Features (\"Included Features\"). Files "
+"named\n"
+"\"feature.xml\" may contain a list of the names and version numbers of\n"
+"Included Features.\n"
+"\n"
+"The terms and conditions governing Plug-ins and Fragments should be\n"
+"contained in files named \"about.html\" (\"Abouts\"). The terms and\n"
+"conditions governing Features and Included Features should be contained\n"
+"in files named \"license.html\" (\"Feature Licenses\"). Abouts and Feature\n"
+"Licenses may be located in any directory of a Download or Module\n"
+"including, but not limited to the following locations:\n"
+"\n"
+"- The top-level (root) directory\n"
+"- Plug-in and Fragment directories\n"
+"- Inside Plug-ins and Fragments packaged as JARs\n"
+"- Sub-directories of the directory named \"src\" of certain Plug-ins\n"
+"- Feature directories\n"
+"\n"
+"Note: if a Feature made available by the Eclipse Foundation is installed "
+"using the\n"
+"Eclipse Update Manager, you must agree to a license (\"Feature Update\n"
+"License\") during the installation process. If the Feature contains\n"
+"Included Features, the Feature Update License should either provide you\n"
+"with the terms and conditions governing the Included Features or inform\n"
+"you where you can locate them. Feature Update Licenses may be found in\n"
+"the \"license\" property of files named \"feature.properties\". Such "
+"Abouts,\n"
+"Feature Licenses and Feature Update Licenses contain the terms and\n"
+"conditions (or references to such terms and conditions) that govern your\n"
+"use of the associated Content in that directory.\n"
+"\n"
+"THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER\n"
+"TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS.\n"
+"SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED "
+"TO):\n"
+"\n"
+"- Common Public License Version 1.0 (available at http://www.eclipse.org/"
+"legal/cpl-v10.html)\n"
+"- Apache Software License 1.1 (available at http://www.apache.org/licenses/"
+"LICENSE)\n"
+"- Apache Software License 2.0 (available at http://www.apache.org/licenses/"
+"LICENSE-2.0)\n"
+"- IBM Public License 1.0 (available at http://oss.software.ibm.com/"
+"developerworks/opensource/license10.html)\n"
+"- Metro Link Public License 1.00 (available at http://www.opengroup.org/"
+"openmotif/supporters/metrolink/license.html)\n"
+"- Mozilla Public License Version 1.1 (available at http://www.mozilla.org/"
+"MPL/MPL-1.1.html)\n"
+"\n"
+"IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS "
+"PRIOR\n"
+"TO USE OF THE CONTENT. If no About, Feature License or Feature Update "
+"License\n"
+"is provided, please contact the Eclipse Foundation to determine what terms "
+"and conditions\n"
+"govern that particular Content.\n"
+"\n"
+"Cryptography\n"
+"\n"
+"Content may contain encryption software. The country in which you are\n"
+"currently may have restrictions on the import, possession, and use,\n"
+"and/or re-export to another country, of encryption software. BEFORE\n"
+"using any encryption software, please check the country's laws,\n"
+"regulations and policies concerning the import, possession, or use,\n"
+"and re-export of encryption software, to see if this is permitted.\n"
+"\n"
+"Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. "
+"in the United States, other countries, or both.\n"
+
+#: BirtCoreActivator_The_folder_doesnt_exists
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:1
+#, fuzzy, java-format
+msgctxt "BirtCoreActivator_The_folder_doesnt_exists"
+msgid "The {0} folder doesn''t exist."
+msgstr "{0} フォルダーは存在しません。"
+
+#.
+#: BirtCoreActivator_The_resource_is_not_folder
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:3
+#, fuzzy, java-format
+msgctxt "BirtCoreActivator_The_resource_is_not_folder"
+msgid "The {0} resource is not a folder."
+msgstr "{0} リソースはフォルダーではありません。"
+
+#.
+#: BirtPostInstallListener_Error_while_creating_JBoss_BIRT_artifacts
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:5
+#, fuzzy, java-format
+msgctxt "BirtPostInstallListener_Error_while_creating_JBoss_BIRT_artifacts"
+msgid "Error while creating JBoss BIRT artifacts"
+msgstr "JBoss BIRT アーティファクトの作成中にエラー"
+
+#.
+#: BirtPostInstallListener_The_config_ini_file_doesnt_exist
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:7
+#, fuzzy, java-format
+msgctxt "BirtPostInstallListener_The_config_ini_file_doesnt_exist"
+msgid "The config.ini file doesn't exist"
+msgstr "config.ini ファイルが存在しません"
+
+#.
+#: BirtPostInstallListener_The_resource_is_not_a_folder
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:9
+#, fuzzy, java-format
+msgctxt "BirtPostInstallListener_The_resource_is_not_a_folder"
+msgid "The {0}  resource is not a folder"
+msgstr "{0} リソースはフォルダーではありません"
+
+#: JBOSS_BIRT_FACET_LABEL
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:1
+#, fuzzy, java-format
+msgctxt "JBOSS_BIRT_FACET_LABEL"
+msgid "JBoss BIRT Reporting Runtime Component"
+msgstr "JBoss BIRT レポーティング・ランタイム・コンポーネント"
+
+#.
+#: JBOSS_BIRT_FACET_DESCRIPTION
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:3
+#, fuzzy, java-format
+msgctxt "JBOSS_BIRT_FACET_DESCRIPTION"
+msgid "JBoss BIRT Reporting Runtime Component"
+msgstr "JBoss BIRT レポーティング・ランタイム・コンポーネント"
+
+#.
+#: JBOSS_BIRT_FACET_TEMPLATE_LABEL
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:5
+#, fuzzy, java-format
+msgctxt "JBOSS_BIRT_FACET_TEMPLATE_LABEL"
+msgid "JBoss BIRT Integration Web Project"
+msgstr "JBoss BIRT 連携 Web プロジェクト"
+
+#.
+#.
+#.
+#: BundleVendor
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:9
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:35
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:29
+#, fuzzy, java-format
+msgctxt "BundleVendor"
+msgid "JBoss, a division of Red Hat"
+msgstr "JBoss, a division of Red Hat"
+
+#.
+#: BundleName
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:11
+#, fuzzy, java-format
+msgctxt "BundleName"
+msgid "JBoss BIRT Core"
+msgstr "JBoss BIRT コア"
+
+#: blurb
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/about.properties:1
+#, fuzzy, java-format
+msgctxt "blurb"
+msgid ""
+"JBoss BIRT Integration\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+msgstr ""
+"JBoss BIRT 連携\n"
+"\n"
+"Version: {featureVersion}\n"
+"\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
+"Visit http://jboss.org/tools"
+
+#: CustomDataSetWizardPage_Avaliable_Items
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:1
+#, fuzzy, java-format
+msgctxt "CustomDataSetWizardPage_Avaliable_Items"
+msgid "Available Items"
+msgstr "利用可能な項目"
+
+#.
+#: CustomDataSetWizardPage_Define_the_query_text_for_the_data_set
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:3
+#, fuzzy, java-format
+msgctxt "CustomDataSetWizardPage_Define_the_query_text_for_the_data_set"
+msgid "Define the query text for the data set"
+msgstr "データ・セットのクエリー・テキストの定義"
+
+#.
+#: CustomDataSetWizardPage_Invalid_configuration
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:5
+#, fuzzy, java-format
+msgctxt "CustomDataSetWizardPage_Invalid_configuration"
+msgid "Invalid configuration ''{0}''."
+msgstr "無効な構成 ''{0}'' 。"
+
+#.
+#: CustomDataSetWizardPage_Requires_input_value
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:7
+#, fuzzy, java-format
+msgctxt "CustomDataSetWizardPage_Requires_input_value"
+msgid "Requires input value."
+msgstr "入力値が必要です。"
+
+#.
+#: CustomDataSetWizardPage_Test_query
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:9
+#, fuzzy, java-format
+msgctxt "CustomDataSetWizardPage_Test_query"
+msgid "Test query ..."
+msgstr "クエリーのテスト..."
+
+#.
+#: CustomDataSetWizardPage_Test_query1
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:11
+#, fuzzy, java-format
+msgctxt "CustomDataSetWizardPage_Test_query1"
+msgid "Test query"
+msgstr "クエリーのテスト"
+
+#.
+#: CustomDataSetWizardPage_The_query_is_not_valid
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:13
+#, fuzzy, java-format
+msgctxt "CustomDataSetWizardPage_The_query_is_not_valid"
+msgid "The query is not valid."
+msgstr "クエリーが無効です。"
+
+#.
+#: CustomDataSetWizardPage_The_query_is_valid
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:15
+#, fuzzy, java-format
+msgctxt "CustomDataSetWizardPage_The_query_is_valid"
+msgid "The query is valid."
+msgstr "クエリーは有効です。"
+
+#.
+#: HibernateSelectionPageHelper_Configuration
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:17
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_Configuration"
+msgid "Configuration:"
+msgstr "構成:"
+
+#.
+#: HibernateSelectionPageHelper_Configuration_must_not_be_empty
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:19
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_Configuration_must_not_be_empty"
+msgid "Configuration must not be empty"
+msgstr "構成は空欄ではいけません"
+
+#.
+#: HibernateSelectionPageHelper_Connection_successfull
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:21
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_Connection_successfull"
+msgid "Connection successfull."
+msgstr "接続は成功です。"
+
+#.
+#: HibernateSelectionPageHelper_Edit_the_selected_data_source
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:23
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_Edit_the_selected_data_source"
+msgid "Edit the selected data source"
+msgstr "選択したデータ・ソースを編集します"
+
+#.
+#: HibernateSelectionPageHelper_Invalid_configuration
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:25
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_Invalid_configuration"
+msgid "Invalid configuration ''{0}''."
+msgstr "無効な構成 ''{0}'' 。"
+
+#.
+#: HibernateSelectionPageHelper_JNDI_URL
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:27
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_JNDI_URL"
+msgid "JNDI URL:"
+msgstr "JNDI URL:"
+
+#.
+#: HibernateSelectionPageHelper_Max_results
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:29
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_Max_results"
+msgid "Max results:"
+msgstr "最大結果数:"
+
+#.
+#: HibernateSelectionPageHelper_Test_connection
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:31
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_Test_connection"
+msgid "Test Connection..."
+msgstr "接続テスト..."
+
+#.
+#: HibernateSelectionPageHelper_Test_connection1
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:33
+#, fuzzy, java-format
+msgctxt "HibernateSelectionPageHelper_Test_connection1"
+msgid "Test connection"
+msgstr "接続のテスト"
+
+#.
+#: TextMenuManager_Content_Assist
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:35
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Content_Assist"
+msgid "Content Assist"
+msgstr "コンテンツ・アシスト"
+
+#.
+#: TextMenuManager_Content_Tip
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:37
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Content_Tip"
+msgid "Content Tip"
+msgstr "コンテンツのヒント"
+
+#.
+#: TextMenuManager_Copy
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:39
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Copy"
+msgid "Copy"
+msgstr "コピー"
+
+#.
+#: TextMenuManager_Cut
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:41
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Cut"
+msgid "Cut"
+msgstr "切り取り"
+
+#.
+#: TextMenuManager_Format_HQL_source
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:43
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Format_HQL_source"
+msgid "Format HQL source"
+msgstr "HQL ソースのフォーマット"
+
+#.
+#: TextMenuManager_Paste
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:45
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Paste"
+msgid "Paste"
+msgstr "貼り付け"
+
+#.
+#: TextMenuManager_Redo
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:47
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Redo"
+msgid "Redo"
+msgstr "やり直し"
+
+#.
+#: TextMenuManager_Select_all
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:49
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Select_all"
+msgid "Select all"
+msgstr "すべて選択"
+
+#.
+#: TextMenuManager_Undo
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:51
+#, fuzzy, java-format
+msgctxt "TextMenuManager_Undo"
+msgid "Undo"
+msgstr "元に戻す"
+
+#. ##############################################################################
+#. Plug-in Configuration
+#. ##############################################################################
+#. Plug-in Configuration
+#: oda.data.source.id
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:7
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:7
+#, fuzzy, java-format
+msgctxt "oda.data.source.id"
+msgid "org.jboss.tools.birt.oda"
+msgstr "org.jboss.tools.birt.oda"
+
+#.
+#.
+#. ##############################################################################
+#. NLS strings
+#: plugin.name
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:17
+#, fuzzy, java-format
+msgctxt "plugin.name"
+msgid "JBoss BIRT Integration"
+msgstr "JBoss BIRT 連携"
+
+#.
+#: newwizard.name
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:19
+#, fuzzy, java-format
+msgctxt "newwizard.name"
+msgid "Hibernate Data Source"
+msgstr "Hibernate データ・ソース"
+
+#.
+#: newwizard.description
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:21
+#, fuzzy, java-format
+msgctxt "newwizard.description"
+msgid "Create a Hibernate Data Source connection profile"
+msgstr "Hibernate データ・ソース接続プロファイルを作成します"
+
+#.
+#: wizard.window.title
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:23
+#, fuzzy, java-format
+msgctxt "wizard.window.title"
+msgid "New Hibernate Data Source Profile"
+msgstr "新規Hibernate データ・ソース・プロファイル"
+
+#.
+#: wizard.data.source.page.title
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:25
+#, fuzzy, java-format
+msgctxt "wizard.data.source.page.title"
+msgid "Hibernate Data Source"
+msgstr "Hibernate データ・ソース"
+
+#.
+#: profile.propertypage.name
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:27
+#, fuzzy, java-format
+msgctxt "profile.propertypage.name"
+msgid "Hibernate Data Source Connection Properties"
+msgstr "Hibernate データ・ソース接続プロパティー"
+
+#.
+#: wizard.data.set.window.title
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:29
+#, fuzzy, java-format
+msgctxt "wizard.data.set.window.title"
+msgid "New Hibernate Data Set"
+msgstr "新規Hibernate データ・セット"
+
+#.
+#: wizard.data.set.page.title
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:31
+#, fuzzy, java-format
+msgctxt "wizard.data.set.page.title"
+msgid "Query"
+msgstr "クエリー"
+
+#: AbstractOdaFactory_The_type_is_not_valid
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:1
+#, fuzzy, java-format
+msgctxt "AbstractOdaFactory_The_type_is_not_valid"
+msgid "''{0}'' is not a valid type."
+msgstr "''{0}'' は有効な型ではありません。"
+
+#.
+#: ConsoleConfigurationOdaFactory_Invalid_configuration
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:3
+#, fuzzy, java-format
+msgctxt "ConsoleConfigurationOdaFactory_Invalid_configuration"
+msgid "Invalid configuration ''{0}''."
+msgstr "無効な構成 ''{0}'' です。"
+
+#.
+#: DataTypes_Invalid_type_name
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:5
+#, fuzzy, java-format
+msgctxt "DataTypes_Invalid_type_name"
+msgid "Invalid type name : {0} "
+msgstr "無効な型名 : {0} "
+
+#.
+#: HibernateConnection_Invalid_AppContext
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:7
+#, fuzzy, java-format
+msgctxt "HibernateConnection_Invalid_AppContext"
+msgid "Invalid AppContext"
+msgstr "無効なアプリケーション・コンテキスト"
+
+#.
+#: HibernateDataSetMetaData_Hibernate_Data_Source
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:9
+#, fuzzy, java-format
+msgctxt "HibernateDataSetMetaData_Hibernate_Data_Source"
+msgid "Hibernate Data Source"
+msgstr "Hibernate データソース"
+
+#.
+#: HibernateDriver_Non_defined
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:11
+#, fuzzy, java-format
+msgctxt "HibernateDriver_Non_defined"
+msgid "Non-defined"
+msgstr "定義されていません"
+
+#.
+#: HibernateResultSet_Cursor_has_not_been_initialized
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:13
+#, fuzzy, java-format
+msgctxt "HibernateResultSet_Cursor_has_not_been_initialized"
+msgid "Cursor has not been initialized."
+msgstr "カーソルは初期化されませんでした。"
+
+#.
+#: HibernateResultSet_The_data_type_is_not_valid
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:15
+#, fuzzy, java-format
+msgctxt "HibernateResultSet_The_data_type_is_not_valid"
+msgid "The {0}  data type is not valid."
+msgstr " {0} データ型は無効です。"
+
+#.
+#: HibernateResultSetMetaData_Argument_cannot_be_null
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:17
+#, fuzzy, java-format
+msgctxt "HibernateResultSetMetaData_Argument_cannot_be_null"
+msgid "Argument cannot be null."
+msgstr "引数は null にできません."
+
+#.
+#: HibernateResultSetMetaData_Invalid_index
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:19
+#, fuzzy, java-format
+msgctxt "HibernateResultSetMetaData_Invalid_index"
+msgid "Invalid index {0}."
+msgstr "無効なインデックス {0} 。"
+
+#.
+#: ReflectServerOdaFactory_Cannot_create_Hibernate_session_factory
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:21
+#, fuzzy, java-format
+msgctxt "ReflectServerOdaFactory_Cannot_create_Hibernate_session_factory"
+msgid "Cannot create Hibernate session factory"
+msgstr "Hibernate セッション・ファクトリーを作成できません"
+
+#.
+#: ReflectServerOdaFactory_The_type_is_not_valid
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:23
+#, fuzzy, java-format
+msgctxt "ReflectServerOdaFactory_The_type_is_not_valid"
+msgid "The ''{0}'' is not a valid type."
+msgstr "''{0}'' は有効な型ではありません。"
+
+#.
+#: ServerOdaFactory_Cannot_create_Hibernate_session_factory
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:25
+#, fuzzy, java-format
+msgctxt "ServerOdaFactory_Cannot_create_Hibernate_session_factory"
+msgid "Cannot create Hibernate session factory"
+msgstr "Hibernate セッション・ファクトリーを作成できません"
+
+#.
+#.
+#. ##############################################################################
+#. NLS String
+#. ##############################################################################
+#: plugin.name
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:19
+#, fuzzy, java-format
+msgctxt "plugin.name"
+msgid "Hibernate Data Source ODA Runtime Driver"
+msgstr "Hibernate データ・ソース ODA ランタイム・ドライバー"
+
+#.
+#: data.source.name
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:21
+#, fuzzy, java-format
+msgctxt "data.source.name"
+msgid "Hibernate Data Source"
+msgstr "Hibernate データ・ソース"
+
+#.
+#: data.set.name
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:23
+#, fuzzy, java-format
+msgctxt "data.set.name"
+msgid "Hibernate Data Set"
+msgstr "Hibernate データ設定"
+
+#.
+#: connection.profile.name
+#: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:25
+#, fuzzy, java-format
+msgctxt "connection.profile.name"
+msgid "Hibernate Data Source Connection Profile"
+msgstr "Hibernate データ・ソース接続プロファイル"
