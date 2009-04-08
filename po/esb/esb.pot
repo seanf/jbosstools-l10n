@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-06 13:20+1000\n"
+"POT-Creation-Date: 2009-04-08 14:18+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4938,6 +4938,13 @@ msgctxt "pluginName"
 msgid "JBoss ESB Project Core Plugin"
 msgstr ""
 
+#: Error_Copy
+#: ../../../esb/plugins/org.jboss.tools.esb.project.core/src/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:1
+#, java-format
+msgctxt "Error_Copy"
+msgid "Exception while copying runtime jars: {0}"
+msgstr ""
+
 #. 
 #: JBoss_Runtime
 #: ../../../esb/plugins/org.jboss.tools.esb.project.core/src/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:5
@@ -5102,18 +5109,18 @@ msgctxt "Error_JBoss_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_E
 msgid "Path to JBoss ESB runtime home directory cannot be empty"
 msgstr ""
 
-#: JBoss_Runtime_List_Field_Editor_Already_Exists
+#: JBoss_Runtime_List_Field_Editor_Runtime_Already_Exists
 #: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:18
 #, java-format
-msgctxt "JBoss_Runtime_List_Field_Editor_Already_Exists"
-msgid "' already exists"
+msgctxt "JBoss_Runtime_List_Field_Editor_Runtime_Already_Exists"
+msgid "JBoss ESB Runtime ''{0}'' already exists"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_Runtime
 #: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:19
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Runtime"
-msgid "JBoss ESB Runtime "
+msgid "JBoss ESB Runtime"
 msgstr ""
 
 #: Error_JBoss_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-06 13:21+1000\n"
+"POT-Creation-Date: 2009-04-08 14:18+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -298,8 +298,9 @@ msgctxt "pluginName"
 msgid "JBoss Tools Palette"
 msgstr ""
 
+#. BEGIN all these  properties are referenced from PaletteUIMessages.java
 #: PALETTE_EDITOR
-#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:1
+#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:3
 #, java-format
 msgctxt "PALETTE_EDITOR"
 msgid "Palette Editor"
@@ -307,7 +308,7 @@ msgstr ""
 
 #. 
 #: SHOW_HIDE_TABS
-#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:3
+#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:5
 #, java-format
 msgctxt "SHOW_HIDE_TABS"
 msgid "Show/Hide tabs"
@@ -315,7 +316,7 @@ msgstr ""
 
 #. 
 #: SHOW_HIDE
-#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:5
+#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:7
 #, java-format
 msgctxt "SHOW_HIDE"
 msgid "Show/Hide"
@@ -323,7 +324,7 @@ msgstr ""
 
 #. 
 #: IMPORT_TLD
-#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:7
+#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:9
 #, java-format
 msgctxt "IMPORT_TLD"
 msgid "Import TLD"
@@ -331,7 +332,7 @@ msgstr ""
 
 #. 
 #: IMPORT
-#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:9
+#: ../../../vpe/plugins/org.jboss.tools.vpe.ui.palette/src/org/jboss/tools/vpe/ui/palette/messages.properties:11
 #, java-format
 msgctxt "IMPORT"
 msgid "Import"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-06 13:20+1000\n"
+"POT-Creation-Date: 2009-04-08 14:18+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -458,39 +458,32 @@ msgstr ""
 #: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:1
 #, java-format
 msgctxt "jeeClasspathAdding"
-msgid "Adding "
+msgid "Adding {0}"
 msgstr ""
 
-#: jeeClasspathBody1
+#: jeeClasspathBody
 #: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:2
 #, java-format
-msgctxt "jeeClasspathBody1"
-msgid "Click finish to continue adding "
-msgstr ""
-
-#: jeeClasspathBody2
-#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:3
-#, java-format
-msgctxt "jeeClasspathBody2"
-msgid "to your project's classpath."
+msgctxt "jeeClasspathBody"
+msgid "Click finish to continue adding {0} to your project's classpath."
 msgstr ""
 
 #: jeeClasspathDescription
-#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:4
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:3
 #, java-format
 msgctxt "jeeClasspathDescription"
 msgid "These libraries include the API and Source for the chosen JEE version."
 msgstr ""
 
 #: ejb3ClasspathPageTitle
-#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:5
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:4
 #, java-format
 msgctxt "ejb3ClasspathPageTitle"
 msgid "JBoss EJB 3.0 Libraries"
 msgstr ""
 
 #: ejb3ClasspathPageDescription
-#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:6
+#: ../../../as/plugins/org.jboss.ide.eclipse.as.classpath.ui/src/org/jboss/ide/eclipse/as/classpath/ui/ClasspathUIMessages.properties:5
 #, java-format
 msgctxt "ejb3ClasspathPageDescription"
 msgid "Add EJB 3.0 Libraries from one of the declared servers."

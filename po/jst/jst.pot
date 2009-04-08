@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-06 13:21+1000\n"
+"POT-Creation-Date: 2009-04-08 14:18+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -215,100 +215,93 @@ msgid "Jsp Editor Plug-in"
 msgstr ""
 
 #. 
-#: BundlesNameResourceElement.name
+#: BundlesNameResourceElement_name
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/drop/treeviewer/ui/TreeViewerMessages.properties:3
 #, java-format
-msgctxt "BundlesNameResourceElement.name"
+msgctxt "BundlesNameResourceElement_name"
 msgid "Resource Bundles"
 msgstr ""
 
 #. 
-#: BundlesPropertiesResourceElement.name
+#: BundlesPropertiesResourceElement_name
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/drop/treeviewer/ui/TreeViewerMessages.properties:5
 #, java-format
-msgctxt "BundlesPropertiesResourceElement.name"
+msgctxt "BundlesPropertiesResourceElement_name"
 msgid "Resource Bundles"
 msgstr ""
 
 #. 
-#: EnumerationResourceElement.name
+#: EnumerationResourceElement_name
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/drop/treeviewer/ui/TreeViewerMessages.properties:7
 #, java-format
-msgctxt "EnumerationResourceElement.name"
+msgctxt "EnumerationResourceElement_name"
 msgid "Enumeration"
 msgstr ""
 
 #. 
-#: JsfVariablesResourceElement.name
+#: JsfVariablesResourceElement_name
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/drop/treeviewer/ui/TreeViewerMessages.properties:9
 #, java-format
-msgctxt "JsfVariablesResourceElement.name"
+msgctxt "JsfVariablesResourceElement_name"
 msgid "JSF Variables"
 msgstr ""
 
 #. 
-#: ManagedBeanMethodResourceElement.name
+#: ManagedBeanMethodResourceElement_name
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/drop/treeviewer/ui/TreeViewerMessages.properties:11
 #, java-format
-msgctxt "ManagedBeanMethodResourceElement.name"
+msgctxt "ManagedBeanMethodResourceElement_name"
 msgid "Managed Beans"
 msgstr ""
 
 #. 
-#: ManagedBeansPropertiesResourceElement.name
+#: ManagedBeansPropertiesResourceElement_name
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/drop/treeviewer/ui/TreeViewerMessages.properties:13
 #, java-format
-msgctxt "ManagedBeansPropertiesResourceElement.name"
+msgctxt "ManagedBeansPropertiesResourceElement_name"
 msgid "Managed Beans"
 msgstr ""
 
 #. 
-#: ViewActionsResorceElement.name
+#: ViewActionsResorceElement_name
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/drop/treeviewer/ui/TreeViewerMessages.properties:15
 #, java-format
-msgctxt "ViewActionsResorceElement.name"
+msgctxt "ViewActionsResorceElement_name"
 msgid "View Actions"
 msgstr ""
 
 #. used in org.jboss.tools.jst.jsp.jspeditor.JSPMultiPageEditor
-#: JSPMultiPageEditor.TabLabel.VisualSource
+#: JSPMultiPageEditor_TabLabel_VisualSource
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/jspeditor/JSPEditorMessages.properties:3
 #, java-format
-msgctxt "JSPMultiPageEditor.TabLabel.VisualSource"
+msgctxt "JSPMultiPageEditor_TabLabel_VisualSource"
 msgid "Visual/Source"
 msgstr ""
 
 #. 
 #. apparently unused
-#: JSPMultiPageEditor.TabLabel.Visual
-#: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/jspeditor/JSPEditorMessages.properties:7
-#, java-format
-msgctxt "JSPMultiPageEditor.TabLabel.Visual"
-msgid "Visual"
-msgstr ""
-
-#. 
-#: JSPMultiPageEditor.TabLabel.Source
+#. JSPMultiPageEditor.TabLabel.Visual = Visual
+#: JSPMultiPageEditor_TabLabel_Source
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/jspeditor/JSPEditorMessages.properties:11
 #, java-format
-msgctxt "JSPMultiPageEditor.TabLabel.Source"
+msgctxt "JSPMultiPageEditor_TabLabel_Source"
 msgid "Source"
 msgstr ""
 
 #. 
-#: JSPMultiPageEditor.TabLabel.Preview
+#: JSPMultiPageEditor_TabLabel_Preview
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/jspeditor/JSPEditorMessages.properties:13
 #, java-format
-msgctxt "JSPMultiPageEditor.TabLabel.Preview"
+msgctxt "JSPMultiPageEditor_TabLabel_Preview"
 msgid "Preview"
 msgstr ""
 
 #. 
 #. org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor.getShowInMenuLabel()
-#: JSPMultiPageEditor.ContextMenu.ShowInMenu
+#: JSPMultiPageEditor_ContextMenu_ShowInMenu
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/jspeditor/JSPEditorMessages.properties:17
 #, java-format
-msgctxt "JSPMultiPageEditor.ContextMenu.ShowInMenu"
+msgctxt "JSPMultiPageEditor_ContextMenu_ShowInMenu"
 msgid "Show In"
 msgstr ""
 
@@ -1048,98 +1041,99 @@ msgstr ""
 
 #. Breakpoints
 #. These messages are used in org.jboss.tools.struts.debug.internal.*Breakpoint.
-#: ActionEnterBreakpoint.name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:5
+#. and org.jboss.tools.jst.web.debug.internal.JspLineBreakpoint
+#: ActionEnterBreakpoint_name
+#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:7
 #, java-format
-msgctxt "ActionEnterBreakpoint.name"
+msgctxt "ActionEnterBreakpoint_name"
 msgid "{0} [action: {1}] - Before execution"
 msgstr ""
 
 #. 
-#: ActionFormPopulateBreakpoint.name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:7
+#: ActionFormPopulateBreakpoint_name
+#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:9
 #, java-format
-msgctxt "ActionFormPopulateBreakpoint.name"
+msgctxt "ActionFormPopulateBreakpoint_name"
 msgid "{0} [action: {1}] - After form filling"
 msgstr ""
 
 #. 
-#: ActionFormValidateBreakpoint.name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:9
+#: ActionFormValidateBreakpoint_name
+#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:11
 #, java-format
-msgctxt "ActionFormValidateBreakpoint.name"
+msgctxt "ActionFormValidateBreakpoint_name"
 msgid "{0} [action: {1}] - After form validating"
 msgstr ""
 
 #. 
-#: ActionForwardBreakpoint.name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:11
-#, java-format
-msgctxt "ActionForwardBreakpoint.name"
-msgid "{0} [action: {1}] - success [forward: {2}]"
-msgstr ""
-
-#. 
-#: ActionTilesDefinitionForwardBreakpoint.name
+#: ActionForwardBreakpoint_name
 #: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:13
 #, java-format
-msgctxt "ActionTilesDefinitionForwardBreakpoint.name"
+msgctxt "ActionForwardBreakpoint_name"
 msgid "{0} [action: {1}] - success [forward: {2}]"
 msgstr ""
 
 #. 
-#: ActionIncludeBreakpoint.name
+#: ActionTilesDefinitionForwardBreakpoint_name
 #: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:15
 #, java-format
-msgctxt "ActionIncludeBreakpoint.name"
+msgctxt "ActionTilesDefinitionForwardBreakpoint_name"
+msgid "{0} [action: {1}] - success [forward: {2}]"
+msgstr ""
+
+#. 
+#: ActionIncludeBreakpoint_name
+#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:17
+#, java-format
+msgctxt "ActionIncludeBreakpoint_name"
 msgid "{0} [action: {1}] - success [include: {2}]"
 msgstr ""
 
 #. 
-#: ActionExceptionBreakpoint.name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:17
+#: ActionExceptionBreakpoint_name
+#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:19
 #, java-format
-msgctxt "ActionExceptionBreakpoint.name"
+msgctxt "ActionExceptionBreakpoint_name"
 msgid "{0} [action: {1}] - {2}"
 msgstr ""
 
 #. 
-#: GlobalExceptionBreakpoint.name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:19
+#: GlobalExceptionBreakpoint_name
+#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:21
 #, java-format
-msgctxt "GlobalExceptionBreakpoint.name"
+msgctxt "GlobalExceptionBreakpoint_name"
 msgid "{0} [global-exception: {1}]"
 msgstr ""
 
 #. 
-#: GlobalForwardBreakpoint.name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:21
-#, java-format
-msgctxt "GlobalForwardBreakpoint.name"
-msgid "{0} [global-forward: {1}]"
-msgstr ""
-
-#. 
-#: TilesDefinitionGlobalForwardBreakpoint.name
+#: GlobalForwardBreakpoint_name
 #: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:23
 #, java-format
-msgctxt "TilesDefinitionGlobalForwardBreakpoint.name"
+msgctxt "GlobalForwardBreakpoint_name"
 msgid "{0} [global-forward: {1}]"
 msgstr ""
 
 #. 
-#: PageEnterBreakpoint.name
+#: TilesDefinitionGlobalForwardBreakpoint_name
 #: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:25
 #, java-format
-msgctxt "PageEnterBreakpoint.name"
+msgctxt "TilesDefinitionGlobalForwardBreakpoint_name"
+msgid "{0} [global-forward: {1}]"
+msgstr ""
+
+#. 
+#: PageEnterBreakpoint_name
+#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:27
+#, java-format
+msgctxt "PageEnterBreakpoint_name"
 msgid "{0} [entry]"
 msgstr ""
 
 #. 
-#: JspLineBreakpoint.name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:27
+#: JspLineBreakpoint_name
+#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:29
 #, java-format
-msgctxt "JspLineBreakpoint.name"
+msgctxt "JspLineBreakpoint_name"
 msgid "{0} [line: {1}]"
 msgstr ""
 
@@ -1201,675 +1195,35 @@ msgstr ""
 #. ####
 #. TilesDiagram
 #. ####
-#: TilesDiagram.select
+#: TilesDiagram_select
 #: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:7
 #, java-format
-msgctxt "TilesDiagram.select"
+msgctxt "TilesDiagram_select"
 msgid "Select"
 msgstr ""
 
 #. 
-#: TilesDiagram.marquee
+#: TilesDiagram_marquee
 #: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:9
 #, java-format
-msgctxt "TilesDiagram.marquee"
+msgctxt "TilesDiagram_marquee"
 msgid "Marquee"
 msgstr ""
 
 #. 
-#: TilesDiagram.create-new-connection
+#: TilesDiagram_create_new_connection
 #: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:11
 #, java-format
-msgctxt "TilesDiagram.create-new-connection"
+msgctxt "TilesDiagram_create_new_connection"
 msgid "Create New Connection"
 msgstr ""
 
 #. 
-#: TilesDiagram.defenition-template
+#: TilesDiagram_defenition_template
 #: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:13
 #, java-format
-msgctxt "TilesDiagram.defenition-template"
+msgctxt "TilesDiagram_defenition_template"
 msgid "Definition Template"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. TilesConfigDescriptionForm
-#. ####
-#: TilesConfigDescriptionForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:25
-#, java-format
-msgctxt "TilesConfigDescriptionForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: TilesConfigDescriptionForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:27
-#, java-format
-msgctxt "TilesConfigDescriptionForm.header"
-msgid "Tiles Config Description"
-msgstr ""
-
-#: TilesConfigDescriptionForm.name.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:31
-#, java-format
-msgctxt "TilesConfigDescriptionForm.name.label"
-msgid "Name"
-msgstr ""
-
-#. 
-#: TilesConfigDescriptionForm.name.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:33
-#, java-format
-msgctxt "TilesConfigDescriptionForm.name.attribute"
-msgid "name"
-msgstr ""
-
-#. 
-#: TilesConfigDescriptionForm.encoding.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:37
-#, java-format
-msgctxt "TilesConfigDescriptionForm.encoding.label"
-msgid "Encoding"
-msgstr ""
-
-#. 
-#: TilesConfigDescriptionForm.encoding.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:39
-#, java-format
-msgctxt "TilesConfigDescriptionForm.encoding.attribute"
-msgid "encoding"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. TilesDefinitionsForm
-#. ####
-#: TilesDefinitionsForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:51
-#, java-format
-msgctxt "TilesDefinitionsForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: TilesDefinitionsForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:53
-#, java-format
-msgctxt "TilesDefinitionsForm.header"
-msgid "Definitions"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. BasicDefinitionForm
-#. ####
-#: BasicDefinitionForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:65
-#, java-format
-msgctxt "BasicDefinitionForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:67
-#, java-format
-msgctxt "BasicDefinitionForm.header"
-msgid "Basic"
-msgstr ""
-
-#: BasicDefinitionForm.name.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:71
-#, java-format
-msgctxt "BasicDefinitionForm.name.label"
-msgid "Name"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.name.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:73
-#, java-format
-msgctxt "BasicDefinitionForm.name.attribute"
-msgid "name"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.extends.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:77
-#, java-format
-msgctxt "BasicDefinitionForm.extends.label"
-msgid "Extends"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.extends.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:79
-#, java-format
-msgctxt "BasicDefinitionForm.extends.attribute"
-msgid "extends"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.path.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:83
-#, java-format
-msgctxt "BasicDefinitionForm.path.label"
-msgid "Path"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.path.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:85
-#, java-format
-msgctxt "BasicDefinitionForm.path.attribute"
-msgid "path"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.controllerClass.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:89
-#, java-format
-msgctxt "BasicDefinitionForm.controllerClass.label"
-msgid "Controller Class"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.controllerClass.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:91
-#, java-format
-msgctxt "BasicDefinitionForm.controllerClass.attribute"
-msgid "controllerClass"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.controllerUrl.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:95
-#, java-format
-msgctxt "BasicDefinitionForm.controllerUrl.label"
-msgid "Controller URL"
-msgstr ""
-
-#. 
-#: BasicDefinitionForm.controllerUrl.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:97
-#, java-format
-msgctxt "BasicDefinitionForm.controllerUrl.attribute"
-msgid "controllerUrl"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. AdvancedDefinitionForm
-#. ####
-#: AdvancedDefinitionForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:109
-#, java-format
-msgctxt "AdvancedDefinitionForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:111
-#, java-format
-msgctxt "AdvancedDefinitionForm.header"
-msgid "Advanced"
-msgstr ""
-
-#: AdvancedDefinitionForm.id.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:115
-#, java-format
-msgctxt "AdvancedDefinitionForm.id.label"
-msgid "Id"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.id.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:117
-#, java-format
-msgctxt "AdvancedDefinitionForm.id.attribute"
-msgid "id"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.displayname.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:121
-#, java-format
-msgctxt "AdvancedDefinitionForm.displayname.label"
-msgid "Display Name"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.displayname.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:123
-#, java-format
-msgctxt "AdvancedDefinitionForm.displayname.attribute"
-msgid "display-name"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.description.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:127
-#, java-format
-msgctxt "AdvancedDefinitionForm.description.label"
-msgid "Description"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.description.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:129
-#, java-format
-msgctxt "AdvancedDefinitionForm.description.attribute"
-msgid "description"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.role.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:133
-#, java-format
-msgctxt "AdvancedDefinitionForm.role.label"
-msgid "Role"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.role.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:135
-#, java-format
-msgctxt "AdvancedDefinitionForm.role.attribute"
-msgid "role"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.smallicon.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:139
-#, java-format
-msgctxt "AdvancedDefinitionForm.smallicon.label"
-msgid "Small Icon"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.smallicon.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:141
-#, java-format
-msgctxt "AdvancedDefinitionForm.smallicon.attribute"
-msgid "small-icon"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.largeicon.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:145
-#, java-format
-msgctxt "AdvancedDefinitionForm.largeicon.label"
-msgid "Large Icon"
-msgstr ""
-
-#. 
-#: AdvancedDefinitionForm.largeicon.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:147
-#, java-format
-msgctxt "AdvancedDefinitionForm.largeicon.attribute"
-msgid "large-icon"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. DeprecatedDefinitionForm
-#. ####
-#: DeprecatedDefinitionForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:159
-#, java-format
-msgctxt "DeprecatedDefinitionForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: DeprecatedDefinitionForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:161
-#, java-format
-msgctxt "DeprecatedDefinitionForm.header"
-msgid "Deprecated"
-msgstr ""
-
-#: DeprecatedDefinitionForm.page.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:165
-#, java-format
-msgctxt "DeprecatedDefinitionForm.page.label"
-msgid "Page"
-msgstr ""
-
-#. 
-#: DeprecatedDefinitionForm.page.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:167
-#, java-format
-msgctxt "DeprecatedDefinitionForm.page.attribute"
-msgid "page"
-msgstr ""
-
-#. 
-#: DeprecatedDefinitionForm.template.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:171
-#, java-format
-msgctxt "DeprecatedDefinitionForm.template.label"
-msgid "Template"
-msgstr ""
-
-#. 
-#: DeprecatedDefinitionForm.template.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:173
-#, java-format
-msgctxt "DeprecatedDefinitionForm.template.attribute"
-msgid "template"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. PutsForm
-#. ####
-#: PutsForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:185
-#, java-format
-msgctxt "PutsForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: PutsForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:187
-#, java-format
-msgctxt "PutsForm.header"
-msgid "Put"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. PutListsForm
-#. ####
-#: PutListsForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:199
-#, java-format
-msgctxt "PutListsForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: PutListsForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:201
-#, java-format
-msgctxt "PutListsForm.header"
-msgid "Put List"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. BasicPutForm
-#. ####
-#: BasicPutForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:213
-#, java-format
-msgctxt "BasicPutForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: BasicPutForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:215
-#, java-format
-msgctxt "BasicPutForm.header"
-msgid "Basic"
-msgstr ""
-
-#: BasicPutForm.name.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:219
-#, java-format
-msgctxt "BasicPutForm.name.label"
-msgid "Name"
-msgstr ""
-
-#. 
-#: BasicPutForm.name.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:221
-#, java-format
-msgctxt "BasicPutForm.name.attribute"
-msgid "name"
-msgstr ""
-
-#. 
-#: BasicPutForm.type.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:225
-#, java-format
-msgctxt "BasicPutForm.type.label"
-msgid "Type"
-msgstr ""
-
-#. 
-#: BasicPutForm.type.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:227
-#, java-format
-msgctxt "BasicPutForm.type.attribute"
-msgid "type"
-msgstr ""
-
-#. 
-#: BasicPutForm.value.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:231
-#, java-format
-msgctxt "BasicPutForm.value.label"
-msgid "Value"
-msgstr ""
-
-#. 
-#: BasicPutForm.value.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:233
-#, java-format
-msgctxt "BasicPutForm.value.attribute"
-msgid "value"
-msgstr ""
-
-#. 
-#: BasicPutForm.content.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:237
-#, java-format
-msgctxt "BasicPutForm.content.label"
-msgid "Content"
-msgstr ""
-
-#. 
-#: BasicPutForm.content.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:239
-#, java-format
-msgctxt "BasicPutForm.content.attribute"
-msgid "save value as 'content' attr"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. AdvancedPutForm
-#. ####
-#: AdvancedPutForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:251
-#, java-format
-msgctxt "AdvancedPutForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: AdvancedPutForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:253
-#, java-format
-msgctxt "AdvancedPutForm.header"
-msgid "Advanced"
-msgstr ""
-
-#: AdvancedPutForm.id.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:257
-#, java-format
-msgctxt "AdvancedPutForm.id.label"
-msgid "Id"
-msgstr ""
-
-#. 
-#: AdvancedPutForm.id.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:259
-#, java-format
-msgctxt "AdvancedPutForm.id.attribute"
-msgid "id"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. DeprecatedPutForm
-#. ####
-#: DeprecatedPutForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:271
-#, java-format
-msgctxt "DeprecatedPutForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: DeprecatedPutForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:273
-#, java-format
-msgctxt "DeprecatedPutForm.header"
-msgid "Deprecated"
-msgstr ""
-
-#: DeprecatedPutForm.direct.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:277
-#, java-format
-msgctxt "DeprecatedPutForm.direct.label"
-msgid "Direct"
-msgstr ""
-
-#. 
-#: DeprecatedPutForm.direct.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:279
-#, java-format
-msgctxt "DeprecatedPutForm.direct.attribute"
-msgid "direct"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. PutListForm
-#. ####
-#: PutListForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:291
-#, java-format
-msgctxt "PutListForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: PutListForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:293
-#, java-format
-msgctxt "PutListForm.header"
-msgid "Attributes"
-msgstr ""
-
-#: PutListForm.name.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:297
-#, java-format
-msgctxt "PutListForm.name.label"
-msgid "Name"
-msgstr ""
-
-#. 
-#: PutListForm.name.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:299
-#, java-format
-msgctxt "PutListForm.name.attribute"
-msgid "name"
-msgstr ""
-
-#. 
-#: PutListForm.id.label
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:303
-#, java-format
-msgctxt "PutListForm.id.label"
-msgid "Id"
-msgstr ""
-
-#. 
-#: PutListForm.id.attribute
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:305
-#, java-format
-msgctxt "PutListForm.id.attribute"
-msgid "id"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. AddForm
-#. ####
-#: AddForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:317
-#, java-format
-msgctxt "AddForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: AddForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:319
-#, java-format
-msgctxt "AddForm.header"
-msgid "Add"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. ItemForm
-#. ####
-#: ItemForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:331
-#, java-format
-msgctxt "ItemForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: ItemForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:333
-#, java-format
-msgctxt "ItemForm.header"
-msgid "Item"
-msgstr ""
-
-#. 
-#. 
-#. ####
-#. BeanForm
-#. ####
-#: BeanForm.description
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:345
-#, java-format
-msgctxt "BeanForm.description"
-msgid "Description description description"
-msgstr ""
-
-#. 
-#: BeanForm.header
-#: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/src/org/jboss/tools/jst/web/tiles/ui/editor/TilesEditorMessages.properties:347
-#, java-format
-msgctxt "BeanForm.header"
-msgid "Bean"
 msgstr ""
 
 #: Bundle-Name.0
@@ -3092,138 +2446,114 @@ msgid "JBoss Tools Project Content Provider"
 msgstr ""
 
 #. PD (PREFERENCE DESCRIPTION)
-#: LIBRARY_SETS_PD
+#: LibrarySetsPreferencePage_0
 #: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:3
 #, java-format
-msgctxt "LIBRARY_SETS_PD"
-msgid "Here you can modify what libraries get included in the project file systems for new Struts projects. You can modify this specifically for different versions of the Servlet and Struts technologies that might be used with a project. "
+msgctxt "LibrarySetsPreferencePage_0"
+msgid "Add"
 msgstr ""
 
 #. 
-#: LibrarySetsPreferencePage.0
+#: LibrarySetsPreferencePage_1
 #: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:5
 #, java-format
-msgctxt "LibrarySetsPreferencePage.0"
-msgid "Add"
+msgctxt "LibrarySetsPreferencePage_1"
+msgid "Remove"
 msgstr ""
 
 #. 
-#: LibrarySetsPreferencePage.1
+#: AbstractPagesPreferencePage_0
 #: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:7
 #, java-format
-msgctxt "LibrarySetsPreferencePage.1"
-msgid "Remove"
+msgctxt "AbstractPagesPreferencePage_0"
+msgid "Add"
 msgstr ""
 
 #. 
-#: LibrarySetsPreferencePage.2
+#: AbstractPagesPreferencePage_1
 #: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:9
 #, java-format
-msgctxt "LibrarySetsPreferencePage.2"
-msgid "Add"
+msgctxt "AbstractPagesPreferencePage_1"
+msgid "Remove"
 msgstr ""
 
 #. 
-#: LibrarySetsPreferencePage.3
+#: AbstractPagesPreferencePage_2
 #: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:11
 #, java-format
-msgctxt "LibrarySetsPreferencePage.3"
-msgid "Remove"
-msgstr ""
-
-#. 
-#: AbstractPagesPreferencePage.0
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:13
-#, java-format
-msgctxt "AbstractPagesPreferencePage.0"
-msgid "Add"
-msgstr ""
-
-#. 
-#: AbstractPagesPreferencePage.1
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:15
-#, java-format
-msgctxt "AbstractPagesPreferencePage.1"
-msgid "Remove"
-msgstr ""
-
-#. 
-#: AbstractPagesPreferencePage.2
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:17
-#, java-format
-msgctxt "AbstractPagesPreferencePage.2"
+msgctxt "AbstractPagesPreferencePage_2"
 msgid "Set Default"
 msgstr ""
 
 #. 
-#: AbstractPagesPreferencePage.3
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:19
+#: AbstractPagesPreferencePage_3
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:13
 #, java-format
-msgctxt "AbstractPagesPreferencePage.3"
+msgctxt "AbstractPagesPreferencePage_3"
 msgid "[default]"
 msgstr ""
 
 #. 
-#: LibrarySetsPreferencePage.jarsIncluded
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:21
+#: LibrarySetsPreferencePage_jarsIncluded
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:15
 #, java-format
-msgctxt "LibrarySetsPreferencePage.jarsIncluded"
+msgctxt "LibrarySetsPreferencePage_jarsIncluded"
 msgid "Jars Included:"
 msgstr ""
 
 #. 
-#: ImplementationsPreferencesPage.Add
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:23
+#: ImplementationsPreferencesPage_Add
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:17
 #, java-format
-msgctxt "ImplementationsPreferencesPage.Add"
+msgctxt "ImplementationsPreferencesPage_Add"
 msgid "Add"
 msgstr ""
 
 #. 
-#: ImplementationsPreferencesPage.Edit
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:25
+#: ImplementationsPreferencesPage_Edit
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:19
 #, java-format
-msgctxt "ImplementationsPreferencesPage.Edit"
+msgctxt "ImplementationsPreferencesPage_Edit"
 msgid "Edit"
 msgstr ""
 
 #. 
-#: ImplementationsPreferencesPage.Remove
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:27
+#: ImplementationsPreferencesPage_Remove
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:21
 #, java-format
-msgctxt "ImplementationsPreferencesPage.Remove"
+msgctxt "ImplementationsPreferencesPage_Remove"
 msgid "Remove"
 msgstr ""
 
 #. 
-#: ImplementationsPreferencesPage.Up
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:29
+#: ImplementationsPreferencesPage_Up
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:23
 #, java-format
-msgctxt "ImplementationsPreferencesPage.Up"
+msgctxt "ImplementationsPreferencesPage_Up"
 msgid "Up"
 msgstr ""
 
 #. 
-#: ImplementationsPreferencesPage.Down
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:31
+#: ImplementationsPreferencesPage_Down
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:25
 #, java-format
-msgctxt "ImplementationsPreferencesPage.Down"
+msgctxt "ImplementationsPreferencesPage_Down"
 msgid "Down"
 msgstr ""
 
 #. 
-#: ImplementationsPreferencesPage.Library.Sets
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:33
+#: ImplementationsPreferencesPage_Library_Sets
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:27
 #, java-format
-msgctxt "ImplementationsPreferencesPage.Library.Sets"
+msgctxt "ImplementationsPreferencesPage_Library_Sets"
 msgid "Library Sets"
 msgstr ""
 
 #. 
-#: ImplementationsPreferencesPage.Project.Templates
-#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:35
+#: ImplementationsPreferencesPage_Project_Templates
+#: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/internal/preferences/preferences.properties:29
 #, java-format
-msgctxt "ImplementationsPreferencesPage.Project.Templates"
+msgctxt "ImplementationsPreferencesPage_Project_Templates"
 msgid "Project Templates"
 msgstr ""
 
@@ -7672,8 +7002,9 @@ msgctxt "ERR_APP_NAME_IS_NOT_SPECIFIED"
 msgid "Application Name is not specified."
 msgstr ""
 
+#. 
 #: ERR_SERVLET_VERSION_IS_NOT_SET
-#: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/context/RegisterServerContext.properties:17
+#: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/context/RegisterServerContext.properties:9
 #, java-format
 msgctxt "ERR_SERVLET_VERSION_IS_NOT_SET"
 msgid "Servlet version is not specified."
@@ -7681,7 +7012,7 @@ msgstr ""
 
 #. 
 #: ERR_SERVLET_VERSION_IS_NOT_VALID
-#: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/context/RegisterServerContext.properties:19
+#: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/context/RegisterServerContext.properties:11
 #, java-format
 msgctxt "ERR_SERVLET_VERSION_IS_NOT_VALID"
 msgid "Servlet version is not valid."
