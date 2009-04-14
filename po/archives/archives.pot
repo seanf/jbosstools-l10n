@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-04-14 17:54+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -406,36 +406,43 @@ msgctxt "RegisterProject"
 msgid "Register Project"
 msgstr ""
 
-#: UnregisterProject
+#: UnsupportedNodeType
 #: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:49
+#, java-format
+msgctxt "UnsupportedNodeType"
+msgid "Unsupported Node Type: {0}"
+msgstr ""
+
+#: UnregisterProject
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:50
 #, java-format
 msgctxt "UnregisterProject"
 msgid "Unregister Project"
 msgstr ""
 
 #: SaveArchivesJob
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:50
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:51
 #, java-format
 msgctxt "SaveArchivesJob"
 msgid "Save archives job"
 msgstr ""
 
 #: ErrorPreSave
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:51
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:52
 #, java-format
 msgctxt "ErrorPreSave"
 msgid "Problem executing pre-save runnable"
 msgstr ""
 
 #: CreatingDefaultJarConfig
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:52
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:53
 #, java-format
 msgctxt "CreatingDefaultJarConfig"
 msgid "Creating default JAR configuration for java project \"{0}\""
 msgstr ""
 
 #: UpdatingModelJob
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:53
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.core/src/main/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:54
 #, java-format
 msgctxt "UpdatingModelJob"
 msgid "Updating archives model"
@@ -649,8 +656,16 @@ msgid "Fileset Wizard"
 msgstr ""
 
 #. 
-#: DefaultJarConfiguration
+#: LibFilesetWizard
 #: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:39
+#, java-format
+msgctxt "LibFilesetWizard"
+msgid "User Library Fileset Wizard"
+msgstr ""
+
+#. 
+#: DefaultJarConfiguration
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:41
 #, java-format
 msgctxt "DefaultJarConfiguration"
 msgid "Default JAR Configuration"
@@ -658,7 +673,7 @@ msgstr ""
 
 #. 
 #: Preview
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:41
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:43
 #, java-format
 msgctxt "Preview"
 msgid "Preview"
@@ -666,7 +681,7 @@ msgstr ""
 
 #. 
 #: UseDefaultJARConfiguration
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:43
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:45
 #, java-format
 msgctxt "UseDefaultJARConfiguration"
 msgid "Use default JAR configuration"
@@ -674,7 +689,7 @@ msgstr ""
 
 #. 
 #: Flatten
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:45
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:47
 #, java-format
 msgctxt "Flatten"
 msgid "Flatten?"
@@ -682,7 +697,7 @@ msgstr ""
 
 #. 
 #: Yes
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:47
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:49
 #, java-format
 msgctxt "Yes"
 msgid "Yes"
@@ -690,39 +705,15 @@ msgstr ""
 
 #. 
 #: No
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:49
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:51
 #, java-format
 msgctxt "No"
 msgid "No"
 msgstr ""
 
 #. 
-#: ProjectPackagesView_noProjectSelectedMessage
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:57
-#, java-format
-msgctxt "ProjectPackagesView_noProjectSelectedMessage"
-msgid "Please select an opened project or resource."
-msgstr ""
-
-#. 
-#: ProjectPackagesView_noPackagesDefinedMessage
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:59
-#, java-format
-msgctxt "ProjectPackagesView_noPackagesDefinedMessage"
-msgid "No archives have been defined for the project \"{0}\"."
-msgstr ""
-
-#. 
-#: ProjectPackagesView_createPackagesMessage
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:61
-#, java-format
-msgctxt "ProjectPackagesView_createPackagesMessage"
-msgid "Project has no defined archives. Create an Archive:"
-msgstr ""
-
-#. 
 #: ProjectPackagesView_newPackageMenu_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:63
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:55
 #, java-format
 msgctxt "ProjectPackagesView_newPackageMenu_label"
 msgid "New Archive"
@@ -730,7 +721,7 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_newFolderAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:65
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:57
 #, java-format
 msgctxt "ProjectPackagesView_newFolderAction_label"
 msgid "New Folder"
@@ -738,31 +729,23 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_newFilesetAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:67
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:59
 #, java-format
 msgctxt "ProjectPackagesView_newFilesetAction_label"
 msgid "New Fileset"
 msgstr ""
 
 #. 
-#: ProjectPackagesView_newActionAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:69
+#: ProjectPackagesView_newLibFilesetAction_label
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:61
 #, java-format
-msgctxt "ProjectPackagesView_newActionAction_label"
-msgid "New Action"
-msgstr ""
-
-#. 
-#: ProjectPackagesView_collapseAllAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:71
-#, java-format
-msgctxt "ProjectPackagesView_collapseAllAction_label"
-msgid "Collapse All"
+msgctxt "ProjectPackagesView_newLibFilesetAction_label"
+msgid "New User Library Fileset"
 msgstr ""
 
 #. 
 #: ProjectPackagesView_deletePackageAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:73
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:63
 #, java-format
 msgctxt "ProjectPackagesView_deletePackageAction_label"
 msgid "Delete Archive"
@@ -770,7 +753,7 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_deleteFilesetAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:75
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:65
 #, java-format
 msgctxt "ProjectPackagesView_deleteFilesetAction_label"
 msgid "Delete Fileset"
@@ -778,23 +761,15 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_deleteFolderAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:77
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:67
 #, java-format
 msgctxt "ProjectPackagesView_deleteFolderAction_label"
 msgid "Delete Folder"
 msgstr ""
 
 #. 
-#: ProjectPackagesView_deleteActionAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:79
-#, java-format
-msgctxt "ProjectPackagesView_deleteActionAction_label"
-msgid "Delete Action"
-msgstr ""
-
-#. 
 #: ProjectPackagesView_editPackageAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:81
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:69
 #, java-format
 msgctxt "ProjectPackagesView_editPackageAction_label"
 msgid "Edit Archive"
@@ -802,7 +777,7 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_editFolderAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:83
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:71
 #, java-format
 msgctxt "ProjectPackagesView_editFolderAction_label"
 msgid "Edit Folder"
@@ -810,23 +785,15 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_editFilesetAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:85
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:73
 #, java-format
 msgctxt "ProjectPackagesView_editFilesetAction_label"
 msgid "Edit Fileset"
 msgstr ""
 
 #. 
-#: ProjectPackagesView_editActionAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:87
-#, java-format
-msgctxt "ProjectPackagesView_editActionAction_label"
-msgid "Edit Action"
-msgstr ""
-
-#. 
 #: ProjectPackagesView_buildArchiveAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:89
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:75
 #, java-format
 msgctxt "ProjectPackagesView_buildArchiveAction_label"
 msgid "Build Archive (Full)"
@@ -834,7 +801,7 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_buildProjectAction_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:91
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:77
 #, java-format
 msgctxt "ProjectPackagesView_buildProjectAction_label"
 msgid "Build Project (Full)"
@@ -842,7 +809,7 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_createFolderDialog_title
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:93
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:79
 #, java-format
 msgctxt "ProjectPackagesView_createFolderDialog_title"
 msgid "Create a folder"
@@ -850,7 +817,7 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_createFolderDialog_message
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:95
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:81
 #, java-format
 msgctxt "ProjectPackagesView_createFolderDialog_message"
 msgid "Name of the folder to create"
@@ -858,7 +825,7 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView_createFolderDialog_warnFolderExists
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:97
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:83
 #, java-format
 msgctxt "ProjectPackagesView_createFolderDialog_warnFolderExists"
 msgid "The folder \"{0}\" already exists."
@@ -866,7 +833,7 @@ msgstr ""
 
 #. 
 #: FilesetInfoWizardPage_new_message
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:101
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:87
 #, java-format
 msgctxt "FilesetInfoWizardPage_new_message"
 msgid "Create a new fileset consisting of one or more files"
@@ -874,7 +841,7 @@ msgstr ""
 
 #. 
 #: FilesetInfoWizardPage_new_title
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:103
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:89
 #, java-format
 msgctxt "FilesetInfoWizardPage_new_title"
 msgid "New Fileset"
@@ -882,7 +849,7 @@ msgstr ""
 
 #. 
 #: FilesetInfoWizardPage_edit_message
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:105
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:91
 #, java-format
 msgctxt "FilesetInfoWizardPage_edit_message"
 msgid "Edit an existing fileset"
@@ -890,7 +857,7 @@ msgstr ""
 
 #. 
 #: FilesetInfoWizardPage_edit_title
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:107
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:93
 #, java-format
 msgctxt "FilesetInfoWizardPage_edit_title"
 msgid "Edit Fileset"
@@ -898,7 +865,7 @@ msgstr ""
 
 #. 
 #: FilesetInfoWizardPage_infoGroup_title
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:109
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:95
 #, java-format
 msgctxt "FilesetInfoWizardPage_infoGroup_title"
 msgid "Fileset information"
@@ -906,63 +873,23 @@ msgstr ""
 
 #. 
 #: FilesetInfoWizardPage_destination_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:111
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:97
 #, java-format
 msgctxt "FilesetInfoWizardPage_destination_label"
 msgid "Destination:"
 msgstr ""
 
 #. 
-#: FilesetInfoWizardPage_multipleFilesButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:113
-#, java-format
-msgctxt "FilesetInfoWizardPage_multipleFilesButton_label"
-msgid "Create a fileset that has multiple files"
-msgstr ""
-
-#. 
-#: FilesetInfoWizardPage_singleFileButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:115
-#, java-format
-msgctxt "FilesetInfoWizardPage_singleFileButton_label"
-msgid "Create a fileset that has just one file"
-msgstr ""
-
-#. 
-#: FilesetInfoWizardPage_rootProject_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:117
-#, java-format
-msgctxt "FilesetInfoWizardPage_rootProject_label"
-msgid "Root project:"
-msgstr ""
-
-#. 
 #: FilesetInfoWizardPage_rootDirectory_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:119
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:99
 #, java-format
 msgctxt "FilesetInfoWizardPage_rootDirectory_label"
 msgid "Root directory:"
 msgstr ""
 
 #. 
-#: FilesetInfoWizardPage_rootDirWorkspaceBrowseButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:121
-#, java-format
-msgctxt "FilesetInfoWizardPage_rootDirWorkspaceBrowseButton_label"
-msgid "Workspace..."
-msgstr ""
-
-#. 
-#: FilesetInfoWizardPage_rootDirFilesystemBrowseButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:123
-#, java-format
-msgctxt "FilesetInfoWizardPage_rootDirFilesystemBrowseButton_label"
-msgid "Filesystem..."
-msgstr ""
-
-#. 
 #: FilesetInfoWizardPage_includes_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:125
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:101
 #, java-format
 msgctxt "FilesetInfoWizardPage_includes_label"
 msgid "Includes:"
@@ -970,87 +897,55 @@ msgstr ""
 
 #. 
 #: FilesetInfoWizardPage_excludes_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:127
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:103
 #, java-format
 msgctxt "FilesetInfoWizardPage_excludes_label"
 msgid "Excludes:"
 msgstr ""
 
 #. 
-#: FilesetInfoWizardPage_singleFileProject_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:129
-#, java-format
-msgctxt "FilesetInfoWizardPage_singleFileProject_label"
-msgid "Project:"
-msgstr ""
-
-#. 
-#: FilesetInfoWizardPage_singleFile_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:131
-#, java-format
-msgctxt "FilesetInfoWizardPage_singleFile_label"
-msgid "File:"
-msgstr ""
-
-#. 
-#: FilesetInfoWizardPage_fileWorkspaceBrowseButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:133
-#, java-format
-msgctxt "FilesetInfoWizardPage_fileWorkspaceBrowseButton_label"
-msgid "Workspace..."
-msgstr ""
-
-#. 
-#: FilesetInfoWizardPage_fileFilesystemBrowseButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:135
-#, java-format
-msgctxt "FilesetInfoWizardPage_fileFilesystemBrowseButton_label"
-msgid "Filesystem..."
-msgstr ""
-
-#. 
 #: FilesetInfoWizardPage_previewGroup_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:137
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:105
 #, java-format
 msgctxt "FilesetInfoWizardPage_previewGroup_label"
 msgid "Preview"
 msgstr ""
 
 #. 
-#: FilesetInfoWizardPage_noProjectMessage
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:139
+#: LibFilesetInfoWizardPage_new_message
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:107
 #, java-format
-msgctxt "FilesetInfoWizardPage_noProjectMessage"
-msgid "N/A"
+msgctxt "LibFilesetInfoWizardPage_new_message"
+msgid "Create a new User Library fileset"
 msgstr ""
 
 #. 
-#: FilesetInfoWizardPage_rootDirWorkspaceBrowser_message
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:141
+#: LibFilesetInfoWizardPage_new_title
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:109
 #, java-format
-msgctxt "FilesetInfoWizardPage_rootDirWorkspaceBrowser_message"
-msgid "Select a root directory for this fileset"
+msgctxt "LibFilesetInfoWizardPage_new_title"
+msgid "New User Library Fileset"
 msgstr ""
 
 #. 
-#: FilesetInfoWizardPage_fileWorkspaceBrowser_title
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:143
+#: LibFilesetInfoWizardPage_edit_message
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:111
 #, java-format
-msgctxt "FilesetInfoWizardPage_fileWorkspaceBrowser_title"
-msgid "Select file"
+msgctxt "LibFilesetInfoWizardPage_edit_message"
+msgid "Edit an existing User Library fileset"
 msgstr ""
 
 #. 
-#: FilesetInfoWizardPage_fileWorkspaceBrowser_message
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:145
+#: LibFilesetInfoWizardPage_edit_title
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:113
 #, java-format
-msgctxt "FilesetInfoWizardPage_fileWorkspaceBrowser_message"
-msgid "Select a file for this fileset"
+msgctxt "LibFilesetInfoWizardPage_edit_title"
+msgid "Edit User Library Fileset"
 msgstr ""
 
 #. 
 #: PackageInfoWizardPage_title
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:149
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:121
 #, java-format
 msgctxt "PackageInfoWizardPage_title"
 msgid "Create a new archive"
@@ -1058,7 +953,7 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_message
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:151
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:123
 #, java-format
 msgctxt "PackageInfoWizardPage_message"
 msgid "Create a new archive consisting of filesets in the workspace."
@@ -1066,7 +961,7 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_infoGroup_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:153
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:125
 #, java-format
 msgctxt "PackageInfoWizardPage_infoGroup_label"
 msgid "Archive information"
@@ -1074,7 +969,7 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_packageName_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:155
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:127
 #, java-format
 msgctxt "PackageInfoWizardPage_packageName_label"
 msgid "Archive name:"
@@ -1082,23 +977,15 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_destination_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:157
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:129
 #, java-format
 msgctxt "PackageInfoWizardPage_destination_label"
 msgid "Destination:"
 msgstr ""
 
 #. 
-#: PackageInfoWizardPage_manifestBrowseButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:159
-#, java-format
-msgctxt "PackageInfoWizardPage_manifestBrowseButton_label"
-msgid "Browse..."
-msgstr ""
-
-#. 
 #: PackageInfoWizardPage_packageTypeGroup_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:161
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:131
 #, java-format
 msgctxt "PackageInfoWizardPage_packageTypeGroup_label"
 msgid "Archive type"
@@ -1106,7 +993,7 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_compressedButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:163
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:133
 #, java-format
 msgctxt "PackageInfoWizardPage_compressedButton_label"
 msgid "Standard archive using zip compression"
@@ -1114,7 +1001,7 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_explodedButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:165
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:135
 #, java-format
 msgctxt "PackageInfoWizardPage_explodedButton_label"
 msgid "Exploded archive resulting in a folder (no compression)"
@@ -1122,7 +1009,7 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_error_noPackageName
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:167
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:137
 #, java-format
 msgctxt "PackageInfoWizardPage_error_noPackageName"
 msgid "Please enter a archive name"
@@ -1130,7 +1017,7 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_error_packageAlreadyExists
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:169
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:139
 #, java-format
 msgctxt "PackageInfoWizardPage_error_packageAlreadyExists"
 msgid "The archive \"{0}\" already exists."
@@ -1138,31 +1025,15 @@ msgstr ""
 
 #. 
 #: PackageInfoWizardPage_error_noDestination
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:171
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:141
 #, java-format
 msgctxt "PackageInfoWizardPage_error_noDestination"
 msgid "There is no destination selected for this archive."
 msgstr ""
 
 #. 
-#: PackageNodeDestinationComposite_destinationBrowseButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:175
-#, java-format
-msgctxt "PackageNodeDestinationComposite_destinationBrowseButton_label"
-msgid "Browse..."
-msgstr ""
-
-#. 
-#: PackageDestinationComposite_filesystemBrowseButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:179
-#, java-format
-msgctxt "PackageDestinationComposite_filesystemBrowseButton_label"
-msgid "Filesystem..."
-msgstr ""
-
-#. 
 #: PackageDestinationComposite_workspaceBrowseButton_label
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:181
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:145
 #, java-format
 msgctxt "PackageDestinationComposite_workspaceBrowseButton_label"
 msgid "Workspace..."
@@ -1170,7 +1041,7 @@ msgstr ""
 
 #. 
 #: NewJARWizard_windowTitle
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:185
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:149
 #, java-format
 msgctxt "NewJARWizard_windowTitle"
 msgid "New JAR"
@@ -1178,103 +1049,15 @@ msgstr ""
 
 #. 
 #: NewJARWizard_windowTitle_editJAR
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:187
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:151
 #, java-format
 msgctxt "NewJARWizard_windowTitle_editJAR"
 msgid "Edit Archive"
 msgstr ""
 
 #. 
-#: PackagesLabelProvider_filesetProperty_destination
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:191
-#, java-format
-msgctxt "PackagesLabelProvider_filesetProperty_destination"
-msgid "Destination :"
-msgstr ""
-
-#. 
-#: PackagesLabelProvider_filesetProperty_sourceFolder
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:193
-#, java-format
-msgctxt "PackagesLabelProvider_filesetProperty_sourceFolder"
-msgid "Source Folder :"
-msgstr ""
-
-#. 
-#: PackagesLabelProvider_filesetProperty_excludes
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:195
-#, java-format
-msgctxt "PackagesLabelProvider_filesetProperty_excludes"
-msgid "Excludes :"
-msgstr ""
-
-#. 
-#: PackagesLabelProvider_filesetProperty_includes
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:197
-#, java-format
-msgctxt "PackagesLabelProvider_filesetProperty_includes"
-msgid "Includes :"
-msgstr ""
-
-#. 
-#: PackagesLabelProvider_filesetProperty_project
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:199
-#, java-format
-msgctxt "PackagesLabelProvider_filesetProperty_project"
-msgid "Project :"
-msgstr ""
-
-#. 
-#: PackagesLabelProvider_filesetProperty_file
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:201
-#, java-format
-msgctxt "PackagesLabelProvider_filesetProperty_file"
-msgid "File :"
-msgstr ""
-
-#. 
-#: PackagesLabelProvider_filesetProperty_dir
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:205
-#, java-format
-msgctxt "PackagesLabelProvider_filesetProperty_dir"
-msgid "Dir :"
-msgstr ""
-
-#. 
-#: PackageNodeDestinationDialog_messagePrefix
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:209
-#, java-format
-msgctxt "PackageNodeDestinationDialog_messagePrefix"
-msgid "Please select a destination for this"
-msgstr ""
-
-#. 
-#: PackageNodeDestinationDialog_packageLabel
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:211
-#, java-format
-msgctxt "PackageNodeDestinationDialog_packageLabel"
-msgid "archive"
-msgstr ""
-
-#. 
-#: PackageNodeDestinationDialog_filesetLabel
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:213
-#, java-format
-msgctxt "PackageNodeDestinationDialog_filesetLabel"
-msgid "fileset"
-msgstr ""
-
-#. 
-#: PackageNodeDestinationDialog_folderLabel
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:215
-#, java-format
-msgctxt "PackageNodeDestinationDialog_folderLabel"
-msgid "folder"
-msgstr ""
-
-#. 
 #: PackageNodeDestinationDialog_title
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:217
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:153
 #, java-format
 msgctxt "PackageNodeDestinationDialog_title"
 msgid "Select a destination"
@@ -1282,7 +1065,7 @@ msgstr ""
 
 #. 
 #: PreferencePageTitle
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:221
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:157
 #, java-format
 msgctxt "PreferencePageTitle"
 msgid "Project Archives"
@@ -1290,7 +1073,7 @@ msgstr ""
 
 #. 
 #: ProjectSpecificSettings
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:223
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:159
 #, java-format
 msgctxt "ProjectSpecificSettings"
 msgid "Enable Project Specific Settings"
@@ -1298,7 +1081,7 @@ msgstr ""
 
 #. 
 #: CorePreferences
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:225
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:161
 #, java-format
 msgctxt "CorePreferences"
 msgid "Core Preferences"
@@ -1306,7 +1089,7 @@ msgstr ""
 
 #. 
 #: ProjectExplorerPreferences
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:227
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:163
 #, java-format
 msgctxt "ProjectExplorerPreferences"
 msgid "Project Explorer Preferences"
@@ -1314,7 +1097,7 @@ msgstr ""
 
 #. 
 #: EnableIncrementalBuilder
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:229
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:165
 #, java-format
 msgctxt "EnableIncrementalBuilder"
 msgid "Enable incremental builder"
@@ -1322,7 +1105,7 @@ msgstr ""
 
 #. 
 #: ShowBuildErrorDialog
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:231
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:167
 #, java-format
 msgctxt "ShowBuildErrorDialog"
 msgid "Show build error dialog"
@@ -1330,7 +1113,7 @@ msgstr ""
 
 #. 
 #: EnableNodeAlways
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:233
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:169
 #, java-format
 msgctxt "EnableNodeAlways"
 msgid "Show node in all projects"
@@ -1338,7 +1121,7 @@ msgstr ""
 
 #. 
 #: ProjectPackagesView
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:235
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:171
 #, java-format
 msgctxt "ProjectPackagesView"
 msgid "Project Archives View"
@@ -1346,7 +1129,7 @@ msgstr ""
 
 #. 
 #: ShowOutputPath
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:237
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:173
 #, java-format
 msgctxt "ShowOutputPath"
 msgid "Show output path next to packages."
@@ -1354,7 +1137,7 @@ msgstr ""
 
 #. 
 #: ShowRootDirectory
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:239
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:175
 #, java-format
 msgctxt "ShowRootDirectory"
 msgid "Show the root directory of filesets."
@@ -1362,7 +1145,7 @@ msgstr ""
 
 #. 
 #: ShowRootProject
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:241
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:177
 #, java-format
 msgctxt "ShowRootProject"
 msgid "Show project at the root"
@@ -1370,7 +1153,7 @@ msgstr ""
 
 #. 
 #: ShowAllProjects
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:243
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:179
 #, java-format
 msgctxt "ShowAllProjects"
 msgid "Show all projects that contain packages"
@@ -1378,7 +1161,7 @@ msgstr ""
 
 #. 
 #: FilesetPreferences
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:245
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:181
 #, java-format
 msgctxt "FilesetPreferences"
 msgid "Fileset Preferences"
@@ -1386,81 +1169,9 @@ msgstr ""
 
 #. 
 #: EnableDefaultExcludes
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:247
+#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:183
 #, java-format
 msgctxt "EnableDefaultExcludes"
 msgid "Enable Default Excludes"
-msgstr ""
-
-#. 
-#: ArchivesVariables
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:249
-#, java-format
-msgctxt "ArchivesVariables"
-msgid "Archives Variables"
-msgstr ""
-
-#. 
-#: VariablesGroup
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:251
-#, java-format
-msgctxt "VariablesGroup"
-msgid "Enabled Variables"
-msgstr ""
-
-#. 
-#: Add
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:253
-#, java-format
-msgctxt "Add"
-msgid "Add"
-msgstr ""
-
-#. 
-#: Edit
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:255
-#, java-format
-msgctxt "Edit"
-msgid "Edit"
-msgstr ""
-
-#. 
-#: Remove
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:257
-#, java-format
-msgctxt "Remove"
-msgid "Remove"
-msgstr ""
-
-#. 
-#: Enable
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:259
-#, java-format
-msgctxt "Enable"
-msgid "Enable"
-msgstr ""
-
-#. 
-#: Disable
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:261
-#, java-format
-msgctxt "Disable"
-msgid "Disable"
-msgstr ""
-
-#. 
-#: MoveUp
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:263
-#, java-format
-msgctxt "MoveUp"
-msgid "Move Up"
-msgstr ""
-
-#. 
-#: MoveDown
-#: ../../../archives/plugins/org.jboss.ide.eclipse.archives.ui/src/main/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:265
-#, java-format
-msgctxt "MoveDown"
-msgid "Move Down"
 msgstr ""
 

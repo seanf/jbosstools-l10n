@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-04-14 17:55+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7030,7 +7030,7 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:3
 #, java-format
 msgctxt "CANNOT_FIND_PROJECT_VERSIONS_DESCRIPTORFILE"
-msgid "Cannot find project versions descriptor file "
+msgid "Cannot find project versions descriptor file {0}"
 msgstr ""
 
 #. 
@@ -7038,7 +7038,7 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:5
 #, java-format
 msgctxt "CANNOT_PARSE_PROJECT_VERSIONS_DESCRIPTORFILE"
-msgid "Cannot parse project versions descriptor file "
+msgid "Cannot parse project versions descriptor file {0}"
 msgstr ""
 
 #. 
@@ -7046,7 +7046,7 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:7
 #, java-format
 msgctxt "CANNOT_READ_PROJECT_VERSIONS_DESCRIPTORFILE"
-msgid "Cannot read project versions descriptor file "
+msgid "Cannot read project versions descriptor file {0}"
 msgstr ""
 
 #. 
@@ -7314,11 +7314,11 @@ msgid "Delete reference from struts configuration file "
 msgstr ""
 
 #. 
-#: DELETE
+#: DELETE_FILENAME
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:75
 #, java-format
-msgctxt "DELETE"
-msgid "Delete "
+msgctxt "DELETE_FILENAME"
+msgid "Delete {0}"
 msgstr ""
 
 #. 
@@ -7534,7 +7534,7 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:129
 #, java-format
 msgctxt "YOU_WANT_TO_DELETE_LINK_TO"
-msgid "Do you want to delete link to "
+msgid "Do you want to delete link to {0}?"
 msgstr ""
 
 #. 

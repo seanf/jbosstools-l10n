@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-04-14 17:55+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -505,289 +505,246 @@ msgid "Error occurred while loading JBossWS Command. Select the correct JBoss Se
 msgstr ""
 
 #. 
-#: Command
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:3
-#, java-format
-msgctxt "Command"
-msgid "wsconsume.sh"
-msgstr ""
-
-#: Bin
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:4
-#, java-format
-msgctxt "Bin"
-msgid "bin"
-msgstr ""
-
-#: Client
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:5
-#, java-format
-msgctxt "Client"
-msgid "client"
-msgstr ""
-
-#: Lib
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:6
-#, java-format
-msgctxt "Lib"
-msgid "lib"
-msgstr ""
-
-#: Endorsed
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:7
-#, java-format
-msgctxt "Endorsed"
-msgid "endorsed"
-msgstr ""
-
-#. 
 #: Error_JBossWS_Basic_Editor_Composite
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:9
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:11
 #, java-format
 msgctxt "Error_JBossWS_Basic_Editor_Composite"
 msgid "Parent control should be Composite"
 msgstr ""
 
 #: Error_JBossWS_Basic_Editor_Support
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:10
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:12
 #, java-format
 msgctxt "Error_JBossWS_Basic_Editor_Support"
 msgid "Editor supports only grid layout"
 msgstr ""
 
 #: Error_JBossWS_Basic_Editor_Different
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:11
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:13
 #, java-format
 msgctxt "Error_JBossWS_Basic_Editor_Different"
 msgid "Parent for label is different"
 msgstr ""
 
 #: JBossRuntimeListFieldEditor_ActionAdd
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:12
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:14
 #, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionAdd"
 msgid "&Add"
 msgstr ""
 
 #: JBossRuntimeListFieldEditor_ActionEdit
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:13
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:15
 #, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionEdit"
 msgid "&Edit"
 msgstr ""
 
 #: JBossRuntimeListFieldEditor_ActionRemove
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:14
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:16
 #, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionRemove"
 msgid "&Remove"
 msgstr ""
 
 #: JBossRuntimeListFieldEditor_ErrorMessageAtLeastOneJar
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:15
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:17
 #, java-format
 msgctxt "JBossRuntimeListFieldEditor_ErrorMessageAtLeastOneJar"
 msgid "The library must contain at least one jar."
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Name
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:16
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:18
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Name"
 msgid "Name"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Version
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:17
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:19
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Version"
 msgid "Version"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Path
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:18
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:20
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Path"
 msgid "Path"
 msgstr ""
 
-#: JBossWS_Runtime_List_Field_Editor_Inputelement_Must_Be
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:19
+#: JBossWS_Runtime_List_Field_Editor_Inputelement_Must_Be_An_Instance_Of_List
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:21
 #, java-format
-msgctxt "JBossWS_Runtime_List_Field_Editor_Inputelement_Must_Be"
-msgid "inputElement must be"
-msgstr ""
-
-#: JBossWS_Runtime_List_Field_Editor_An_Instance_Of_List
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:20
-#, java-format
-msgctxt "JBossWS_Runtime_List_Field_Editor_An_Instance_Of_List"
-msgid "an instance of List<JBossWSRuntime>."
+msgctxt "JBossWS_Runtime_List_Field_Editor_Inputelement_Must_Be_An_Instance_Of_List"
+msgid "inputElement must be an instance of List<JBossWSRuntime>."
 msgstr ""
 
 #: JBossWS_Runtime_Delete_Confirm_Title
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:21
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:22
 #, java-format
 msgctxt "JBossWS_Runtime_Delete_Confirm_Title"
 msgid "Confirm Runtime Delete"
 msgstr ""
 
 #: JBossWS_Runtime_Delete_Used_Confirm
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:22
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:23
 #, java-format
 msgctxt "JBossWS_Runtime_Delete_Used_Confirm"
 msgid "Runtime ''{0}'' is used by JBossWS projects. Are you sure you want to delete it?"
 msgstr ""
 
 #: JBossWS_Runtime_Delete_Not_Used_Confirm
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:23
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:24
 #, java-format
 msgctxt "JBossWS_Runtime_Delete_Not_Used_Confirm"
 msgid "Are you sure you want to delete runtime ''{0}''?"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Edit_Runtime
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:24
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:25
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Edit_Runtime"
 msgid "Edit JBossWS Runtime"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Modify_Runtime
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:25
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:26
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Modify_Runtime"
 msgid "Input new values"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_New_Runtime
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:26
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:27
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_New_Runtime"
 msgid "New JBossWS Runtime"
 msgstr ""
 
 #: Error_JBossWS_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:27
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:28
 #, java-format
 msgctxt "Error_JBossWS_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty"
 msgid "Path to JBossWS home directory cannot be empty"
 msgstr ""
 
-#: JBossWS_Runtime_List_Field_Editor_Already_Exists
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:28
+#: JBossWS_Runtime_List_Field_Editor_Runtime_Already_Exists
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:29
 #, java-format
-msgctxt "JBossWS_Runtime_List_Field_Editor_Already_Exists"
-msgid "' already exists"
+msgctxt "JBossWS_Runtime_List_Field_Editor_Runtime_Already_Exists"
+msgid "JBossWS Runtime ' already exists"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Runtime
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:29
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:30
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Runtime"
-msgid "JBossWS Runtime "
+msgid "JBossWS Runtime"
 msgstr ""
 
 #: Error_JBossWS_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:30
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:31
 #, java-format
 msgctxt "Error_JBossWS_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct"
 msgid "Runtime name is not correct"
 msgstr ""
 
 #: Error_JBossWS_Runtime_List_Field_Editor_Name_Cannot_Be_Empty
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:31
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:32
 #, java-format
 msgctxt "Error_JBossWS_Runtime_List_Field_Editor_Name_Cannot_Be_Empty"
 msgid "Name cannot be empty"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Create_A_Runtime
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:32
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:33
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Create_A_Runtime"
 msgid "Create a JBossWS Runtime"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Home_Folder
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:33
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:34
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Home_Folder"
 msgid "Home Folder:"
 msgstr ""
 
 #: JBossWS_Composite_Editor_This_Method_Can_Be_Invoked
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:34
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:35
 #, java-format
 msgctxt "JBossWS_Composite_Editor_This_Method_Can_Be_Invoked"
 msgid "This metod can be invoked after getEditorControls(parent) only"
 msgstr ""
 
 #: JBossWS_Button_Field_Editor_Browse
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:35
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:36
 #, java-format
 msgctxt "JBossWS_Button_Field_Editor_Browse"
 msgid "Browse..."
 msgstr ""
 
 #: Error_JBossWS_Button_Field_Editor_Not_Implemented_Yet
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:36
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:37
 #, java-format
 msgctxt "Error_JBossWS_Button_Field_Editor_Not_Implemented_Yet"
 msgid "Not implemented yet. Please setup real acion for editor."
 msgstr ""
 
 #: JBossWS_SWT_Field_Editor_Factory_Browse
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:37
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:38
 #, java-format
 msgctxt "JBossWS_SWT_Field_Editor_Factory_Browse"
 msgid "Browse..."
 msgstr ""
 
 #: JBossWS_SWT_Field_Editor_Factory_Select_Home_Folder
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:38
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:39
 #, java-format
 msgctxt "JBossWS_SWT_Field_Editor_Factory_Select_Home_Folder"
 msgid "Select JBossWS Home Folder"
 msgstr ""
 
 #: JBossWS_Runtime_List_Field_Editor_Name2
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:39
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:40
 #, java-format
 msgctxt "JBossWS_Runtime_List_Field_Editor_Name2"
 msgid "Name:"
 msgstr ""
 
 #: JBossWS_Runtime_Check_Field_Default_Classpath
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:40
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:41
 #, java-format
 msgctxt "JBossWS_Runtime_Check_Field_Default_Classpath"
 msgid "Customize JBoss Web Service runtime jars"
 msgstr ""
 
 #: JBossWS_Preference_Page_Runtimes
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:41
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:42
 #, java-format
 msgctxt "JBossWS_Preference_Page_Runtimes"
 msgid "JBossWS Runtimes"
 msgstr ""
 
 #: JBossWSLibraryListFieldEditor_ActionAdd
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:42
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:43
 #, java-format
 msgctxt "JBossWSLibraryListFieldEditor_ActionAdd"
 msgid "&Add"
 msgstr ""
 
 #: JBossWSLibraryListFieldEditor_ActionRemove
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:43
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:44
 #, java-format
 msgctxt "JBossWSLibraryListFieldEditor_ActionRemove"
 msgid "&Remove"
 msgstr ""
 
 #: JBossWSLibraryListFieldEditor_LIBRARY_JARS
-#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:44
+#: ../../../ws/plugins/org.jboss.tools.ws.ui/src/org/jboss/tools/ws/ui/messages/JBossWSUI.properties:45
 #, java-format
 msgctxt "JBossWSLibraryListFieldEditor_LIBRARY_JARS"
 msgid "Library Jars"

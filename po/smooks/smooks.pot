@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-04-14 17:55+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,8 @@ msgstr ""
 #. "providerName" property - name of the company that provides the feature
 #: providerName
 #: ../../../smooks/features/org.jboss.tools.smooks.feature/feature.properties:41
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:2
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:6
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:8
 #, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
@@ -127,6 +128,2246 @@ msgctxt "Bundle-Name.0"
 msgid "Smooks Tools Core Plug-in"
 msgstr ""
 
+#. 
+#: pluginName
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:5
+#, java-format
+msgctxt "pluginName"
+msgid "Edi-message-mapping-1 Edit Support"
+msgstr ""
+
+#. 
+#: _UI_CreateChild_text
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:8
+#, java-format
+msgctxt "_UI_CreateChild_text"
+msgid "{0}"
+msgstr ""
+
+#: _UI_CreateChild_text2
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:9
+#, java-format
+msgctxt "_UI_CreateChild_text2"
+msgid "{1} {0}"
+msgstr ""
+
+#: _UI_CreateChild_text3
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:10
+#, java-format
+msgctxt "_UI_CreateChild_text3"
+msgid "{1}"
+msgstr ""
+
+#: _UI_CreateChild_tooltip
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:11
+#, java-format
+msgctxt "_UI_CreateChild_tooltip"
+msgid "Create New {0} Under {1} Feature"
+msgstr ""
+
+#: _UI_CreateChild_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:12
+#, java-format
+msgctxt "_UI_CreateChild_description"
+msgid "Create a new child of type {0} for the {1} feature of the selected {2}."
+msgstr ""
+
+#: _UI_CreateSibling_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:13
+#, java-format
+msgctxt "_UI_CreateSibling_description"
+msgid "Create a new sibling of type {0} for the selected {2}, under the {1} feature of their parent."
+msgstr ""
+
+#: _UI_DocumentRoot_binding_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:14
+#, java-format
+msgctxt "_UI_DocumentRoot_binding_feature"
+msgid "\"binding\""
+msgstr ""
+
+#: _UI_PropertyDescriptor_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:15
+#, java-format
+msgctxt "_UI_PropertyDescriptor_description"
+msgid "The {0} of the {1}"
+msgstr ""
+
+#. 
+#: _UI_XMLTypeDocumentRoot_cDATA_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:16
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:28
+#, java-format
+msgctxt "_UI_XMLTypeDocumentRoot_cDATA_feature"
+msgid "\"CDATA\""
+msgstr ""
+
+#: _UI_Component_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:17
+#, java-format
+msgctxt "_UI_Component_type"
+msgid "Component"
+msgstr ""
+
+#: _UI_Delimiters_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:18
+#, java-format
+msgctxt "_UI_Delimiters_type"
+msgid "Delimiters"
+msgstr ""
+
+#: _UI_Description_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:19
+#, java-format
+msgctxt "_UI_Description_type"
+msgid "Description"
+msgstr ""
+
+#: _UI_DocumentRoot_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:20
+#, java-format
+msgctxt "_UI_DocumentRoot_type"
+msgid "Document Root"
+msgstr ""
+
+#: _UI_EdiMap_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:21
+#, java-format
+msgctxt "_UI_EdiMap_type"
+msgid "Map"
+msgstr ""
+
+#: _UI_Field_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:22
+#, java-format
+msgctxt "_UI_Field_type"
+msgid "Field"
+msgstr ""
+
+#: _UI_MappingNode_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:23
+#, java-format
+msgctxt "_UI_MappingNode_type"
+msgid "Mapping Node"
+msgstr ""
+
+#: _UI_Segment_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:24
+#, java-format
+msgctxt "_UI_Segment_type"
+msgid "Segment"
+msgstr ""
+
+#: _UI_Segments_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:25
+#, java-format
+msgctxt "_UI_Segments_type"
+msgid "Segments"
+msgstr ""
+
+#: _UI_SubComponent_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:26
+#, java-format
+msgctxt "_UI_SubComponent_type"
+msgid "Sub Component"
+msgstr ""
+
+#: _UI_AbstractAnyType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:27
+#, java-format
+msgctxt "_UI_AbstractAnyType_type"
+msgid "Abstract Any Type"
+msgstr ""
+
+#: _UI_Unknown_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:28
+#, java-format
+msgctxt "_UI_Unknown_type"
+msgid "Object"
+msgstr ""
+
+#. 
+#: _UI_Unknown_datatype
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:30
+#, java-format
+msgctxt "_UI_Unknown_datatype"
+msgid "Value"
+msgstr ""
+
+#: _UI_Groovy_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:31
+#, java-format
+msgctxt "_UI_Groovy_type"
+msgid "Groovy"
+msgstr ""
+
+#: _UI_ScriptType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:32
+#, java-format
+msgctxt "_UI_ScriptType_type"
+msgid "Script"
+msgstr ""
+
+#: _UI_DocumentRoot_groovy_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:33
+#, java-format
+msgctxt "_UI_DocumentRoot_groovy_feature"
+msgid "Groovy"
+msgstr ""
+
+#: _UI_DocumentRoot_script_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:34
+#, java-format
+msgctxt "_UI_DocumentRoot_script_feature"
+msgid "Script"
+msgstr ""
+
+#: _UI_Groovy_imports_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:35
+#, java-format
+msgctxt "_UI_Groovy_imports_feature"
+msgid "Imports"
+msgstr ""
+
+#: _UI_Groovy_script_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:36
+#, java-format
+msgctxt "_UI_Groovy_script_feature"
+msgid "Script"
+msgstr ""
+
+#: _UI_Groovy_param_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:37
+#, java-format
+msgctxt "_UI_Groovy_param_feature"
+msgid "Param"
+msgstr ""
+
+#: _UI_Groovy_executeBefore_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:38
+#, java-format
+msgctxt "_UI_Groovy_executeBefore_feature"
+msgid "Execute Before"
+msgstr ""
+
+#: _UI_Groovy_executeOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:39
+#, java-format
+msgctxt "_UI_Groovy_executeOnElement_feature"
+msgid "Execute On Element"
+msgstr ""
+
+#: _UI_Groovy_executeOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:40
+#, java-format
+msgctxt "_UI_Groovy_executeOnElementNS_feature"
+msgid "Execute On Element NS"
+msgstr ""
+
+#: _UI_Component_subComponent_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:41
+#, java-format
+msgctxt "_UI_Component_subComponent_feature"
+msgid "Sub Component"
+msgstr ""
+
+#: _UI_Component_required_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:42
+#, java-format
+msgctxt "_UI_Component_required_feature"
+msgid "Required"
+msgstr ""
+
+#: _UI_Component_truncatable_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:43
+#, java-format
+msgctxt "_UI_Component_truncatable_feature"
+msgid "Truncatable"
+msgstr ""
+
+#: _UI_Delimiters_component_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:44
+#, java-format
+msgctxt "_UI_Delimiters_component_feature"
+msgid "Component"
+msgstr ""
+
+#: _UI_Delimiters_field_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:45
+#, java-format
+msgctxt "_UI_Delimiters_field_feature"
+msgid "Field"
+msgstr ""
+
+#: _UI_Delimiters_segment_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:46
+#, java-format
+msgctxt "_UI_Delimiters_segment_feature"
+msgid "Segment"
+msgstr ""
+
+#: _UI_Delimiters_subComponent_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:47
+#, java-format
+msgctxt "_UI_Delimiters_subComponent_feature"
+msgid "Sub Component"
+msgstr ""
+
+#: _UI_Description_name_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:48
+#, java-format
+msgctxt "_UI_Description_name_feature"
+msgid "Name"
+msgstr ""
+
+#: _UI_Description_version_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:49
+#, java-format
+msgctxt "_UI_Description_version_feature"
+msgid "Version"
+msgstr ""
+
+#: _UI_DocumentRoot_mixed_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:50
+#, java-format
+msgctxt "_UI_DocumentRoot_mixed_feature"
+msgid "Mixed"
+msgstr ""
+
+#: _UI_DocumentRoot_xMLNSPrefixMap_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:51
+#, java-format
+msgctxt "_UI_DocumentRoot_xMLNSPrefixMap_feature"
+msgid "XMLNS Prefix Map"
+msgstr ""
+
+#: _UI_DocumentRoot_xSISchemaLocation_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:52
+#, java-format
+msgctxt "_UI_DocumentRoot_xSISchemaLocation_feature"
+msgid "XSI Schema Location"
+msgstr ""
+
+#: _UI_DocumentRoot_edimap_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:53
+#, java-format
+msgctxt "_UI_DocumentRoot_edimap_feature"
+msgid "Edimap"
+msgstr ""
+
+#: _UI_EdiMap_description_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:54
+#, java-format
+msgctxt "_UI_EdiMap_description_feature"
+msgid "Description"
+msgstr ""
+
+#: _UI_EdiMap_delimiters_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:55
+#, java-format
+msgctxt "_UI_EdiMap_delimiters_feature"
+msgid "Delimiters"
+msgstr ""
+
+#: _UI_EdiMap_segments_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:56
+#, java-format
+msgctxt "_UI_EdiMap_segments_feature"
+msgid "Segments"
+msgstr ""
+
+#: _UI_Field_component_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:57
+#, java-format
+msgctxt "_UI_Field_component_feature"
+msgid "Component"
+msgstr ""
+
+#: _UI_Field_required_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:58
+#, java-format
+msgctxt "_UI_Field_required_feature"
+msgid "Required"
+msgstr ""
+
+#: _UI_Field_truncatable_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:59
+#, java-format
+msgctxt "_UI_Field_truncatable_feature"
+msgid "Truncatable"
+msgstr ""
+
+#: _UI_MappingNode_xmltag_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:60
+#, java-format
+msgctxt "_UI_MappingNode_xmltag_feature"
+msgid "Xmltag"
+msgstr ""
+
+#: _UI_Segment_field_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:61
+#, java-format
+msgctxt "_UI_Segment_field_feature"
+msgid "Field"
+msgstr ""
+
+#: _UI_Segment_segment_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:62
+#, java-format
+msgctxt "_UI_Segment_segment_feature"
+msgid "Segment"
+msgstr ""
+
+#: _UI_Segment_maxOccurs_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:63
+#, java-format
+msgctxt "_UI_Segment_maxOccurs_feature"
+msgid "Max Occurs"
+msgstr ""
+
+#: _UI_Segment_minOccurs_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:64
+#, java-format
+msgctxt "_UI_Segment_minOccurs_feature"
+msgid "Min Occurs"
+msgstr ""
+
+#: _UI_Segment_segcode_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:65
+#, java-format
+msgctxt "_UI_Segment_segcode_feature"
+msgid "Segcode"
+msgstr ""
+
+#: _UI_Segment_truncatable_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:66
+#, java-format
+msgctxt "_UI_Segment_truncatable_feature"
+msgid "Truncatable"
+msgstr ""
+
+#: _UI_Segments_segment_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:67
+#, java-format
+msgctxt "_UI_Segments_segment_feature"
+msgid "Segment"
+msgstr ""
+
+#: _UI_SubComponent_required_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:68
+#, java-format
+msgctxt "_UI_SubComponent_required_feature"
+msgid "Required"
+msgstr ""
+
+#: _UI_XMLTypeDocumentRoot_comment_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:69
+#, java-format
+msgctxt "_UI_XMLTypeDocumentRoot_comment_feature"
+msgid "Comment"
+msgstr ""
+
+#: _UI_XMLTypeDocumentRoot_text_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:70
+#, java-format
+msgctxt "_UI_XMLTypeDocumentRoot_text_feature"
+msgid "Text"
+msgstr ""
+
+#: _UI_XMLTypeDocumentRoot_processingInstruction_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:71
+#, java-format
+msgctxt "_UI_XMLTypeDocumentRoot_processingInstruction_feature"
+msgid "Processing Instruction"
+msgstr ""
+
+#: _UI_Unknown_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:72
+#, java-format
+msgctxt "_UI_Unknown_feature"
+msgid "Unspecified"
+msgstr ""
+
+#. 
+#: _UI_BindTo_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:74
+#, java-format
+msgctxt "_UI_BindTo_type"
+msgid "Bind To"
+msgstr ""
+
+#: _UI_Freemarker_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:75
+#, java-format
+msgctxt "_UI_Freemarker_type"
+msgid "Freemarker"
+msgstr ""
+
+#: _UI_Inline_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:76
+#, java-format
+msgctxt "_UI_Inline_type"
+msgid "Inline"
+msgstr ""
+
+#: _UI_OutputTo_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:77
+#, java-format
+msgctxt "_UI_OutputTo_type"
+msgid "Output To"
+msgstr ""
+
+#: _UI_Template_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:78
+#, java-format
+msgctxt "_UI_Template_type"
+msgid "Template"
+msgstr ""
+
+#: _UI_Use_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:79
+#, java-format
+msgctxt "_UI_Use_type"
+msgid "Use"
+msgstr ""
+
+#: _UI_AbstractReader_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:80
+#, java-format
+msgctxt "_UI_AbstractReader_type"
+msgid "Abstract Reader"
+msgstr ""
+
+#: _UI_AbstractResourceConfig_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:81
+#, java-format
+msgctxt "_UI_AbstractResourceConfig_type"
+msgid "Abstract Resource Config"
+msgstr ""
+
+#: _UI_ConditionsType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:82
+#, java-format
+msgctxt "_UI_ConditionsType_type"
+msgid "Conditions"
+msgstr ""
+
+#: _UI_ConditionType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:83
+#, java-format
+msgctxt "_UI_ConditionType_type"
+msgid "Condition"
+msgstr ""
+
+#: _UI_ElementVisitor_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:84
+#, java-format
+msgctxt "_UI_ElementVisitor_type"
+msgid "Element Visitor"
+msgstr ""
+
+#: _UI_FeaturesType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:85
+#, java-format
+msgctxt "_UI_FeaturesType_type"
+msgid "Features"
+msgstr ""
+
+#: _UI_HandlersType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:86
+#, java-format
+msgctxt "_UI_HandlersType_type"
+msgid "Handlers"
+msgstr ""
+
+#: _UI_HandlerType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:87
+#, java-format
+msgctxt "_UI_HandlerType_type"
+msgid "Handler"
+msgstr ""
+
+#: _UI_ImportType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:88
+#, java-format
+msgctxt "_UI_ImportType_type"
+msgid "Import"
+msgstr ""
+
+#: _UI_ParamsType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:89
+#, java-format
+msgctxt "_UI_ParamsType_type"
+msgid "Params"
+msgstr ""
+
+#: _UI_ParamType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:90
+#, java-format
+msgctxt "_UI_ParamType_type"
+msgid "Param"
+msgstr ""
+
+#: _UI_ProfilesType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:91
+#, java-format
+msgctxt "_UI_ProfilesType_type"
+msgid "Profiles"
+msgstr ""
+
+#: _UI_ProfileType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:92
+#, java-format
+msgctxt "_UI_ProfileType_type"
+msgid "Profile"
+msgstr ""
+
+#: _UI_ReaderType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:93
+#, java-format
+msgctxt "_UI_ReaderType_type"
+msgid "Reader"
+msgstr ""
+
+#: _UI_ResourceConfigType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:94
+#, java-format
+msgctxt "_UI_ResourceConfigType_type"
+msgid "Resource Config"
+msgstr ""
+
+#: _UI_ResourceType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:95
+#, java-format
+msgctxt "_UI_ResourceType_type"
+msgid "Resource"
+msgstr ""
+
+#: _UI_SetOffType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:96
+#, java-format
+msgctxt "_UI_SetOffType_type"
+msgid "Set Off"
+msgstr ""
+
+#: _UI_SetOnType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:97
+#, java-format
+msgctxt "_UI_SetOnType_type"
+msgid "Set On"
+msgstr ""
+
+#: _UI_SmooksResourceListType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:98
+#, java-format
+msgctxt "_UI_SmooksResourceListType_type"
+msgid "Resource List"
+msgstr ""
+
+#: _UI_BindTo_id_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:99
+#, java-format
+msgctxt "_UI_BindTo_id_feature"
+msgid "Id"
+msgstr ""
+
+#: _UI_DocumentRoot_freemarker_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:100
+#, java-format
+msgctxt "_UI_DocumentRoot_freemarker_feature"
+msgid "Freemarker"
+msgstr ""
+
+#: _UI_Freemarker_template_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:101
+#, java-format
+msgctxt "_UI_Freemarker_template_feature"
+msgid "Template"
+msgstr ""
+
+#: _UI_Freemarker_use_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:102
+#, java-format
+msgctxt "_UI_Freemarker_use_feature"
+msgid "Use"
+msgstr ""
+
+#: _UI_Freemarker_param_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:103
+#, java-format
+msgctxt "_UI_Freemarker_param_feature"
+msgid "Param"
+msgstr ""
+
+#: _UI_Freemarker_applyBefore_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:104
+#, java-format
+msgctxt "_UI_Freemarker_applyBefore_feature"
+msgid "Apply Before"
+msgstr ""
+
+#: _UI_Freemarker_applyOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:105
+#, java-format
+msgctxt "_UI_Freemarker_applyOnElement_feature"
+msgid "Apply On Element"
+msgstr ""
+
+#: _UI_Freemarker_applyOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:106
+#, java-format
+msgctxt "_UI_Freemarker_applyOnElementNS_feature"
+msgid "Apply On Element NS"
+msgstr ""
+
+#: _UI_Inline_directive_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:107
+#, java-format
+msgctxt "_UI_Inline_directive_feature"
+msgid "Directive"
+msgstr ""
+
+#: _UI_OutputTo_outputStreamResource_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:108
+#, java-format
+msgctxt "_UI_OutputTo_outputStreamResource_feature"
+msgid "Output Stream Resource"
+msgstr ""
+
+#: _UI_Template_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:109
+#, java-format
+msgctxt "_UI_Template_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_Template_encoding_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:110
+#, java-format
+msgctxt "_UI_Template_encoding_feature"
+msgid "Encoding"
+msgstr ""
+
+#: _UI_Use_inline_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:111
+#, java-format
+msgctxt "_UI_Use_inline_feature"
+msgid "Inline"
+msgstr ""
+
+#: _UI_Use_bindTo_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:112
+#, java-format
+msgctxt "_UI_Use_bindTo_feature"
+msgid "Bind To"
+msgstr ""
+
+#: _UI_Use_outputTo_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:113
+#, java-format
+msgctxt "_UI_Use_outputTo_feature"
+msgid "Output To"
+msgstr ""
+
+#: _UI_AbstractReader_targetProfile_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:114
+#, java-format
+msgctxt "_UI_AbstractReader_targetProfile_feature"
+msgid "Target Profile"
+msgstr ""
+
+#: _UI_ConditionsType_condition_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:115
+#, java-format
+msgctxt "_UI_ConditionsType_condition_feature"
+msgid "Condition"
+msgstr ""
+
+#: _UI_ConditionType_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:116
+#, java-format
+msgctxt "_UI_ConditionType_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_ConditionType_evaluator_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:117
+#, java-format
+msgctxt "_UI_ConditionType_evaluator_feature"
+msgid "Evaluator"
+msgstr ""
+
+#: _UI_ConditionType_id_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:118
+#, java-format
+msgctxt "_UI_ConditionType_id_feature"
+msgid "Id"
+msgstr ""
+
+#: _UI_ConditionType_idRef_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:119
+#, java-format
+msgctxt "_UI_ConditionType_idRef_feature"
+msgid "Id Ref"
+msgstr ""
+
+#: _UI_DocumentRoot_abstractReader_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:120
+#, java-format
+msgctxt "_UI_DocumentRoot_abstractReader_feature"
+msgid "Abstract Reader"
+msgstr ""
+
+#: _UI_DocumentRoot_abstractResourceConfig_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:121
+#, java-format
+msgctxt "_UI_DocumentRoot_abstractResourceConfig_feature"
+msgid "Abstract Resource Config"
+msgstr ""
+
+#: _UI_DocumentRoot_condition_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:122
+#, java-format
+msgctxt "_UI_DocumentRoot_condition_feature"
+msgid "Condition"
+msgstr ""
+
+#: _UI_DocumentRoot_conditions_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:123
+#, java-format
+msgctxt "_UI_DocumentRoot_conditions_feature"
+msgid "Conditions"
+msgstr ""
+
+#: _UI_DocumentRoot_elementVisitor_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:124
+#, java-format
+msgctxt "_UI_DocumentRoot_elementVisitor_feature"
+msgid "Element Visitor"
+msgstr ""
+
+#: _UI_DocumentRoot_features_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:125
+#, java-format
+msgctxt "_UI_DocumentRoot_features_feature"
+msgid "Features"
+msgstr ""
+
+#: _UI_DocumentRoot_handler_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:126
+#, java-format
+msgctxt "_UI_DocumentRoot_handler_feature"
+msgid "Handler"
+msgstr ""
+
+#: _UI_DocumentRoot_handlers_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:127
+#, java-format
+msgctxt "_UI_DocumentRoot_handlers_feature"
+msgid "Handlers"
+msgstr ""
+
+#: _UI_DocumentRoot_import_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:128
+#, java-format
+msgctxt "_UI_DocumentRoot_import_feature"
+msgid "Import"
+msgstr ""
+
+#: _UI_DocumentRoot_param_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:129
+#, java-format
+msgctxt "_UI_DocumentRoot_param_feature"
+msgid "Param"
+msgstr ""
+
+#: _UI_DocumentRoot_params_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:130
+#, java-format
+msgctxt "_UI_DocumentRoot_params_feature"
+msgid "Params"
+msgstr ""
+
+#: _UI_DocumentRoot_profile_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:131
+#, java-format
+msgctxt "_UI_DocumentRoot_profile_feature"
+msgid "Profile"
+msgstr ""
+
+#: _UI_DocumentRoot_profiles_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:132
+#, java-format
+msgctxt "_UI_DocumentRoot_profiles_feature"
+msgid "Profiles"
+msgstr ""
+
+#: _UI_DocumentRoot_reader_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:346
+#, java-format
+msgctxt "_UI_DocumentRoot_reader_feature"
+msgid "Reader"
+msgstr ""
+
+#: _UI_DocumentRoot_resource_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:134
+#, java-format
+msgctxt "_UI_DocumentRoot_resource_feature"
+msgid "Resource"
+msgstr ""
+
+#: _UI_DocumentRoot_resourceConfig_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:135
+#, java-format
+msgctxt "_UI_DocumentRoot_resourceConfig_feature"
+msgid "Resource Config"
+msgstr ""
+
+#: _UI_DocumentRoot_setOff_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:136
+#, java-format
+msgctxt "_UI_DocumentRoot_setOff_feature"
+msgid "Set Off"
+msgstr ""
+
+#: _UI_DocumentRoot_setOn_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:137
+#, java-format
+msgctxt "_UI_DocumentRoot_setOn_feature"
+msgid "Set On"
+msgstr ""
+
+#: _UI_DocumentRoot_smooksResourceList_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:138
+#, java-format
+msgctxt "_UI_DocumentRoot_smooksResourceList_feature"
+msgid "Smooks Resource List"
+msgstr ""
+
+#: _UI_ElementVisitor_condition_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:139
+#, java-format
+msgctxt "_UI_ElementVisitor_condition_feature"
+msgid "Condition"
+msgstr ""
+
+#: _UI_ElementVisitor_targetProfile_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:140
+#, java-format
+msgctxt "_UI_ElementVisitor_targetProfile_feature"
+msgid "Target Profile"
+msgstr ""
+
+#: _UI_FeaturesType_setOn_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:141
+#, java-format
+msgctxt "_UI_FeaturesType_setOn_feature"
+msgid "Set On"
+msgstr ""
+
+#: _UI_FeaturesType_setOff_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:142
+#, java-format
+msgctxt "_UI_FeaturesType_setOff_feature"
+msgid "Set Off"
+msgstr ""
+
+#: _UI_HandlersType_handler_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:143
+#, java-format
+msgctxt "_UI_HandlersType_handler_feature"
+msgid "Handler"
+msgstr ""
+
+#: _UI_HandlerType_class_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:144
+#, java-format
+msgctxt "_UI_HandlerType_class_feature"
+msgid "Class"
+msgstr ""
+
+#: _UI_ImportType_param_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:145
+#, java-format
+msgctxt "_UI_ImportType_param_feature"
+msgid "Param"
+msgstr ""
+
+#: _UI_ImportType_file_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:146
+#, java-format
+msgctxt "_UI_ImportType_file_feature"
+msgid "File"
+msgstr ""
+
+#: _UI_ParamsType_param_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:147
+#, java-format
+msgctxt "_UI_ParamsType_param_feature"
+msgid "Param"
+msgstr ""
+
+#: _UI_ParamType_name_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:148
+#, java-format
+msgctxt "_UI_ParamType_name_feature"
+msgid "Name"
+msgstr ""
+
+#: _UI_ParamType_type_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:149
+#, java-format
+msgctxt "_UI_ParamType_type_feature"
+msgid "Type"
+msgstr ""
+
+#: _UI_ProfilesType_profile_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:150
+#, java-format
+msgctxt "_UI_ProfilesType_profile_feature"
+msgid "Profile"
+msgstr ""
+
+#: _UI_ProfileType_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:151
+#, java-format
+msgctxt "_UI_ProfileType_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_ProfileType_baseProfile_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:152
+#, java-format
+msgctxt "_UI_ProfileType_baseProfile_feature"
+msgid "Base Profile"
+msgstr ""
+
+#: _UI_ProfileType_subProfiles_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:153
+#, java-format
+msgctxt "_UI_ProfileType_subProfiles_feature"
+msgid "Sub Profiles"
+msgstr ""
+
+#: _UI_ReaderType_handlers_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:154
+#, java-format
+msgctxt "_UI_ReaderType_handlers_feature"
+msgid "Handlers"
+msgstr ""
+
+#: _UI_ReaderType_features_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:155
+#, java-format
+msgctxt "_UI_ReaderType_features_feature"
+msgid "Features"
+msgstr ""
+
+#: _UI_ReaderType_params_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:156
+#, java-format
+msgctxt "_UI_ReaderType_params_feature"
+msgid "Params"
+msgstr ""
+
+#: _UI_ReaderType_class_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:157
+#, java-format
+msgctxt "_UI_ReaderType_class_feature"
+msgid "Class"
+msgstr ""
+
+#: _UI_ResourceConfigType_resource_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:158
+#, java-format
+msgctxt "_UI_ResourceConfigType_resource_feature"
+msgid "Resource"
+msgstr ""
+
+#: _UI_ResourceConfigType_condition_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:159
+#, java-format
+msgctxt "_UI_ResourceConfigType_condition_feature"
+msgid "Condition"
+msgstr ""
+
+#: _UI_ResourceConfigType_param_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:160
+#, java-format
+msgctxt "_UI_ResourceConfigType_param_feature"
+msgid "Param"
+msgstr ""
+
+#: _UI_ResourceConfigType_selector_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:161
+#, java-format
+msgctxt "_UI_ResourceConfigType_selector_feature"
+msgid "Selector"
+msgstr ""
+
+#: _UI_ResourceConfigType_selectorNamespace_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:162
+#, java-format
+msgctxt "_UI_ResourceConfigType_selectorNamespace_feature"
+msgid "Selector Namespace"
+msgstr ""
+
+#: _UI_ResourceConfigType_targetProfile_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:163
+#, java-format
+msgctxt "_UI_ResourceConfigType_targetProfile_feature"
+msgid "Target Profile"
+msgstr ""
+
+#: _UI_ResourceType_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:164
+#, java-format
+msgctxt "_UI_ResourceType_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_ResourceType_type_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:165
+#, java-format
+msgctxt "_UI_ResourceType_type_feature"
+msgid "Type"
+msgstr ""
+
+#: _UI_SetOffType_feature_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:166
+#, java-format
+msgctxt "_UI_SetOffType_feature_feature"
+msgid "Feature"
+msgstr ""
+
+#: _UI_SetOnType_feature_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:167
+#, java-format
+msgctxt "_UI_SetOnType_feature_feature"
+msgid "Feature"
+msgstr ""
+
+#: _UI_SmooksResourceListType_params_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:168
+#, java-format
+msgctxt "_UI_SmooksResourceListType_params_feature"
+msgid "Params"
+msgstr ""
+
+#: _UI_SmooksResourceListType_conditions_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:169
+#, java-format
+msgctxt "_UI_SmooksResourceListType_conditions_feature"
+msgid "Conditions"
+msgstr ""
+
+#: _UI_SmooksResourceListType_profiles_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:170
+#, java-format
+msgctxt "_UI_SmooksResourceListType_profiles_feature"
+msgid "Profiles"
+msgstr ""
+
+#: _UI_SmooksResourceListType_abstractReaderGroup_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:171
+#, java-format
+msgctxt "_UI_SmooksResourceListType_abstractReaderGroup_feature"
+msgid "Abstract Reader Group"
+msgstr ""
+
+#: _UI_SmooksResourceListType_abstractReader_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:172
+#, java-format
+msgctxt "_UI_SmooksResourceListType_abstractReader_feature"
+msgid "Abstract Reader"
+msgstr ""
+
+#: _UI_SmooksResourceListType_abstractResourceConfigGroup_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:173
+#, java-format
+msgctxt "_UI_SmooksResourceListType_abstractResourceConfigGroup_feature"
+msgid "Abstract Resource Config Group"
+msgstr ""
+
+#: _UI_SmooksResourceListType_abstractResourceConfig_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:174
+#, java-format
+msgctxt "_UI_SmooksResourceListType_abstractResourceConfig_feature"
+msgid "Abstract Resource Config"
+msgstr ""
+
+#: _UI_SmooksResourceListType_defaultConditionRef_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:175
+#, java-format
+msgctxt "_UI_SmooksResourceListType_defaultConditionRef_feature"
+msgid "Default Condition Ref"
+msgstr ""
+
+#: _UI_SmooksResourceListType_defaultSelector_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:176
+#, java-format
+msgctxt "_UI_SmooksResourceListType_defaultSelector_feature"
+msgid "Default Selector"
+msgstr ""
+
+#: _UI_SmooksResourceListType_defaultSelectorNamespace_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:177
+#, java-format
+msgctxt "_UI_SmooksResourceListType_defaultSelectorNamespace_feature"
+msgid "Default Selector Namespace"
+msgstr ""
+
+#: _UI_SmooksResourceListType_defaultTargetProfile_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:178
+#, java-format
+msgctxt "_UI_SmooksResourceListType_defaultTargetProfile_feature"
+msgid "Default Target Profile"
+msgstr ""
+
+#: _UI_InlineDirective_addto_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:179
+#, java-format
+msgctxt "_UI_InlineDirective_addto_literal"
+msgid "addto"
+msgstr ""
+
+#: _UI_InlineDirective_replace_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:180
+#, java-format
+msgctxt "_UI_InlineDirective_replace_literal"
+msgid "replace"
+msgstr ""
+
+#: _UI_InlineDirective_insertbefore_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:181
+#, java-format
+msgctxt "_UI_InlineDirective_insertbefore_literal"
+msgid "insertbefore"
+msgstr ""
+
+#: _UI_InlineDirective_insertafter_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:182
+#, java-format
+msgctxt "_UI_InlineDirective_insertafter_literal"
+msgid "insertafter"
+msgstr ""
+
+#: _UI_BindingsType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:183
+#, java-format
+msgctxt "_UI_BindingsType_type"
+msgid "Bindings"
+msgstr ""
+
+#: _UI_DecodeParamType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:184
+#, java-format
+msgctxt "_UI_DecodeParamType_type"
+msgid "Decode Param"
+msgstr ""
+
+#: _UI_ExpressionType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:185
+#, java-format
+msgctxt "_UI_ExpressionType_type"
+msgid "Expression"
+msgstr ""
+
+#: _UI_ValueType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:186
+#, java-format
+msgctxt "_UI_ValueType_type"
+msgid "Value"
+msgstr ""
+
+#: _UI_WiringType_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:187
+#, java-format
+msgctxt "_UI_WiringType_type"
+msgid "Wiring"
+msgstr ""
+
+#: _UI_BindingsType_group_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:188
+#, java-format
+msgctxt "_UI_BindingsType_group_feature"
+msgid "Group"
+msgstr ""
+
+#: _UI_BindingsType_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:189
+#, java-format
+msgctxt "_UI_BindingsType_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_BindingsType_wiring_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:190
+#, java-format
+msgctxt "_UI_BindingsType_wiring_feature"
+msgid "Wiring"
+msgstr ""
+
+#: _UI_BindingsType_expression_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:191
+#, java-format
+msgctxt "_UI_BindingsType_expression_feature"
+msgid "Expression"
+msgstr ""
+
+#: _UI_BindingsType_beanId_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:192
+#, java-format
+msgctxt "_UI_BindingsType_beanId_feature"
+msgid "Bean Id"
+msgstr ""
+
+#: _UI_BindingsType_class_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:193
+#, java-format
+msgctxt "_UI_BindingsType_class_feature"
+msgid "Class"
+msgstr ""
+
+#: _UI_BindingsType_createOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:194
+#, java-format
+msgctxt "_UI_BindingsType_createOnElement_feature"
+msgid "Create On Element"
+msgstr ""
+
+#: _UI_BindingsType_createOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:195
+#, java-format
+msgctxt "_UI_BindingsType_createOnElementNS_feature"
+msgid "Create On Element NS"
+msgstr ""
+
+#: _UI_BindingsType_extendLifecycle_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:196
+#, java-format
+msgctxt "_UI_BindingsType_extendLifecycle_feature"
+msgid "Extend Lifecycle"
+msgstr ""
+
+#: _UI_DecodeParamType_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:197
+#, java-format
+msgctxt "_UI_DecodeParamType_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_DecodeParamType_name_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:198
+#, java-format
+msgctxt "_UI_DecodeParamType_name_feature"
+msgid "Name"
+msgstr ""
+
+#: _UI_DocumentRoot_bindings_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:199
+#, java-format
+msgctxt "_UI_DocumentRoot_bindings_feature"
+msgid "Bindings"
+msgstr ""
+
+#: _UI_DocumentRoot_decodeParam_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:200
+#, java-format
+msgctxt "_UI_DocumentRoot_decodeParam_feature"
+msgid "Decode Param"
+msgstr ""
+
+#: _UI_DocumentRoot_expression_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:201
+#, java-format
+msgctxt "_UI_DocumentRoot_expression_feature"
+msgid "Expression"
+msgstr ""
+
+#: _UI_DocumentRoot_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:202
+#, java-format
+msgctxt "_UI_DocumentRoot_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_DocumentRoot_wiring_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:203
+#, java-format
+msgctxt "_UI_DocumentRoot_wiring_feature"
+msgid "Wiring"
+msgstr ""
+
+#: _UI_ExpressionType_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:204
+#, java-format
+msgctxt "_UI_ExpressionType_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_ExpressionType_execOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:205
+#, java-format
+msgctxt "_UI_ExpressionType_execOnElement_feature"
+msgid "Exec On Element"
+msgstr ""
+
+#: _UI_ExpressionType_execOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:206
+#, java-format
+msgctxt "_UI_ExpressionType_execOnElementNS_feature"
+msgid "Exec On Element NS"
+msgstr ""
+
+#: _UI_ExpressionType_property_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:207
+#, java-format
+msgctxt "_UI_ExpressionType_property_feature"
+msgid "Property"
+msgstr ""
+
+#: _UI_ExpressionType_setterMethod_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:208
+#, java-format
+msgctxt "_UI_ExpressionType_setterMethod_feature"
+msgid "Setter Method"
+msgstr ""
+
+#: _UI_ValueType_decodeParam_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:209
+#, java-format
+msgctxt "_UI_ValueType_decodeParam_feature"
+msgid "Decode Param"
+msgstr ""
+
+#: _UI_ValueType_data_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:210
+#, java-format
+msgctxt "_UI_ValueType_data_feature"
+msgid "Data"
+msgstr ""
+
+#: _UI_ValueType_dataNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:211
+#, java-format
+msgctxt "_UI_ValueType_dataNS_feature"
+msgid "Data NS"
+msgstr ""
+
+#: _UI_ValueType_decoder_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:212
+#, java-format
+msgctxt "_UI_ValueType_decoder_feature"
+msgid "Decoder"
+msgstr ""
+
+#: _UI_ValueType_default_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:213
+#, java-format
+msgctxt "_UI_ValueType_default_feature"
+msgid "Default"
+msgstr ""
+
+#: _UI_ValueType_property_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:214
+#, java-format
+msgctxt "_UI_ValueType_property_feature"
+msgid "Property"
+msgstr ""
+
+#: _UI_ValueType_setterMethod_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:215
+#, java-format
+msgctxt "_UI_ValueType_setterMethod_feature"
+msgid "Setter Method"
+msgstr ""
+
+#: _UI_WiringType_beanIdRef_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:216
+#, java-format
+msgctxt "_UI_WiringType_beanIdRef_feature"
+msgid "Bean Id Ref"
+msgstr ""
+
+#: _UI_WiringType_property_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:217
+#, java-format
+msgctxt "_UI_WiringType_property_feature"
+msgid "Property"
+msgstr ""
+
+#: _UI_WiringType_setterMethod_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:218
+#, java-format
+msgctxt "_UI_WiringType_setterMethod_feature"
+msgid "Setter Method"
+msgstr ""
+
+#: _UI_WiringType_wireOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:219
+#, java-format
+msgctxt "_UI_WiringType_wireOnElement_feature"
+msgid "Wire On Element"
+msgstr ""
+
+#: _UI_WiringType_wireOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:220
+#, java-format
+msgctxt "_UI_WiringType_wireOnElementNS_feature"
+msgid "Wire On Element NS"
+msgstr ""
+
+#: _UI_Xsl_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:221
+#, java-format
+msgctxt "_UI_Xsl_type"
+msgid "Xsl"
+msgstr ""
+
+#: _UI_DocumentRoot_xsl_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:222
+#, java-format
+msgctxt "_UI_DocumentRoot_xsl_feature"
+msgid "Xsl"
+msgstr ""
+
+#: _UI_Xsl_template_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:223
+#, java-format
+msgctxt "_UI_Xsl_template_feature"
+msgid "Template"
+msgstr ""
+
+#: _UI_Xsl_use_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:224
+#, java-format
+msgctxt "_UI_Xsl_use_feature"
+msgid "Use"
+msgstr ""
+
+#: _UI_Xsl_param_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:225
+#, java-format
+msgctxt "_UI_Xsl_param_feature"
+msgid "Param"
+msgstr ""
+
+#: _UI_Xsl_applyBefore_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:226
+#, java-format
+msgctxt "_UI_Xsl_applyBefore_feature"
+msgid "Apply Before"
+msgstr ""
+
+#: _UI_Xsl_applyOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:227
+#, java-format
+msgctxt "_UI_Xsl_applyOnElement_feature"
+msgid "Apply On Element"
+msgstr ""
+
+#: _UI_Xsl_applyOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:228
+#, java-format
+msgctxt "_UI_Xsl_applyOnElementNS_feature"
+msgid "Apply On Element NS"
+msgstr ""
+
+#. 
+#: _UI_DocumentRoot_outputStream_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:230
+#, java-format
+msgctxt "_UI_DocumentRoot_outputStream_feature"
+msgid "Output Stream"
+msgstr ""
+
+#: _UI_HighWaterMark_mark_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:308
+#, java-format
+msgctxt "_UI_HighWaterMark_mark_feature"
+msgid "Mark"
+msgstr ""
+
+#: _UI_HighWaterMark_pollFrequency_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:309
+#, java-format
+msgctxt "_UI_HighWaterMark_pollFrequency_feature"
+msgid "Poll Frequency"
+msgstr ""
+
+#: _UI_HighWaterMark_timeout_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:310
+#, java-format
+msgctxt "_UI_HighWaterMark_timeout_feature"
+msgid "Timeout"
+msgstr ""
+
+#: _UI_OutputStream_fileNamePattern_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:234
+#, java-format
+msgctxt "_UI_OutputStream_fileNamePattern_feature"
+msgid "File Name Pattern"
+msgstr ""
+
+#: _UI_OutputStream_destinationDirectoryPattern_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:235
+#, java-format
+msgctxt "_UI_OutputStream_destinationDirectoryPattern_feature"
+msgid "Destination Directory Pattern"
+msgstr ""
+
+#: _UI_OutputStream_listFileNamePattern_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:236
+#, java-format
+msgctxt "_UI_OutputStream_listFileNamePattern_feature"
+msgid "List File Name Pattern"
+msgstr ""
+
+#: _UI_OutputStream_highWaterMark_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:237
+#, java-format
+msgctxt "_UI_OutputStream_highWaterMark_feature"
+msgid "High Water Mark"
+msgstr ""
+
+#: _UI_OutputStream_closeOnCondition_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:238
+#, java-format
+msgctxt "_UI_OutputStream_closeOnCondition_feature"
+msgid "Close On Condition"
+msgstr ""
+
+#: _UI_OutputStream_encoding_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:239
+#, java-format
+msgctxt "_UI_OutputStream_encoding_feature"
+msgid "Encoding"
+msgstr ""
+
+#: _UI_OutputStream_openOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:240
+#, java-format
+msgctxt "_UI_OutputStream_openOnElement_feature"
+msgid "Open On Element"
+msgstr ""
+
+#: _UI_OutputStream_openOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:241
+#, java-format
+msgctxt "_UI_OutputStream_openOnElementNS_feature"
+msgid "Open On Element NS"
+msgstr ""
+
+#: _UI_OutputStream_resourceName_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:242
+#, java-format
+msgctxt "_UI_OutputStream_resourceName_feature"
+msgid "Resource Name"
+msgstr ""
+
+#: _UI_HighWaterMark_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:298
+#, java-format
+msgctxt "_UI_HighWaterMark_type"
+msgid "High Water Mark"
+msgstr ""
+
+#: _UI_OutputStream_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:245
+#, java-format
+msgctxt "_UI_OutputStream_type"
+msgid "Output Stream"
+msgstr ""
+
+#. 
+#. CSV
+#: _UI_CSV_Reader_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:248
+#, java-format
+msgctxt "_UI_CSV_Reader_type"
+msgid "CSV Reader"
+msgstr ""
+
+#: _UI_Reader_encoding_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:353
+#, java-format
+msgctxt "_UI_Reader_encoding_feature"
+msgid "Encoding"
+msgstr ""
+
+#: _UI_Reader_fields_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:252
+#, java-format
+msgctxt "_UI_Reader_fields_feature"
+msgid "Fields"
+msgstr ""
+
+#: _UI_Reader_quote_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:253
+#, java-format
+msgctxt "_UI_Reader_quote_feature"
+msgid "Quote"
+msgstr ""
+
+#: _UI_Reader_separator_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:254
+#, java-format
+msgctxt "_UI_Reader_separator_feature"
+msgid "Separator"
+msgstr ""
+
+#: _UI_Reader_skipLines_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:255
+#, java-format
+msgctxt "_UI_Reader_skipLines_feature"
+msgid "Skip Lines"
+msgstr ""
+
+#. 
+#. DB routing
+#: _UI_Executor_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:259
+#, java-format
+msgctxt "_UI_Executor_type"
+msgid "Executor"
+msgstr ""
+
+#: _UI_ResultSet_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:260
+#, java-format
+msgctxt "_UI_ResultSet_type"
+msgid "Result Set"
+msgstr ""
+
+#: _UI_ResultSetRowSelector_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:261
+#, java-format
+msgctxt "_UI_ResultSetRowSelector_type"
+msgid "Result Set Row Selector"
+msgstr ""
+
+#. 
+#: _UI_DocumentRoot_executor_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:263
+#, java-format
+msgctxt "_UI_DocumentRoot_executor_feature"
+msgid "Executor"
+msgstr ""
+
+#: _UI_DocumentRoot_resultSetRowSelector_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:264
+#, java-format
+msgctxt "_UI_DocumentRoot_resultSetRowSelector_feature"
+msgid "Result Set Row Selector"
+msgstr ""
+
+#: _UI_Executor_statement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:265
+#, java-format
+msgctxt "_UI_Executor_statement_feature"
+msgid "Statement"
+msgstr ""
+
+#: _UI_Executor_resultSet_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:266
+#, java-format
+msgctxt "_UI_Executor_resultSet_feature"
+msgid "Result Set"
+msgstr ""
+
+#: _UI_Executor_datasource_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:267
+#, java-format
+msgctxt "_UI_Executor_datasource_feature"
+msgid "Datasource"
+msgstr ""
+
+#: _UI_Executor_executeBefore_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:268
+#, java-format
+msgctxt "_UI_Executor_executeBefore_feature"
+msgid "Execute Before"
+msgstr ""
+
+#: _UI_Executor_executeOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:269
+#, java-format
+msgctxt "_UI_Executor_executeOnElement_feature"
+msgid "Execute On Element"
+msgstr ""
+
+#: _UI_Executor_executeOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:270
+#, java-format
+msgctxt "_UI_Executor_executeOnElementNS_feature"
+msgid "Execute On Element NS"
+msgstr ""
+
+#: _UI_ResultSet_name_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:271
+#, java-format
+msgctxt "_UI_ResultSet_name_feature"
+msgid "Name"
+msgstr ""
+
+#: _UI_ResultSet_scope_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:272
+#, java-format
+msgctxt "_UI_ResultSet_scope_feature"
+msgid "Scope"
+msgstr ""
+
+#: _UI_ResultSet_timeToLive_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:273
+#, java-format
+msgctxt "_UI_ResultSet_timeToLive_feature"
+msgid "Time To Live"
+msgstr ""
+
+#: _UI_ResultSetRowSelector_where_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:274
+#, java-format
+msgctxt "_UI_ResultSetRowSelector_where_feature"
+msgid "Where"
+msgstr ""
+
+#: _UI_ResultSetRowSelector_failedSelectError_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:275
+#, java-format
+msgctxt "_UI_ResultSetRowSelector_failedSelectError_feature"
+msgid "Failed Select Error"
+msgstr ""
+
+#: _UI_ResultSetRowSelector_beanId_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:276
+#, java-format
+msgctxt "_UI_ResultSetRowSelector_beanId_feature"
+msgid "Bean Id"
+msgstr ""
+
+#: _UI_ResultSetRowSelector_executeBefore_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:277
+#, java-format
+msgctxt "_UI_ResultSetRowSelector_executeBefore_feature"
+msgid "Execute Before"
+msgstr ""
+
+#: _UI_ResultSetRowSelector_resultSetName_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:278
+#, java-format
+msgctxt "_UI_ResultSetRowSelector_resultSetName_feature"
+msgid "Result Set Name"
+msgstr ""
+
+#: _UI_ResultSetRowSelector_selectRowOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:279
+#, java-format
+msgctxt "_UI_ResultSetRowSelector_selectRowOnElement_feature"
+msgid "Select Row On Element"
+msgstr ""
+
+#. 
+#: _UI_ResultSetScopeType_EXECUTION_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:281
+#, java-format
+msgctxt "_UI_ResultSetScopeType_EXECUTION_literal"
+msgid "EXECUTION"
+msgstr ""
+
+#: _UI_ResultSetScopeType_APPLICATION_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:282
+#, java-format
+msgctxt "_UI_ResultSetScopeType_APPLICATION_literal"
+msgid "APPLICATION"
+msgstr ""
+
+#. 
+#. IO routing
+#: _UI_IO_Router_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:285
+#, java-format
+msgctxt "_UI_IO_Router_type"
+msgid "IO Router"
+msgstr ""
+
+#: _UI_DocumentRoot_router_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:307
+#, java-format
+msgctxt "_UI_DocumentRoot_router_feature"
+msgid "Router"
+msgstr ""
+
+#: _UI_Router_beanId_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:324
+#, java-format
+msgctxt "_UI_Router_beanId_feature"
+msgid "Bean Id"
+msgstr ""
+
+#: _UI_Router_encoding_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:289
+#, java-format
+msgctxt "_UI_Router_encoding_feature"
+msgid "Encoding"
+msgstr ""
+
+#: _UI_Router_executeBefore_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:326
+#, java-format
+msgctxt "_UI_Router_executeBefore_feature"
+msgid "Execute Before"
+msgstr ""
+
+#: _UI_Router_resourceName_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:291
+#, java-format
+msgctxt "_UI_Router_resourceName_feature"
+msgid "Resource Name"
+msgstr ""
+
+#: _UI_Router_routeOnElement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:327
+#, java-format
+msgctxt "_UI_Router_routeOnElement_feature"
+msgid "Route On Element"
+msgstr ""
+
+#: _UI_Router_routeOnElementNS_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:328
+#, java-format
+msgctxt "_UI_Router_routeOnElementNS_feature"
+msgid "Route On Element NS"
+msgstr ""
+
+#. 
+#. JMS routing
+#: _UI_Connection_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:297
+#, java-format
+msgctxt "_UI_Connection_type"
+msgid "Connection"
+msgstr ""
+
+#: _UI_Jndi_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:299
+#, java-format
+msgctxt "_UI_Jndi_type"
+msgid "Jndi"
+msgstr ""
+
+#: _UI_Message_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:300
+#, java-format
+msgctxt "_UI_Message_type"
+msgid "Message"
+msgstr ""
+
+#: _UI_JMS_Router_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:301
+#, java-format
+msgctxt "_UI_JMS_Router_type"
+msgid "JMS Router"
+msgstr ""
+
+#: _UI_Session_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:302
+#, java-format
+msgctxt "_UI_Session_type"
+msgid "Session"
+msgstr ""
+
+#. 
+#: _UI_Connection_factory_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:304
+#, java-format
+msgctxt "_UI_Connection_factory_feature"
+msgid "Factory"
+msgstr ""
+
+#: _UI_Connection_securityCredential_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:305
+#, java-format
+msgctxt "_UI_Connection_securityCredential_feature"
+msgid "Security Credential"
+msgstr ""
+
+#: _UI_Connection_securityPrincipal_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:306
+#, java-format
+msgctxt "_UI_Connection_securityPrincipal_feature"
+msgid "Security Principal"
+msgstr ""
+
+#: _UI_Jndi_contextFactory_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:311
+#, java-format
+msgctxt "_UI_Jndi_contextFactory_feature"
+msgid "Context Factory"
+msgstr ""
+
+#: _UI_Jndi_namingFactory_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:312
+#, java-format
+msgctxt "_UI_Jndi_namingFactory_feature"
+msgid "Naming Factory"
+msgstr ""
+
+#: _UI_Jndi_providerUrl_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:313
+#, java-format
+msgctxt "_UI_Jndi_providerUrl_feature"
+msgid "Provider Url"
+msgstr ""
+
+#: _UI_Message_correlationIdPattern_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:314
+#, java-format
+msgctxt "_UI_Message_correlationIdPattern_feature"
+msgid "Correlation Id Pattern"
+msgstr ""
+
+#: _UI_Message_deliveryMode_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:315
+#, java-format
+msgctxt "_UI_Message_deliveryMode_feature"
+msgid "Delivery Mode"
+msgstr ""
+
+#: _UI_Message_priority_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:316
+#, java-format
+msgctxt "_UI_Message_priority_feature"
+msgid "Priority"
+msgstr ""
+
+#: _UI_Message_timeToLive_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:317
+#, java-format
+msgctxt "_UI_Message_timeToLive_feature"
+msgid "Time To Live"
+msgstr ""
+
+#: _UI_Message_type_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:318
+#, java-format
+msgctxt "_UI_Message_type_feature"
+msgid "Type"
+msgstr ""
+
+#: _UI_Router_message_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:319
+#, java-format
+msgctxt "_UI_Router_message_feature"
+msgid "Message"
+msgstr ""
+
+#: _UI_Router_connection_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:320
+#, java-format
+msgctxt "_UI_Router_connection_feature"
+msgid "Connection"
+msgstr ""
+
+#: _UI_Router_session_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:321
+#, java-format
+msgctxt "_UI_Router_session_feature"
+msgid "Session"
+msgstr ""
+
+#: _UI_Router_jndi_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:322
+#, java-format
+msgctxt "_UI_Router_jndi_feature"
+msgid "Jndi"
+msgstr ""
+
+#: _UI_Router_highWaterMark_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:323
+#, java-format
+msgctxt "_UI_Router_highWaterMark_feature"
+msgid "High Water Mark"
+msgstr ""
+
+#: _UI_Router_destination_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:325
+#, java-format
+msgctxt "_UI_Router_destination_feature"
+msgid "Destination"
+msgstr ""
+
+#: _UI_Session_acknowledgeMode_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:329
+#, java-format
+msgctxt "_UI_Session_acknowledgeMode_feature"
+msgid "Acknowledge Mode"
+msgstr ""
+
+#: _UI_Session_transacted_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:330
+#, java-format
+msgctxt "_UI_Session_transacted_feature"
+msgid "Transacted"
+msgstr ""
+
+#. 
+#: _UI_AcknowledgeMode_AUTOACKNOWLEDGE_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:332
+#, java-format
+msgctxt "_UI_AcknowledgeMode_AUTOACKNOWLEDGE_literal"
+msgid "AUTO_ACKNOWLEDGE"
+msgstr ""
+
+#: _UI_AcknowledgeMode_CLIENTACKNOWLEDGE_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:333
+#, java-format
+msgctxt "_UI_AcknowledgeMode_CLIENTACKNOWLEDGE_literal"
+msgid "CLIENT_ACKNOWLEDGE"
+msgstr ""
+
+#: _UI_AcknowledgeMode_DUPSOKACKNOWLEDGE_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:334
+#, java-format
+msgctxt "_UI_AcknowledgeMode_DUPSOKACKNOWLEDGE_literal"
+msgid "DUPS_OK_ACKNOWLEDGE"
+msgstr ""
+
+#: _UI_DeliveryMode_persistent_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:335
+#, java-format
+msgctxt "_UI_DeliveryMode_persistent_literal"
+msgid "persistent"
+msgstr ""
+
+#: _UI_DeliveryMode_nonPersistent_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:336
+#, java-format
+msgctxt "_UI_DeliveryMode_nonPersistent_literal"
+msgid "non-persistent"
+msgstr ""
+
+#: _UI_MessageType_TextMessage_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:337
+#, java-format
+msgctxt "_UI_MessageType_TextMessage_literal"
+msgid "TextMessage"
+msgstr ""
+
+#: _UI_MessageType_ObjectMessage_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:338
+#, java-format
+msgctxt "_UI_MessageType_ObjectMessage_literal"
+msgid "ObjectMessage"
+msgstr ""
+
+#: _UI_MessageType_MapMessage_literal
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:339
+#, java-format
+msgctxt "_UI_MessageType_MapMessage_literal"
+msgid "MapMessage"
+msgstr ""
+
+#. 
+#. JSON
+#: _UI_Key_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:343
+#, java-format
+msgctxt "_UI_Key_type"
+msgid "Key"
+msgstr ""
+
+#: _UI_KeyMap_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:344
+#, java-format
+msgctxt "_UI_KeyMap_type"
+msgid "Key Map"
+msgstr ""
+
+#: _UI_Json_Reader_type
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:345
+#, java-format
+msgctxt "_UI_Json_Reader_type"
+msgid "Json Reader"
+msgstr ""
+
+#: _UI_Key_value_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:347
+#, java-format
+msgctxt "_UI_Key_value_feature"
+msgid "Value"
+msgstr ""
+
+#: _UI_Key_from_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:348
+#, java-format
+msgctxt "_UI_Key_from_feature"
+msgid "From"
+msgstr ""
+
+#: _UI_Key_to_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:349
+#, java-format
+msgctxt "_UI_Key_to_feature"
+msgid "To"
+msgstr ""
+
+#: _UI_KeyMap_key_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:350
+#, java-format
+msgctxt "_UI_KeyMap_key_feature"
+msgid "Key"
+msgstr ""
+
+#: _UI_JsonReader_keyMap_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:351
+#, java-format
+msgctxt "_UI_JsonReader_keyMap_feature"
+msgid "Key Map"
+msgstr ""
+
+#: _UI_Reader_arrayElementName_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:352
+#, java-format
+msgctxt "_UI_Reader_arrayElementName_feature"
+msgid "Array Element Name"
+msgstr ""
+
+#: _UI_Reader_illegalElementNameCharReplacement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:354
+#, java-format
+msgctxt "_UI_Reader_illegalElementNameCharReplacement_feature"
+msgid "Illegal Element Name Char Replacement"
+msgstr ""
+
+#: _UI_Reader_keyPrefixOnNumeric_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:355
+#, java-format
+msgctxt "_UI_Reader_keyPrefixOnNumeric_feature"
+msgid "Key Prefix On Numeric"
+msgstr ""
+
+#: _UI_Reader_keyWhitspaceReplacement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:356
+#, java-format
+msgctxt "_UI_Reader_keyWhitspaceReplacement_feature"
+msgid "Key Whitspace Replacement"
+msgstr ""
+
+#: _UI_Reader_nullValueReplacement_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:357
+#, java-format
+msgctxt "_UI_Reader_nullValueReplacement_feature"
+msgid "Null Value Replacement"
+msgstr ""
+
+#: _UI_Reader_rootName_feature
+#: ../../../smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:358
+#, java-format
+msgctxt "_UI_Reader_rootName_feature"
+msgid "Root Name"
+msgstr ""
+
 #: blurb
 #: ../../../smooks/plugins/org.jboss.tools.smooks.ui/about.properties:1
 #, java-format
@@ -140,827 +2381,479 @@ msgid ""
 "Visit http://jboss.org/tools"
 msgstr ""
 
+#. 
+#. <copyright>
+#. </copyright>
+#. 
+#. $Id$
 #: pluginName
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:1
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:7
 #, java-format
 msgctxt "pluginName"
 msgid "Smooks Tools"
 msgstr ""
 
-#: MappingModel.Source
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/analyzer/messages.properties:1
+#. 
+#: _UI_EdiEditor_menu
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:10
 #, java-format
-msgctxt "MappingModel.Source"
-msgid "Source : "
+msgctxt "_UI_EdiEditor_menu"
+msgid "&Edi Editor"
 msgstr ""
 
-#: MappingModel.SourceIsNull
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/analyzer/messages.properties:2
+#: _UI_CommonEditor_menu
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:11
 #, java-format
-msgctxt "MappingModel.SourceIsNull"
-msgid "Source is NULL "
-msgstr ""
-
-#: MappingModel.Target
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/analyzer/messages.properties:3
-#, java-format
-msgctxt "MappingModel.Target"
-msgid ";Target : "
-msgstr ""
-
-#: MappingModel.TargetIsNull
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/analyzer/messages.properties:4
-#, java-format
-msgctxt "MappingModel.TargetIsNull"
-msgid ";Target is NULL "
+msgctxt "_UI_CommonEditor_menu"
+msgid "&Common Editor"
 msgstr ""
 
 #. 
-#: SmooksFileBuilder.ResourceIsNull
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/analyzer/messages.properties:10
+#: _UI_CreateChild_menu_item
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:13
 #, java-format
-msgctxt "SmooksFileBuilder.ResourceIsNull"
-msgid "SmooksResource is NULL"
+msgctxt "_UI_CreateChild_menu_item"
+msgid "&New Child"
 msgstr ""
 
-#: Java2XMLAnalyzer_CantFindRoot
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/java2xml/analyzer/messages.properties:1
+#: _UI_CreateSibling_menu_item
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:14
 #, java-format
-msgctxt "Java2XMLAnalyzer_CantFindRoot"
-msgid "Can not find the root element"
-msgstr ""
-
-#: Java2XMLAnalyzer_CantGenerateConfig
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/java2xml/analyzer/messages.properties:2
-#, java-format
-msgctxt "Java2XMLAnalyzer_CantGenerateConfig"
-msgid "Java2XML is not supported currently."
-msgstr ""
-
-#: Java2XMLAnalyzer_DontSupportJ2X
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/java2xml/analyzer/messages.properties:3
-#, java-format
-msgctxt "Java2XMLAnalyzer_DontSupportJ2X"
-msgid "The Smooks editor currently does not support parsing Java2XML configuration files."
-msgstr ""
-
-#: Java2XMLAnalyzer_Warning
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/java2xml/analyzer/messages.properties:4
-#, java-format
-msgctxt "Java2XMLAnalyzer_Warning"
-msgid "Warning"
-msgstr ""
-
-#: JavaBeanAnalyzer_ClassNotExist
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/analyzer/messages.properties:1
-#, java-format
-msgctxt "JavaBeanAnalyzer_ClassNotExist"
-msgid "Can not find the class : {0}"
-msgstr ""
-
-#: JavaBeanAnalyzer_ConnectionQuestion
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/analyzer/messages.properties:2
-#, java-format
-msgctxt "JavaBeanAnalyzer_ConnectionQuestion"
-msgid "Root Node Connection"
-msgstr ""
-
-#: JavaBeanAnalyzer_ConnectRootQuestion
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/analyzer/messages.properties:3
-#, java-format
-msgctxt "JavaBeanAnalyzer_ConnectRootQuestion"
-msgid ""
-"To ensure a correct mapping, the root nodes should be connected.\n"
-"Do you want to connect them now?"
-msgstr ""
-
-#: JavaBeanAnalyzer_DoesNotExist
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/analyzer/messages.properties:4
-#, java-format
-msgctxt "JavaBeanAnalyzer_DoesNotExist"
-msgid "Does not exist"
-msgstr ""
-
-#: JavaModelConnectionResolveCommand_SmooksContextIsNull
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/analyzer/messages.properties:5
-#, java-format
-msgctxt "JavaModelConnectionResolveCommand_SmooksContextIsNull"
-msgid "Smooks generated context is NULL"
-msgstr ""
-
-#: JavaBeanModel_JavaBeanName
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/model/messages.properties:1
-#, java-format
-msgctxt "JavaBeanModel_JavaBeanName"
-msgid "JavaBean Name : {0}"
-msgstr ""
-
-#: JavaBeanModel_JavaBeanDetails
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/model/messages.properties:2
-#, java-format
-msgctxt "JavaBeanModel_JavaBeanDetails"
-msgid "JavaBean Name : {0};Class : {1}"
-msgstr ""
-
-#: JavaBeanConfigWizardPage_JavaBeanSelectionDialogDesc
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:1
-#, java-format
-msgctxt "JavaBeanConfigWizardPage_JavaBeanSelectionDialogDesc"
-msgid "Select the JavaBean class"
-msgstr ""
-
-#: JavaBeanConfigWizardPage_JavaBeanSelectionDialogErrorMsg
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:2
-#, java-format
-msgctxt "JavaBeanConfigWizardPage_JavaBeanSelectionDialogErrorMsg"
-msgid "Please select a Java project."
-msgstr ""
-
-#: JavaBeanConfigWizardPage_JavaBeanSelectionDialogTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:3
-#, java-format
-msgctxt "JavaBeanConfigWizardPage_JavaBeanSelectionDialogTitle"
-msgid "JavaBean Class selection page"
+msgctxt "_UI_CreateSibling_menu_item"
+msgid "N&ew Sibling"
 msgstr ""
 
 #. 
-#: JavaBeanModelLoadComposite_ClassNameText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:7
+#: _UI_ShowPropertiesView_menu_item
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:16
 #, java-format
-msgctxt "JavaBeanModelLoadComposite_ClassNameText"
-msgid "JavaBean Model List :"
+msgctxt "_UI_ShowPropertiesView_menu_item"
+msgid "Show &Properties View"
 msgstr ""
 
-#: JavaBeanModelLoadComposite_InitRunnableContextException
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:8
+#: _UI_RefreshViewer_menu_item
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:17
 #, java-format
-msgctxt "JavaBeanModelLoadComposite_InitRunnableContextException"
-msgid "Unable to init IRunnableContext"
-msgstr ""
-
-#: JavaBeanModelLoadComposite_SearchJavaType
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:9
-#, java-format
-msgctxt "JavaBeanModelLoadComposite_SearchJavaType"
-msgid "Search Java Type"
-msgstr ""
-
-#: JavaBeanModelLoadComposite_SourceJavaBean
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:10
-#, java-format
-msgctxt "JavaBeanModelLoadComposite_SourceJavaBean"
-msgid "Source Java Bean:"
-msgstr ""
-
-#: JavaBeanPropertiesSection_Browse
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:11
-#, java-format
-msgctxt "JavaBeanPropertiesSection_Browse"
-msgid "Browse"
-msgstr ""
-
-#: JavaBeanPropertiesSection_ClassBrowse
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:12
-#, java-format
-msgctxt "JavaBeanPropertiesSection_ClassBrowse"
-msgid "Browse class"
-msgstr ""
-
-#: JavaBeanPropertiesSection_CustomTypeBrowse
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:13
-#, java-format
-msgctxt "JavaBeanPropertiesSection_CustomTypeBrowse"
-msgid "Browse custom type"
-msgstr ""
-
-#: JavaBeanPropertiesSection_ErrorMessageTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:14
-#, java-format
-msgctxt "JavaBeanPropertiesSection_ErrorMessageTitle"
-msgid "Error"
-msgstr ""
-
-#: JavaBeanPropertiesSection_JavaBeanProperties
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:15
-#, java-format
-msgctxt "JavaBeanPropertiesSection_JavaBeanProperties"
-msgid "JavaBean Properties"
-msgstr ""
-
-#: JavaBeanPropertiesSection_JavaType
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:16
-#, java-format
-msgctxt "JavaBeanPropertiesSection_JavaType"
-msgid "Java Type:"
-msgstr ""
-
-#: JavaBeanPropertiesSection_MappingType
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:17
-#, java-format
-msgctxt "JavaBeanPropertiesSection_MappingType"
-msgid "Mapping Type :"
-msgstr ""
-
-#: JavaBeanPropertiesSection_SearchJavaType
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:18
-#, java-format
-msgctxt "JavaBeanPropertiesSection_SearchJavaType"
-msgid "Search Java Type"
-msgstr ""
-
-#: JavaBeanPropertiesSection_TargetInstanceClass
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:19
-#, java-format
-msgctxt "JavaBeanPropertiesSection_TargetInstanceClass"
-msgid "Target instance class name :"
-msgstr ""
-
-#: JavaBeanPropertiesSection_TypeDialogErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/javabean/ui/messages.properties:20
-#, java-format
-msgctxt "JavaBeanPropertiesSection_TypeDialogErrorMessage"
-msgid "Unable to open type selection dialog"
-msgstr ""
-
-#: AbstractSmooksModelDetailPage.DetailSectionTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:1
-#, java-format
-msgctxt "AbstractSmooksModelDetailPage.DetailSectionTitle"
-msgid "Detail Information"
-msgstr ""
-
-#: DateTypeDetailPage.DateTypeFormatText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:2
-#, java-format
-msgctxt "DateTypeDetailPage.DateTypeFormatText"
-msgid "Format:"
-msgstr ""
-
-#: DateTypeDetailPage.DateTypeLocaleContryText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:3
-#, java-format
-msgctxt "DateTypeDetailPage.DateTypeLocaleContryText"
-msgid "Locale-Country:"
-msgstr ""
-
-#: DateTypeDetailPage.DateTypeLocaleLanguageText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:4
-#, java-format
-msgctxt "DateTypeDetailPage.DateTypeLocaleLanguageText"
-msgid "Locale-Language:"
-msgstr ""
-
-#: DocumentResourceTypeDetailPage.BrowseFile
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:5
-#, java-format
-msgctxt "DocumentResourceTypeDetailPage.BrowseFile"
-msgid "Browse..."
-msgstr ""
-
-#: DocumentResourceTypeDetailPage.DocPath
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:6
-#, java-format
-msgctxt "DocumentResourceTypeDetailPage.DocPath"
-msgid "Document Path:"
-msgstr ""
-
-#: DocumentResourceTypeDetailPage.Selector
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:7
-#, java-format
-msgctxt "DocumentResourceTypeDetailPage.Selector"
-msgid "Selector:"
-msgstr ""
-
-#: SmooksGraphicalFormPage.CleanErrorsDialogContents1
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:8
-#, java-format
-msgctxt "SmooksGraphicalFormPage.CleanErrorsDialogContents1"
-msgid ""
-"There are errors in the graphical representation. Correct these before saving?\n"
-""
-msgstr ""
-
-#: SmooksGraphicalFormPage.CleanErrorsDialogContents2
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:9
-#, java-format
-msgctxt "SmooksGraphicalFormPage.CleanErrorsDialogContents2"
-msgid "Click \"Yes\" to return to the editor, or \"No\" to save file with errors."
-msgstr ""
-
-#: SmooksGraphicalFormPage.CleanErrorsDialogTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:10
-#, java-format
-msgctxt "SmooksGraphicalFormPage.CleanErrorsDialogTitle"
-msgid "Please correct the errors"
-msgstr ""
-
-#: SmooksGraphicalFormPage.FillViewerErrorContent
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:11
-#, java-format
-msgctxt "SmooksGraphicalFormPage.FillViewerErrorContent"
-msgid ""
-"An error occurred during loading data into the viewer:\n"
-""
-msgstr ""
-
-#: SmooksGraphicalFormPage.FillViewerErrorTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:12
-#, java-format
-msgctxt "SmooksGraphicalFormPage.FillViewerErrorTitle"
-msgid "Error"
-msgstr ""
-
-#: SmooksGraphicalFormPage.MappingPageFormTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:13
-#, java-format
-msgctxt "SmooksGraphicalFormPage.MappingPageFormTitle"
-msgid "Data Mapping Page"
-msgstr ""
-
-#: SmooksGraphicalFormPage.MappingSectionDescription
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:14
-#, java-format
-msgctxt "SmooksGraphicalFormPage.MappingSectionDescription"
-msgid "Edit source to target links"
-msgstr ""
-
-#: SmooksGraphicalFormPage.MappingSectionTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:15
-#, java-format
-msgctxt "SmooksGraphicalFormPage.MappingSectionTitle"
-msgid "Graphical Mapping Panel"
-msgstr ""
-
-#: SmooksGraphicalFormPage.ReselectViewerContentDlgContent
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:16
-#, java-format
-msgctxt "SmooksGraphicalFormPage.ReselectViewerContentDlgContent"
-msgid "Do you want to change the data type? If you do so , all current links will be cleared"
-msgstr ""
-
-#: SmooksGraphicalFormPage.ReselectViewerContentDlgTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:17
-#, java-format
-msgctxt "SmooksGraphicalFormPage.ReselectViewerContentDlgTitle"
-msgid "Change data type?"
-msgstr ""
-
-#: SmooksGraphicalFormPage.SaveErrorDlgContent
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:18
-#, java-format
-msgctxt "SmooksGraphicalFormPage.SaveErrorDlgContent"
-msgid "Errors during file save."
-msgstr ""
-
-#: SmooksGraphicalFormPage.SaveErrorDlgTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:19
-#, java-format
-msgctxt "SmooksGraphicalFormPage.SaveErrorDlgTitle"
-msgid "Save Error"
-msgstr ""
-
-#: SmooksGraphicalFormPage.SourceSelectLinkText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:20
-#, java-format
-msgctxt "SmooksGraphicalFormPage.SourceSelectLinkText"
-msgid "Source Select"
-msgstr ""
-
-#: SmooksGraphicalFormPage.TargetSelectLinkText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:21
-#, java-format
-msgctxt "SmooksGraphicalFormPage.TargetSelectLinkText"
-msgid "Target Select"
-msgstr ""
-
-#: SmooksNormalContentEditFormPage.ConfigurationPageText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:22
-#, java-format
-msgctxt "SmooksNormalContentEditFormPage.ConfigurationPageText"
-msgid "Configuration Page"
-msgstr ""
-
-#: SmooksNormalContentEditFormPage.SmooksParseType
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:23
-#, java-format
-msgctxt "SmooksNormalContentEditFormPage.SmooksParseType"
-msgid "Other Configurations"
+msgctxt "_UI_RefreshViewer_menu_item"
+msgid "&Refresh"
 msgstr ""
 
 #. 
-#: SmooksResourceConfigFormBlock.DateType
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:28
+#: _UI_SelectionPage_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:19
 #, java-format
-msgctxt "SmooksResourceConfigFormBlock.DateType"
-msgid "Resource configurations"
+msgctxt "_UI_SelectionPage_label"
+msgid "Selection"
 msgstr ""
 
-#: SmooksResourceConfigFormBlock.DeleteButton
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:29
+#: _UI_ParentPage_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:20
 #, java-format
-msgctxt "SmooksResourceConfigFormBlock.DeleteButton"
-msgid "Delete"
+msgctxt "_UI_ParentPage_label"
+msgid "Parent"
 msgstr ""
 
-#: SmooksResourceConfigFormBlock.DownButton
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:30
+#: _UI_ListPage_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:21
 #, java-format
-msgctxt "SmooksResourceConfigFormBlock.DownButton"
-msgid "Down"
+msgctxt "_UI_ListPage_label"
+msgid "List"
 msgstr ""
 
-#: SmooksResourceConfigFormBlock.NewButton
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:31
+#: _UI_TreePage_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:22
 #, java-format
-msgctxt "SmooksResourceConfigFormBlock.NewButton"
+msgctxt "_UI_TreePage_label"
+msgid "Tree"
+msgstr ""
+
+#: _UI_TablePage_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:23
+#, java-format
+msgctxt "_UI_TablePage_label"
+msgid "Table"
+msgstr ""
+
+#: _UI_TreeWithColumnsPage_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:24
+#, java-format
+msgctxt "_UI_TreeWithColumnsPage_label"
+msgid "Tree with Columns"
+msgstr ""
+
+#: _UI_ObjectColumn_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:25
+#, java-format
+msgctxt "_UI_ObjectColumn_label"
+msgid "Object"
+msgstr ""
+
+#: _UI_SelfColumn_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:26
+#, java-format
+msgctxt "_UI_SelfColumn_label"
+msgid "Self"
+msgstr ""
+
+#. 
+#: _UI_NoObjectSelected
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:30
+#, java-format
+msgctxt "_UI_NoObjectSelected"
+msgid "Selected Nothing"
+msgstr ""
+
+#: _UI_SingleObjectSelected
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:31
+#, java-format
+msgctxt "_UI_SingleObjectSelected"
+msgid "Selected Object: {0}"
+msgstr ""
+
+#: _UI_MultiObjectSelected
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:32
+#, java-format
+msgctxt "_UI_MultiObjectSelected"
+msgid "Selected {0} Objects"
+msgstr ""
+
+#. 
+#: _UI_OpenEditorError_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:34
+#, java-format
+msgctxt "_UI_OpenEditorError_label"
+msgid "Open Editor"
+msgstr ""
+
+#. 
+#: _UI_Wizard_category
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:36
+#, java-format
+msgctxt "_UI_Wizard_category"
+msgid "Example EMF Model Creation Wizards"
+msgstr ""
+
+#. 
+#: _UI_CreateModelError_message
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:38
+#, java-format
+msgctxt "_UI_CreateModelError_message"
+msgid "Problems encountered in file \"{0}\""
+msgstr ""
+
+#. 
+#: _UI_EdiModelWizard_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:40
+#, java-format
+msgctxt "_UI_EdiModelWizard_label"
+msgid "Edi Model"
+msgstr ""
+
+#: _UI_EdiModelWizard_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:41
+#, java-format
+msgctxt "_UI_EdiModelWizard_description"
+msgid "Create a new Edi model"
+msgstr ""
+
+#. 
+#: _UI_EdiEditor_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:43
+#, java-format
+msgctxt "_UI_EdiEditor_label"
+msgid "Edi Model Editor"
+msgstr ""
+
+#. 
+#: _UI_EdiEditorFilenameDefaultBase
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:45
+#, java-format
+msgctxt "_UI_EdiEditorFilenameDefaultBase"
+msgid "My"
+msgstr ""
+
+#: _UI_EdiEditorFilenameExtensions
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:46
+#, java-format
+msgctxt "_UI_EdiEditorFilenameExtensions"
+msgid "edi"
+msgstr ""
+
+#. 
+#: _UI_CommonModelWizard_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:48
+#, java-format
+msgctxt "_UI_CommonModelWizard_label"
+msgid "Common Model"
+msgstr ""
+
+#: _UI_CommonModelWizard_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:49
+#, java-format
+msgctxt "_UI_CommonModelWizard_description"
+msgid "Create a new Common model"
+msgstr ""
+
+#. 
+#: _UI_CommonEditor_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:51
+#, java-format
+msgctxt "_UI_CommonEditor_label"
+msgid "Common Model Editor"
+msgstr ""
+
+#. 
+#: _UI_CommonEditorFilenameDefaultBase
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:53
+#, java-format
+msgctxt "_UI_CommonEditorFilenameDefaultBase"
+msgid "My"
+msgstr ""
+
+#: _UI_CommonEditorFilenameExtensions
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:54
+#, java-format
+msgctxt "_UI_CommonEditorFilenameExtensions"
+msgid "common"
+msgstr ""
+
+#. 
+#: _UI_Wizard_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:56
+#, java-format
+msgctxt "_UI_Wizard_label"
 msgid "New"
 msgstr ""
 
-#: SmooksResourceConfigFormBlock.NULLString
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:32
+#. 
+#: _WARN_FilenameExtension
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:58
 #, java-format
-msgctxt "SmooksResourceConfigFormBlock.NULLString"
-msgid "<NULL>"
+msgctxt "_WARN_FilenameExtension"
+msgid "The file name must end in ''.{0}''"
 msgstr ""
 
-#: SmooksResourceConfigFormBlock.TemplateFile
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:33
+#: _WARN_FilenameExtensions
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:59
 #, java-format
-msgctxt "SmooksResourceConfigFormBlock.TemplateFile"
-msgid "Template File:"
+msgctxt "_WARN_FilenameExtensions"
+msgid "The file name must have one of the following extensions: {0}"
 msgstr ""
 
 #. 
-#: SmooksResourceConfigFormBlock.UpButton
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:38
+#: _UI_ModelObject
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:61
 #, java-format
-msgctxt "SmooksResourceConfigFormBlock.UpButton"
-msgid "Up"
+msgctxt "_UI_ModelObject"
+msgid "&Model Object"
 msgstr ""
 
-#: TypeIDSelectionWizard.TypeIDSelection
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:39
+#: _UI_XMLEncoding
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:62
 #, java-format
-msgctxt "TypeIDSelectionWizard.TypeIDSelection"
-msgid "TypeID Selection"
+msgctxt "_UI_XMLEncoding"
+msgid "&XML Encoding"
 msgstr ""
 
-#: TypeIDSelectionWizardPage.NameColumn
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:40
+#: _UI_XMLEncodingChoices
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:63
 #, java-format
-msgctxt "TypeIDSelectionWizardPage.NameColumn"
-msgid "Name"
+msgctxt "_UI_XMLEncodingChoices"
+msgid "UTF-8 ASCII UTF-16 UTF-16BE UTF-16LE ISO-8859-1"
 msgstr ""
 
-#. 
-#: TypeIDSelectionWizardPage.TypeIDSelectionWizardPageDescription
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:46
+#: _UI_Wizard_initial_object_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:64
 #, java-format
-msgctxt "TypeIDSelectionWizardPage.TypeIDSelectionWizardPageDescription"
-msgid "Select the data type for source/target data"
-msgstr ""
-
-#: TypeIDSelectionWizardPage.TypeIDSelectionWizardPageTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:47
-#, java-format
-msgctxt "TypeIDSelectionWizardPage.TypeIDSelectionWizardPageTitle"
-msgid "Select Source/Target Data Type"
-msgstr ""
-
-#: TypeIDSelectionWizardPage.WarningMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/editors/messages.properties:48
-#, java-format
-msgctxt "TypeIDSelectionWizardPage.WarningMessage"
-msgid "Please select the data type first"
-msgstr ""
-
-#: ConnectionPropertySection.ConnectionPropertiesSecionText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:1
-#, java-format
-msgctxt "ConnectionPropertySection.ConnectionPropertiesSecionText"
-msgid "Mapping Properties"
-msgstr ""
-
-#: ConnectionPropertySection.DeleteButtonText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:2
-#, java-format
-msgctxt "ConnectionPropertySection.DeleteButtonText"
-msgid "Delete  "
-msgstr ""
-
-#: ConnectionPropertySection.NameColumnText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:3
-#, java-format
-msgctxt "ConnectionPropertySection.NameColumnText"
-msgid "Name"
-msgstr ""
-
-#: ConnectionPropertySection.NewButtonText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:4
-#, java-format
-msgctxt "ConnectionPropertySection.NewButtonText"
-msgid "New  "
-msgstr ""
-
-#: ConnectionPropertySection.ValueColumnText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:5
-#, java-format
-msgctxt "ConnectionPropertySection.ValueColumnText"
-msgid "Value"
-msgstr ""
-
-#: SmooksResourceChangeListener.ConverFileMsg1
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:6
-#, java-format
-msgctxt "SmooksResourceChangeListener.ConverFileMsg1"
-msgid "File "
-msgstr ""
-
-#: SmooksResourceChangeListener.ConverFileMsg2
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:7
-#, java-format
-msgctxt "SmooksResourceChangeListener.ConverFileMsg2"
-msgid " already exists. Overwrite the file?"
-msgstr ""
-
-#: SmooksResourceChangeListener.CoverFile
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:8
-#, java-format
-msgctxt "SmooksResourceChangeListener.CoverFile"
-msgid "Cover"
+msgctxt "_UI_Wizard_initial_object_description"
+msgid "Select a model object to create"
 msgstr ""
 
 #. 
-#: SmooksTextEdtor.NotifyTitleMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:14
+#: _UI_FileConflict_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:66
 #, java-format
-msgctxt "SmooksTextEdtor.NotifyTitleMessage"
-msgid "Incorrect or currently unsupported file content. The graphical display can not be rendered. "
+msgctxt "_UI_FileConflict_label"
+msgid "File Conflict"
 msgstr ""
 
-#: SmooksTextEdtor.UnKnownErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/messages.properties:15
+#: _WARN_FileConflict
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:67
 #, java-format
-msgctxt "SmooksTextEdtor.UnKnownErrorMessage"
-msgid "Unknown error"
-msgstr ""
-
-#: NewResourceConfigWizardPage.NewConfigWizardPageDescription
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:1
-#, java-format
-msgctxt "NewResourceConfigWizardPage.NewConfigWizardPageDescription"
-msgid "Select the ResourceConfig type to add into the configuration file"
-msgstr ""
-
-#: NewResourceConfigWizardPage.NewConfigWizardPageErrorMessage1
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:2
-#, java-format
-msgctxt "NewResourceConfigWizardPage.NewConfigWizardPageErrorMessage1"
-msgid "Please select one key"
-msgstr ""
-
-#: NewResourceConfigWizardPage.NewConfigWizardPageTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:3
-#, java-format
-msgctxt "NewResourceConfigWizardPage.NewConfigWizardPageTitle"
-msgid "Select New ResourceConfig Type"
-msgstr ""
-
-#: SmooksConfigFileNewWizard.ErrorTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:4
-#, java-format
-msgctxt "SmooksConfigFileNewWizard.ErrorTitle"
-msgid "Error"
-msgstr ""
-
-#: SmooksConfigFileNewWizard.NewConfigFileWizardTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:5
-#, java-format
-msgctxt "SmooksConfigFileNewWizard.NewConfigFileWizardTitle"
-msgid "New Smooks Configuration File"
-msgstr ""
-
-#: SmooksConfigFileNewWizard.SourceDataTypeSelectionTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:6
-#, java-format
-msgctxt "SmooksConfigFileNewWizard.SourceDataTypeSelectionTitle"
-msgid "Source Data Selection"
-msgstr ""
-
-#: SmooksConfigFileNewWizard.TargetDataTypeSelectionTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:7
-#, java-format
-msgctxt "SmooksConfigFileNewWizard.TargetDataTypeSelectionTitle"
-msgid "Target Data Selection"
+msgctxt "_WARN_FileConflict"
+msgid "There are unsaved changes that conflict with changes made outside the editor.  Do you wish to discard this editor's changes?"
 msgstr ""
 
 #. 
-#: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDescription
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:13
+#. For FreeMarker
+#: _UI_FreemarkerEditor_menu
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:70
 #, java-format
-msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDescription"
-msgid "Create a new Smooks configuration file"
+msgctxt "_UI_FreemarkerEditor_menu"
+msgid "&Freemarker Editor"
 msgstr ""
 
-#: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageErrorMessage1
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:14
+#: _UI_SmooksEditor_menu
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:71
 #, java-format
-msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageErrorMessage1"
-msgid "File extension must be \"smooks\""
+msgctxt "_UI_SmooksEditor_menu"
+msgid "&Smooks Editor"
 msgstr ""
 
-#: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:15
+#: _UI_FreemarkerModelWizard_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:72
 #, java-format
-msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageTitle"
-msgid "Smooks Configuration"
+msgctxt "_UI_FreemarkerModelWizard_label"
+msgid "Freemarker Model"
 msgstr ""
 
-#: TransformDataWizardSelectionPage.TransformDataWizardDescription
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:16
+#: _UI_FreemarkerModelWizard_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:73
 #, java-format
-msgctxt "TransformDataWizardSelectionPage.TransformDataWizardDescription"
-msgid "Select the transform data type"
+msgctxt "_UI_FreemarkerModelWizard_description"
+msgid "Create a new Freemarker model"
 msgstr ""
 
-#: TransformDataWizardSelectionPage.TransformDataWizardTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/ui/wizards/messages.properties:17
+#: _UI_FreemarkerEditor_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:74
 #, java-format
-msgctxt "TransformDataWizardSelectionPage.TransformDataWizardTitle"
-msgid "Data Type Selection"
+msgctxt "_UI_FreemarkerEditor_label"
+msgid "Freemarker Model Editor"
 msgstr ""
 
-#: UIUtils_ConnectAllConnections
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:1
+#: _UI_FreemarkerEditorFilenameDefaultBase
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:75
 #, java-format
-msgctxt "UIUtils_ConnectAllConnections"
-msgid "Make all necessary connections"
+msgctxt "_UI_FreemarkerEditorFilenameDefaultBase"
+msgid "My"
 msgstr ""
 
-#. 
-#: UIUtils_ConnectNode
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:3
+#: _UI_FreemarkerEditorFilenameExtensions
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:76
 #, java-format
-msgctxt "UIUtils_ConnectNode"
-msgid "Connect the \"{0}\" to the \"{1}\""
-msgstr ""
-
-#. 
-#: UIUtils_DisconnectAllConnections
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:5
-#, java-format
-msgctxt "UIUtils_DisconnectAllConnections"
-msgid "Disconnect all connections of the current \"{0}\"node"
+msgctxt "_UI_FreemarkerEditorFilenameExtensions"
+msgid "freemarker"
 msgstr ""
 
 #. 
-#: UIUtils_InstanceClassResolveMessage1
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:7
+#: _UI_SmooksModelWizard_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:78
 #, java-format
-msgctxt "UIUtils_InstanceClassResolveMessage1"
-msgid "Change the instance class to \"java.util.ArrayList\""
+msgctxt "_UI_SmooksModelWizard_label"
+msgid "Smooks Model"
+msgstr ""
+
+#: _UI_SmooksModelWizard_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:79
+#, java-format
+msgctxt "_UI_SmooksModelWizard_description"
+msgid "Create a new Smooks model"
+msgstr ""
+
+#: _UI_SmooksEditor_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:80
+#, java-format
+msgctxt "_UI_SmooksEditor_label"
+msgid "Smooks Model Editor"
+msgstr ""
+
+#: _UI_SmooksEditorFilenameDefaultBase
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:81
+#, java-format
+msgctxt "_UI_SmooksEditorFilenameDefaultBase"
+msgid "My"
+msgstr ""
+
+#: _UI_SmooksEditorFilenameExtensions
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:82
+#, java-format
+msgctxt "_UI_SmooksEditorFilenameExtensions"
+msgid "smooks"
 msgstr ""
 
 #. 
-#: UIUtils_InstanceClassResolveMessage2
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:9
+#. For Javabean
+#: _UI_JavabeanEditor_menu
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:85
 #, java-format
-msgctxt "UIUtils_InstanceClassResolveMessage2"
-msgid "java.util.ArrayList"
+msgctxt "_UI_JavabeanEditor_menu"
+msgid "&Javabean Editor"
 msgstr ""
 
-#. 
-#: UIUtils_InstanceLoadedErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:11
+#: _UI_JavabeanModelWizard_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:86
 #, java-format
-msgctxt "UIUtils_InstanceLoadedErrorMessage"
-msgid "The instance class of \"{0}\" can not be loaded. The instance name is \"{1}\""
+msgctxt "_UI_JavabeanModelWizard_label"
+msgid "Javabean Model"
 msgstr ""
 
-#. 
-#: UIUtils_InstanceLoadedResolveMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:13
+#: _UI_JavabeanModelWizard_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:87
 #, java-format
-msgctxt "UIUtils_InstanceLoadedResolveMessage"
-msgid "Change the instance class to \"{0}\""
+msgctxt "_UI_JavabeanModelWizard_description"
+msgid "Create a new Javabean model"
 msgstr ""
 
-#. 
-#: UIUtils_JavaModelLoadedErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:15
+#: _UI_JavabeanEditor_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:88
 #, java-format
-msgctxt "UIUtils_JavaModelLoadedErrorMessage"
-msgid "Java model \"{0}\" can not be instantiated. The instance name is \"{1}\""
+msgctxt "_UI_JavabeanEditor_label"
+msgid "Javabean Model Editor"
 msgstr ""
 
-#. 
-#: UIUtils_ParentNodeConnectErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:17
+#: _UI_JavabeanEditorFilenameDefaultBase
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:89
 #, java-format
-msgctxt "UIUtils_ParentNodeConnectErrorMessage"
-msgid "The parent of Java node \"{0}\" : \"{1}\" is not connected to any source node"
+msgctxt "_UI_JavabeanEditorFilenameDefaultBase"
+msgid "My"
 msgstr ""
 
-#. 
-#: UIUtils_SelectorCheckErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/utils/messages.properties:19
+#: _UI_JavabeanEditorFilenameExtensions
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:90
 #, java-format
-msgctxt "UIUtils_SelectorCheckErrorMessage"
-msgid "The Selector string does not support \"{0}\" character. Selector is \"{1}\""
+msgctxt "_UI_JavabeanEditorFilenameExtensions"
+msgid "javabean"
 msgstr ""
 
-#: AbstractFileSelectionWizardPage_BrowseFileSystemButtonText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml/messages.properties:1
+#: _UI_XslEditor_menu
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:91
 #, java-format
-msgctxt "AbstractFileSelectionWizardPage_BrowseFileSystemButtonText"
-msgid "Browse File System..."
+msgctxt "_UI_XslEditor_menu"
+msgid "&Xsl Editor"
 msgstr ""
 
-#. 
-#: AbstractFileSelectionWizardPage_BrowseWorkspaceButtonText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml/messages.properties:3
+#: _UI_XslModelWizard_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:92
 #, java-format
-msgctxt "AbstractFileSelectionWizardPage_BrowseWorkspaceButtonText"
-msgid "Browse Workspace..."
+msgctxt "_UI_XslModelWizard_label"
+msgid "Xsl Model"
 msgstr ""
 
-#. 
-#: AbstractFileSelectionWizardPage_Errormessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml/messages.properties:5
+#: _UI_XslModelWizard_description
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:93
 #, java-format
-msgctxt "AbstractFileSelectionWizardPage_Errormessage"
-msgid "Please select a file"
+msgctxt "_UI_XslModelWizard_description"
+msgid "Create a new Xsl model"
 msgstr ""
 
-#. 
-#: AbstractFileSelectionWizardPage_XMLFilePathLabelText
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml/messages.properties:7
+#: _UI_XslEditor_label
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:94
 #, java-format
-msgctxt "AbstractFileSelectionWizardPage_XMLFilePathLabelText"
-msgid "XML File Path:"
+msgctxt "_UI_XslEditor_label"
+msgid "Xsl Model Editor"
 msgstr ""
 
-#: XMLStructuredDataWizardPage_XMLDataWizardPageDescription
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml/ui/messages.properties:1
+#: _UI_XslEditorFilenameDefaultBase
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:95
 #, java-format
-msgctxt "XMLStructuredDataWizardPage_XMLDataWizardPageDescription"
-msgid "Select a .xml file for configuration data"
+msgctxt "_UI_XslEditorFilenameDefaultBase"
+msgid "My"
 msgstr ""
 
-#. 
-#: XMLStructuredDataWizardPage_XMLDataWizardPageTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml/ui/messages.properties:3
+#: _UI_XslEditorFilenameExtensions
+#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:96
 #, java-format
-msgctxt "XMLStructuredDataWizardPage_XMLDataWizardPageTitle"
-msgid "Select a XML file"
-msgstr ""
-
-#: AbstractXMLModelAnalyzer_FileDosentExistErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:1
-#, java-format
-msgctxt "AbstractXMLModelAnalyzer_FileDosentExistErrorMessage"
-msgid "File {0} does not exist in the workspace."
-msgstr ""
-
-#. 
-#: AbstractXMLModelAnalyzer_IllegalPathErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:3
-#, java-format
-msgctxt "AbstractXMLModelAnalyzer_IllegalPathErrorMessage"
-msgid "Illegal file path: {0}."
-msgstr ""
-
-#. 
-#: XML2JavaAnalyzer_CantFindNodeErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:5
-#, java-format
-msgctxt "XML2JavaAnalyzer_CantFindNodeErrorMessage"
-msgid "Can not find the \"{0}\" node."
-msgstr ""
-
-#. 
-#: XML2JavaAnalyzer_CantFindRootNodeErrorMessage
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:7
-#, java-format
-msgctxt "XML2JavaAnalyzer_CantFindRootNodeErrorMessage"
-msgid "Can not find the root node. : {0}"
-msgstr ""
-
-#. 
-#: XML2JavaAnalyzer_ConnectQDlgContent
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:9
-#, java-format
-msgctxt "XML2JavaAnalyzer_ConnectQDlgContent"
-msgid ""
-"To ensure a correct mapping, the root nodes should be connected.\n"
-"Do you want to connect them now?"
-msgstr ""
-
-#. 
-#: XML2JavaAnalyzer_ConnectQDlgTitle
-#: ../../../smooks/plugins/org.jboss.tools.smooks.ui/src/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:11
-#, java-format
-msgctxt "XML2JavaAnalyzer_ConnectQDlgTitle"
-msgid "Root Node Connection"
+msgctxt "_UI_XslEditorFilenameExtensions"
+msgid "xsl"
 msgstr ""
 

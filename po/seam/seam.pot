@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-04-14 17:55+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3443,16 +3443,8 @@ msgid "Seam Runtime"
 msgstr ""
 
 #. 
-#: SEAM_RUNTIME_LIST_FIELD_EDITOR_SEAM_VERSION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:43
-#, java-format
-msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_SEAM_VERSION"
-msgid "Seam-Version"
-msgstr ""
-
-#. 
 #: SEAM_INSTALL_WIZARD_PAGE_DATABASE_TYPE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:45
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:43
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_DATABASE_TYPE"
 msgid "Database Type:"
@@ -3460,7 +3452,7 @@ msgstr ""
 
 #. 
 #: SEAM_BASE_WIZARD_PAGE_LOCAL_CLASS_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:47
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:45
 #, java-format
 msgctxt "SEAM_BASE_WIZARD_PAGE_LOCAL_CLASS_NAME"
 msgid "Local interface:"
@@ -3468,39 +3460,31 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_VERSION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:49
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:47
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_VERSION"
 msgid "Version"
 msgstr ""
 
 #. 
-#: SEAM_RUNTIME_LIST_FIELD_EDITOR_RUNTIME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:51
+#: SEAM_RUNTIME_LIST_FIELD_EDITOR_RUNTIME_ALREADY_EXISTS
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:49
 #, java-format
-msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_RUNTIME"
-msgid "Runtime '"
+msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_RUNTIME_ALREADY_EXISTS"
+msgid "Runtime ''{0}'' already exists"
 msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_DATABASE_SCHEMA_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:53
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:51
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_DATABASE_SCHEMA_NAME"
 msgid "Database Schema Name:"
 msgstr ""
 
 #. 
-#: SEAM_RUNTIME_LIST_FIELD_EDITOR_ALREADY_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:55
-#, java-format
-msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_ALREADY_EXISTS"
-msgid "' already exists"
-msgstr ""
-
-#. 
 #: SEAM_INSTALL_WIZARD_PAGE_DATABASE_CATALOG_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:57
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:53
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_DATABASE_CATALOG_NAME"
 msgid "Database Catalog Name:"
@@ -3508,7 +3492,7 @@ msgstr ""
 
 #. 
 #: SEAM_PROJECT_SELECTION_DIALOG_SEAM_WEB_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:59
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:55
 #, java-format
 msgctxt "SEAM_PROJECT_SELECTION_DIALOG_SEAM_WEB_PROJECT"
 msgid "Seam Web Projects"
@@ -3516,7 +3500,7 @@ msgstr ""
 
 #. 
 #: SEAM_PROJECT_SELECTION_DIALOG_SHOW_ALL_PROJECTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:61
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:57
 #, java-format
 msgctxt "SEAM_PROJECT_SELECTION_DIALOG_SHOW_ALL_PROJECTS"
 msgid "Show all projects"
@@ -3524,7 +3508,7 @@ msgstr ""
 
 #. 
 #: SEAM_PROJECT_LABEL_PROVIDER_SEAM_COMPONENTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:63
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:59
 #, java-format
 msgctxt "SEAM_PROJECT_LABEL_PROVIDER_SEAM_COMPONENTS"
 msgid "Seam Components"
@@ -3532,7 +3516,7 @@ msgstr ""
 
 #. 
 #: SEAM_ENTITY_WIZARD_PAGE1_ENTITY_MASTER_PAGE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:65
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:61
 #, java-format
 msgctxt "SEAM_ENTITY_WIZARD_PAGE1_ENTITY_MASTER_PAGE"
 msgid "Entity master page"
@@ -3540,7 +3524,7 @@ msgstr ""
 
 #. 
 #: SEAM_ENTITY_WIZARD_ENTITY_CREATING_OPERATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:67
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:63
 #, java-format
 msgctxt "SEAM_ENTITY_WIZARD_ENTITY_CREATING_OPERATION"
 msgid "Entity creating operation"
@@ -3548,7 +3532,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_NEW_SEAM_RUNTIME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:69
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:65
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_NEW_SEAM_RUNTIME"
 msgid "New Seam Runtime"
@@ -3556,7 +3540,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_EDIT_SEAM_RUNTIME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:71
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:67
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_EDIT_SEAM_RUNTIME"
 msgid "Edit Seam Runtime"
@@ -3564,7 +3548,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_DB_TABLES_ALREADY_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:73
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:69
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_DB_TABLES_ALREADY_EXISTS"
 msgid "DB Tables already exists in database:"
@@ -3572,7 +3556,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_RECREATE_DATABASE_TABLES_AND_DATA_ON_DEPLOY
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:75
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:71
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_RECREATE_DATABASE_TABLES_AND_DATA_ON_DEPLOY"
 msgid "Recreate database tables and data on deploy:"
@@ -3580,7 +3564,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_PARENT_CONTROL_SHOULD_BE_COMPOSITE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:77
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:73
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_PARENT_CONTROL_SHOULD_BE_COMPOSITE"
 msgid "Parent control should be Composite"
@@ -3588,7 +3572,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_EDITOR_SUPPORTS_ONLY_GRID_LAYOUT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:79
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:75
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_EDITOR_SUPPORTS_ONLY_GRID_LAYOUT"
 msgid "Editor supports only grid layout"
@@ -3596,7 +3580,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_CANNOT_OBTAIN_SEAM_VERSION_NUMBER
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:81
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:77
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_CANNOT_OBTAIN_SEAM_VERSION_NUMBER"
 msgid "Cannot obtain Seam version number from jboss-seam.jar file."
@@ -3604,7 +3588,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_SESSION_BEAN_PACKAGE_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:83
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:79
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_SESSION_BEAN_PACKAGE_NAME"
 msgid "Session Bean Package Name:"
@@ -3612,55 +3596,39 @@ msgstr ""
 
 #. 
 #: SEAM_CONVERSATION_WIZARD_ENTITY_CREATING_OPERATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:85
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:81
 #, java-format
 msgctxt "SEAM_CONVERSATION_WIZARD_ENTITY_CREATING_OPERATION"
 msgid "Entity creating operation"
 msgstr ""
 
 #. 
-#: SEAM_RUNTIME_LIST_FIELD_EDITOR_INPUTELEMENT_MUST_BE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:87
+#: SEAM_RUNTIME_LIST_FIELD_EDITOR_INPUTELEMENT_MUST_BE_LIST
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:83
 #, java-format
-msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_INPUTELEMENT_MUST_BE"
-msgid "inputElement must be "
+msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_INPUTELEMENT_MUST_BE_LIST"
+msgid "inputElement must be an instance of List<SeamRuntime>."
 msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_NAME_CANNOT_BE_EMPTY
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:89
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:85
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_NAME_CANNOT_BE_EMPTY"
 msgid "Name cannot be empty"
 msgstr ""
 
 #. 
-#: SEAM_RUNTIME_LIST_FIELD_EDITOR_CANNOT_READ_JAR_FILE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:91
-#, java-format
-msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_CANNOT_READ_JAR_FILE"
-msgid "Cannot read jboss-seam.jar file"
-msgstr ""
-
-#. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_CANNOT_FIND_JBOSS_SEAM_JAR
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:93
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:87
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_CANNOT_FIND_JBOSS_SEAM_JAR"
 msgid "Cannot find jboss-seam.jar file"
 msgstr ""
 
 #. 
-#: SEAM_RUNTIME_LIST_FIELD_EDITOR_AN_INSTANCEOF_OF_LIST
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:95
-#, java-format
-msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_AN_INSTANCEOF_OF_LIST"
-msgid "an instance of List<SeamRuntime>."
-msgstr ""
-
-#. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_CREATE_A_SEAM_RUNTIME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:97
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:89
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_CREATE_A_SEAM_RUNTIME"
 msgid "Create a Seam Runtime"
@@ -3668,7 +3636,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_MODIFY_SEAM_RUNTIME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:99
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:91
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_MODIFY_SEAM_RUNTIME"
 msgid "Input new values"
@@ -3676,7 +3644,7 @@ msgstr ""
 
 #. 
 #: SEAM_BASE_WIZARD_OPERATION_IS_NOT_DEFINED_FOR_WIZARD
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:101
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:93
 #, java-format
 msgctxt "SEAM_BASE_WIZARD_OPERATION_IS_NOT_DEFINED_FOR_WIZARD"
 msgid "Operation is not defined for wizard"
@@ -3684,7 +3652,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_ENTITY_BEAN_PACKAGE_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:103
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:95
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_ENTITY_BEAN_PACKAGE_NAME"
 msgid "Entity Bean Package Name:"
@@ -3692,7 +3660,7 @@ msgstr ""
 
 #. 
 #: SEAM_VIEW_LAYOUT_ACTION_GROUP_SCOPE_PRESENTATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:105
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:97
 #, java-format
 msgctxt "SEAM_VIEW_LAYOUT_ACTION_GROUP_SCOPE_PRESENTATION"
 msgid "Scope Presentation"
@@ -3700,7 +3668,7 @@ msgstr ""
 
 #. 
 #: SEAM_CONVERSATION_WIZARD_CREATE_NEW_CONVERSATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:107
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:99
 #, java-format
 msgctxt "SEAM_CONVERSATION_WIZARD_CREATE_NEW_CONVERSATION"
 msgid "Create New Conversation"
@@ -3708,7 +3676,7 @@ msgstr ""
 
 #. 
 #: SEAM_CONVERSATION_WIZARD_PAGE1_SEAM_CONVERSATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:109
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:101
 #, java-format
 msgctxt "SEAM_CONVERSATION_WIZARD_PAGE1_SEAM_CONVERSATION"
 msgid "Seam Conversation"
@@ -3716,7 +3684,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_TEST_PACKAGE_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:111
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:103
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_TEST_PACKAGE_NAME"
 msgid "Test Package Name:"
@@ -3724,7 +3692,7 @@ msgstr ""
 
 #. 
 #: SEAM_VIEW_LAYOUT_ACTION_GROUP_HIERARCHICAL
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:113
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:105
 #, java-format
 msgctxt "SEAM_VIEW_LAYOUT_ACTION_GROUP_HIERARCHICAL"
 msgid "Hierarchical"
@@ -3732,7 +3700,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_HOME_FOLDER
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:115
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:107
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_HOME_FOLDER"
 msgid "Home Folder:"
@@ -3740,7 +3708,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_SEAM_ENTITY_CLASS_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:117
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:109
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_SEAM_ENTITY_CLASS_NAME"
 msgid "Seam entity class name:"
@@ -3748,7 +3716,7 @@ msgstr ""
 
 #. 
 #: SEAM_ENTITY_WIZARD_PAGE1_ENTITY_CLASS_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:119
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:111
 #, java-format
 msgctxt "SEAM_ENTITY_WIZARD_PAGE1_ENTITY_CLASS_NAME"
 msgid "Entity class name"
@@ -3756,7 +3724,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_SEAM_FACET
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:121
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:113
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_SEAM_FACET"
 msgid "Seam Facet"
@@ -3764,7 +3732,7 @@ msgstr ""
 
 #. 
 #: SEAM_VIEW_LAYOUT_ACTION_GROUP_LABEL
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:123
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:115
 #, java-format
 msgctxt "SEAM_VIEW_LAYOUT_ACTION_GROUP_LABEL"
 msgid "Label"
@@ -3772,7 +3740,7 @@ msgstr ""
 
 #. 
 #: SEAM_PROJECT_WIZARD_NEW_SEAM_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:125
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:117
 #, java-format
 msgctxt "SEAM_PROJECT_WIZARD_NEW_SEAM_PROJECT"
 msgid "New Seam Project"
@@ -3780,7 +3748,7 @@ msgstr ""
 
 #. 
 #: SEAM_PROJECT_WIZARD_SEAM_WEB_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:127
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:119
 #, java-format
 msgctxt "SEAM_PROJECT_WIZARD_SEAM_WEB_PROJECT"
 msgid "Seam Web Project"
@@ -3788,7 +3756,7 @@ msgstr ""
 
 #. 
 #: SEAM_PROJECT_WIZARD_EAR_MEMBERSHIP
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:129
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:121
 #, java-format
 msgctxt "SEAM_PROJECT_WIZARD_EAR_MEMBERSHIP"
 msgid "EAR Membership"
@@ -3796,7 +3764,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:131
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:123
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_NAME"
 msgid "Name"
@@ -3804,7 +3772,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_PATH
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:133
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:125
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_PATH"
 msgid "Path"
@@ -3812,7 +3780,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_GENERAL
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:135
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:127
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_GENERAL"
 msgid "General"
@@ -3820,7 +3788,7 @@ msgstr ""
 
 #. 
 #: SEAM_GENERATE_ENTITIES_WIZARD_54
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:137
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:129
 #, java-format
 msgctxt "SEAM_GENERATE_ENTITIES_WIZARD_54"
 msgid "org.hibernate.eclipse.launch.SeamUtil"
@@ -3828,7 +3796,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_SEAM_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:139
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:131
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_SEAM_PROJECT"
 msgid "Seam Project:"
@@ -3836,7 +3804,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_DATABASE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:141
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:133
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_DATABASE"
 msgid "Database"
@@ -3844,7 +3812,7 @@ msgstr ""
 
 #. 
 #: SELECT_SEAM_PROJECT_ACTION_BROWSE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:143
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:135
 #, java-format
 msgctxt "SELECT_SEAM_PROJECT_ACTION_BROWSE"
 msgid "Browse..."
@@ -3852,7 +3820,7 @@ msgstr ""
 
 #. 
 #: SHOW_PROJECT_SETTINGS_ACTION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:145
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:137
 #, java-format
 msgctxt "SHOW_PROJECT_SETTINGS_ACTION"
 msgid "<a>Settings...</a>"
@@ -3860,7 +3828,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_CODE_GENERATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:147
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:139
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_CODE_GENERATION"
 msgid "Code Generation"
@@ -3868,7 +3836,7 @@ msgstr ""
 
 #. 
 #: SEAM_FORM_WIZARD_FORM_CREATING_OPERATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:149
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:141
 #, java-format
 msgctxt "SEAM_FORM_WIZARD_FORM_CREATING_OPERATION"
 msgid "Form creating operation"
@@ -3876,7 +3844,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_LOCAL_INTERFACE_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:151
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:143
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_LOCAL_INTERFACE_NAME"
 msgid "Local interface name:"
@@ -3884,7 +3852,7 @@ msgstr ""
 
 #. 
 #: SEAM_UI_IMAGESIMAGE_NAME_CANNOT_BE_NULL
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:153
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:145
 #, java-format
 msgctxt "SEAM_UI_IMAGESIMAGE_NAME_CANNOT_BE_NULL"
 msgid "Image name cannot be null."
@@ -3892,7 +3860,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_VERSION2
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:155
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:147
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_VERSION2"
 msgid "Version:"
@@ -3900,7 +3868,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_SEAM_COMPONENT_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:157
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:149
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_SEAM_COMPONENT_NAME"
 msgid "Seam component name:"
@@ -3908,7 +3876,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_EDIT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:159
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:151
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_EDIT"
 msgid "Edit..."
@@ -3916,7 +3884,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_BEAN_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:161
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:153
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_BEAN_NAME"
 msgid "Bean name:"
@@ -3924,7 +3892,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_PAGE_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:163
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:155
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_PAGE_NAME"
 msgid "Page name:"
@@ -3932,7 +3900,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_PACKAGE_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:165
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:157
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_PACKAGE_NAME"
 msgid "Package name:"
@@ -3940,7 +3908,7 @@ msgstr ""
 
 #. 
 #: SEAM_ENTITY_WIZARD_PAGE1_PAGE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:167
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:159
 #, java-format
 msgctxt "SEAM_ENTITY_WIZARD_PAGE1_PAGE"
 msgid "Page"
@@ -3948,7 +3916,7 @@ msgstr ""
 
 #. 
 #: SEAM_FORM_WIZARD_NEW_SEAM_FORM
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:169
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:161
 #, java-format
 msgctxt "SEAM_FORM_WIZARD_NEW_SEAM_FORM"
 msgid "New Seam Form"
@@ -3956,7 +3924,7 @@ msgstr ""
 
 #. 
 #: SEAM_FORM_WIZARD_PAGE1_SEAM_FORM
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:171
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:163
 #, java-format
 msgctxt "SEAM_FORM_WIZARD_PAGE1_SEAM_FORM"
 msgid "Seam Form"
@@ -3964,7 +3932,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_METHOD_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:173
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:165
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_METHOD_NAME"
 msgid "Method name:"
@@ -3972,31 +3940,23 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_NEW
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:175
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:167
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_NEW"
 msgid "New..."
 msgstr ""
 
 #. 
-#: SEAM_INSTALL_WIZARD_PAGE_PACKAGE_NAME_FOR
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:177
+#: SEAM_INSTALL_WIZARD_PAGE_PACKAGE_NAME_NOT_VALID
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:169
 #, java-format
-msgctxt "SEAM_INSTALL_WIZARD_PAGE_PACKAGE_NAME_FOR"
-msgid "Package name for "
-msgstr ""
-
-#. 
-#: SEAM_INSTALL_WIZARD_PAGE_IS_NOT_VALID
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:179
-#, java-format
-msgctxt "SEAM_INSTALL_WIZARD_PAGE_IS_NOT_VALID"
-msgid " is not valid"
+msgctxt "SEAM_INSTALL_WIZARD_PAGE_PACKAGE_NAME_NOT_VALID"
+msgid "Package name for {0} is not valid"
 msgstr ""
 
 #. 
 #: SEAM_BASE_WIZARD_PAGE_POJO_CLASS_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:181
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:171
 #, java-format
 msgctxt "SEAM_BASE_WIZARD_PAGE_POJO_CLASS_NAME"
 msgid "POJO class name:"
@@ -4004,7 +3964,7 @@ msgstr ""
 
 #. 
 #: SEAM_BASE_WIZARD_PAGE_SEAM_COMPONENTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:183
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:173
 #, java-format
 msgctxt "SEAM_BASE_WIZARD_PAGE_SEAM_COMPONENTS"
 msgid "Seam component"
@@ -4012,7 +3972,7 @@ msgstr ""
 
 #. 
 #: SEAM_BASE_WIZARD_PAGE_LOCAL_INTERFACE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:185
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:175
 #, java-format
 msgctxt "SEAM_BASE_WIZARD_PAGE_LOCAL_INTERFACE"
 msgid "Local interface"
@@ -4020,7 +3980,7 @@ msgstr ""
 
 #. 
 #: SEAM_ACTION_WIZARD_PAGE1_SEAM_ACTION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:187
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:177
 #, java-format
 msgctxt "SEAM_ACTION_WIZARD_PAGE1_SEAM_ACTION"
 msgid "Seam Action"
@@ -4028,7 +3988,7 @@ msgstr ""
 
 #. 
 #: SEAM_ACTION_WIZARD_NEW_SEAM_ACTION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:189
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:179
 #, java-format
 msgctxt "SEAM_ACTION_WIZARD_NEW_SEAM_ACTION"
 msgid "New Seam Action"
@@ -4036,7 +3996,7 @@ msgstr ""
 
 #. 
 #: SEAM_ACTION_WIZARD_ACTION_CREATING_OPERATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:191
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:181
 #, java-format
 msgctxt "SEAM_ACTION_WIZARD_ACTION_CREATING_OPERATION"
 msgid "Action creating operation"
@@ -4044,7 +4004,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_NAME2
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:193
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:183
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_NAME2"
 msgid "Name:"
@@ -4052,7 +4012,7 @@ msgstr ""
 
 #. 
 #: SEAM_WIZARD_FACTORY_MASTER_PAGE_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:195
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:185
 #, java-format
 msgctxt "SEAM_WIZARD_FACTORY_MASTER_PAGE_NAME"
 msgid "Master page name:"
@@ -4060,7 +4020,7 @@ msgstr ""
 
 #. 
 #: SEAM_ENTITY_WIZARD_NEW_SEAM_ENTITY
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:197
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:187
 #, java-format
 msgctxt "SEAM_ENTITY_WIZARD_NEW_SEAM_ENTITY"
 msgid "New Seam Entity"
@@ -4068,7 +4028,7 @@ msgstr ""
 
 #. 
 #: SEAM_INSTALL_WIZARD_PAGE_ADD
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:199
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:189
 #, java-format
 msgctxt "SEAM_INSTALL_WIZARD_PAGE_ADD"
 msgid "Add..."
@@ -4076,15 +4036,15 @@ msgstr ""
 
 #. 
 #: CREATE_PROJECT_ACTION_UNABLE_TO_CREATE_WIZARD
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:201
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:191
 #, java-format
 msgctxt "CREATE_PROJECT_ACTION_UNABLE_TO_CREATE_WIZARD"
-msgid "Unable to create wizard '"
+msgid "Unable to create wizard ''{0}''"
 msgstr ""
 
 #. 
 #: CREATE_SEAM_WEB_PROJECTACTION_CREATE_SEAM_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:203
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:193
 #, java-format
 msgctxt "CREATE_SEAM_WEB_PROJECTACTION_CREATE_SEAM_PROJECT"
 msgid "Create Seam Project"
@@ -4092,47 +4052,31 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_PATH_TO_A_FOLDER_CANNOT_BE_NULL
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:205
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:195
 #, java-format
 msgctxt "VALIDATOR_FACTORY_PATH_TO_A_FOLDER_CANNOT_BE_NULL"
 msgid "Path to a folder cannot be null"
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_FOLDER
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:207
+#: VALIDATOR_FACTORY_FOLDER_DOES_NOT_EXIST
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:197
 #, java-format
-msgctxt "VALIDATOR_FACTORY_FOLDER"
-msgid "Folder '"
+msgctxt "VALIDATOR_FACTORY_FOLDER_DOES_NOT_EXIST"
+msgid "Folder ''{0}'' doesn''t exist"
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_DOES_NOT_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:209
+#: VALIDATOR_FACTORY_PATH_POINTS_TO_FILE
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:199
 #, java-format
-msgctxt "VALIDATOR_FACTORY_DOES_NOT_EXISTS"
-msgid "' doesn't exists"
-msgstr ""
-
-#. 
-#: VALIDATOR_FACTORY_PATH
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:211
-#, java-format
-msgctxt "VALIDATOR_FACTORY_PATH"
-msgid "Path '"
-msgstr ""
-
-#. 
-#: VALIDATOR_FACTORY_POINTS_TO_FILE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:213
-#, java-format
-msgctxt "VALIDATOR_FACTORY_POINTS_TO_FILE"
-msgid "' points to file"
+msgctxt "VALIDATOR_FACTORY_PATH_POINTS_TO_FILE"
+msgid "Path ''{0}'' points to file"
 msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_HOME_FOLDER_DOES_NOT_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:215
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:201
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_HOME_FOLDER_DOES_NOT_EXISTS"
 msgid "Seam Home folder doesn't exist"
@@ -4140,7 +4084,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_HOME_DIR_DOES_NOT_EXIST
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:217
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:203
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_HOME_DIR_DOES_NOT_EXIST"
 msgid "Seam Runtime ''{0}'' home directory doesn't exist for selected Seam Web Project"
@@ -4148,7 +4092,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_HOME_DIR_IS_MISSING
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:219
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:205
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_HOME_DIR_IS_MISSING"
 msgid "Seam Runtime ''{0}'' home directory doesn't exist"
@@ -4156,7 +4100,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_RESOURCES_DIR_IS_MISSING
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:221
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:207
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_RESOURCES_DIR_IS_MISSING"
 msgid "Seam Runtime ''{0}'' resource templates directory doesn't exist"
@@ -4164,7 +4108,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_TEMPLATES_DIR_DOES_NOT_EXIST
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:223
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:209
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_TEMPLATES_DIR_DOES_NOT_EXIST"
 msgid "Seam Runtime ''{0}'' templates directory doesn't exist for selected Seam Web Project"
@@ -4172,7 +4116,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_TEMPLATES_DIR_IS_MISSING
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:225
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:211
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_TEMPLATES_DIR_IS_MISSING"
 msgid "Seam Runtime ''{0}'' templates directory doesn't exist"
@@ -4180,55 +4124,39 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_VIE_TEMPLATE_DIR_DOES_NOT_EXIST
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:227
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:213
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_VIE_TEMPLATE_DIR_DOES_NOT_EXIST"
 msgid "Seam Runtime ''{0}'' view templates directory doesn't exist for selected Seam Web Project"
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_HOME_FOLDER_POINTS_TO
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:229
+#: VALIDATOR_FACTORY_HOME_FOLDER_POINTS_TO_LOCATION_THAT_DOES_NOT_LOOK_LIKE_SEAM_HOME_FOLDER
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:215
 #, java-format
-msgctxt "VALIDATOR_FACTORY_HOME_FOLDER_POINTS_TO"
-msgid "Home folder points to "
-msgstr ""
-
-#. 
-#: VALIDATOR_FACTORY_LOCATION_THAT_DOES_NOT_LOOK_LIKE_SEAM_HOME_FOLDER
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:231
-#, java-format
-msgctxt "VALIDATOR_FACTORY_LOCATION_THAT_DOES_NOT_LOOK_LIKE_SEAM_HOME_FOLDER"
-msgid "location that does not look like seam home folder ('jboss-seam.jar' is missing)"
+msgctxt "VALIDATOR_FACTORY_HOME_FOLDER_POINTS_TO_LOCATION_THAT_DOES_NOT_LOOK_LIKE_SEAM_HOME_FOLDER"
+msgid "Home folder points to location that does not look like seam home folder ('jboss-seam.jar' is missing)"
 msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_JBOSS_AS_HOME_FOLDER_DOES_NOT_EXIST
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:233
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:217
 #, java-format
 msgctxt "VALIDATOR_FACTORY_JBOSS_AS_HOME_FOLDER_DOES_NOT_EXIST"
 msgid "JBoss AS Home folder doesn't exist"
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_JBOSS_AS_HOME_FOLDER_POINT_TO_LOCATION_THAT_DOES_NOT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:235
+#: VALIDATOR_FACTORY_JBOSS_AS_HOME_FOLDER_POINT_TO_LOCATION_THAT_DOES_NOT_LOOK_LIKE_JBOSS_AS_HOME_FOLDER
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:219
 #, java-format
-msgctxt "VALIDATOR_FACTORY_JBOSS_AS_HOME_FOLDER_POINT_TO_LOCATION_THAT_DOES_NOT"
-msgid "JBoss AS Home Folde field points to location that doesn't "
-msgstr ""
-
-#. 
-#: VALIDATOR_FACTORY_LOOK_LIKE_JBOSS_AS_HOME_FOLDER
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:237
-#, java-format
-msgctxt "VALIDATOR_FACTORY_LOOK_LIKE_JBOSS_AS_HOME_FOLDER"
-msgid "look like JBoss AS home folder"
+msgctxt "VALIDATOR_FACTORY_JBOSS_AS_HOME_FOLDER_POINT_TO_LOCATION_THAT_DOES_NOT_LOOK_LIKE_JBOSS_AS_HOME_FOLDER"
+msgid "JBoss AS Home Folder field points to location that doesn't look like JBoss AS home folder"
 msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_COMPONENT_NAME_IS_NOT_VALID
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:239
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:221
 #, java-format
 msgctxt "VALIDATOR_FACTORY_COMPONENT_NAME_IS_NOT_VALID"
 msgid "Component name is not invalid."
@@ -4236,7 +4164,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_NAME_IS_NOT_VALID
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:241
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:223
 #, java-format
 msgctxt "VALIDATOR_FACTORY_NAME_IS_NOT_VALID"
 msgid "{0} name is not valid."
@@ -4244,7 +4172,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_LOCAL_INTERFACE_NAME_IS_NOT_VALID
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:243
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:225
 #, java-format
 msgctxt "VALIDATOR_FACTORY_LOCAL_INTERFACE_NAME_IS_NOT_VALID"
 msgid ""
@@ -4254,39 +4182,31 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_NAME_IS_NOT_VALID2
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:245
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:227
 #, java-format
 msgctxt "VALIDATOR_FACTORY_NAME_IS_NOT_VALID2"
 msgid " name is not valid."
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:247
+#: VALIDATOR_FACTORY_PROJECT_DOES_NOT_EXIST
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:229
 #, java-format
-msgctxt "VALIDATOR_FACTORY_PROJECT"
-msgid "Project '"
+msgctxt "VALIDATOR_FACTORY_PROJECT_DOES_NOT_EXIST"
+msgid "Project ''{0}'' doesn''t exist."
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_DOES_NOT_EXIST
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:249
+#: VALIDATOR_FACTORY_SELECTED_PROJECT_IS_NOT_A_SEAM_WEB_PROJECT
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:231
 #, java-format
-msgctxt "VALIDATOR_FACTORY_DOES_NOT_EXIST"
-msgid "' doesn't exist."
-msgstr ""
-
-#. 
-#: VALIDATOR_FACTORY_SELECTED_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:251
-#, java-format
-msgctxt "VALIDATOR_FACTORY_SELECTED_PROJECT"
-msgid "Selected project '"
+msgctxt "VALIDATOR_FACTORY_SELECTED_PROJECT_IS_NOT_A_SEAM_WEB_PROJECT"
+msgid "Selected project ''{0}'' is not a Seam Project"
 msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SELECTED_PRJ_IS_CLOSED
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:253
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:233
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SELECTED_PRJ_IS_CLOSED"
 msgid "Selected project ''{0}'' is closed"
@@ -4294,55 +4214,39 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_PRJ_NOT_SELECTED
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:255
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:235
 #, java-format
 msgctxt "VALIDATOR_FACTORY_PRJ_NOT_SELECTED"
 msgid "Project is not selected"
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_IS_NOT_A_SEAM_WEB_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:257
-#, java-format
-msgctxt "VALIDATOR_FACTORY_IS_NOT_A_SEAM_WEB_PROJECT"
-msgid "' is not a Seam Project"
-msgstr ""
-
-#. 
 #: VALIDATOR_FACTORY_CONNECTION_PROFILE_IS_NOT_SELECTED
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:259
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:237
 #, java-format
 msgctxt "VALIDATOR_FACTORY_CONNECTION_PROFILE_IS_NOT_SELECTED"
 msgid "Connection profile is not selected"
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_DRIVER_CLASS_PROPERTY_IS_EMPTY_FOR_SELECTED
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:261
+#: VALIDATOR_FACTORY_DRIVER_CLASS_PROPERTY_IS_EMPTY_FOR_SELECTED_CONNECTION_PROFILE
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:239
 #, java-format
-msgctxt "VALIDATOR_FACTORY_DRIVER_CLASS_PROPERTY_IS_EMPTY_FOR_SELECTED"
-msgid "Driver Class property is empty for selected '"
+msgctxt "VALIDATOR_FACTORY_DRIVER_CLASS_PROPERTY_IS_EMPTY_FOR_SELECTED_CONNECTION_PROFILE"
+msgid "Driver Class property is empty for selected ''{0}'' connection profile"
 msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_SOURCE_TEMPLATES_DIR_DOES_NOT_EXIST
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:263
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:241
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_SOURCE_TEMPLATES_DIR_DOES_NOT_EXIST"
 msgid "Seam Runtime ''{0}'' source templates directory doesn't exist for selected Seam Web Project"
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_CONNECTION_PROFILE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:265
-#, java-format
-msgctxt "VALIDATOR_FACTORY_CONNECTION_PROFILE"
-msgid "' connection profile"
-msgstr ""
-
-#. 
 #: VALIDATOR_FACTORY_SEAM_RUNTIME_IS_NOT_SELECTED
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:267
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:243
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RUNTIME_IS_NOT_SELECTED"
 msgid "Seam Runtime is not selected"
@@ -4350,7 +4254,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_VIEW_DIR_IS_MISSING
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:269
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:245
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_VIEW_DIR_IS_MISSING"
 msgid "Seam Runtime ''{0}'' view templates directory doesn't exist"
@@ -4358,7 +4262,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_CANNOT_BE_FOUND
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:271
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:247
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_CANNOT_BE_FOUND"
 msgid "Cannot find ''{0}'' Seam Runtime for selected Seam Web Project"
@@ -4366,7 +4270,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_CANNOT_FIND_SEAM_RUNTIME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:273
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:249
 #, java-format
 msgctxt "VALIDATOR_FACTORY_CANNOT_FIND_SEAM_RUNTIME"
 msgid "Cannot find Seam Runtime ''{0}''"
@@ -4374,47 +4278,39 @@ msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_SRC_DIR_IS_MISSING
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:275
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:251
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_SRC_DIR_IS_MISSING"
 msgid "Seam Runtime ''{0}'' source templates directory doesn't exist"
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_TEST_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:277
+#: VALIDATOR_FACTORY_TEST_PROJECT_ALREADY_EXISTS
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:253
 #, java-format
-msgctxt "VALIDATOR_FACTORY_TEST_PROJECT"
-msgid "Test project '"
+msgctxt "VALIDATOR_FACTORY_TEST_PROJECT_ALREADY_EXISTS"
+msgid "Test project ''{0}'' already exists. Please select other name for new Seam project."
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_EAR_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:279
+#: VALIDATOR_FACTORY_EAR_PROJECT_ALREADY_EXISTS
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:255
 #, java-format
-msgctxt "VALIDATOR_FACTORY_EAR_PROJECT"
-msgid "EAR project '"
+msgctxt "VALIDATOR_FACTORY_EAR_PROJECT_ALREADY_EXISTS"
+msgid "EAR project ''{0}'' already exists. Please select other name for new Seam project."
 msgstr ""
 
 #. 
-#: VALIDATOR_FACTORY_EJB_PROJECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:281
+#: VALIDATOR_FACTORY_EJB_PROJECT_ALREADY_EXISTS
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:257
 #, java-format
-msgctxt "VALIDATOR_FACTORY_EJB_PROJECT"
-msgid "EJB project '"
-msgstr ""
-
-#. 
-#: VALIDATOR_FACTORY_PROJECT_ALREADY_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:283
-#, java-format
-msgctxt "VALIDATOR_FACTORY_PROJECT_ALREADY_EXISTS"
-msgid "' already exists. Please select other name for new Seam project."
+msgctxt "VALIDATOR_FACTORY_EJB_PROJECT_ALREADY_EXISTS"
+msgid "EJB project ''{0}'' already exists. Please select other name for new Seam project."
 msgstr ""
 
 #. 
 #: VALIDATOR_FACTORY_SEAM_RT_NOT_CONFIGURED
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:285
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:259
 #, java-format
 msgctxt "VALIDATOR_FACTORY_SEAM_RT_NOT_CONFIGURED"
 msgid "Seam Runtime is not configured for selected Seam Web Project"
@@ -4422,7 +4318,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_INVALID_SETTINGS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:287
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:261
 #, java-format
 msgctxt "VALIDATOR_INVALID_SETTINGS"
 msgid "Selected seam project has some invalid settings. Please press \"Settings...\" and correct them."
@@ -4430,7 +4326,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_RUNTIME_NAME_IS_NOT_CORRECT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:289
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:263
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_RUNTIME_NAME_IS_NOT_CORRECT"
 msgid "Runtime name is not correct"
@@ -4438,7 +4334,7 @@ msgstr ""
 
 #. 
 #: SEAM_GENERATE_ENTITIES_WIZARD_CAN_NOT_GENERATE_SEAM_ENTITIES
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:291
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:265
 #, java-format
 msgctxt "SEAM_GENERATE_ENTITIES_WIZARD_CAN_NOT_GENERATE_SEAM_ENTITIES"
 msgid "Can't generate seam entities"
@@ -4446,7 +4342,7 @@ msgstr ""
 
 #. 
 #: SEAM_UI_IMAGESBASE_URL_FOR_IMAGE_REGISTRY_CANNOT_BE_NULL
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:293
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:267
 #, java-format
 msgctxt "SEAM_UI_IMAGESBASE_URL_FOR_IMAGE_REGISTRY_CANNOT_BE_NULL"
 msgid "Base url for image registry cannot be null."
@@ -4454,7 +4350,7 @@ msgstr ""
 
 #. 
 #: SEAM_GENERATE_ENTITIES_WIZARD_ACTION_CREATING_OPERATION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:295
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:269
 #, java-format
 msgctxt "SEAM_GENERATE_ENTITIES_WIZARD_ACTION_CREATING_OPERATION"
 msgid "Action creating operation"
@@ -4462,15 +4358,15 @@ msgstr ""
 
 #. 
 #: SEAM_GENERATE_ENTITIES_WIZARD_CAN_NOT_FIND_SEAM_RUNTIME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:297
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:271
 #, java-format
 msgctxt "SEAM_GENERATE_ENTITIES_WIZARD_CAN_NOT_FIND_SEAM_RUNTIME"
-msgid "Can't find seam runtime for project "
+msgid "Can't find seam runtime for project {0}"
 msgstr ""
 
 #. 
 #: ABSTRACT_SEAM_CONTENT_PROVIDER_SEAM_PROJECT_CHANGE_EVENT_OCCURS_BUT_NO_SORCE_OF_PROJECT_PROVIDED
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:299
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:273
 #, java-format
 msgctxt "ABSTRACT_SEAM_CONTENT_PROVIDER_SEAM_PROJECT_CHANGE_EVENT_OCCURS_BUT_NO_SORCE_OF_PROJECT_PROVIDED"
 msgid "Seam Project change event occurs, but no soyrce of project provided"
@@ -4478,7 +4374,7 @@ msgstr ""
 
 #. 
 #: SEAM_OPEN_ACTION_OPEN
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:301
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:275
 #, java-format
 msgctxt "SEAM_OPEN_ACTION_OPEN"
 msgid "Open"
@@ -4486,7 +4382,7 @@ msgstr ""
 
 #. 
 #: TEXT_FIELD_EDITOR_PARENT_CONTROL_SHOULD_BE_COMPOSITE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:303
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:277
 #, java-format
 msgctxt "TEXT_FIELD_EDITOR_PARENT_CONTROL_SHOULD_BE_COMPOSITE"
 msgid "Parent control should be Composite"
@@ -4494,7 +4390,7 @@ msgstr ""
 
 #. 
 #: TEXT_FIELD_EDITOR_EDITOR_SUPPORTS_ONLY_GRID_LAYOUT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:305
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:279
 #, java-format
 msgctxt "TEXT_FIELD_EDITOR_EDITOR_SUPPORTS_ONLY_GRID_LAYOUT"
 msgid "Editor supports only grid layout"
@@ -4502,7 +4398,7 @@ msgstr ""
 
 #. 
 #: BUTTON_FIELD_EDITOR_BROWSE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:307
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:281
 #, java-format
 msgctxt "BUTTON_FIELD_EDITOR_BROWSE"
 msgid "Browse..."
@@ -4510,7 +4406,7 @@ msgstr ""
 
 #. 
 #: BUTTON_FIELD_EDITOR_NOT_IMPLEMENTED_YET
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:309
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:283
 #, java-format
 msgctxt "BUTTON_FIELD_EDITOR_NOT_IMPLEMENTED_YET"
 msgid "Not implemented yet. Please setup real acion for editor."
@@ -4518,7 +4414,7 @@ msgstr ""
 
 #. 
 #: SWT_FIELD_EDITOR_FACTORY_BROWS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:311
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:285
 #, java-format
 msgctxt "SWT_FIELD_EDITOR_FACTORY_BROWS"
 msgid "Browse..."
@@ -4526,7 +4422,7 @@ msgstr ""
 
 #. 
 #: SWT_FIELD_EDITOR_FACTORY_SELECT_SEAM_HOME_FOLDER
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:313
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:287
 #, java-format
 msgctxt "SWT_FIELD_EDITOR_FACTORY_SELECT_SEAM_HOME_FOLDER"
 msgid "Select Seam Home Folder"
@@ -4534,7 +4430,7 @@ msgstr ""
 
 #. 
 #: SWT_FIELD_EDITOR_FACTORY_ERROR
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:315
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:289
 #, java-format
 msgctxt "SWT_FIELD_EDITOR_FACTORY_ERROR"
 msgid "Error"
@@ -4542,7 +4438,7 @@ msgstr ""
 
 #. 
 #: SWT_FIELD_EDITOR_FACTORY_NOT_IMPLEMENTED_YET
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:317
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:291
 #, java-format
 msgctxt "SWT_FIELD_EDITOR_FACTORY_NOT_IMPLEMENTED_YET"
 msgid "Not implemented yet"
@@ -4550,7 +4446,7 @@ msgstr ""
 
 #. 
 #: SWT_FIELD_EDITOR_FACTORY_OK
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:319
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:293
 #, java-format
 msgctxt "SWT_FIELD_EDITOR_FACTORY_OK"
 msgid "Ok"
@@ -4558,7 +4454,7 @@ msgstr ""
 
 #. 
 #: BASE_FIELD_EDITOR_NO_LABEL
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:321
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:295
 #, java-format
 msgctxt "BASE_FIELD_EDITOR_NO_LABEL"
 msgid "No label"
@@ -4566,7 +4462,7 @@ msgstr ""
 
 #. 
 #: BASE_FIELD_EDITOR_PARENT_CONTROL_SHOULD_BE_COMPOSITE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:323
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:297
 #, java-format
 msgctxt "BASE_FIELD_EDITOR_PARENT_CONTROL_SHOULD_BE_COMPOSITE"
 msgid "Parent control should be Composite"
@@ -4574,7 +4470,7 @@ msgstr ""
 
 #. 
 #: BASE_FIELD_EDITOR_EDITOR_SUPPORTS_ONLY_GRID_LAYOUT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:325
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:299
 #, java-format
 msgctxt "BASE_FIELD_EDITOR_EDITOR_SUPPORTS_ONLY_GRID_LAYOUT"
 msgid "Editor supports only grid layout"
@@ -4582,7 +4478,7 @@ msgstr ""
 
 #. 
 #: BASE_FIELD_EDITOR_PARENT_FOR_LABEL_IS_DIFFERENT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:327
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:301
 #, java-format
 msgctxt "BASE_FIELD_EDITOR_PARENT_FOR_LABEL_IS_DIFFERENT"
 msgid "Parent for label is different"
@@ -4590,7 +4486,7 @@ msgstr ""
 
 #. 
 #: COMPOSITE_EDITOR_PARENT_CONTROL_SHOULD_BE_COMPOSITE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:329
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:303
 #, java-format
 msgctxt "COMPOSITE_EDITOR_PARENT_CONTROL_SHOULD_BE_COMPOSITE"
 msgid "Parent control should be Composite"
@@ -4598,7 +4494,7 @@ msgstr ""
 
 #. 
 #: COMPOSITE_EDITOR_EDITOR_SUPPORTS_ONLY_GRID_LAYOUT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:331
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:305
 #, java-format
 msgctxt "COMPOSITE_EDITOR_EDITOR_SUPPORTS_ONLY_GRID_LAYOUT"
 msgid "Editor supports only grid layout"
@@ -4606,7 +4502,7 @@ msgstr ""
 
 #. 
 #: COMPOSITE_EDITOR_THIS_METOD_CAN_BE_INVOKED
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:333
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:307
 #, java-format
 msgctxt "COMPOSITE_EDITOR_THIS_METOD_CAN_BE_INVOKED"
 msgid "This metod can be invoked after getEditorControls(parent) only"
@@ -4614,7 +4510,7 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_PATH_TO_SEAM_HOME_DIRECTORY_CANNOT_BE_EMPTY
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:335
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:309
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_PATH_TO_SEAM_HOME_DIRECTORY_CANNOT_BE_EMPTY"
 msgid "Path to seam home directory cannot be empty"
@@ -4622,15 +4518,15 @@ msgstr ""
 
 #. 
 #: SEAM_RUNTIME_LIST_FIELD_EDITOR_THE_SELECTED_SEAM_APPEARS_TO_BE_OF_INCOMATIBLE_VERSION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:337
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:311
 #, java-format
 msgctxt "SEAM_RUNTIME_LIST_FIELD_EDITOR_THE_SELECTED_SEAM_APPEARS_TO_BE_OF_INCOMATIBLE_VERSION"
-msgid "The selected seam appears to be of an incompatible version '"
+msgid "The selected seam appears to be of an incompatible version ''{0}''"
 msgstr ""
 
 #. 
 #: SEAM_TARGET_SERVER
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:339
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:313
 #, java-format
 msgctxt "SEAM_TARGET_SERVER"
 msgid "Target Server"
@@ -4638,7 +4534,7 @@ msgstr ""
 
 #. 
 #: RUNTIME_DELETE_CONFIRM_TITLE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:341
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:315
 #, java-format
 msgctxt "RUNTIME_DELETE_CONFIRM_TITLE"
 msgid "Confirm Runtime Delete"
@@ -4646,7 +4542,7 @@ msgstr ""
 
 #. 
 #: RUNTIME_DELETE_NOT_USED_CONFIRM
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:343
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:317
 #, java-format
 msgctxt "RUNTIME_DELETE_NOT_USED_CONFIRM"
 msgid "Are you sure you want to delete runtime ''{0}''?"
@@ -4654,7 +4550,7 @@ msgstr ""
 
 #. 
 #: RUNTIME_DELETE_USED_CONFIRM
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:345
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:319
 #, java-format
 msgctxt "RUNTIME_DELETE_USED_CONFIRM"
 msgid "Runtime ''{0}'' is used by seam projects. Are you sure you want to delete it?"
@@ -4662,7 +4558,7 @@ msgstr ""
 
 #. 
 #: OPEN_SEAM_COMPONENT_ACTION_ACTION_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:347
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:321
 #, java-format
 msgctxt "OPEN_SEAM_COMPONENT_ACTION_ACTION_NAME"
 msgid "Open Seam Component"
@@ -4670,7 +4566,7 @@ msgstr ""
 
 #. 
 #: OPEN_SEAM_COMPONENT_ACTION_DESCRIPTION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:349
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:323
 #, java-format
 msgctxt "OPEN_SEAM_COMPONENT_ACTION_DESCRIPTION"
 msgid "Open Seam Component"
@@ -4678,7 +4574,7 @@ msgstr ""
 
 #. 
 #: OPEN_SEAM_COMPONENT_ACTION_TOOL_TIP
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:351
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:325
 #, java-format
 msgctxt "OPEN_SEAM_COMPONENT_ACTION_TOOL_TIP"
 msgid "Open Seam Component"
@@ -4686,7 +4582,7 @@ msgstr ""
 
 #. 
 #: OPEN_SEAM_COMPONENT_ACTION_MESSAGE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:353
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:327
 #, java-format
 msgctxt "OPEN_SEAM_COMPONENT_ACTION_MESSAGE"
 msgid "Enter seam component name prefix or pattern (? = any character, * = any string):"
@@ -4694,7 +4590,7 @@ msgstr ""
 
 #. 
 #: OPEN_SEAM_COMPONENT_DIALOG_LOADING
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:355
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:329
 #, java-format
 msgctxt "OPEN_SEAM_COMPONENT_DIALOG_LOADING"
 msgid "Seam components loading"
@@ -4702,7 +4598,7 @@ msgstr ""
 
 #. 
 #: OPEN_SEAM_COMPONENT_DIALOG_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:357
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:331
 #, java-format
 msgctxt "OPEN_SEAM_COMPONENT_DIALOG_NAME"
 msgid "OpenSeamComponentDialog"
@@ -4710,7 +4606,7 @@ msgstr ""
 
 #. 
 #: OPEN_SEAM_COMPONENT_DIALOG_WAIT
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:359
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:333
 #, java-format
 msgctxt "OPEN_SEAM_COMPONENT_DIALOG_WAIT"
 msgid "Wait for Build..."
@@ -4718,7 +4614,7 @@ msgstr ""
 
 #. 
 #: FIND_DECLARATIONS_ACTION_ACTION_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:361
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:335
 #, java-format
 msgctxt "FIND_DECLARATIONS_ACTION_ACTION_NAME"
 msgid "Find Seam Declarations"
@@ -4726,7 +4622,7 @@ msgstr ""
 
 #. 
 #: FIND_DECLARATIONS_ACTION_DESCRIPTION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:363
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:337
 #, java-format
 msgctxt "FIND_DECLARATIONS_ACTION_DESCRIPTION"
 msgid "Find Seam Declarations"
@@ -4734,7 +4630,7 @@ msgstr ""
 
 #. 
 #: FIND_DECLARATIONS_ACTION_TOOL_TIP
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:365
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:339
 #, java-format
 msgctxt "FIND_DECLARATIONS_ACTION_TOOL_TIP"
 msgid "Find Seam Declarations"
@@ -4742,7 +4638,7 @@ msgstr ""
 
 #. 
 #: FIND_REFERENCES_ACTION_ACTION_NAME
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:367
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:341
 #, java-format
 msgctxt "FIND_REFERENCES_ACTION_ACTION_NAME"
 msgid "Find Seam References"
@@ -4750,7 +4646,7 @@ msgstr ""
 
 #. 
 #: FIND_REFERENCES_ACTION_DESCRIPTION
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:369
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:343
 #, java-format
 msgctxt "FIND_REFERENCES_ACTION_DESCRIPTION"
 msgid "Find Seam References"
@@ -4758,7 +4654,7 @@ msgstr ""
 
 #. 
 #: FIND_REFERENCES_ACTION_TOOL_TIP
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:371
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:345
 #, java-format
 msgctxt "FIND_REFERENCES_ACTION_TOOL_TIP"
 msgid "Find Seam References"
@@ -4766,7 +4662,7 @@ msgstr ""
 
 #. 
 #: VIEW_FOLDER_FILED_EDITOR
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:373
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:347
 #, java-format
 msgctxt "VIEW_FOLDER_FILED_EDITOR"
 msgid "View Folder:"
@@ -4774,7 +4670,7 @@ msgstr ""
 
 #. 
 #: SELECT_WORKSPACE_FOLDER_DIALOG_TITLE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:375
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:349
 #, java-format
 msgctxt "SELECT_WORKSPACE_FOLDER_DIALOG_TITLE"
 msgid "Folder Selection"
@@ -4782,7 +4678,7 @@ msgstr ""
 
 #. 
 #: SELECT_WORKSPACE_FOLDER_DIALOG_MESSAGE
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:377
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:351
 #, java-format
 msgctxt "SELECT_WORKSPACE_FOLDER_DIALOG_MESSAGE"
 msgid "&Chose a folder"
@@ -4790,7 +4686,7 @@ msgstr ""
 
 #. 
 #: SeamSearchQuery_label
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:379
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:353
 #, java-format
 msgctxt "SeamSearchQuery_label"
 msgid "Seam {0} Search"
@@ -4799,7 +4695,7 @@ msgstr ""
 #. 
 #. The first argument will be replaced by the pattern, the second by the scope, last by limitTo patterns
 #: SeamSearchQuery_singularPatternWithLimitTo
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:383
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:357
 #, java-format
 msgctxt "SeamSearchQuery_singularPatternWithLimitTo"
 msgid "''{0}'' - 1 match in {1} ({2})"
@@ -4808,7 +4704,7 @@ msgstr ""
 #. 
 #. The first argument will be replaced by the pattern, the second by the count and the third by the scope, last by limitTo patterns
 #: SeamSearchQuery_pluralPatternWithLimitTo
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:387
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:361
 #, java-format
 msgctxt "SeamSearchQuery_pluralPatternWithLimitTo"
 msgid "''{0}'' - {1} matches in {2} ({3})"
@@ -4816,7 +4712,7 @@ msgstr ""
 
 #. 
 #: SeamSearchScope_scope_empty
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:389
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:363
 #, java-format
 msgctxt "SeamSearchScope_scope_empty"
 msgid "empty scope"
@@ -4824,7 +4720,7 @@ msgstr ""
 
 #. 
 #: SeamSearchScope_scope_single
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:391
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:365
 #, java-format
 msgctxt "SeamSearchScope_scope_single"
 msgid "''{0}''"
@@ -4832,7 +4728,7 @@ msgstr ""
 
 #. 
 #: SeamSearchScope_scope_double
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:393
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:367
 #, java-format
 msgctxt "SeamSearchScope_scope_double"
 msgid "''{0}'', ''{1}''"
@@ -4840,7 +4736,7 @@ msgstr ""
 
 #. 
 #: SeamSearchScope_scope_multiple
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:395
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:369
 #, java-format
 msgctxt "SeamSearchScope_scope_multiple"
 msgid "''{0}'', ''{1}'', ..."
@@ -4848,7 +4744,7 @@ msgstr ""
 
 #. 
 #: SeamSearchScope_scope_LimitToDeclarations
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:397
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:371
 #, java-format
 msgctxt "SeamSearchScope_scope_LimitToDeclarations"
 msgid "Declarations"
@@ -4856,7 +4752,7 @@ msgstr ""
 
 #. 
 #: SeamSearchScope_scope_LimitToReferences
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:399
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:373
 #, java-format
 msgctxt "SeamSearchScope_scope_LimitToReferences"
 msgid "References"
@@ -4865,7 +4761,7 @@ msgstr ""
 #. 
 #. The first argument will be replaced by the pattern, the second by the count and the third by the scope
 #: SeamSearchQuery_pluralPattern
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:403
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:377
 #, java-format
 msgctxt "SeamSearchQuery_pluralPattern"
 msgid "''{0}'' - {1} matches in {2} ({3})"
@@ -4874,7 +4770,7 @@ msgstr ""
 #. 
 #. The first argument will be replaced by the pattern, the second by the scope
 #: SeamSearchQuery_singularLabel
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:407
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:381
 #, java-format
 msgctxt "SeamSearchQuery_singularLabel"
 msgid "''{0}'' - 1 match in {1} ({2})"
@@ -4882,7 +4778,7 @@ msgstr ""
 
 #. 
 #: SeamSearchVisitor_scanning
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:409
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:383
 #, java-format
 msgctxt "SeamSearchVisitor_scanning"
 msgid "Scanning file {1} of {2} in Seam project ''{0}''"
@@ -4890,7 +4786,7 @@ msgstr ""
 
 #. 
 #: SeamSearch
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:411
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:385
 #, java-format
 msgctxt "SeamSearch"
 msgid "\"Seam Search - \""
@@ -4898,7 +4794,7 @@ msgstr ""
 
 #. 
 #: SeamQuickFixFindDeclarations
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:413
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:387
 #, java-format
 msgctxt "SeamQuickFixFindDeclarations"
 msgid "Find Seam declarations for ''{0}''"
@@ -4906,7 +4802,7 @@ msgstr ""
 
 #. 
 #: SeamQuickFixFindReferences
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:415
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:389
 #, java-format
 msgctxt "SeamQuickFixFindReferences"
 msgid "Find Seam references for ''{0}''"
@@ -4914,7 +4810,7 @@ msgstr ""
 
 #. 
 #: SeamRuntimeListFieldEditor_ActionAdd
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:417
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:391
 #, java-format
 msgctxt "SeamRuntimeListFieldEditor_ActionAdd"
 msgid "&Add"
@@ -4922,7 +4818,7 @@ msgstr ""
 
 #. 
 #: SeamRuntimeListFieldEditor_ActionEdit
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:419
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:393
 #, java-format
 msgctxt "SeamRuntimeListFieldEditor_ActionEdit"
 msgid "&Edit"
@@ -4930,7 +4826,7 @@ msgstr ""
 
 #. 
 #: SeamRuntimeListFieldEditor_ActionRemove
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:421
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:395
 #, java-format
 msgctxt "SeamRuntimeListFieldEditor_ActionRemove"
 msgid "&Remove"
@@ -4938,7 +4834,7 @@ msgstr ""
 
 #. 
 #: POJO_CLASS_ALREADY_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:423
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:397
 #, java-format
 msgctxt "POJO_CLASS_ALREADY_EXISTS"
 msgid "Such POJO class already exists!"
@@ -4946,7 +4842,7 @@ msgstr ""
 
 #. 
 #: ENTITY_CLASS_ALREADY_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:425
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:399
 #, java-format
 msgctxt "ENTITY_CLASS_ALREADY_EXISTS"
 msgid "Such entity class already exists!"
@@ -4954,7 +4850,7 @@ msgstr ""
 
 #. 
 #: PAGE_ALREADY_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:427
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:401
 #, java-format
 msgctxt "PAGE_ALREADY_EXISTS"
 msgid "Such page already exists!"
@@ -4962,7 +4858,7 @@ msgstr ""
 
 #. 
 #: MASTER_PAGE_ALREADY_EXISTS
-#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:429
+#: ../../../seam/plugins/org.jboss.tools.seam.ui/src/org/jboss/tools/seam/ui/messages.properties:403
 #, java-format
 msgctxt "MASTER_PAGE_ALREADY_EXISTS"
 msgid "Such master page already exists!"
