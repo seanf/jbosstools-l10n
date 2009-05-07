@@ -5,3 +5,6 @@ WORK
 .git
 syntax: glob
 *~
+a
+b
+ab
