@@ -1,21 +1,20 @@
-#SOME DESCRIPTIVE TITLE.
-#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-#This file is distributed under the same license as the PACKAGE package.
-#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-05-07 15:14+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-""
 
 #. ##############################################################################
 #. Copyright (c) 2009 JBoss, a division of Red Hat and others.
@@ -50,8 +49,6 @@ msgstr ""
 #: ../../../jst/features/org.jboss.tools.jst.feature/feature.properties:21
 #: ../../../jst/features/org.jboss.tools.jst.web.tiles.feature/feature.properties:21
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/plugin.properties:1
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/plugin.properties:1
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/plugin.properties:1
 #: ../../../jst/plugins/org.jboss.tools.jst.web.tiles.ui/plugin.properties:3
 #: ../../../jst/plugins/org.jboss.tools.jst.web.tiles/plugin.properties:1
 #: ../../../jst/plugins/org.jboss.tools.jst.web.ui/plugin.properties:1
@@ -345,7 +342,9 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.jsp/src/org/jboss/tools/jst/jsp/messages/messages.properties:7
 #, java-format
 msgctxt "CSS_INVALID_STYLE_PROPERTY"
-msgid "Invalid Style class property has been entered.Preview Tab will be not updated."
+msgid ""
+"Invalid Style class property has been entered.Preview Tab will be not "
+"updated."
 msgstr ""
 
 #. CSS_SAVE_DIALOG_TITLE=Save CSS file
@@ -731,410 +730,6 @@ msgstr ""
 #, java-format
 msgctxt "DEFAULT_TEXT_FOR_BROWSER_PREVIEW"
 msgid "Double click to edit preview. To save changes press Enter button."
-msgstr ""
-
-#. 
-#: Bundle-Name.0
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/plugin.properties:7
-#, java-format
-msgctxt "Bundle-Name.0"
-msgid "Web Debug UI"
-msgstr ""
-
-#. ******************************************************************************
-#. Copyright (c) 2000, 2005 IBM Corporation and others.
-#. All rights reserved. This program and the accompanying materials
-#. are made available under the terms of the Eclipse Public License v1.0
-#. which accompanies this distribution, and is available at
-#. http://www.eclipse.org/legal/epl-v10.html
-#. 
-#. Contributors:
-#. Exadel, Inc.
-#. Red Hat, Inc.
-#. ******************************************************************************
-#: showWebVariables
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:23
-#, java-format
-msgctxt "showWebVariables"
-msgid "Show Web Variables"
-msgstr ""
-
-#. 
-#: showHttpServletRequest
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:25
-#, java-format
-msgctxt "showHttpServletRequest"
-msgid "Show HttpServletRequest object"
-msgstr ""
-
-#. 
-#: showHttpServletResponse
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:27
-#, java-format
-msgctxt "showHttpServletResponse"
-msgid "Show HttpServletResponse object"
-msgstr ""
-
-#. 
-#: showHttpSession
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:29
-#, java-format
-msgctxt "showHttpSession"
-msgid "Show HttpSession object"
-msgstr ""
-
-#. 
-#: showPageContext
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:31
-#, java-format
-msgctxt "showPageContext"
-msgid "Show Page Context"
-msgstr ""
-
-#. 
-#: showServletContext
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:33
-#, java-format
-msgctxt "showServletContext"
-msgid "Show Servlet Context"
-msgstr ""
-
-#. 
-#: showStrutsVariables
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:37
-#, java-format
-msgctxt "showStrutsVariables"
-msgid "Show Struts Variables"
-msgstr ""
-
-#. 
-#: showDynaActionFormSubclasses
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:39
-#, java-format
-msgctxt "showDynaActionFormSubclasses"
-msgid "Show DynaActionForm objects and subclasses"
-msgstr ""
-
-#. 
-#: showActionMessagesAndErrors
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:41
-#, java-format
-msgctxt "showActionMessagesAndErrors"
-msgid "Show ActionMessages or ActionErrors object"
-msgstr ""
-
-#. 
-#: showActionMapping
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:43
-#, java-format
-msgctxt "showActionMapping"
-msgid "Show ActionMapping object"
-msgstr ""
-
-#. 
-#: showActionForward
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:45
-#, java-format
-msgctxt "showActionForward"
-msgid "Show ActionForward object"
-msgstr ""
-
-#. 
-#: showAction
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:47
-#, java-format
-msgctxt "showAction"
-msgid "Show Action object"
-msgstr ""
-
-#. 
-#: WebDataProperties.WebRoot
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:51
-#, java-format
-msgctxt "WebDataProperties.WebRoot"
-msgid "Web"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.PageContext.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:53
-#, java-format
-msgctxt "WebDataProperties.Web.PageContext.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.PageContext.Attributes
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:55
-#, java-format
-msgctxt "WebDataProperties.Web.PageContext.Attributes"
-msgid "Attributes"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.ServletContext.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:57
-#, java-format
-msgctxt "WebDataProperties.Web.ServletContext.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.ServletContext.InitParameters
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:59
-#, java-format
-msgctxt "WebDataProperties.Web.ServletContext.InitParameters"
-msgid "InitParameters"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.ServletContext.Attributes
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:61
-#, java-format
-msgctxt "WebDataProperties.Web.ServletContext.Attributes"
-msgid "Attributes"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.HttpSession.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:63
-#, java-format
-msgctxt "WebDataProperties.Web.HttpSession.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.HttpSession.Attributes
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:65
-#, java-format
-msgctxt "WebDataProperties.Web.HttpSession.Attributes"
-msgid "Attributes"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.HttpServletResponse.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:67
-#, java-format
-msgctxt "WebDataProperties.Web.HttpServletResponse.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.HttpServletRequest.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:69
-#, java-format
-msgctxt "WebDataProperties.Web.HttpServletRequest.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.HttpServletRequest.Parameters
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:71
-#, java-format
-msgctxt "WebDataProperties.Web.HttpServletRequest.Parameters"
-msgid "Parameters"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.HttpServletRequest.Attributes
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:73
-#, java-format
-msgctxt "WebDataProperties.Web.HttpServletRequest.Attributes"
-msgid "Attributes"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.HttpServletRequest.SessionProperty
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:75
-#, java-format
-msgctxt "WebDataProperties.Web.HttpServletRequest.SessionProperty"
-msgid "SessionProperty"
-msgstr ""
-
-#. 
-#: WebDataProperties.Web.HttpServletRequest.Headers
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:77
-#, java-format
-msgctxt "WebDataProperties.Web.HttpServletRequest.Headers"
-msgid "Headers"
-msgstr ""
-
-#. 
-#: WebDataProperties.StrutsRoot
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:79
-#, java-format
-msgctxt "WebDataProperties.StrutsRoot"
-msgid "Struts"
-msgstr ""
-
-#. 
-#: WebDataProperties.ActionProperty.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:81
-#, java-format
-msgctxt "WebDataProperties.ActionProperty.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Struts.ActionForward.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:83
-#, java-format
-msgctxt "WebDataProperties.Struts.ActionForward.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Struts.ActionMapping.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:85
-#, java-format
-msgctxt "WebDataProperties.Struts.ActionMapping.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Struts.ActionMessagesAndErrors.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:87
-#, java-format
-msgctxt "WebDataProperties.Struts.ActionMessagesAndErrors.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.Struts.DynaActionForm.Filter
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:89
-#, java-format
-msgctxt "WebDataProperties.Struts.DynaActionForm.Filter"
-msgid "@Filter"
-msgstr ""
-
-#. 
-#: WebDataProperties.FilterPrefix
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:91
-#, java-format
-msgctxt "WebDataProperties.FilterPrefix"
-msgid "Filter: "
-msgstr ""
-
-#. 
-#: ShowDetailPaneAction.Show_detail_pane_2
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:95
-#, java-format
-msgctxt "ShowDetailPaneAction.Show_detail_pane_2"
-msgid "Show Detail Pane"
-msgstr ""
-
-#. 
-#: ShowDetailPaneAction.Show_Variable_Detail_Pane_1
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug.ui/src/org/jboss/tools/jst/web/debug/ui/xpl/WebDebugUIResources.properties:97
-#, java-format
-msgctxt "ShowDetailPaneAction.Show_Variable_Detail_Pane_1"
-msgid "Show &Detail Pane"
-msgstr ""
-
-#. 
-#: Bundle-Name.0
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/plugin.properties:7
-#, java-format
-msgctxt "Bundle-Name.0"
-msgid "Web Debug"
-msgstr ""
-
-#. Breakpoints
-#. These messages are used in org.jboss.tools.struts.debug.internal.*Breakpoint.
-#. and org.jboss.tools.jst.web.debug.internal.JspLineBreakpoint
-#: ActionEnterBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:7
-#, java-format
-msgctxt "ActionEnterBreakpoint_name"
-msgid "{0} [action: {1}] - Before execution"
-msgstr ""
-
-#. 
-#: ActionFormPopulateBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:9
-#, java-format
-msgctxt "ActionFormPopulateBreakpoint_name"
-msgid "{0} [action: {1}] - After form filling"
-msgstr ""
-
-#. 
-#: ActionFormValidateBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:11
-#, java-format
-msgctxt "ActionFormValidateBreakpoint_name"
-msgid "{0} [action: {1}] - After form validating"
-msgstr ""
-
-#. 
-#: ActionForwardBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:13
-#, java-format
-msgctxt "ActionForwardBreakpoint_name"
-msgid "{0} [action: {1}] - success [forward: {2}]"
-msgstr ""
-
-#. 
-#: ActionTilesDefinitionForwardBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:15
-#, java-format
-msgctxt "ActionTilesDefinitionForwardBreakpoint_name"
-msgid "{0} [action: {1}] - success [forward: {2}]"
-msgstr ""
-
-#. 
-#: ActionIncludeBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:17
-#, java-format
-msgctxt "ActionIncludeBreakpoint_name"
-msgid "{0} [action: {1}] - success [include: {2}]"
-msgstr ""
-
-#. 
-#: ActionExceptionBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:19
-#, java-format
-msgctxt "ActionExceptionBreakpoint_name"
-msgid "{0} [action: {1}] - {2}"
-msgstr ""
-
-#. 
-#: GlobalExceptionBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:21
-#, java-format
-msgctxt "GlobalExceptionBreakpoint_name"
-msgid "{0} [global-exception: {1}]"
-msgstr ""
-
-#. 
-#: GlobalForwardBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:23
-#, java-format
-msgctxt "GlobalForwardBreakpoint_name"
-msgid "{0} [global-forward: {1}]"
-msgstr ""
-
-#. 
-#: TilesDefinitionGlobalForwardBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:25
-#, java-format
-msgctxt "TilesDefinitionGlobalForwardBreakpoint_name"
-msgid "{0} [global-forward: {1}]"
-msgstr ""
-
-#. 
-#: PageEnterBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:27
-#, java-format
-msgctxt "PageEnterBreakpoint_name"
-msgid "{0} [entry]"
-msgstr ""
-
-#. 
-#: JspLineBreakpoint_name
-#: ../../../jst/plugins/org.jboss.tools.jst.web.debug/src/org/jboss/tools/jst/web/debug/DebugMessages.properties:29
-#, java-format
-msgctxt "JspLineBreakpoint_name"
-msgid "{0} [line: {1}]"
 msgstr ""
 
 #: pluginName
@@ -2598,7 +2193,11 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/operation/WebProjectCreationOperation.properties:15
 #, java-format
 msgctxt "ADOPT_WILL_OVERWRITE_DOT_FILES_MESSAGE"
-msgid "Selected project includes file {0} and probably was an Eclipse project. This wizard will overwrite the file. If you wish to reuse it, try to import project using option ''Import Existing Project into Workspace''. After that, you may add JBoss Tools Capabilities if needed."
+msgid ""
+"Selected project includes file {0} and probably was an Eclipse project. This "
+"wizard will overwrite the file. If you wish to reuse it, try to import "
+"project using option ''Import Existing Project into Workspace''. After that, "
+"you may add JBoss Tools Capabilities if needed."
 msgstr ""
 
 #. 
@@ -2607,7 +2206,9 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web.ui/src/org/jboss/tools/jst/web/ui/operation/WebProjectCreationOperation.properties:24
 #, java-format
 msgctxt "ADOPT_WILL_CLEAR_WORKSPACE_MESSAGE"
-msgid "The folder {0} exists in workspace. Its content will be removed to avoid merge with the imported project."
+msgid ""
+"The folder {0} exists in workspace. Its content will be removed to avoid "
+"merge with the imported project."
 msgstr ""
 
 #: FILE_SELECT_DIALOG_EMPTY_MESSAGE
@@ -4201,14 +3802,7 @@ msgid "Add Tag..."
 msgstr ""
 
 #. 
-#: Web.SetExpanded.menu
-#: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-menu.properties:5
-#, java-format
-msgctxt "Web.SetExpanded.menu"
-msgid "Set Expanded"
-msgstr ""
-
-#. 
+#. Web.SetExpanded.menu=Set Expanded
 #: Web.CreateAttribute.menu
 #: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web-menu.properties:7
 #, java-format
@@ -6187,7 +5781,9 @@ msgstr ""
 #: WebAppFolderMessageDestinations_CreateServiceMessageDestinationRef.WindowTitle
 #: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web.properties:631
 #, java-format
-msgctxt "WebAppFolderMessageDestinations_CreateServiceMessageDestinationRef.WindowTitle"
+msgctxt ""
+"WebAppFolderMessageDestinations_CreateServiceMessageDestinationRef."
+"WindowTitle"
 msgid "Add Service Message Destination Ref"
 msgstr ""
 
@@ -6195,7 +5791,8 @@ msgstr ""
 #: WebAppFolderMessageDestinations_CreateServiceMessageDestinationRef.Title
 #: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web.properties:633
 #, java-format
-msgctxt "WebAppFolderMessageDestinations_CreateServiceMessageDestinationRef.Title"
+msgctxt ""
+"WebAppFolderMessageDestinations_CreateServiceMessageDestinationRef.Title"
 msgid "Service Message Destination Ref"
 msgstr ""
 
@@ -6203,7 +5800,8 @@ msgstr ""
 #: WebAppFolderMessageDestinations_CreateServiceMessageDestination.WindowTitle
 #: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web.properties:637
 #, java-format
-msgctxt "WebAppFolderMessageDestinations_CreateServiceMessageDestination.WindowTitle"
+msgctxt ""
+"WebAppFolderMessageDestinations_CreateServiceMessageDestination.WindowTitle"
 msgid "Add Service Message Destination"
 msgstr ""
 
@@ -6211,7 +5809,8 @@ msgstr ""
 #: WebAppFolderMessageDestinations_CreateServiceMessageDestination.Title
 #: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web.properties:639
 #, java-format
-msgctxt "WebAppFolderMessageDestinations_CreateServiceMessageDestination.Title"
+msgctxt ""
+"WebAppFolderMessageDestinations_CreateServiceMessageDestination.Title"
 msgid "Service Message Destination"
 msgstr ""
 
@@ -6933,7 +6532,8 @@ msgstr ""
 #: WebAppLocaleEncodingMappingList_CreateLocaleEncodingMapping.WindowTitle
 #: ../../../jst/plugins/org.jboss.tools.jst.web/resources/help/keys-web.properties:1023
 #, java-format
-msgctxt "WebAppLocaleEncodingMappingList_CreateLocaleEncodingMapping.WindowTitle"
+msgctxt ""
+"WebAppLocaleEncodingMappingList_CreateLocaleEncodingMapping.WindowTitle"
 msgid "Add Locale Encoding Mapping"
 msgstr ""
 
@@ -7030,7 +6630,7 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:3
 #, java-format
 msgctxt "CANNOT_FIND_PROJECT_VERSIONS_DESCRIPTORFILE"
-msgid "Cannot find project versions descriptor file "
+msgid "Cannot find project versions descriptor file {0}"
 msgstr ""
 
 #. 
@@ -7038,7 +6638,7 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:5
 #, java-format
 msgctxt "CANNOT_PARSE_PROJECT_VERSIONS_DESCRIPTORFILE"
-msgid "Cannot parse project versions descriptor file "
+msgid "Cannot parse project versions descriptor file {0}"
 msgstr ""
 
 #. 
@@ -7046,7 +6646,7 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:7
 #, java-format
 msgctxt "CANNOT_READ_PROJECT_VERSIONS_DESCRIPTORFILE"
-msgid "Cannot read project versions descriptor file "
+msgid "Cannot read project versions descriptor file {0}"
 msgstr ""
 
 #. 
@@ -7174,7 +6774,9 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:39
 #, java-format
 msgctxt "CANNOT_FIND_TOOLSJAR"
-msgid "Cannot find tools.jar for the specified jvm environment. It may result in jsp compilation problems."
+msgid ""
+"Cannot find tools.jar for the specified jvm environment. It may result in "
+"jsp compilation problems."
 msgstr ""
 
 #. 
@@ -7214,7 +6816,12 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:49
 #, java-format
 msgctxt "SERVLET_VERSION_ISNOT_CONSISTENT_WITH_WEBXML_VERSION"
-msgid "You have selected a different servlet version than in project''s web.xml file. Click Yes if you would like to convert the current web.xml file to servlet version {0}. Please note that during conversion you might lose some web.xml information that is not available in the new version as well as formatting or comments."
+msgid ""
+"You have selected a different servlet version than in project''s web.xml "
+"file. Click Yes if you would like to convert the current web.xml file to "
+"servlet version {0}. Please note that during conversion you might lose some "
+"web.xml information that is not available in the new version as well as "
+"formatting or comments."
 msgstr ""
 
 #. 
@@ -7222,7 +6829,9 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:51
 #, java-format
 msgctxt "SAVE_OLD_SERVLET"
-msgid "Do you want to save a copy of your current web.xml file? It will be saved as web.xml.{0}.old"
+msgid ""
+"Do you want to save a copy of your current web.xml file? It will be saved as "
+"web.xml.{0}.old"
 msgstr ""
 
 #. 
@@ -7314,11 +6923,11 @@ msgid "Delete reference from struts configuration file "
 msgstr ""
 
 #. 
-#: DELETE
+#: DELETE_FILENAME
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:75
 #, java-format
-msgctxt "DELETE"
-msgid "Delete "
+msgctxt "DELETE_FILENAME"
+msgid "Delete {0}"
 msgstr ""
 
 #. 
@@ -7374,7 +6983,9 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:89
 #, java-format
 msgctxt "PROJECT_EXISTS_IN_WORKSPACE"
-msgid "Project {0} exists in workspace and is closed. To use the project, please open it.  "
+msgid ""
+"Project {0} exists in workspace and is closed. To use the project, please "
+"open it.  "
 msgstr ""
 
 #. 
@@ -7398,7 +7009,9 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:95
 #, java-format
 msgctxt "MUST_NOT_CONTAIN_CHARACTER"
-msgid "Library set name must be a valid folder name. It must not contain character {0} ."
+msgid ""
+"Library set name must be a valid folder name. It must not contain character "
+"{0} ."
 msgstr ""
 
 #. 
@@ -7534,7 +7147,7 @@ msgstr ""
 #: ../../../jst/plugins/org.jboss.tools.jst.web/src/org/jboss/tools/jst/web/messages/messages.properties:129
 #, java-format
 msgctxt "YOU_WANT_TO_DELETE_LINK_TO"
-msgid "Do you want to delete link to "
+msgid "Do you want to delete link to {0}?"
 msgstr ""
 
 #. 
@@ -8120,4 +7733,3 @@ msgstr ""
 msgctxt "INCORRECT_PREFIX"
 msgid "Incorrect Prefix: {0}"
 msgstr ""
-

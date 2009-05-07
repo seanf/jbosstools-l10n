@@ -1,21 +1,20 @@
-#SOME DESCRIPTIVE TITLE.
-#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-#This file is distributed under the same license as the PACKAGE package.
-#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-05-07 15:14+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-""
 
 #. ##############################################################################
 #. Copyright (c) 2009 JBoss, a division of Red Hat and others.
@@ -614,7 +613,9 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model.ui/plugin.properties:79
 #, java-format
 msgctxt "CategoryDescription_experimental"
-msgid "It allows create Custom Capabilities, Library sets and Project templates for JSF/Struts projects"
+msgid ""
+"It allows create Custom Capabilities, Library sets and Project templates for "
+"JSF/Struts projects"
 msgstr ""
 
 #. 
@@ -1527,8 +1528,16 @@ msgid "Always Hide Selection Bar Without Prompt"
 msgstr ""
 
 #. 
-#: Model.Size_of_Visual_Editor_pane_0-100%
+#: Model.visual_source_editors_splitting
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:101
+#, java-format
+msgctxt "Model.visual_source_editors_splitting"
+msgid "Visual/Source editors splitting"
+msgstr ""
+
+#. 
+#: Model.Size_of_Visual_Editor_pane_0-100%
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:103
 #, java-format
 msgctxt "Model.Size_of_Visual_Editor_pane_0-100%"
 msgid "Size of Visual Editor Pane 0-100%"
@@ -1536,7 +1545,7 @@ msgstr ""
 
 #. 
 #: Model.interface
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:103
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:105
 #, java-format
 msgctxt "Model.interface"
 msgid "Interface"
@@ -1544,7 +1553,7 @@ msgstr ""
 
 #. 
 #: Model.class
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:105
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:107
 #, java-format
 msgctxt "Model.class"
 msgid "Class"
@@ -1552,7 +1561,7 @@ msgstr ""
 
 #. 
 #: Model.tab_size
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:107
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:109
 #, java-format
 msgctxt "Model.tab_size"
 msgid "Tab Size"
@@ -1560,7 +1569,7 @@ msgstr ""
 
 #. 
 #: Model.font_size
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:109
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:111
 #, java-format
 msgctxt "Model.font_size"
 msgid "Font Size"
@@ -1568,7 +1577,7 @@ msgstr ""
 
 #. 
 #: Model.font_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:111
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:113
 #, java-format
 msgctxt "Model.font_name"
 msgid "Font Name"
@@ -1576,7 +1585,7 @@ msgstr ""
 
 #. 
 #: Model.path
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:113
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:115
 #, java-format
 msgctxt "Model.path"
 msgid "Path"
@@ -1584,7 +1593,7 @@ msgstr ""
 
 #. 
 #: Model.extensions
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:115
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:117
 #, java-format
 msgctxt "Model.extensions"
 msgid "Extensions"
@@ -1592,7 +1601,7 @@ msgstr ""
 
 #. 
 #: Model.undo_capacity
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:117
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:119
 #, java-format
 msgctxt "Model.undo_capacity"
 msgid "Undo Capacity"
@@ -1600,7 +1609,7 @@ msgstr ""
 
 #. 
 #: Model.show_modifiers
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:119
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:121
 #, java-format
 msgctxt "Model.show_modifiers"
 msgid "Show Modifiers"
@@ -1608,7 +1617,7 @@ msgstr ""
 
 #. 
 #: Model.show_navigator_tab_names
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:121
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:123
 #, java-format
 msgctxt "Model.show_navigator_tab_names"
 msgid "Show Navigator Tab Names"
@@ -1616,7 +1625,7 @@ msgstr ""
 
 #. 
 #: Model.show_tips_at_start
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:123
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:125
 #, java-format
 msgctxt "Model.show_tips_at_start"
 msgid "Show Tips at Start"
@@ -1624,7 +1633,7 @@ msgstr ""
 
 #. 
 #: Model.check_new_version
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:125
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:127
 #, java-format
 msgctxt "Model.check_new_version"
 msgid "Check New Version"
@@ -1632,7 +1641,7 @@ msgstr ""
 
 #. 
 #: Model.browser_prefix
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:127
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:129
 #, java-format
 msgctxt "Model.browser_prefix"
 msgid "Browser Prefix"
@@ -1640,7 +1649,7 @@ msgstr ""
 
 #. 
 #: Model.autoload
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:129
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:131
 #, java-format
 msgctxt "Model.autoload"
 msgid "Autoload"
@@ -1648,7 +1657,7 @@ msgstr ""
 
 #. 
 #: Model.show
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:131
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:133
 #, java-format
 msgctxt "Model.show"
 msgid "Show"
@@ -1656,7 +1665,7 @@ msgstr ""
 
 #. 
 #: Model.namespace
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:133
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:135
 #, java-format
 msgctxt "Model.namespace"
 msgid "Namespace"
@@ -1664,7 +1673,7 @@ msgstr ""
 
 #. 
 #: Model.icon
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:135
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:137
 #, java-format
 msgctxt "Model.icon"
 msgid "Icon"
@@ -1672,7 +1681,7 @@ msgstr ""
 
 #. 
 #: Model.library_uri
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:137
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:139
 #, java-format
 msgctxt "Model.library_uri"
 msgid "Library URI"
@@ -1680,7 +1689,7 @@ msgstr ""
 
 #. 
 #: Model.library_version
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:139
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:141
 #, java-format
 msgctxt "Model.library_version"
 msgid "Library Version"
@@ -1688,7 +1697,7 @@ msgstr ""
 
 #. 
 #: Model.default_prefix
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:141
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:143
 #, java-format
 msgctxt "Model.default_prefix"
 msgid "Default Prefix"
@@ -1696,7 +1705,7 @@ msgstr ""
 
 #. 
 #: Model.hidden
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:143
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:145
 #, java-format
 msgctxt "Model.hidden"
 msgid "Hidden"
@@ -1704,7 +1713,7 @@ msgstr ""
 
 #. 
 #: Model.large_icon
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:145
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:147
 #, java-format
 msgctxt "Model.large_icon"
 msgid "Large Icon"
@@ -1712,7 +1721,7 @@ msgstr ""
 
 #. 
 #: Model.description
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:147
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:149
 #, java-format
 msgctxt "Model.description"
 msgid "Description"
@@ -1720,7 +1729,7 @@ msgstr ""
 
 #. 
 #: Model.start_text
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:149
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:151
 #, java-format
 msgctxt "Model.start_text"
 msgid "Start Text"
@@ -1728,7 +1737,7 @@ msgstr ""
 
 #. 
 #: Model.end_text
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:151
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:153
 #, java-format
 msgctxt "Model.end_text"
 msgid "End Text"
@@ -1736,7 +1745,7 @@ msgstr ""
 
 #. 
 #: Model.automatically_reformat_tag_body
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:153
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:155
 #, java-format
 msgctxt "Model.automatically_reformat_tag_body"
 msgid "Automatically Reformat Tag Body"
@@ -1744,7 +1753,7 @@ msgstr ""
 
 #. 
 #: Model.not
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:155
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:157
 #, java-format
 msgctxt "Model.not"
 msgid "Not"
@@ -1752,7 +1761,7 @@ msgstr ""
 
 #. 
 #: Model.root
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:157
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:159
 #, java-format
 msgctxt "Model.root"
 msgid "Root"
@@ -1760,7 +1769,7 @@ msgstr ""
 
 #. 
 #: Model.property_name
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:159
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:161
 #, java-format
 msgctxt "Model.property_name"
 msgid "Property Name"
@@ -1768,7 +1777,7 @@ msgstr ""
 
 #. 
 #: Model.text_to_find
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:161
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:163
 #, java-format
 msgctxt "Model.text_to_find"
 msgid "Text to Find"
@@ -1776,7 +1785,7 @@ msgstr ""
 
 #. 
 #: Model.ignore_case
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:163
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:165
 #, java-format
 msgctxt "Model.ignore_case"
 msgid "Ignore Case"
@@ -1784,7 +1793,7 @@ msgstr ""
 
 #. 
 #: Model.equality
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:165
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:167
 #, java-format
 msgctxt "Model.equality"
 msgid "Equality"
@@ -1792,7 +1801,7 @@ msgstr ""
 
 #. 
 #: Model.encoding
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:167
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model-attrs.properties:169
 #, java-format
 msgctxt "Model.encoding"
 msgid "Encoding"
@@ -3577,21 +3586,31 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:647
 #, java-format
 msgctxt "SharableEditors.natureWarning.message"
-msgid "In order to use the full power of JBoss Tools editors (including any GUI tabbed viewers), the current project needs to have an JBoss Tools capabilities (for instance, JBoss Tools JSF or JBoss Tools Struts) associated with it."
+msgid ""
+"In order to use the full power of JBoss Tools editors (including any GUI "
+"tabbed viewers), the current project needs to have an JBoss Tools "
+"capabilities (for instance, JBoss Tools JSF or JBoss Tools Struts) "
+"associated with it."
 msgstr ""
 
 #: SharableEditors.natureWarning.jsf.message
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:648
 #, java-format
 msgctxt "SharableEditors.natureWarning.jsf.message"
-msgid "In order to use the full power of Faces Config editor (including Diagram and Tree viewers), the current project needs to have JSF capabilities associated with it."
+msgid ""
+"In order to use the full power of Faces Config editor (including Diagram and "
+"Tree viewers), the current project needs to have JSF capabilities associated "
+"with it."
 msgstr ""
 
 #: SharableEditors.natureWarning.struts.message
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:649
 #, java-format
 msgctxt "SharableEditors.natureWarning.struts.message"
-msgid "In order to use the full power of Struts Config editor (including GUI tabbed viewers), the current project needs to have Struts capabilities associated with it."
+msgid ""
+"In order to use the full power of Struts Config editor (including GUI tabbed "
+"viewers), the current project needs to have Struts capabilities associated "
+"with it."
 msgstr ""
 
 #: SharableEditors.natureWarning.box.message
@@ -3698,7 +3717,10 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:683
 #, java-format
 msgctxt "newStrutsProjectPage1_introduction"
-msgid "The Create New Project Wizard is used for creating a brand new project. If you already have a pre-existing project, just use the Import Project Wizard to start working with it in JBoss Tools."
+msgid ""
+"The Create New Project Wizard is used for creating a brand new project. If "
+"you already have a pre-existing project, just use the Import Project Wizard "
+"to start working with it in JBoss Tools."
 msgstr ""
 
 #: newStrutsProjectPage1_name
@@ -3793,7 +3815,10 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:700
 #, java-format
 msgctxt "newStrutsLightProjectPage1_introduction"
-msgid "The Create New Project Wizard is used for creating a brand new project. If you already have a pre-existing project, just use the Import Project Wizard to start working with it in Eclipse4Web."
+msgid ""
+"The Create New Project Wizard is used for creating a brand new project. If "
+"you already have a pre-existing project, just use the Import Project Wizard "
+"to start working with it in Eclipse4Web."
 msgstr ""
 
 #: newStrutsLightProjectPage1_name
@@ -3866,7 +3891,10 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:713
 #, java-format
 msgctxt "newJSFLightProjectPage1_introduction"
-msgid "The Create New Project Wizard is used for creating a brand new project. If you already have a pre-existing project, just use the Import Project Wizard to start working with it in Eclipse4Web."
+msgid ""
+"The Create New Project Wizard is used for creating a brand new project. If "
+"you already have a pre-existing project, just use the Import Project Wizard "
+"to start working with it in Eclipse4Web."
 msgstr ""
 
 #: newJSFLightProjectPage1_name
@@ -3954,7 +3982,10 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:729
 #, java-format
 msgctxt "newJSFProjectPage1_introduction"
-msgid "The Create New Project Wizard is used for creating a brand new project. If you already have a pre-existing project, just use the Import Project Wizard to start working with it in JBoss Tools."
+msgid ""
+"The Create New Project Wizard is used for creating a brand new project. If "
+"you already have a pre-existing project, just use the Import Project Wizard "
+"to start working with it in JBoss Tools."
 msgstr ""
 
 #: newJSFProjectPage1_name
@@ -4099,21 +4130,24 @@ msgstr ""
 #: org.jboss.tools.jsf.ui.wizard.project.ImportJSFWarWizard.mainPageTitle
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:755
 #, java-format
-msgctxt "org.jboss.tools.jsf.ui.wizard.project.ImportJSFWarWizard.mainPageTitle"
+msgctxt ""
+"org.jboss.tools.jsf.ui.wizard.project.ImportJSFWarWizard.mainPageTitle"
 msgid "JSF project"
 msgstr ""
 
 #: org.jboss.tools.struts.ui.wizard.project.ImportStrutsWarWizard.mainPageTitle
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:756
 #, java-format
-msgctxt "org.jboss.tools.struts.ui.wizard.project.ImportStrutsWarWizard.mainPageTitle"
+msgctxt ""
+"org.jboss.tools.struts.ui.wizard.project.ImportStrutsWarWizard.mainPageTitle"
 msgid "Struts project"
 msgstr ""
 
 #: org.jboss.tools.jst.web.ui.wizards.project.ImportWebWarWizard.mainPagePrompt
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:757
 #, java-format
-msgctxt "org.jboss.tools.jst.web.ui.wizards.project.ImportWebWarWizard.mainPagePrompt"
+msgctxt ""
+"org.jboss.tools.jst.web.ui.wizards.project.ImportWebWarWizard.mainPagePrompt"
 msgid "Select *.war file"
 msgstr ""
 
@@ -4122,7 +4156,12 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:759
 #, java-format
 msgctxt "IMPORT_STRUTS_PROJECT_EARLIER_VERSION_WARNING"
-msgid "This project has been created in an earlier version of Struts Studio. Select Yes if you want import and convert this project to the current version. Once this project is converted you will not be able to open it in a previous version. Select No if you want to cancel project import and leave it as it is."
+msgid ""
+"This project has been created in an earlier version of Struts Studio. Select "
+"Yes if you want import and convert this project to the current version. Once "
+"this project is converted you will not be able to open it in a previous "
+"version. Select No if you want to cancel project import and leave it as it "
+"is."
 msgstr ""
 
 #. 
@@ -4402,28 +4441,36 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:811
 #, java-format
 msgctxt "WebPrjRegisterApplication_text_import"
-msgid "To have the imported project's registration in %1 produce the desired effect, you need to have a common predeployed project structure."
+msgid ""
+"To have the imported project's registration in %1 produce the desired "
+"effect, you need to have a common predeployed project structure."
 msgstr ""
 
 #: WebPrjRegisterApplication_text_new
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:812
 #, java-format
 msgctxt "WebPrjRegisterApplication_text_new"
-msgid "Registering Web Context in %1 will allow you to modify and run the application without an additional deployment process."
+msgid ""
+"Registering Web Context in %1 will allow you to modify and run the "
+"application without an additional deployment process."
 msgstr ""
 
 #: WebPrjRegisterApplication_text_import_light
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:813
 #, java-format
 msgctxt "WebPrjRegisterApplication_text_import_light"
-msgid "To have the imported project's registration in %1 produce the desired effect, you need to have a common predeployed project structure."
+msgid ""
+"To have the imported project's registration in %1 produce the desired "
+"effect, you need to have a common predeployed project structure."
 msgstr ""
 
 #: WebPrjRegisterApplication_text_new_light
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:814
 #, java-format
 msgctxt "WebPrjRegisterApplication_text_new_light"
-msgid "Registering Web Context in %1 will allow you to modify and run the application without an additional deployment process."
+msgid ""
+"Registering Web Context in %1 will allow you to modify and run the "
+"application without an additional deployment process."
 msgstr ""
 
 #. 
@@ -4610,8 +4657,15 @@ msgctxt "SharableVPEEditor.option_list"
 msgid "Default Editor Tab"
 msgstr ""
 
-#: SharableVPEEditor.source_visual_editors_weights
+#: SharableVPEEditor.visual_source_editors_splitting
 #: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:856
+#, java-format
+msgctxt "SharableVPEEditor.visual_source_editors_splitting"
+msgid "Visual/Source editors splitting"
+msgstr ""
+
+#: SharableVPEEditor.source_visual_editors_weights
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:857
 #, java-format
 msgctxt "SharableVPEEditor.source_visual_editors_weights"
 msgid "Size of Visual Editor pane 0-100%"
@@ -4620,7 +4674,7 @@ msgstr ""
 #. 
 #. ####  XBundle model   #####
 #: ACCESSOR_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:860
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:861
 #, java-format
 msgctxt "ACCESSOR_CREATION_FAILURE"
 msgid "Cannot create accessor method."
@@ -4628,7 +4682,7 @@ msgstr ""
 
 #. 
 #: MODIFIER_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:862
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:863
 #, java-format
 msgctxt "MODIFIER_CREATION_FAILURE"
 msgid "Cannot create modifier method."
@@ -4637,35 +4691,35 @@ msgstr ""
 #. 
 #. DefaultCreateHandler
 #: ATTRIBUTE_REQUIRED
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:865
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:866
 #, java-format
 msgctxt "ATTRIBUTE_REQUIRED"
 msgid "Attribute {0} must be set."
 msgstr ""
 
 #: OBJECT_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:866
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:867
 #, java-format
 msgctxt "OBJECT_CREATION_FAILURE"
 msgid "Cannot create model object."
 msgstr ""
 
 #: OBJECT_ADDING_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:867
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:868
 #, java-format
 msgctxt "OBJECT_ADDING_FAILURE"
 msgid "Cannot add new object to model."
 msgstr ""
 
 #: CONTAINS_OBJECT_1
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:868
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:869
 #, java-format
 msgctxt "CONTAINS_OBJECT_1"
 msgid "{0} already contains {1}."
 msgstr ""
 
 #: CONTAINS_OBJECT_2
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:869
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:870
 #, java-format
 msgctxt "CONTAINS_OBJECT_2"
 msgid "{0} contains {1},{2}{3} cannot be added."
@@ -4674,35 +4728,37 @@ msgstr ""
 #. 
 #. NewProjectHandler
 #: INVALID_TEMPLATE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:872
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:873
 #, java-format
 msgctxt "INVALID_TEMPLATE"
 msgid "Invalid template."
 msgstr ""
 
 #: INVALID_TEMPLATE_LOCATION
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:873
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:874
 #, java-format
 msgctxt "INVALID_TEMPLATE_LOCATION"
 msgid "Invalid location for Red Hat project."
 msgstr ""
 
 #: PROJECT_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:874
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:875
 #, java-format
 msgctxt "PROJECT_CREATION_FAILURE"
-msgid "Cannot create new project \"{0}\" because folder \"{1}\" contains a {2} with this name."
+msgid ""
+"Cannot create new project \"{0}\" because folder \"{1}\" contains a {2} with "
+"this name."
 msgstr ""
 
 #: SAVE_REQUEST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:875
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:876
 #, java-format
 msgctxt "SAVE_REQUEST"
 msgid "Current model is modified. Do you want save changes?"
 msgstr ""
 
 #: TEMPLATE_DESCRIPTION_UNFOUND
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:876
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:877
 #, java-format
 msgctxt "TEMPLATE_DESCRIPTION_UNFOUND"
 msgid "File \"{0}\" with template description is not found."
@@ -4711,35 +4767,35 @@ msgstr ""
 #. 
 #. CompileProjectInfo
 #: INVALID_COMPILER_PATH
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:879
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:880
 #, java-format
 msgctxt "INVALID_COMPILER_PATH"
 msgid "Invalid path to compiler {0}: {1}"
 msgstr ""
 
 #: INVALID_COMPILER_OPTION_1
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:880
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:881
 #, java-format
 msgctxt "INVALID_COMPILER_OPTION_1"
 msgid "Option \"{0}\" in compiler \"{1}\" is not set."
 msgstr ""
 
 #: INVALID_COMPILER_OPTION_2
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:881
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:882
 #, java-format
 msgctxt "INVALID_COMPILER_OPTION_2"
 msgid "Option \"{0}\" in compiler \"{1}\" is invalid:{2}{3}"
 msgstr ""
 
 #: INVALID_COMPILER_OPTION_3
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:882
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:883
 #, java-format
 msgctxt "INVALID_COMPILER_OPTION_3"
 msgid "Invalid option \"{0}\" in compiler \"{1}\":{2}{3} is not a folder."
 msgstr ""
 
 #: OPTION_FOLDER_CREATION_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:883
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:884
 #, java-format
 msgctxt "OPTION_FOLDER_CREATION_FAILURE"
 msgid "Cannot create folder \"{3}\"{2}for option \"{0}\" of compiler \"{1}\"."
@@ -4749,63 +4805,63 @@ msgstr ""
 #. .model.impl.meta.constraints.*
 #. used as parameter {2} of SET_ATTRIBUTE_FAILURE
 #: CONSTRAINT_NOLOOP
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:887
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:888
 #, java-format
 msgctxt "CONSTRAINT_NOLOOP"
 msgid "causes a loop of classes extending one another"
 msgstr ""
 
 #: CONSTRAINT_INTEGER
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:888
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:889
 #, java-format
 msgctxt "CONSTRAINT_INTEGER"
 msgid "must be an integer"
 msgstr ""
 
 #: CONSTRAINT_NONEMPTY
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:889
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:890
 #, java-format
 msgctxt "CONSTRAINT_NONEMPTY"
 msgid "cannot be empty"
 msgstr ""
 
 #: CONSTRAINT_NO_JAVA_KEYWORD
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:890
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:891
 #, java-format
 msgctxt "CONSTRAINT_NO_JAVA_KEYWORD"
 msgid "is a Java keyword"
 msgstr ""
 
 #: CONSTRAINT_JAVA_NAME
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:891
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:892
 #, java-format
 msgctxt "CONSTRAINT_JAVA_NAME"
 msgid "is not a Java name"
 msgstr ""
 
 #: CONSTRAINT_INTEGER_OR_LIST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:892
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:893
 #, java-format
 msgctxt "CONSTRAINT_INTEGER_OR_LIST"
 msgid "must be an integer or be selected from the list"
 msgstr ""
 
 #: CONSTRAINT_RED_HAT_TEMPLATE_NAME
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:893
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:894
 #, java-format
 msgctxt "CONSTRAINT_RED_HAT_TEMPLATE_NAME"
 msgid "is not an Red Hat project template name"
 msgstr ""
 
 #: CONSTRAINT_XML_NAME
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:894
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:895
 #, java-format
 msgctxt "CONSTRAINT_XML_NAME"
 msgid "is not xml name"
 msgstr ""
 
 #: CONSTRAINT_IS_NOT_IN_LIST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:895
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:896
 #, java-format
 msgctxt "CONSTRAINT_IS_NOT_IN_LIST"
 msgid "is not the value of the list"
@@ -4814,21 +4870,21 @@ msgstr ""
 #. 
 #. com.elt.model.viewedit.impl.XModelImpl
 #: UNKNOUN_ENTITY
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:898
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:899
 #, java-format
 msgctxt "UNKNOUN_ENTITY"
 msgid "Unknown entity: {0}"
 msgstr ""
 
 #: CREATION_ENTITY_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:899
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:900
 #, java-format
 msgctxt "CREATION_ENTITY_FAILURE"
 msgid "Cannot create entity: {0}"
 msgstr ""
 
 #: SET_ATTRIBUTE_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:900
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:901
 #, java-format
 msgctxt "SET_ATTRIBUTE_FAILURE"
 msgid "Cannot set \"{0}\" = \"{1}\" because the value {2}."
@@ -4837,16 +4893,18 @@ msgstr ""
 #. 
 #. .convertors.MoveExternalBodies
 #: EXTERNAL_BODY_REFERENCE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:903
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:904
 #, java-format
 msgctxt "EXTERNAL_BODY_REFERENCE"
-msgid "Created {0}{1}references to the same location{1}{2}{1}as the source object.{1}Do you want to change reference to new location{1}{3}."
+msgid ""
+"Created {0}{1}references to the same location{1}{2}{1}as the source object."
+"{1}Do you want to change reference to new location{1}{3}."
 msgstr ""
 
 #. 
 #. flow.ChangeBaseClassName
 #: BIND_STATE_KIND_FAILURE
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:906
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:907
 #, java-format
 msgctxt "BIND_STATE_KIND_FAILURE"
 msgid ""
@@ -4856,7 +4914,7 @@ msgid ""
 msgstr ""
 
 #: BIND_STATE_MERGE_REQUEST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:907
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:908
 #, java-format
 msgctxt "BIND_STATE_MERGE_REQUEST"
 msgid ""
@@ -4867,7 +4925,7 @@ msgid ""
 msgstr ""
 
 #: BIND_STATE_MERGE_CANCELLED
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:908
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:909
 #, java-format
 msgctxt "BIND_STATE_MERGE_CANCELLED"
 msgid "Change of base class name has been cancelled."
@@ -4875,11 +4933,10 @@ msgstr ""
 
 #. .flow.CreateStateHandler
 #: CREATE_STATE_CLASS_TYPE_REQUEST
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:910
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:911
 #, java-format
 msgctxt "CREATE_STATE_CLASS_TYPE_REQUEST"
-msgid ""
-"Class {0} does not exist.\n"
+msgid "Class {0} does not exist.\n"
 "Select type of flow class to be created."
 msgstr ""
 
@@ -4887,14 +4944,14 @@ msgstr ""
 #. 
 #. ###open_project
 #: AnyElement_CreateTag.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:916
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:917
 #, java-format
 msgctxt "AnyElement_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr ""
 
 #: AnyElement_CreateTag.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:917
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:918
 #, java-format
 msgctxt "AnyElement_CreateTag.Title"
 msgid "Tag"
@@ -4902,14 +4959,14 @@ msgstr ""
 
 #. 
 #: AnyElement_CreateAttribute.WindowTitle
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:919
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:920
 #, java-format
 msgctxt "AnyElement_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
 msgstr ""
 
 #: AnyElement_CreateAttribute.Title
-#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:920
+#: ../../../common/plugins/org.jboss.tools.common.model/resources/help/keys-model.properties:921
 #, java-format
 msgctxt "AnyElement_CreateAttribute.Title"
 msgid "Attribute"
@@ -4919,8 +4976,7 @@ msgstr ""
 #: ../../../common/plugins/org.jboss.tools.common.model/src/org/jboss/tools/common/model/util/XBundle.properties:1
 #, java-format
 msgctxt "ERR_GET_MESSAGE"
-msgid ""
-"Failure in building message.\n"
+msgid "Failure in building message.\n"
 "id = {0}:{1}\n"
 "Message : {2}."
 msgstr ""
@@ -5648,4 +5704,3 @@ msgstr ""
 msgctxt "Bundle-Name.0"
 msgid "Red Hat Common"
 msgstr ""
-

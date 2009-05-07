@@ -1,21 +1,20 @@
-#SOME DESCRIPTIVE TITLE.
-#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-#This file is distributed under the same license as the PACKAGE package.
-#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-05-07 15:14+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-""
 
 #. ##############################################################################
 #. Copyright (c) 2008 JBoss, a division of Red Hat and others.
@@ -100,7 +99,6 @@ msgid ""
 "\n"
 "Contributors:\n"
 "JBoss, a division of Red Hat - Initial implementation.\n"
-""
 msgstr ""
 
 #. 
@@ -290,8 +288,72 @@ msgid "Jbossws Endpoint"
 msgstr ""
 
 #. 
-#: ESB.resource_config
+#: ESB.smooks_config
 #: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:43
+#, java-format
+msgctxt "ESB.smooks_config"
+msgid "Smooks Config"
+msgstr ""
+
+#. 
+#: ESB.get_payload_location
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:45
+#, java-format
+msgctxt "ESB.get_payload_location"
+msgid "Get Payload Location"
+msgstr ""
+
+#. 
+#: ESB.set_payload_location
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:47
+#, java-format
+msgctxt "ESB.set_payload_location"
+msgid "Set Payload Location"
+msgstr ""
+
+#. 
+#: ESB.exclude_non-serializables
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:49
+#, java-format
+msgctxt "ESB.exclude_non-serializables"
+msgid "Exclude Non-Serializables"
+msgstr ""
+
+#. 
+#: ESB.result_type
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:51
+#, java-format
+msgctxt "ESB.result_type"
+msgid "Result Type"
+msgstr ""
+
+#. 
+#: ESB.java_result_bean_id
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:53
+#, java-format
+msgctxt "ESB.java_result_bean_id"
+msgid "Java Result Bean Id"
+msgstr ""
+
+#. 
+#: ESB.report_path
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:55
+#, java-format
+msgctxt "ESB.report_path"
+msgid "Report Path"
+msgstr ""
+
+#. 
+#: ESB.message_profile
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:57
+#, java-format
+msgctxt "ESB.message_profile"
+msgid "Message Profile"
+msgstr ""
+
+#. 
+#: ESB.resource_config
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:59
 #, java-format
 msgctxt "ESB.resource_config"
 msgid "Resource Config"
@@ -299,7 +361,7 @@ msgstr ""
 
 #. 
 #: ESB.from
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:45
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:61
 #, java-format
 msgctxt "ESB.from"
 msgid "From"
@@ -307,7 +369,7 @@ msgstr ""
 
 #. 
 #: ESB.from_type
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:47
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:63
 #, java-format
 msgctxt "ESB.from_type"
 msgid "From Type"
@@ -315,7 +377,7 @@ msgstr ""
 
 #. 
 #: ESB.to
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:49
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:65
 #, java-format
 msgctxt "ESB.to"
 msgid "To"
@@ -323,7 +385,7 @@ msgstr ""
 
 #. 
 #: ESB.to_type
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:51
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:67
 #, java-format
 msgctxt "ESB.to_type"
 msgid "To Type"
@@ -331,7 +393,7 @@ msgstr ""
 
 #. 
 #: ESB.message
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:53
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:69
 #, java-format
 msgctxt "ESB.message"
 msgid "Message"
@@ -339,7 +401,7 @@ msgstr ""
 
 #. 
 #: ESB.print_full
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:55
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:71
 #, java-format
 msgctxt "ESB.print_full"
 msgid "Print Full"
@@ -347,7 +409,7 @@ msgstr ""
 
 #. 
 #: ESB.output_stream
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:57
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:73
 #, java-format
 msgctxt "ESB.output_stream"
 msgid "Output Stream"
@@ -355,7 +417,7 @@ msgstr ""
 
 #. 
 #: ESB.incoming_type
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:59
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:75
 #, java-format
 msgctxt "ESB.incoming_type"
 msgid "Incoming Type"
@@ -363,7 +425,7 @@ msgstr ""
 
 #. 
 #: ESB.root_node
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:61
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:77
 #, java-format
 msgctxt "ESB.root_node"
 msgid "Root Node"
@@ -371,7 +433,7 @@ msgstr ""
 
 #. 
 #: ESB.value
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:63
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:79
 #, java-format
 msgctxt "ESB.value"
 msgid "Value"
@@ -379,7 +441,7 @@ msgstr ""
 
 #. 
 #: ESB.type
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:65
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:81
 #, java-format
 msgctxt "ESB.type"
 msgid "Type"
@@ -387,7 +449,7 @@ msgstr ""
 
 #. 
 #: ESB.destination_name
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:67
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:83
 #, java-format
 msgctxt "ESB.destination_name"
 msgid "Destination Name"
@@ -395,7 +457,7 @@ msgstr ""
 
 #. 
 #: ESB.service_category
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:69
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:85
 #, java-format
 msgctxt "ESB.service_category"
 msgid "Service Category"
@@ -403,7 +465,7 @@ msgstr ""
 
 #. 
 #: ESB.service_name
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:71
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:87
 #, java-format
 msgctxt "ESB.service_name"
 msgid "Service Name"
@@ -411,7 +473,7 @@ msgstr ""
 
 #. 
 #: ESB.mep
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:73
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:89
 #, java-format
 msgctxt "ESB.mep"
 msgid "MEP"
@@ -419,7 +481,7 @@ msgstr ""
 
 #. 
 #: ESB.request_location
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:75
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:91
 #, java-format
 msgctxt "ESB.request_location"
 msgid "Request Location"
@@ -427,7 +489,7 @@ msgstr ""
 
 #. 
 #: ESB.response_location
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:77
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:93
 #, java-format
 msgctxt "ESB.response_location"
 msgid "Response Location"
@@ -435,7 +497,7 @@ msgstr ""
 
 #. 
 #: ESB.addressing
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:79
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:95
 #, java-format
 msgctxt "ESB.addressing"
 msgid "Addressing"
@@ -443,7 +505,7 @@ msgstr ""
 
 #. 
 #: ESB.id
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:81
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:97
 #, java-format
 msgctxt "ESB.id"
 msgid "ID"
@@ -451,7 +513,7 @@ msgstr ""
 
 #. 
 #: ESBBusCreator.id
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:83
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:99
 #, java-format
 msgctxt "ESBBusCreator.id"
 msgid "Channel ID"
@@ -459,7 +521,7 @@ msgstr ""
 
 #. 
 #: ESB.cron_expression
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:85
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:101
 #, java-format
 msgctxt "ESB.cron_expression"
 msgid "Cron Expression"
@@ -467,7 +529,7 @@ msgstr ""
 
 #. 
 #: ESB.directory
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:87
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:103
 #, java-format
 msgctxt "ESB.directory"
 msgid "Directory"
@@ -475,7 +537,7 @@ msgstr ""
 
 #. 
 #: ESB.input_suffix
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:89
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:105
 #, java-format
 msgctxt "ESB.input_suffix"
 msgid "Input Suffix"
@@ -483,7 +545,7 @@ msgstr ""
 
 #. 
 #: ESB.work_suffix
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:91
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:107
 #, java-format
 msgctxt "ESB.work_suffix"
 msgid "Work Suffix"
@@ -491,7 +553,7 @@ msgstr ""
 
 #. 
 #: ESB.post_delete
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:93
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:109
 #, java-format
 msgctxt "ESB.post_delete"
 msgid "Post Delete"
@@ -499,7 +561,7 @@ msgstr ""
 
 #. 
 #: ESB.post_rename
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:95
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:111
 #, java-format
 msgctxt "ESB.post_rename"
 msgid "Post Rename"
@@ -507,7 +569,7 @@ msgstr ""
 
 #. 
 #: ESB.post_directory
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:97
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:113
 #, java-format
 msgctxt "ESB.post_directory"
 msgid "Post Directory"
@@ -515,7 +577,7 @@ msgstr ""
 
 #. 
 #: ESB.post_suffix
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:99
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:115
 #, java-format
 msgctxt "ESB.post_suffix"
 msgid "Post Suffix"
@@ -523,7 +585,7 @@ msgstr ""
 
 #. 
 #: ESB.error_delete
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:101
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:117
 #, java-format
 msgctxt "ESB.error_delete"
 msgid "Error Delete"
@@ -531,7 +593,7 @@ msgstr ""
 
 #. 
 #: ESB.error_directory
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:103
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:119
 #, java-format
 msgctxt "ESB.error_directory"
 msgid "Error Directory"
@@ -539,7 +601,7 @@ msgstr ""
 
 #. 
 #: ESB.error_suffix
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:105
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:121
 #, java-format
 msgctxt "ESB.error_suffix"
 msgid "Error Suffix"
@@ -547,7 +609,7 @@ msgstr ""
 
 #. 
 #: ESB.username
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:107
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:123
 #, java-format
 msgctxt "ESB.username"
 msgid "Username"
@@ -555,7 +617,7 @@ msgstr ""
 
 #. 
 #: ESB.password
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:109
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:125
 #, java-format
 msgctxt "ESB.password"
 msgid "Password"
@@ -563,7 +625,7 @@ msgstr ""
 
 #. 
 #: ESB.passive
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:111
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:127
 #, java-format
 msgctxt "ESB.passive"
 msgid "Passive"
@@ -571,7 +633,7 @@ msgstr ""
 
 #. 
 #: ESB.protocol
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:113
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:129
 #, java-format
 msgctxt "ESB.protocol"
 msgid "Protocol"
@@ -579,7 +641,7 @@ msgstr ""
 
 #. 
 #: ESB.certificate_url
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:115
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:131
 #, java-format
 msgctxt "ESB.certificate_url"
 msgid "Certificate URL"
@@ -587,7 +649,7 @@ msgstr ""
 
 #. 
 #: ESB.certificate_name
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:117
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:133
 #, java-format
 msgctxt "ESB.certificate_name"
 msgid "Certificate Name"
@@ -595,7 +657,7 @@ msgstr ""
 
 #. 
 #: ESB.certificate_passphrase
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:119
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:135
 #, java-format
 msgctxt "ESB.certificate_passphrase"
 msgid "Certificate Passphrase"
@@ -603,7 +665,7 @@ msgstr ""
 
 #. 
 #: ESB.read_only
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:121
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:137
 #, java-format
 msgctxt "ESB.read_only"
 msgid "Read Only"
@@ -611,7 +673,7 @@ msgstr ""
 
 #. 
 #: ESB.hostname
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:123
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:139
 #, java-format
 msgctxt "ESB.hostname"
 msgid "Hostname"
@@ -619,7 +681,7 @@ msgstr ""
 
 #. 
 #: ESB.class_name
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:125
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:141
 #, java-format
 msgctxt "ESB.class_name"
 msgid "Class Name"
@@ -627,7 +689,7 @@ msgstr ""
 
 #. 
 #: ESB.event
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:127
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:143
 #, java-format
 msgctxt "ESB.event"
 msgid "Event"
@@ -635,7 +697,7 @@ msgstr ""
 
 #. 
 #: ESB.hibernate_cfg_file
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:129
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:145
 #, java-format
 msgctxt "ESB.hibernate_cfg_file"
 msgid "Hibernate Cfg File"
@@ -643,7 +705,7 @@ msgstr ""
 
 #. 
 #: ESB.port
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:131
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:147
 #, java-format
 msgctxt "ESB.port"
 msgid "Port"
@@ -651,7 +713,7 @@ msgstr ""
 
 #. 
 #: ESB.host
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:133
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:149
 #, java-format
 msgctxt "ESB.host"
 msgid "Host"
@@ -659,7 +721,7 @@ msgstr ""
 
 #. 
 #: ESB.adapter
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:135
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:151
 #, java-format
 msgctxt "ESB.adapter"
 msgid "Adapter"
@@ -667,7 +729,7 @@ msgstr ""
 
 #. 
 #: ESB.endpoint_class
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:137
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:153
 #, java-format
 msgctxt "ESB.endpoint_class"
 msgid "Endpoint Class"
@@ -675,7 +737,7 @@ msgstr ""
 
 #. 
 #: ESB.messaging_type
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:139
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:155
 #, java-format
 msgctxt "ESB.messaging_type"
 msgid "Messaging Type"
@@ -683,7 +745,7 @@ msgstr ""
 
 #. 
 #: ESB.jca_bridge
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:141
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:157
 #, java-format
 msgctxt "ESB.jca_bridge"
 msgid "Jca Bridge"
@@ -691,7 +753,7 @@ msgstr ""
 
 #. 
 #: ESB.transacted
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:143
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:159
 #, java-format
 msgctxt "ESB.transacted"
 msgid "Transacted"
@@ -699,7 +761,7 @@ msgstr ""
 
 #. 
 #: ESB.provider_adapter_JNDI
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:145
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:161
 #, java-format
 msgctxt "ESB.provider_adapter_JNDI"
 msgid "Provider Adapter JNDI"
@@ -707,7 +769,7 @@ msgstr ""
 
 #. 
 #: ESB.destination_type
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:147
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:163
 #, java-format
 msgctxt "ESB.destination_type"
 msgid "Destination Type"
@@ -715,7 +777,7 @@ msgstr ""
 
 #. 
 #: ESB.selector
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:149
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:165
 #, java-format
 msgctxt "ESB.selector"
 msgid "Selector"
@@ -723,7 +785,7 @@ msgstr ""
 
 #. 
 #: ESB.persistent
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:151
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:167
 #, java-format
 msgctxt "ESB.persistent"
 msgid "Persistent"
@@ -731,7 +793,7 @@ msgstr ""
 
 #. 
 #: ESB.acknowledge_mode
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:153
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:169
 #, java-format
 msgctxt "ESB.acknowledge_mode"
 msgid "Acknowledge Mode"
@@ -739,7 +801,7 @@ msgstr ""
 
 #. 
 #: ESB.jms_security_principal
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:155
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:171
 #, java-format
 msgctxt "ESB.jms_security_principal"
 msgid "JMS Security Principal"
@@ -747,7 +809,7 @@ msgstr ""
 
 #. 
 #: ESB.jms_security_credential
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:157
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:173
 #, java-format
 msgctxt "ESB.jms_security_credential"
 msgid "JMS Security Credential"
@@ -755,7 +817,7 @@ msgstr ""
 
 #. 
 #: ESB.connection_factory
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:159
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:175
 #, java-format
 msgctxt "ESB.connection_factory"
 msgid "Connection Factory"
@@ -763,7 +825,7 @@ msgstr ""
 
 #. 
 #: ESB.jndi_context_factory
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:161
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:177
 #, java-format
 msgctxt "ESB.jndi_context_factory"
 msgid "Jndi Context Factory"
@@ -771,7 +833,7 @@ msgstr ""
 
 #. 
 #: ESB.jndi_pkg_prefix
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:163
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:179
 #, java-format
 msgctxt "ESB.jndi_pkg_prefix"
 msgid "Jndi Pkg Prefix"
@@ -779,7 +841,7 @@ msgstr ""
 
 #. 
 #: ESB.jndi_url
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:165
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:181
 #, java-format
 msgctxt "ESB.jndi_url"
 msgid "Jndi URL"
@@ -787,7 +849,7 @@ msgstr ""
 
 #. 
 #: ESB.channel_id_ref
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:167
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:183
 #, java-format
 msgctxt "ESB.channel_id_ref"
 msgid "Channel ID Ref"
@@ -795,7 +857,7 @@ msgstr ""
 
 #. 
 #: ESB.max_threads
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:169
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:185
 #, java-format
 msgctxt "ESB.max_threads"
 msgid "Max Threads"
@@ -803,7 +865,7 @@ msgstr ""
 
 #. 
 #: ESB.is_gateway
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:171
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:187
 #, java-format
 msgctxt "ESB.is_gateway"
 msgid "Is Gateway"
@@ -811,7 +873,7 @@ msgstr ""
 
 #. 
 #: ESB.tablename
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:173
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:189
 #, java-format
 msgctxt "ESB.tablename"
 msgid "Tablename"
@@ -819,7 +881,7 @@ msgstr ""
 
 #. 
 #: ESB.message_id_column
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:175
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:191
 #, java-format
 msgctxt "ESB.message_id_column"
 msgid "Message ID Column"
@@ -827,7 +889,7 @@ msgstr ""
 
 #. 
 #: ESB.message_column
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:177
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:193
 #, java-format
 msgctxt "ESB.message_column"
 msgid "Message Column"
@@ -835,7 +897,7 @@ msgstr ""
 
 #. 
 #: ESB.status_column
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:179
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:195
 #, java-format
 msgctxt "ESB.status_column"
 msgid "Status Column"
@@ -843,7 +905,7 @@ msgstr ""
 
 #. 
 #: ESB.where_condition
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:181
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:197
 #, java-format
 msgctxt "ESB.where_condition"
 msgid "Where Condition"
@@ -851,7 +913,7 @@ msgstr ""
 
 #. 
 #: ESB.order_by
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:183
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:199
 #, java-format
 msgctxt "ESB.order_by"
 msgid "Order by"
@@ -859,7 +921,7 @@ msgstr ""
 
 #. 
 #: ESB.insert_timestamp_column
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:185
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:201
 #, java-format
 msgctxt "ESB.insert_timestamp_column"
 msgid "Insert Timestamp Column"
@@ -867,7 +929,7 @@ msgstr ""
 
 #. 
 #: ESB.datasource
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:187
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:203
 #, java-format
 msgctxt "ESB.datasource"
 msgid "Datasource"
@@ -875,7 +937,7 @@ msgstr ""
 
 #. 
 #: ESB.url
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:189
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:205
 #, java-format
 msgctxt "ESB.url"
 msgid "URL"
@@ -883,7 +945,7 @@ msgstr ""
 
 #. 
 #: ESB.driver
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:191
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:207
 #, java-format
 msgctxt "ESB.driver"
 msgid "Driver"
@@ -891,7 +953,7 @@ msgstr ""
 
 #. 
 #: ESB.poll_frequency_seconds
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:193
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:209
 #, java-format
 msgctxt "ESB.poll_frequency_seconds"
 msgid "Poll Frequency Seconds"
@@ -899,7 +961,7 @@ msgstr ""
 
 #. 
 #: ESB.schedule_frequency
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:195
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:211
 #, java-format
 msgctxt "ESB.schedule_frequency"
 msgid "Schedule Frequency"
@@ -907,7 +969,7 @@ msgstr ""
 
 #. 
 #: ESB.schedule_id_ref
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:197
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:213
 #, java-format
 msgctxt "ESB.schedule_id_ref"
 msgid "Schedule ID Ref"
@@ -915,7 +977,7 @@ msgstr ""
 
 #. 
 #: ESB.event_processor
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:199
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:215
 #, java-format
 msgctxt "ESB.event_processor"
 msgid "Event Processor"
@@ -923,7 +985,7 @@ msgstr ""
 
 #. 
 #: ESB.category
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:201
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:217
 #, java-format
 msgctxt "ESB.category"
 msgid "Category"
@@ -931,7 +993,7 @@ msgstr ""
 
 #. 
 #: ESB.description
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:203
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:219
 #, java-format
 msgctxt "ESB.description"
 msgid "Description"
@@ -939,7 +1001,7 @@ msgstr ""
 
 #. 
 #: ESB.invm_scope
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:205
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:221
 #, java-format
 msgctxt "ESB.invm_scope"
 msgid "Invm Scope"
@@ -947,7 +1009,7 @@ msgstr ""
 
 #. 
 #: ESB.schedule_id
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:207
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:223
 #, java-format
 msgctxt "ESB.schedule_id"
 msgid "Schedule ID"
@@ -955,7 +1017,7 @@ msgstr ""
 
 #. 
 #: ESB.start_date
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:209
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:225
 #, java-format
 msgctxt "ESB.start_date"
 msgid "Start Date"
@@ -963,7 +1025,7 @@ msgstr ""
 
 #. 
 #: ESB.end_date
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:211
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:227
 #, java-format
 msgctxt "ESB.end_date"
 msgid "End Date"
@@ -971,7 +1033,7 @@ msgstr ""
 
 #. 
 #: ESB.frequency
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:213
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:229
 #, java-format
 msgctxt "ESB.frequency"
 msgid "Frequency"
@@ -979,7 +1041,7 @@ msgstr ""
 
 #. 
 #: ESB.frequency_units
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:215
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:231
 #, java-format
 msgctxt "ESB.frequency_units"
 msgid "Frequency Units"
@@ -987,7 +1049,7 @@ msgstr ""
 
 #. 
 #: ESB.exec_count
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:217
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:233
 #, java-format
 msgctxt "ESB.exec_count"
 msgid "Exec Count"
@@ -995,7 +1057,7 @@ msgstr ""
 
 #. 
 #: ESB.extension
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:219
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:235
 #, java-format
 msgctxt "ESB.extension"
 msgid "Extension"
@@ -1003,7 +1065,7 @@ msgstr ""
 
 #. 
 #: ESB.xmlns
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:221
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:237
 #, java-format
 msgctxt "ESB.xmlns"
 msgid "Xmlns"
@@ -1011,7 +1073,7 @@ msgstr ""
 
 #. 
 #: ESB.xmlns_xsi
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:223
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:239
 #, java-format
 msgctxt "ESB.xmlns_xsi"
 msgid "Xmlns:xsi"
@@ -1019,7 +1081,7 @@ msgstr ""
 
 #. 
 #: ESB.xsi_schemaLocation
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:225
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:241
 #, java-format
 msgctxt "ESB.xsi_schemaLocation"
 msgid "Xsi:schemaLocation"
@@ -1027,7 +1089,7 @@ msgstr ""
 
 #. 
 #: ESB.parameter_reload_secs
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:227
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:243
 #, java-format
 msgctxt "ESB.parameter_reload_secs"
 msgid "Parameter Reload Secs"
@@ -1035,7 +1097,7 @@ msgstr ""
 
 #. 
 #: ESB.context
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:229
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-attrs.properties:245
 #, java-format
 msgctxt "ESB.context"
 msgid "Context"
@@ -1488,8 +1550,16 @@ msgid "Object To XStream..."
 msgstr ""
 
 #. 
-#: ESB.AddSmooksTransformer.menu
+#: ESB.AddSmooksAction.menu
 #: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:73
+#, java-format
+msgctxt "ESB.AddSmooksAction.menu"
+msgid "Smooks Action..."
+msgstr ""
+
+#. 
+#: ESB.AddSmooksTransformer.menu
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:75
 #, java-format
 msgctxt "ESB.AddSmooksTransformer.menu"
 msgid "Smooks Transformer..."
@@ -1497,7 +1567,7 @@ msgstr ""
 
 #. 
 #: ESB.AddMessagePersister.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:75
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:77
 #, java-format
 msgctxt "ESB.AddMessagePersister.menu"
 msgid "Message Persister..."
@@ -1505,7 +1575,7 @@ msgstr ""
 
 #. 
 #: ESB.AddXStreamToObject.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:77
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:79
 #, java-format
 msgctxt "ESB.AddXStreamToObject.menu"
 msgid "XStream To Object..."
@@ -1513,7 +1583,7 @@ msgstr ""
 
 #. 
 #: ESB.AddCommandInterpreter.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:79
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:81
 #, java-format
 msgctxt "ESB.AddCommandInterpreter.menu"
 msgid "Command Interpreter..."
@@ -1521,7 +1591,7 @@ msgstr ""
 
 #. 
 #: ESB.AddGroovyProcessor.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:81
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:83
 #, java-format
 msgctxt "ESB.AddGroovyProcessor.menu"
 msgid "Groovy Action Processor..."
@@ -1529,7 +1599,7 @@ msgstr ""
 
 #. 
 #: ESB.AddAggregator.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:83
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:85
 #, java-format
 msgctxt "ESB.AddAggregator.menu"
 msgid "Aggregator..."
@@ -1537,7 +1607,7 @@ msgstr ""
 
 #. 
 #: ESB.AddContentBasedRouter.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:85
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:87
 #, java-format
 msgctxt "ESB.AddContentBasedRouter.menu"
 msgid "Content Based Router..."
@@ -1545,7 +1615,7 @@ msgstr ""
 
 #. 
 #: ESB.AddStaticRouter.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:87
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:89
 #, java-format
 msgctxt "ESB.AddStaticRouter.menu"
 msgid "Static Router..."
@@ -1553,7 +1623,7 @@ msgstr ""
 
 #. 
 #: ESB.AddStaticWiretap.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:89
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:91
 #, java-format
 msgctxt "ESB.AddStaticWiretap.menu"
 msgid "Static Wiretap..."
@@ -1561,7 +1631,7 @@ msgstr ""
 
 #. 
 #: ESB.AddNotifier.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:91
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:93
 #, java-format
 msgctxt "ESB.AddNotifier.menu"
 msgid "Notifier..."
@@ -1569,7 +1639,7 @@ msgstr ""
 
 #. 
 #: ESB.AddSOAPProcessor.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:93
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:95
 #, java-format
 msgctxt "ESB.AddSOAPProcessor.menu"
 msgid "SOAP Processor..."
@@ -1577,7 +1647,7 @@ msgstr ""
 
 #. 
 #: ESB.AddSOAPClient.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:95
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:97
 #, java-format
 msgctxt "ESB.AddSOAPClient.menu"
 msgid "SOAP Client..."
@@ -1585,7 +1655,7 @@ msgstr ""
 
 #. 
 #: ESB.AddSystemPrintln.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:97
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:99
 #, java-format
 msgctxt "ESB.AddSystemPrintln.menu"
 msgid "System Println..."
@@ -1593,7 +1663,7 @@ msgstr ""
 
 #. 
 #: ESB.CreateFileESBV.menu
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:99
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb-menu.properties:101
 #, java-format
 msgctxt "ESB.CreateFileESBV.menu"
 msgid "JBoss ESB File..."
@@ -4205,8 +4275,24 @@ msgid "ESB Object To XStream Converter"
 msgstr ""
 
 #. 
-#: ESBActions101_AddSmooksTransformer.WindowTitle
+#: ESBActions101_AddSmooksAction.WindowTitle
 #: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1137
+#, java-format
+msgctxt "ESBActions101_AddSmooksAction.WindowTitle"
+msgid "Add Smooks Action"
+msgstr ""
+
+#. 
+#: ESBActions101_AddSmooksAction.Title
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1139
+#, java-format
+msgctxt "ESBActions101_AddSmooksAction.Title"
+msgid "ESB Smooks Action"
+msgstr ""
+
+#. 
+#: ESBActions101_AddSmooksTransformer.WindowTitle
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1143
 #, java-format
 msgctxt "ESBActions101_AddSmooksTransformer.WindowTitle"
 msgid "Add Smooks Transformer"
@@ -4214,7 +4300,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddSmooksTransformer.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1139
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1145
 #, java-format
 msgctxt "ESBActions101_AddSmooksTransformer.Title"
 msgid "ESB Smooks Transformer"
@@ -4222,7 +4308,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddMessagePersister.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1143
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1149
 #, java-format
 msgctxt "ESBActions101_AddMessagePersister.WindowTitle"
 msgid "Add Message Persister"
@@ -4230,7 +4316,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddMessagePersister.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1145
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1151
 #, java-format
 msgctxt "ESBActions101_AddMessagePersister.Title"
 msgid "ESB Message Persister"
@@ -4238,7 +4324,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddXStreamToObject.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1149
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1155
 #, java-format
 msgctxt "ESBActions101_AddXStreamToObject.WindowTitle"
 msgid "Add XStream To Object"
@@ -4246,7 +4332,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddXStreamToObject.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1151
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1157
 #, java-format
 msgctxt "ESBActions101_AddXStreamToObject.Title"
 msgid "ESB XStream To Object Converter"
@@ -4254,7 +4340,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddAggregator.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1155
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1161
 #, java-format
 msgctxt "ESBActions101_AddAggregator.WindowTitle"
 msgid "Add Aggregator"
@@ -4262,7 +4348,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddAggregator.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1157
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1163
 #, java-format
 msgctxt "ESBActions101_AddAggregator.Title"
 msgid "ESB Aggregator"
@@ -4270,7 +4356,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddContentBasedRouter.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1161
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1167
 #, java-format
 msgctxt "ESBActions101_AddContentBasedRouter.WindowTitle"
 msgid "Add Content Based Router"
@@ -4278,7 +4364,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddContentBasedRouter.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1163
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1169
 #, java-format
 msgctxt "ESBActions101_AddContentBasedRouter.Title"
 msgid "ESB Content Based Router"
@@ -4286,7 +4372,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddStaticRouter.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1167
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1173
 #, java-format
 msgctxt "ESBActions101_AddStaticRouter.WindowTitle"
 msgid "Add Static Router"
@@ -4294,7 +4380,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddStaticRouter.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1169
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1175
 #, java-format
 msgctxt "ESBActions101_AddStaticRouter.Title"
 msgid "ESB Static Router"
@@ -4302,7 +4388,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddStaticWiretap.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1173
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1179
 #, java-format
 msgctxt "ESBActions101_AddStaticWiretap.WindowTitle"
 msgid "Add Static Wiretap"
@@ -4310,7 +4396,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddStaticWiretap.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1175
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1181
 #, java-format
 msgctxt "ESBActions101_AddStaticWiretap.Title"
 msgid "ESB Static Wiretap"
@@ -4318,7 +4404,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddNotifier.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1179
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1185
 #, java-format
 msgctxt "ESBActions101_AddNotifier.WindowTitle"
 msgid "Add Notifier"
@@ -4326,7 +4412,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddNotifier.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1181
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1187
 #, java-format
 msgctxt "ESBActions101_AddNotifier.Title"
 msgid "ESB Notifier"
@@ -4334,7 +4420,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_SOAPProcessor.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1185
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1191
 #, java-format
 msgctxt "ESBActions101_SOAPProcessor.WindowTitle"
 msgid "Add SOAP Processor"
@@ -4342,7 +4428,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_SOAPProcessor.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1187
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1193
 #, java-format
 msgctxt "ESBActions101_SOAPProcessor.Title"
 msgid "SOAP Processor"
@@ -4350,7 +4436,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_SOAPClient.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1191
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1197
 #, java-format
 msgctxt "ESBActions101_SOAPClient.WindowTitle"
 msgid "Add SOAP Client"
@@ -4358,7 +4444,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_SOAPClient.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1193
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1199
 #, java-format
 msgctxt "ESBActions101_SOAPClient.Title"
 msgid "SOAP Client"
@@ -4366,7 +4452,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddObjectInvoke.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1197
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1203
 #, java-format
 msgctxt "ESBActions101_AddObjectInvoke.WindowTitle"
 msgid "Add Object Invoke"
@@ -4374,7 +4460,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddObjectInvoke.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1199
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1205
 #, java-format
 msgctxt "ESBActions101_AddObjectInvoke.Title"
 msgid "ESB Object Invoke"
@@ -4382,7 +4468,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddCommandInterpreter.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1203
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1209
 #, java-format
 msgctxt "ESBActions101_AddCommandInterpreter.WindowTitle"
 msgid "Add Command Interpreter"
@@ -4390,7 +4476,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddCommandInterpreter.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1205
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1211
 #, java-format
 msgctxt "ESBActions101_AddCommandInterpreter.Title"
 msgid "ESB Command Interpreter"
@@ -4398,7 +4484,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddGroovyProcessor.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1209
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1215
 #, java-format
 msgctxt "ESBActions101_AddGroovyProcessor.WindowTitle"
 msgid "Add Groovy Action Processor"
@@ -4406,7 +4492,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddGroovyProcessor.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1211
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1217
 #, java-format
 msgctxt "ESBActions101_AddGroovyProcessor.Title"
 msgid "ESB Groovy Action Processor"
@@ -4414,7 +4500,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddSystemPrintln.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1215
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1221
 #, java-format
 msgctxt "ESBActions101_AddSystemPrintln.WindowTitle"
 msgid "Add System Println"
@@ -4422,7 +4508,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddSystemPrintln.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1217
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1223
 #, java-format
 msgctxt "ESBActions101_AddSystemPrintln.Title"
 msgid "ESB System Println"
@@ -4430,7 +4516,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddSOAPProcessor.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1221
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1227
 #, java-format
 msgctxt "ESBActions101_AddSOAPProcessor.WindowTitle"
 msgid "Add SOAP Processor"
@@ -4438,7 +4524,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddSOAPProcessor.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1223
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1229
 #, java-format
 msgctxt "ESBActions101_AddSOAPProcessor.Title"
 msgid "ESB SOAP Processor"
@@ -4446,7 +4532,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddSOAPClient.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1227
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1233
 #, java-format
 msgctxt "ESBActions101_AddSOAPClient.WindowTitle"
 msgid "Add SOAP Client"
@@ -4454,7 +4540,7 @@ msgstr ""
 
 #. 
 #: ESBActions101_AddSOAPClient.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1229
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1235
 #, java-format
 msgctxt "ESBActions101_AddSOAPClient.Title"
 msgid "ESB SOAP Client"
@@ -4462,7 +4548,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddByteArrayToString.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1233
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1239
 #, java-format
 msgctxt "ESBActions110_AddByteArrayToString.WindowTitle"
 msgid "Add Byte Array To String"
@@ -4470,7 +4556,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddByteArrayToString.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1235
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1241
 #, java-format
 msgctxt "ESBActions110_AddByteArrayToString.Title"
 msgid "ESB Byte Array To String Converter"
@@ -4478,7 +4564,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddLongToDate.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1239
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1245
 #, java-format
 msgctxt "ESBActions110_AddLongToDate.WindowTitle"
 msgid "Add Long To Date"
@@ -4486,7 +4572,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddLongToDate.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1241
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1247
 #, java-format
 msgctxt "ESBActions110_AddLongToDate.Title"
 msgid "ESB Long To Date Converter"
@@ -4494,7 +4580,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddObjectToCSVString.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1245
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1251
 #, java-format
 msgctxt "ESBActions110_AddObjectToCSVString.WindowTitle"
 msgid "Add Object To CSV String"
@@ -4502,7 +4588,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddObjectToCSVString.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1247
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1253
 #, java-format
 msgctxt "ESBActions110_AddObjectToCSVString.Title"
 msgid "ESB Action Object To CSVString Converter"
@@ -4510,7 +4596,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddObjectToXStream.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1251
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1257
 #, java-format
 msgctxt "ESBActions110_AddObjectToXStream.WindowTitle"
 msgid "Add Object To XStream"
@@ -4518,7 +4604,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddObjectToXStream.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1253
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1259
 #, java-format
 msgctxt "ESBActions110_AddObjectToXStream.Title"
 msgid "ESB Object To XStream Converter"
@@ -4526,7 +4612,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddSmooksTransformer.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1257
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1263
 #, java-format
 msgctxt "ESBActions110_AddSmooksTransformer.WindowTitle"
 msgid "Add Smooks Transformer"
@@ -4534,7 +4620,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddSmooksTransformer.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1259
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1265
 #, java-format
 msgctxt "ESBActions110_AddSmooksTransformer.Title"
 msgid "ESB Smooks Transformer"
@@ -4542,7 +4628,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddMessagePersister.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1263
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1269
 #, java-format
 msgctxt "ESBActions110_AddMessagePersister.WindowTitle"
 msgid "Add Message Persister"
@@ -4550,7 +4636,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddMessagePersister.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1265
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1271
 #, java-format
 msgctxt "ESBActions110_AddMessagePersister.Title"
 msgid "ESB Message Persister"
@@ -4558,7 +4644,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddXStreamToObject.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1269
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1275
 #, java-format
 msgctxt "ESBActions110_AddXStreamToObject.WindowTitle"
 msgid "Add XStream To Object"
@@ -4566,7 +4652,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddXStreamToObject.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1271
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1277
 #, java-format
 msgctxt "ESBActions110_AddXStreamToObject.Title"
 msgid "ESB XStream To Object Converter"
@@ -4574,7 +4660,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddAggregator.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1275
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1281
 #, java-format
 msgctxt "ESBActions110_AddAggregator.WindowTitle"
 msgid "Add Aggregator"
@@ -4582,7 +4668,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddAggregator.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1277
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1283
 #, java-format
 msgctxt "ESBActions110_AddAggregator.Title"
 msgid "ESB Aggregator"
@@ -4590,7 +4676,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddContentBasedRouter.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1281
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1287
 #, java-format
 msgctxt "ESBActions110_AddContentBasedRouter.WindowTitle"
 msgid "Add Content Based Router"
@@ -4598,7 +4684,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddContentBasedRouter.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1283
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1289
 #, java-format
 msgctxt "ESBActions110_AddContentBasedRouter.Title"
 msgid "ESB Content Based Router"
@@ -4606,7 +4692,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddStaticRouter.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1287
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1293
 #, java-format
 msgctxt "ESBActions110_AddStaticRouter.WindowTitle"
 msgid "Add Static Router"
@@ -4614,7 +4700,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddStaticRouter.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1289
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1295
 #, java-format
 msgctxt "ESBActions110_AddStaticRouter.Title"
 msgid "ESB Static Router"
@@ -4622,7 +4708,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddStaticWiretap.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1293
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1299
 #, java-format
 msgctxt "ESBActions110_AddStaticWiretap.WindowTitle"
 msgid "Add Static Wiretap"
@@ -4630,7 +4716,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddStaticWiretap.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1295
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1301
 #, java-format
 msgctxt "ESBActions110_AddStaticWiretap.Title"
 msgid "ESB Static Wiretap"
@@ -4638,7 +4724,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddNotifier.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1299
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1305
 #, java-format
 msgctxt "ESBActions110_AddNotifier.WindowTitle"
 msgid "Add Notifier"
@@ -4646,7 +4732,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddNotifier.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1301
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1307
 #, java-format
 msgctxt "ESBActions110_AddNotifier.Title"
 msgid "ESB Notifier"
@@ -4654,7 +4740,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_SOAPProcessor.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1305
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1311
 #, java-format
 msgctxt "ESBActions110_SOAPProcessor.WindowTitle"
 msgid "Add SOAP Processor"
@@ -4662,7 +4748,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_SOAPProcessor.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1307
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1313
 #, java-format
 msgctxt "ESBActions110_SOAPProcessor.Title"
 msgid "SOAP Processor"
@@ -4670,7 +4756,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_SOAPClient.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1311
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1317
 #, java-format
 msgctxt "ESBActions110_SOAPClient.WindowTitle"
 msgid "Add SOAP Client"
@@ -4678,7 +4764,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_SOAPClient.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1313
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1319
 #, java-format
 msgctxt "ESBActions110_SOAPClient.Title"
 msgid "SOAP Client"
@@ -4686,7 +4772,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddObjectInvoke.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1317
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1323
 #, java-format
 msgctxt "ESBActions110_AddObjectInvoke.WindowTitle"
 msgid "Add Object Invoke"
@@ -4694,7 +4780,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddObjectInvoke.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1319
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1325
 #, java-format
 msgctxt "ESBActions110_AddObjectInvoke.Title"
 msgid "ESB Object Invoke"
@@ -4702,7 +4788,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddCommandInterpreter.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1323
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1329
 #, java-format
 msgctxt "ESBActions110_AddCommandInterpreter.WindowTitle"
 msgid "Add Command Interpreter"
@@ -4710,7 +4796,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddCommandInterpreter.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1325
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1331
 #, java-format
 msgctxt "ESBActions110_AddCommandInterpreter.Title"
 msgid "ESB Command Interpreter"
@@ -4718,7 +4804,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddGroovyProcessor.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1329
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1335
 #, java-format
 msgctxt "ESBActions110_AddGroovyProcessor.WindowTitle"
 msgid "Add Groovy Action Processor"
@@ -4726,7 +4812,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddGroovyProcessor.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1331
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1337
 #, java-format
 msgctxt "ESBActions110_AddGroovyProcessor.Title"
 msgid "ESB Groovy Action Processor"
@@ -4734,7 +4820,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddSystemPrintln.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1335
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1341
 #, java-format
 msgctxt "ESBActions110_AddSystemPrintln.WindowTitle"
 msgid "Add System Println"
@@ -4742,7 +4828,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddSystemPrintln.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1337
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1343
 #, java-format
 msgctxt "ESBActions110_AddSystemPrintln.Title"
 msgid "ESB System Println"
@@ -4750,7 +4836,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddSOAPProcessor.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1341
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1347
 #, java-format
 msgctxt "ESBActions110_AddSOAPProcessor.WindowTitle"
 msgid "Add SOAP Processor"
@@ -4758,7 +4844,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddSOAPProcessor.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1343
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1349
 #, java-format
 msgctxt "ESBActions110_AddSOAPProcessor.Title"
 msgid "ESB SOAP Processor"
@@ -4766,7 +4852,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddSOAPClient.WindowTitle
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1347
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1353
 #, java-format
 msgctxt "ESBActions110_AddSOAPClient.WindowTitle"
 msgid "Add SOAP Client"
@@ -4774,7 +4860,7 @@ msgstr ""
 
 #. 
 #: ESBActions110_AddSOAPClient.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1349
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1355
 #, java-format
 msgctxt "ESBActions110_AddSOAPClient.Title"
 msgid "ESB SOAP Client"
@@ -4782,7 +4868,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionAggregator101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1353
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1359
 #, java-format
 msgctxt "ESBPreActionAggregator101_Properties.Title"
 msgid "Aggregator"
@@ -4790,7 +4876,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionByteArrayToString101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1355
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1361
 #, java-format
 msgctxt "ESBPreActionByteArrayToString101_Properties.Title"
 msgid "Byte Array to String"
@@ -4798,7 +4884,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionCommandInterpreter101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1357
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1363
 #, java-format
 msgctxt "ESBPreActionCommandInterpreter101_Properties.Title"
 msgid "Command Interpreter"
@@ -4806,7 +4892,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionContentBasedRouter101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1359
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1365
 #, java-format
 msgctxt "ESBPreActionContentBasedRouter101_Properties.Title"
 msgid "Content Based Router"
@@ -4814,7 +4900,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionGroovyProcessor101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1361
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1367
 #, java-format
 msgctxt "ESBPreActionGroovyProcessor101_Properties.Title"
 msgid "Groovy Processor"
@@ -4822,7 +4908,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionLongToDateConverter101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1363
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1369
 #, java-format
 msgctxt "ESBPreActionLongToDateConverter101_Properties.Title"
 msgid "Long to Date Converter"
@@ -4830,7 +4916,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionMessagePersister101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1365
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1371
 #, java-format
 msgctxt "ESBPreActionMessagePersister101_Properties.Title"
 msgid "Message Persister"
@@ -4838,7 +4924,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionNotifier101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1367
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1373
 #, java-format
 msgctxt "ESBPreActionNotifier101_Properties.Title"
 msgid "Notifier"
@@ -4846,7 +4932,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionObjectInvoke101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1369
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1375
 #, java-format
 msgctxt "ESBPreActionObjectInvoke101_Properties.Title"
 msgid "Object Invoke"
@@ -4854,7 +4940,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionObjectToCSVString101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1371
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1377
 #, java-format
 msgctxt "ESBPreActionObjectToCSVString101_Properties.Title"
 msgid "Object to CSV String"
@@ -4862,7 +4948,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionObjectToXStream101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1373
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1379
 #, java-format
 msgctxt "ESBPreActionObjectToXStream101_Properties.Title"
 msgid "Object to XStream"
@@ -4870,7 +4956,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionSOAPClient101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1375
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1381
 #, java-format
 msgctxt "ESBPreActionSOAPClient101_Properties.Title"
 msgid "SOAP Client"
@@ -4878,7 +4964,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionSOAPProcessor101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1377
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1383
 #, java-format
 msgctxt "ESBPreActionSOAPProcessor101_Properties.Title"
 msgid "SOAP Processor"
@@ -4886,7 +4972,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionSmooksTransformer101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1379
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1385
 #, java-format
 msgctxt "ESBPreActionSmooksTransformer101_Properties.Title"
 msgid "Smooks Transformer"
@@ -4894,7 +4980,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionStaticRouter101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1381
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1387
 #, java-format
 msgctxt "ESBPreActionStaticRouter101_Properties.Title"
 msgid "Static Router"
@@ -4902,7 +4988,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionStaticWiretap101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1383
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1389
 #, java-format
 msgctxt "ESBPreActionStaticWiretap101_Properties.Title"
 msgid "Static Wiretap"
@@ -4910,7 +4996,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionSystemPrintln101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1385
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1391
 #, java-format
 msgctxt "ESBPreActionSystemPrintln101_Properties.Title"
 msgid "System Println"
@@ -4918,7 +5004,7 @@ msgstr ""
 
 #. 
 #: ESBPreActionXStreamToObject101_Properties.Title
-#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1387
+#: ../../../esb/plugins/org.jboss.tools.esb.core/resources/help/keys-esb.properties:1393
 #, java-format
 msgctxt "ESBPreActionXStreamToObject101_Properties.Title"
 msgid "XStream to Object"
@@ -5000,7 +5086,9 @@ msgstr ""
 #: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:1
 #, java-format
 msgctxt "Label_JBoss_Runtime_Load_Error"
-msgid "Error occurred while loading JBoss ESB {0} runtime . Please select a correct JBoss ESB runtime or JBoss ESB server location"
+msgid ""
+"Error occurred while loading JBoss ESB {0} runtime . Please select a correct "
+"JBoss ESB runtime or JBoss ESB server location"
 msgstr ""
 
 #. 
@@ -5046,127 +5134,123 @@ msgctxt "JBoss_Runtime_List_Field_Editor_Path"
 msgid "Path"
 msgstr ""
 
-#: JBoss_Runtime_List_Field_Editor_Inputelement_Must_Be
+#: JBoss_Runtime_List_Field_Editor_Inputelement_Must_Be_List
 #: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:9
 #, java-format
-msgctxt "JBoss_Runtime_List_Field_Editor_Inputelement_Must_Be"
-msgid "inputElement must be"
-msgstr ""
-
-#: JBoss_Runtime_List_Field_Editor_An_Instance_Of_List
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:10
-#, java-format
-msgctxt "JBoss_Runtime_List_Field_Editor_An_Instance_Of_List"
-msgid "an instance of List<JBossRuntime>."
+msgctxt "JBoss_Runtime_List_Field_Editor_Inputelement_Must_Be_List"
+msgid "inputElement must be an instance of List<JBossRuntime>."
 msgstr ""
 
 #: JBoss_Runtime_Delete_Confirm_Title
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:11
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:10
 #, java-format
 msgctxt "JBoss_Runtime_Delete_Confirm_Title"
 msgid "Confirm Runtime Delete"
 msgstr ""
 
 #: JBoss_Runtime_Delete_Used_Confirm
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:12
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:11
 #, java-format
 msgctxt "JBoss_Runtime_Delete_Used_Confirm"
-msgid "Runtime ''{0}'' is used by JBoss ESB projects. Are you sure you want to delete it?"
+msgid ""
+"Runtime ''{0}'' is used by JBoss ESB projects. Are you sure you want to "
+"delete it?"
 msgstr ""
 
 #: JBoss_Runtime_Delete_Not_Used_Confirm
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:13
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:12
 #, java-format
 msgctxt "JBoss_Runtime_Delete_Not_Used_Confirm"
 msgid "Are you sure you want to delete runtime ''{0}''?"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_Edit_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:14
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:13
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Edit_Runtime"
 msgid "Edit JBoss ESB Runtime"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_Modify_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:15
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:14
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Modify_Runtime"
 msgid "Input new values"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_New_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:16
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:15
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_New_Runtime"
 msgid "New JBoss ESB Runtime"
 msgstr ""
 
 #: Error_JBoss_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:17
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:16
 #, java-format
-msgctxt "Error_JBoss_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty"
+msgctxt ""
+"Error_JBoss_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty"
 msgid "Path to JBoss ESB runtime home directory cannot be empty"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_Runtime_Already_Exists
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:18
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:17
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Runtime_Already_Exists"
 msgid "JBoss ESB Runtime ''{0}'' already exists"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:19
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:18
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Runtime"
 msgid "JBoss ESB Runtime"
 msgstr ""
 
 #: Error_JBoss_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:20
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:19
 #, java-format
 msgctxt "Error_JBoss_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct"
 msgid "Runtime name is not correct"
 msgstr ""
 
 #: Error_JBoss_Runtime_List_Field_Editor_Name_Cannot_Be_Empty
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:21
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:20
 #, java-format
 msgctxt "Error_JBoss_Runtime_List_Field_Editor_Name_Cannot_Be_Empty"
 msgid "Name cannot be empty"
 msgstr ""
 
 #: Error_JBoss_Runtime_List_Field_Editor_Version_Cannot_Be_Empty
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:22
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:21
 #, java-format
 msgctxt "Error_JBoss_Runtime_List_Field_Editor_Version_Cannot_Be_Empty"
 msgid "Version cannot be empty"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_Create_A_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:23
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:22
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Create_A_Runtime"
 msgid "Create a JBoss ESB Runtime"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_Home_Folder
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:24
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:23
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Home_Folder"
 msgid "Home Folder:"
 msgstr ""
 
 #: JBoss_Composite_Editor_This_Method_Can_Be_Invoked
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:25
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:24
 #, java-format
 msgctxt "JBoss_Composite_Editor_This_Method_Can_Be_Invoked"
 msgid "This method can be invoked after getEditorControls(parent) only"
 msgstr ""
 
 #: JBoss_Button_Field_Editor_Browse
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:26
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:25
 #, java-format
 msgctxt "JBoss_Button_Field_Editor_Browse"
 msgid "Browse..."
@@ -5174,238 +5258,239 @@ msgstr ""
 
 #. 
 #: JBoss_ESBRuntime_Classpath_Container_Description
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:30
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:29
 #, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_Description"
 msgid "Select a ESB runtime to add to the project classpath"
 msgstr ""
 
 #: JBoss_ESBRuntime_Classpath_Container_Name
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:31
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:30
 #, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_Name"
 msgid "Name"
 msgstr ""
 
 #: JBoss_ESBRuntime_Classpath_Container_RuntimeType
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:32
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:31
 #, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_RuntimeType"
 msgid "Runtime Type"
 msgstr ""
 
 #: JBoss_ESBRuntime_Classpath_Container_RuntimeType_ESBLibrariesOnly
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:33
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:32
 #, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_RuntimeType_ESBLibrariesOnly"
 msgid "ESB Libraries Only"
 msgstr ""
 
 #: JBoss_ESBRuntime_Classpath_Container_RuntimeType_ServerContained
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:34
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:33
 #, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_RuntimeType_ServerContained"
 msgid "Server Contained"
 msgstr ""
 
 #: JBoss_ESBRuntime_Classpath_Container_Title
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:35
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:34
 #, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_Title"
 msgid "JBoss ESB Library"
 msgstr ""
 
 #: Error_JBoss_Button_Field_Editor_Not_Implemented_Yet
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:36
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:35
 #, java-format
 msgctxt "Error_JBoss_Button_Field_Editor_Not_Implemented_Yet"
 msgid "Not implemented yet. Please setup real acion for editor."
 msgstr ""
 
 #: JBoss_SWT_Field_Editor_Factory_Browse
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:37
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:36
 #, java-format
 msgctxt "JBoss_SWT_Field_Editor_Factory_Browse"
 msgid "Browse..."
 msgstr ""
 
 #: JBoss_SWT_Field_Editor_Factory_Select_Home_Folder
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:38
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:37
 #, java-format
 msgctxt "JBoss_SWT_Field_Editor_Factory_Select_Home_Folder"
 msgid "Select JBoss ESB runtime Home Folder"
 msgstr ""
 
 #: JBoss_Runtime_List_Field_Editor_Name2
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:39
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:38
 #, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Name2"
 msgid "Name:"
 msgstr ""
 
 #: JBoss_Runtime_Check_Field_Default_Classpath
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:40
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:39
 #, java-format
 msgctxt "JBoss_Runtime_Check_Field_Default_Classpath"
 msgid "Customize JBoss ESB runtime jars"
 msgstr ""
 
 #: JBoss_Preference_Page_Runtimes
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:41
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:40
 #, java-format
 msgctxt "JBoss_Preference_Page_Runtimes"
 msgid "JBoss ESB Runtimes"
 msgstr ""
 
 #: JBossLibraryListFieldEditor_ActionAdd
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:42
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:41
 #, java-format
 msgctxt "JBossLibraryListFieldEditor_ActionAdd"
 msgid "&Add"
 msgstr ""
 
 #: JBossLibraryListFieldEditor_ActionRemove
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:43
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:42
 #, java-format
 msgctxt "JBossLibraryListFieldEditor_ActionRemove"
 msgid "&Remove"
 msgstr ""
 
 #: JBossLibraryListFieldEditor_LIBRARY_JARS
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:44
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:43
 #, java-format
 msgctxt "JBossLibraryListFieldEditor_LIBRARY_JARS"
 msgid "Library Jars"
 msgstr ""
 
 #: JBossRuntimeListFieldEditor_ActionAdd
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:45
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:44
 #, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionAdd"
 msgid "&Add"
 msgstr ""
 
 #: JBossRuntimeListFieldEditor_ActionEdit
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:46
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:45
 #, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionEdit"
 msgid "&Edit"
 msgstr ""
 
 #: JBossRuntimeListFieldEditor_ActionRemove
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:47
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:46
 #, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionRemove"
 msgid "&Remove"
 msgstr ""
 
 #: JBossRuntimeListFieldEditor_ErrorMessageAtLeastOneJar
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:48
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:47
 #, java-format
 msgctxt "JBossRuntimeListFieldEditor_ErrorMessageAtLeastOneJar"
 msgid "The library must contain at least one jar."
 msgstr ""
 
 #: ESBFacetInstallationPage_Button_Text_New
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:51
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:50
 #, java-format
 msgctxt "ESBFacetInstallationPage_Button_Text_New"
 msgid "New"
 msgstr ""
 
 #: ESBFacetInstallationPage_Default_SRC_Folder
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:52
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:51
 #, java-format
 msgctxt "ESBFacetInstallationPage_Default_SRC_Folder"
 msgid "src"
 msgstr ""
 
 #: ESBFacetInstallationPage_Description
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:53
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:52
 #, java-format
 msgctxt "ESBFacetInstallationPage_Description"
 msgid "Configure project structure and classpath"
 msgstr ""
 
 #: ESBFacetInstallationPage_Error_Message_Have_Not_Set_Target_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:54
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:53
 #, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Have_Not_Set_Target_Runtime"
 msgid "Please specify the project primary target runtime"
 msgstr ""
 
 #: ESBFacetInstallationPage_Error_Message_Invalid_ESB_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:55
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:54
 #, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Invalid_ESB_Runtime"
-msgid "The specified target runtime does not contain a valid ESB {0} runtime ."
+msgid ""
+"The specified target runtime does not contain a valid ESB {0} runtime ."
 msgstr ""
 
 #: ESBFacetInstallationPage_Error_Message_No_Target_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:56
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:55
 #, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_No_Target_Runtime"
 msgid "No target runtime was specified."
 msgstr ""
 
 #: ESBFacetInstallationPage_Error_Message_Specify_Content_Folder
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:57
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:56
 #, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Specify_Content_Folder"
 msgid "Please specify a valid content folder."
 msgstr ""
 
 #: ESBFacetInstallationPage_Error_Message_Specify_ESB_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:58
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:57
 #, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Specify_ESB_Runtime"
 msgid "Please specify a ESB runtime"
 msgstr ""
 
 #: ESBFacetInstallationPage_Error_Message_Specify_Source_Folder
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:59
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:58
 #, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Specify_Source_Folder"
 msgid "Please specify a valid source folder."
 msgstr ""
 
 #: ESBFacetInstallationPage_Group_Runtime_Text
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:60
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:59
 #, java-format
 msgctxt "ESBFacetInstallationPage_Group_Runtime_Text"
 msgid "JBoss ESB Runtime"
 msgstr ""
 
 #: ESBFacetInstallationPage_Group_Text_Folder
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:61
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:60
 #, java-format
 msgctxt "ESBFacetInstallationPage_Group_Text_Folder"
 msgid "Project Folders"
 msgstr ""
 
 #: ESBFacetInstallationPage_Label_Content_Directory
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:62
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:61
 #, java-format
 msgctxt "ESBFacetInstallationPage_Label_Content_Directory"
 msgid "Content Directory"
 msgstr ""
 
 #: ESBFacetInstallationPage_Label_Server_Supplied_Runtime
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:63
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:62
 #, java-format
 msgctxt "ESBFacetInstallationPage_Label_Server_Supplied_Runtime"
 msgid "Server supplied ESB Runtime"
 msgstr ""
 
 #: ESBFacetInstallationPage_Label_Source_Directory
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:64
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:63
 #, java-format
 msgctxt "ESBFacetInstallationPage_Label_Source_Directory"
 msgid "Java Source Directory"
 msgstr ""
 
 #: ESBFacetInstallationPage_Title
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:65
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:64
 #, java-format
 msgctxt "ESBFacetInstallationPage_Title"
 msgid "Install ESB Facet"
@@ -5413,14 +5498,14 @@ msgstr ""
 
 #. 
 #: ESBProjectFirstPage_Description
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:68
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:67
 #, java-format
 msgctxt "ESBProjectFirstPage_Description"
 msgid "Create a new JBoss ESB project."
 msgstr ""
 
 #: ESBProjectFirstPage_Title
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:69
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:68
 #, java-format
 msgctxt "ESBProjectFirstPage_Title"
 msgid "JBoss ESB Project"
@@ -5428,35 +5513,35 @@ msgstr ""
 
 #. 
 #: ESBProjectWizard_Title
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:72
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:71
 #, java-format
 msgctxt "ESBProjectWizard_Title"
 msgid "New ESB Project Wizard"
 msgstr ""
 
 #: ESBExportWizard_NotValidProject
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:73
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:72
 #, java-format
 msgctxt "ESBExportWizard_NotValidProject"
 msgid "Project \"{0}\" is not a valid ESB Project"
 msgstr ""
 
 #: ESBExportWizard_Title
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:74
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:73
 #, java-format
 msgctxt "ESBExportWizard_Title"
 msgid "ESB Export"
 msgstr ""
 
 #: ESBExportWizard_Description
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:75
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:74
 #, java-format
 msgctxt "ESBExportWizard_Description"
 msgid "Export an ESB project to the local file system."
 msgstr ""
 
 #: ESBExportWizard_ESBProject
-#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:76
+#: ../../../esb/plugins/org.jboss.tools.esb.project.ui/src/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:75
 #, java-format
 msgctxt "ESBExportWizard_ESBProject"
 msgid "ESB Project: "
@@ -5471,7 +5556,8 @@ msgid ""
 "\n"
 "Version: {featureVersion}\n"
 "\n"
-"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - 2009.  All rights reserved.\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
 "Visit http://jboss.org/tools"
 msgstr ""
 
@@ -5489,4 +5575,3 @@ msgstr ""
 msgctxt "ESB_UI_PLUGIN_NO_MESSAGES"
 msgid "No message"
 msgstr ""
-

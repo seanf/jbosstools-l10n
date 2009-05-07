@@ -1,21 +1,20 @@
-#SOME DESCRIPTIVE TITLE.
-#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-#This file is distributed under the same license as the PACKAGE package.
-#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-05-07 15:14+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-""
 
 #. ##############################################################################
 #. Copyright (c) 2008 JBoss, a division of Red Hat and others.
@@ -96,7 +95,6 @@ msgid ""
 "\n"
 "Contributors:\n"
 "JBoss, a division of Red Hat - Initial implementation.\n"
-""
 msgstr ""
 
 #. 
@@ -111,6 +109,29 @@ msgctxt "licenseURL"
 msgid "license.html"
 msgstr ""
 
+#. Properties file for org.jboss.tools.project.examples.cheatsheet
+#: BundleVendor
+#: ../../../examples/plugins/org.jboss.tools.project.examples.cheatsheet/plugin.properties:3
+#, java-format
+msgctxt "BundleVendor"
+msgid "JBoss, a division of Red Hat"
+msgstr ""
+
+#. 
+#: BundleName
+#: ../../../examples/plugins/org.jboss.tools.project.examples.cheatsheet/plugin.properties:5
+#, java-format
+msgctxt "BundleName"
+msgid "Seam Tutorials"
+msgstr ""
+
+#: OpenFileInEditor_Cannot_open
+#: ../../../examples/plugins/org.jboss.tools.project.examples.cheatsheet/src/org/jboss/tools/project/examples/cheatsheet/messages.properties:1
+#, java-format
+msgctxt "OpenFileInEditor_Cannot_open"
+msgid "Cannot open the {0} file."
+msgstr ""
+
 #: blurb
 #: ../../../examples/plugins/org.jboss.tools.project.examples/about.properties:1
 #, java-format
@@ -120,7 +141,8 @@ msgid ""
 "\n"
 "Version: {featureVersion}\n"
 "\n"
-"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - 2009.  All rights reserved.\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
 "Visit http://jboss.org/tools"
 msgstr ""
 
@@ -184,7 +206,7 @@ msgstr ""
 #: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:3
 #, java-format
 msgctxt "ECFExamplesTransport_Downloading"
-msgid "Downloading "
+msgid "Downloading {0}"
 msgstr ""
 
 #. 
@@ -212,16 +234,20 @@ msgid "Loading"
 msgstr ""
 
 #. 
-#: ECFExamplesTransport_of
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:11
+#. {0} = amount received (KB/MB/etc)
+#. {1} = expected total (KB/MB/etc)
+#. {2} = download rate per second (KB/MB/etc)
+#. eg 241.73 KB of 30.95 MB (at 34.18 KB/s)
+#: ECFExamplesTransport_ReceivedSize_Of_FileSize_At_RatePerSecond
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:19
 #, java-format
-msgctxt "ECFExamplesTransport_of"
-msgid " of "
+msgctxt "ECFExamplesTransport_ReceivedSize_Of_FileSize_At_RatePerSecond"
+msgid "{0} of {1} (at {2}/s) "
 msgstr ""
 
 #. 
 #: ECFExamplesTransport_Server_redirected_too_many_times
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:13
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:21
 #, java-format
 msgctxt "ECFExamplesTransport_Server_redirected_too_many_times"
 msgid "Server redirected too many times"
@@ -229,15 +255,16 @@ msgstr ""
 
 #. 
 #: ECFExamplesTransport_Unexpected_interrupt_while_waiting_on_ECF_transfer
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:15
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:23
 #, java-format
-msgctxt "ECFExamplesTransport_Unexpected_interrupt_while_waiting_on_ECF_transfer"
+msgctxt ""
+"ECFExamplesTransport_Unexpected_interrupt_while_waiting_on_ECF_transfer"
 msgid "Unexpected interrupt while waiting on ECF transfer"
 msgstr ""
 
 #. 
 #: MarkerDialog_Description
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:17
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:25
 #, java-format
 msgctxt "MarkerDialog_Description"
 msgid "Description"
@@ -245,7 +272,7 @@ msgstr ""
 
 #. 
 #: MarkerDialog_Finish
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:19
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:27
 #, java-format
 msgctxt "MarkerDialog_Finish"
 msgid "Finish"
@@ -253,7 +280,7 @@ msgstr ""
 
 #. 
 #: MarkerDialog_Markers
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:21
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:29
 #, java-format
 msgctxt "MarkerDialog_Markers"
 msgid "Markers:"
@@ -261,7 +288,7 @@ msgstr ""
 
 #. 
 #: MarkerDialog_Quick_Fix
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:23
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:31
 #, java-format
 msgctxt "MarkerDialog_Quick_Fix"
 msgid "Quick Fix"
@@ -269,7 +296,7 @@ msgstr ""
 
 #. 
 #: MarkerDialog_Resource
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:25
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:33
 #, java-format
 msgctxt "MarkerDialog_Resource"
 msgid "Resource"
@@ -277,7 +304,7 @@ msgstr ""
 
 #. 
 #: MarkerDialog_Select_a_marker_and_click_the_Quick_Fix_button
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:27
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:35
 #, java-format
 msgctxt "MarkerDialog_Select_a_marker_and_click_the_Quick_Fix_button"
 msgid "Select a marker and click the Quick Fix button."
@@ -285,7 +312,7 @@ msgstr ""
 
 #. 
 #: MarkerDialog_Type
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:29
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:37
 #, java-format
 msgctxt "MarkerDialog_Type"
 msgid "Type"
@@ -293,7 +320,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizard_Detail
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:31
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:39
 #, java-format
 msgctxt "NewProjectExamplesWizard_Detail"
 msgid "Detail"
@@ -301,7 +328,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizard_Downloading
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:33
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:41
 #, java-format
 msgctxt "NewProjectExamplesWizard_Downloading"
 msgid "Downloading..."
@@ -309,7 +336,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizard_Error
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:35
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:43
 #, java-format
 msgctxt "NewProjectExamplesWizard_Error"
 msgid "Error"
@@ -317,7 +344,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizard_File_does_not_exist
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:37
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:45
 #, java-format
 msgctxt "NewProjectExamplesWizard_File_does_not_exist"
 msgid "The {0} does not exist."
@@ -325,7 +352,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizard_Importing
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:39
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:47
 #, java-format
 msgctxt "NewProjectExamplesWizard_Importing"
 msgid "Importing..."
@@ -333,7 +360,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizard_New_Project_Example
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:41
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:49
 #, java-format
 msgctxt "NewProjectExamplesWizard_New_Project_Example"
 msgid "New Project Example"
@@ -341,7 +368,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizard_OverwriteProject
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:43
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:51
 #, java-format
 msgctxt "NewProjectExamplesWizard_OverwriteProject"
 msgid "Overwrite project ''{0}''"
@@ -349,7 +376,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizard_Question
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:45
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:53
 #, java-format
 msgctxt "NewProjectExamplesWizard_Question"
 msgid "Question"
@@ -357,7 +384,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_Description
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:47
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:55
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_Description"
 msgid "Description:"
@@ -365,7 +392,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_Import_Project_Example
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:49
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:57
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_Import_Project_Example"
 msgid "Import Project Example"
@@ -373,7 +400,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_Project_Example
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:51
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:59
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_Project_Example"
 msgid "Project Example"
@@ -381,7 +408,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_Project_name
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:53
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:61
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_Project_name"
 msgid "Project name:"
@@ -389,7 +416,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_Project_size
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:55
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:63
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_Project_size"
 msgid "Project size:"
@@ -397,7 +424,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_Projects
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:57
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:65
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_Projects"
 msgid "Projects:"
@@ -405,7 +432,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_Show_the_Quick_Fix_dialog
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:59
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:67
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_Show_the_Quick_Fix_dialog"
 msgid "Show the Quick Fix dialog"
@@ -413,7 +440,7 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_URL
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:61
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:69
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_URL"
 msgid "URL:"
@@ -421,7 +448,7 @@ msgstr ""
 
 #. 
 #: Project_JBoss_Tools_Team_from_jboss_org
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:63
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:71
 #, java-format
 msgctxt "Project_JBoss_Tools_Team_from_jboss_org"
 msgid "JBoss Tools Team from jboss.org"
@@ -429,7 +456,7 @@ msgstr ""
 
 #. 
 #: Project_Local
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:65
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:73
 #, java-format
 msgctxt "Project_Local"
 msgid "Local"
@@ -437,7 +464,7 @@ msgstr ""
 
 #. 
 #: Project_Unknown
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:67
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:75
 #, java-format
 msgctxt "Project_Unknown"
 msgid "Unknown"
@@ -445,7 +472,7 @@ msgstr ""
 
 #. 
 #: ProjectExamplesActivator_All
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:69
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:77
 #, java-format
 msgctxt "ProjectExamplesActivator_All"
 msgid "All"
@@ -453,7 +480,7 @@ msgstr ""
 
 #. 
 #: ProjectExamplesActivator_Waiting
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:71
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:79
 #, java-format
 msgctxt "ProjectExamplesActivator_Waiting"
 msgid "Waiting..."
@@ -461,7 +488,7 @@ msgstr ""
 
 #. 
 #: ProjectUtil_Invalid_URL
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:73
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:81
 #, java-format
 msgctxt "ProjectUtil_Invalid_URL"
 msgid "Invalid URL: {0}"
@@ -469,7 +496,7 @@ msgstr ""
 
 #. 
 #: ProjectUtil_Invalid_welcome_element
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:75
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:83
 #, java-format
 msgctxt "ProjectUtil_Invalid_welcome_element"
 msgid "The welcome element has invalid the url attribute"
@@ -477,9 +504,8 @@ msgstr ""
 
 #. 
 #: NewProjectExamplesWizardPage_Site
-#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:77
+#: ../../../examples/plugins/org.jboss.tools.project.examples/src/org/jboss/tools/project/examples/messages.properties:85
 #, java-format
 msgctxt "NewProjectExamplesWizardPage_Site"
 msgid "Site:"
 msgstr ""
-

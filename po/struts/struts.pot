@@ -1,21 +1,20 @@
-#SOME DESCRIPTIVE TITLE.
-#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-#This file is distributed under the same license as the PACKAGE package.
-#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-05-07 15:14+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-""
 
 #. ##############################################################################
 #. Copyright (c) 2008 JBoss, a division of Red Hat and others.
@@ -48,7 +47,6 @@ msgstr ""
 #. 
 #: providerName
 #: ../../../struts/features/org.jboss.tools.struts.feature/feature.properties:41
-#: ../../../struts/plugins/org.jboss.tools.struts.debug/plugin.properties:1
 #: ../../../struts/plugins/org.jboss.tools.struts.text.ext/plugin.properties:1
 #: ../../../struts/plugins/org.jboss.tools.struts.ui/plugin.properties:15
 #: ../../../struts/plugins/org.jboss.tools.struts.validator.ui/plugin.properties:3
@@ -117,38 +115,6 @@ msgid "license.html"
 msgstr ""
 
 #. 
-#: actionSets_license.label
-#: ../../../struts/plugins/org.jboss.tools.struts.debug/plugin.properties:5
-#, java-format
-msgctxt "actionSets_license.label"
-msgid "Struts Debugger License"
-msgstr ""
-
-#. 
-#: actionSets_license.description
-#: ../../../struts/plugins/org.jboss.tools.struts.debug/plugin.properties:7
-#, java-format
-msgctxt "actionSets_license.description"
-msgid "Struts Debugger License"
-msgstr ""
-
-#. 
-#: actionSets.license.label
-#: ../../../struts/plugins/org.jboss.tools.struts.debug/plugin.properties:9
-#, java-format
-msgctxt "actionSets.license.label"
-msgid "&Struts Debugger License"
-msgstr ""
-
-#. 
-#: Bundle-Name.0
-#: ../../../struts/plugins/org.jboss.tools.struts.debug/plugin.properties:11
-#, java-format
-msgctxt "Bundle-Name.0"
-msgid "Red Hat Struts Debugger"
-msgstr ""
-
-#. 
 #: Bundle-Name.0
 #: ../../../struts/plugins/org.jboss.tools.struts.text.ext/plugin.properties:5
 #, java-format
@@ -166,48 +132,40 @@ msgstr ""
 #. Contributors:
 #. Exadel, Inc. and Red Hat, Inc. - initial API and implementation
 #. ******************************************************************************
-#: OpenTagLibrary
+#: OpenTagLibraryForATag
 #: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:23
 #, java-format
-msgctxt "OpenTagLibrary"
-msgid "Open a Tag Library for {0}"
+msgctxt "OpenTagLibraryForATag"
+msgid "Open a Tag Library for a tag"
 msgstr ""
 
 #. 
-#: Tag
+#: OpenTagLibraryForTagName
 #: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:25
 #, java-format
-msgctxt "Tag"
-msgid "a tag "
+msgctxt "OpenTagLibraryForTagName"
+msgid "Open a Tag Library for tag ''{0}''"
 msgstr ""
 
 #. 
-#: TagAttribute
+#: OpenTagLibraryForAnAttribute
 #: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:27
 #, java-format
-msgctxt "TagAttribute"
-msgid "an attribute "
+msgctxt "OpenTagLibraryForAnAttribute"
+msgid "Open a Tag Library for an attribute"
 msgstr ""
 
 #. 
-#: ForTag
+#: OpenTagLibraryForAttributeName
 #: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:29
 #, java-format
-msgctxt "ForTag"
-msgid "tag ''{0}''"
-msgstr ""
-
-#. 
-#: ForTagAttribute
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:31
-#, java-format
-msgctxt "ForTagAttribute"
-msgid "attribute ''{0}'' of tag ''{1}''"
+msgctxt "OpenTagLibraryForAttributeName"
+msgid "Open a Tag Library for attribute ''{0}'' of tag ''{1}''"
 msgstr ""
 
 #. 
 #: OpenAction
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:33
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:31
 #, java-format
 msgctxt "OpenAction"
 msgid "Open Action ''{0}''"
@@ -215,7 +173,7 @@ msgstr ""
 
 #. 
 #: Action
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:35
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:33
 #, java-format
 msgctxt "Action"
 msgid "Action"
@@ -223,7 +181,7 @@ msgstr ""
 
 #. 
 #: OpenActionMapping
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:37
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:35
 #, java-format
 msgctxt "OpenActionMapping"
 msgid "Open Action Mapping ''{0}''"
@@ -231,7 +189,7 @@ msgstr ""
 
 #. 
 #: ActionMapping
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:39
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:37
 #, java-format
 msgctxt "ActionMapping"
 msgid "Action Mapping"
@@ -239,7 +197,7 @@ msgstr ""
 
 #. 
 #: OpenFormBean
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:41
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:39
 #, java-format
 msgctxt "OpenFormBean"
 msgid "Open Form Bean ''{0}''"
@@ -247,7 +205,7 @@ msgstr ""
 
 #. 
 #: FormBean
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:43
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:41
 #, java-format
 msgctxt "FormBean"
 msgid "Form Bean"
@@ -255,7 +213,7 @@ msgstr ""
 
 #. 
 #: OpenFormProperty
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:45
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:43
 #, java-format
 msgctxt "OpenFormProperty"
 msgid "Open Form Property ''{0}''"
@@ -263,7 +221,7 @@ msgstr ""
 
 #. 
 #: FormProperty
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:47
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:45
 #, java-format
 msgctxt "FormProperty"
 msgid "Form Property"
@@ -271,7 +229,7 @@ msgstr ""
 
 #. 
 #: OpenForwardPath
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:49
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:47
 #, java-format
 msgctxt "OpenForwardPath"
 msgid "Open Forward Path ''{0}''"
@@ -279,7 +237,7 @@ msgstr ""
 
 #. 
 #: ForwardPath
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:51
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:49
 #, java-format
 msgctxt "ForwardPath"
 msgid "Forward Path"
@@ -287,7 +245,7 @@ msgstr ""
 
 #. 
 #: OpenPage
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:53
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:51
 #, java-format
 msgctxt "OpenPage"
 msgid "Open Page ''{0}''"
@@ -295,7 +253,7 @@ msgstr ""
 
 #. 
 #: Page
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:55
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:53
 #, java-format
 msgctxt "Page"
 msgid "Page"
@@ -303,7 +261,7 @@ msgstr ""
 
 #. 
 #: OpenValidationBundle
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:57
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:55
 #, java-format
 msgctxt "OpenValidationBundle"
 msgid "Open Validation Bundle ''{0}''"
@@ -311,7 +269,7 @@ msgstr ""
 
 #. 
 #: ValidationBundle
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:59
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:57
 #, java-format
 msgctxt "ValidationBundle"
 msgid "Validation Bundle"
@@ -319,7 +277,7 @@ msgstr ""
 
 #. 
 #: OpenValidationBundleProperty
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:61
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:59
 #, java-format
 msgctxt "OpenValidationBundleProperty"
 msgid "Open Validation Bundle Property ''{0}''"
@@ -327,7 +285,7 @@ msgstr ""
 
 #. 
 #: OpenValidationBundlePropertyForBundle
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:63
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:61
 #, java-format
 msgctxt "OpenValidationBundlePropertyForBundle"
 msgid "Open Property ''{0}'' of Validation Bundle ''{1}''"
@@ -335,7 +293,7 @@ msgstr ""
 
 #. 
 #: ValidationBundleProperty
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:65
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:63
 #, java-format
 msgctxt "ValidationBundleProperty"
 msgid "Validation Bundle Property"
@@ -343,7 +301,7 @@ msgstr ""
 
 #. 
 #: OpenForward
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:67
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:65
 #, java-format
 msgctxt "OpenForward"
 msgid "Open Forward ''{0}''"
@@ -351,7 +309,7 @@ msgstr ""
 
 #. 
 #: Forward
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:69
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:67
 #, java-format
 msgctxt "Forward"
 msgid "Forward"
@@ -359,7 +317,7 @@ msgstr ""
 
 #. 
 #: OpenValidationProperty
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:71
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:69
 #, java-format
 msgctxt "OpenValidationProperty"
 msgid "Open Validation Property ''{0}'' for the form ''{1}''"
@@ -367,7 +325,7 @@ msgstr ""
 
 #. 
 #: ValidationProperty
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:73
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:71
 #, java-format
 msgctxt "ValidationProperty"
 msgid "Validation Property"
@@ -375,7 +333,7 @@ msgstr ""
 
 #. 
 #: OpenProperty
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:75
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:73
 #, java-format
 msgctxt "OpenProperty"
 msgid "Open Property ''{0}''"
@@ -383,7 +341,7 @@ msgstr ""
 
 #. 
 #: Property
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:77
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:75
 #, java-format
 msgctxt "Property"
 msgid "Property"
@@ -391,7 +349,7 @@ msgstr ""
 
 #. 
 #: OpenPropertyForFormAction
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:79
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:77
 #, java-format
 msgctxt "OpenPropertyForFormAction"
 msgid "Open Property ''{0}'' for the form action ''{1}''"
@@ -399,7 +357,7 @@ msgstr ""
 
 #. 
 #: OpenValidator
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:81
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:79
 #, java-format
 msgctxt "OpenValidator"
 msgid "Open Validator ''{0}''"
@@ -407,7 +365,7 @@ msgstr ""
 
 #. 
 #: Validator
-#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:83
+#: ../../../struts/plugins/org.jboss.tools.struts.text.ext/src/org/jboss/tools/struts/text/ext/StrutsTextExtMessages.properties:81
 #, java-format
 msgctxt "Validator"
 msgid "Validator"
@@ -422,7 +380,8 @@ msgid ""
 "\n"
 "Version: {featureVersion}\n"
 "\n"
-"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - 2009.  All rights reserved.\n"
+"(c) Copyright JBoss, a division of Red Hat, contributors and others 2004 - "
+"2009.  All rights reserved.\n"
 "Visit http://jboss.org/tools"
 msgstr ""
 
@@ -3131,7 +3090,9 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:1
 #, java-format
 msgctxt "message.action.type.empty"
-msgid "{0} should have type attribute filled when input or forward attribute are empty"
+msgid ""
+"{0} should have type attribute filled when input or forward attribute are "
+"empty"
 msgstr ""
 
 #. 
@@ -3171,7 +3132,8 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:11
 #, java-format
 msgctxt "message.action.name.empty"
-msgid "{0} name attribute is empty, but validate attribute is set to true (yes)"
+msgid ""
+"{0} name attribute is empty, but validate attribute is set to true (yes)"
 msgstr ""
 
 #. 
@@ -3227,7 +3189,9 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:25
 #, java-format
 msgctxt "message.action.forward.contextRelative.cross"
-msgid "{0} of {1} contextRelative must be set to yes(true) for cross-modular reference"
+msgid ""
+"{0} of {1} contextRelative must be set to yes(true) for cross-modular "
+"reference"
 msgstr ""
 
 #. 
@@ -3235,7 +3199,9 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:27
 #, java-format
 msgctxt "message.action.forward.contextRelative.mono"
-msgid "{0} of {1} contextRelative must be set to no(false) for mono-modular reference"
+msgid ""
+"{0} of {1} contextRelative must be set to no(false) for mono-modular "
+"reference"
 msgstr ""
 
 #. 
@@ -3267,7 +3233,8 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:35
 #, java-format
 msgctxt "message.global.forward.contextRelative.cross"
-msgid "{0} contextRelative must be set to yes(true) for cross-modular reference"
+msgid ""
+"{0} contextRelative must be set to yes(true) for cross-modular reference"
 msgstr ""
 
 #. 
@@ -3275,7 +3242,8 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:37
 #, java-format
 msgctxt "message.global.forward.contextRelative.mono"
-msgid "{0} contextRelative must be set to no(false) for mono-modular reference"
+msgid ""
+"{0} contextRelative must be set to no(false) for mono-modular reference"
 msgstr ""
 
 #. 
@@ -3323,7 +3291,9 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:49
 #, java-format
 msgctxt "message.struts.controller.className.exists"
-msgid "{0} className attribute of configuration file {1} reference to non-existent class"
+msgid ""
+"{0} className attribute of configuration file {1} reference to non-existent "
+"class"
 msgstr ""
 
 #. 
@@ -3331,7 +3301,9 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:51
 #, java-format
 msgctxt "message.struts.controller.multipartClass.exists"
-msgid "{0} multipartClass attribute of configuration file {1} reference to non-existent class"
+msgid ""
+"{0} multipartClass attribute of configuration file {1} reference to non-"
+"existent class"
 msgstr ""
 
 #. 
@@ -3339,7 +3311,9 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts.verification/src/org/jboss/tools/struts/verification/strutsrules.properties:53
 #, java-format
 msgctxt "message.struts.controller.processorClass.exists"
-msgid "{0} processorClass attribute of configuration file {1} reference to non-existent class"
+msgid ""
+"{0} processorClass attribute of configuration file {1} reference to non-"
+"existent class"
 msgstr ""
 
 #. 
@@ -3378,7 +3352,7 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts/plugin.properties:2
 #, java-format
 msgctxt "Bundle-Name.0"
-msgid "org.jboss.tools.struts"
+msgid "JBoss Tools Struts"
 msgstr ""
 
 #: Struts.element_type
@@ -8270,7 +8244,9 @@ msgstr ""
 #: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:1
 #, java-format
 msgctxt "CAN_BE_EXPRESSED"
-msgid "only can be expressed as a number followed by a 'K', 'M', or 'G', which are interpreted to mean kilobytes, megabytes, or gigabytes, respectively."
+msgid ""
+"only can be expressed as a number followed by a 'K', 'M', or 'G', which are "
+"interpreted to mean kilobytes, megabytes, or gigabytes, respectively."
 msgstr ""
 
 #. 
@@ -8354,16 +8330,25 @@ msgid "Step 5 - Exceptions"
 msgstr ""
 
 #. 
+#. we don't have support for multilingual plurals yet...
 #: DELETE_STRUTS_CONFIGFILE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:23
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:25
 #, java-format
 msgctxt "DELETE_STRUTS_CONFIGFILE"
-msgid "Delete struts-config file "
+msgid "Delete struts-config file/files"
+msgstr ""
+
+#. 
+#: DELETE_STRUTS_CONFIGFILE_NAME
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:27
+#, java-format
+msgctxt "DELETE_STRUTS_CONFIGFILE_NAME"
+msgid "Delete struts-config file {0}"
 msgstr ""
 
 #. 
 #: DELETE_REFERENCE_FROM_WEBXML
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:25
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:29
 #, java-format
 msgctxt "DELETE_REFERENCE_FROM_WEBXML"
 msgid "Delete reference from web.xml"
@@ -8371,7 +8356,7 @@ msgstr ""
 
 #. 
 #: DELETE_REFERENCE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:27
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:31
 #, java-format
 msgctxt "DELETE_REFERENCE"
 msgid "Delete reference from struts configuration file"
@@ -8379,17 +8364,16 @@ msgstr ""
 
 #. 
 #: ACTION_IS_REFERENCED_REMOVE_REFERENCES
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:29
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:33
 #, java-format
 msgctxt "ACTION_IS_REFERENCED_REMOVE_REFERENCES"
-msgid ""
-"Action {0} is referenced.\n"
+msgid "Action {0} is referenced.\n"
 "Please remove references first."
 msgstr ""
 
 #. 
 #: WARNING
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:31
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:35
 #, java-format
 msgctxt "WARNING"
 msgid "Warning"
@@ -8397,7 +8381,7 @@ msgstr ""
 
 #. 
 #: OK
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:33
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:37
 #, java-format
 msgctxt "OK"
 msgid "Ok"
@@ -8405,15 +8389,23 @@ msgstr ""
 
 #. 
 #: DELETE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:35
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:39
 #, java-format
 msgctxt "DELETE"
 msgid "Delete "
 msgstr ""
 
 #. 
+#: DELETE_NAME
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:41
+#, java-format
+msgctxt "DELETE_NAME"
+msgid "Delete {0}"
+msgstr ""
+
+#. 
 #: CANNOT_FIND_OBJECT_BY_PATH
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:37
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:43
 #, java-format
 msgctxt "CANNOT_FIND_OBJECT_BY_PATH"
 msgid "Cannot find object by path {0}."
@@ -8421,7 +8413,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_TAG_IN_LIBRARY
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:39
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:45
 #, java-format
 msgctxt "CANNOT_FIND_TAG_IN_LIBRARY"
 msgid "Cannot find tag {0} in library {1}."
@@ -8429,7 +8421,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_ATTRIBUTE_IN_TAG
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:41
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:47
 #, java-format
 msgctxt "CANNOT_FIND_ATTRIBUTE_IN_TAG"
 msgid "Cannot find attribute {0} in tag {1}."
@@ -8437,7 +8429,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_FORM_PROPERTY
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:43
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:49
 #, java-format
 msgctxt "CANNOT_FIND_FORM_PROPERTY"
 msgid "Cannot find form property {0}."
@@ -8445,7 +8437,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_FORM_BEAN_FOR_ACTION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:45
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:51
 #, java-format
 msgctxt "CANNOT_FIND_FORM_BEAN_FOR_ACTION"
 msgid "Cannot find form-bean for action {0}."
@@ -8453,7 +8445,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_BUNDLE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:47
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:53
 #, java-format
 msgctxt "CANNOT_FIND_BUNDLE"
 msgid "Cannot find bundle {0}. "
@@ -8461,15 +8453,15 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_OBJECT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:49
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:55
 #, java-format
 msgctxt "CANNOT_FIND_OBJECT"
-msgid "Cannot find object "
+msgid "Cannot find object {0}"
 msgstr ""
 
 #. 
 #: CANNOT_FIND_ACTION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:51
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:57
 #, java-format
 msgctxt "CANNOT_FIND_ACTION"
 msgid "Cannot find action {0}."
@@ -8477,7 +8469,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_PAGE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:53
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:59
 #, java-format
 msgctxt "CANNOT_FIND_PAGE"
 msgid "Cannot find page {0}."
@@ -8485,7 +8477,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_FORWARD
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:55
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:61
 #, java-format
 msgctxt "CANNOT_FIND_FORWARD"
 msgid "Cannot find forward {0}."
@@ -8493,7 +8485,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_FORMBEAN
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:57
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:63
 #, java-format
 msgctxt "CANNOT_FIND_FORMBEAN"
 msgid "Cannot find form bean {0}."
@@ -8501,7 +8493,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_PARAMETER
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:59
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:65
 #, java-format
 msgctxt "CANNOT_FIND_PARAMETER"
 msgid "Cannot find parameter {0}."
@@ -8509,7 +8501,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_TAGLIBRARY
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:61
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:67
 #, java-format
 msgctxt "CANNOT_FIND_TAGLIBRARY"
 msgid "Cannot find tag library {0}."
@@ -8517,15 +8509,15 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_RESOURCE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:63
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:69
 #, java-format
 msgctxt "CANNOT_FIND_RESOURCE"
-msgid "Cannot find resource "
+msgid "Cannot find resource {0}"
 msgstr ""
 
 #. 
 #: CANNOT_FIND_PROPERTY
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:65
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:71
 #, java-format
 msgctxt "CANNOT_FIND_PROPERTY"
 msgid "Cannot find property {0}."
@@ -8533,7 +8525,7 @@ msgstr ""
 
 #. 
 #: MODULE_NAME
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:67
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:73
 #, java-format
 msgctxt "MODULE_NAME"
 msgid "Module name must start with '/'"
@@ -8541,23 +8533,27 @@ msgstr ""
 
 #. 
 #: FILE_SYSTEM_IS_USED_AS_ROOT_FOR_STRUTS_MODULE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:69
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:75
 #, java-format
 msgctxt "FILE_SYSTEM_IS_USED_AS_ROOT_FOR_STRUTS_MODULE"
-msgid "File system is used as root for struts module ''{0}''. Unmark file system as module root?\""
+msgid ""
+"File system is used as root for struts module ''{0}''. Unmark file system as "
+"module root?\""
 msgstr ""
 
 #. 
 #: FILE_SYSTEM_IS_USED_AS_ROOT_FOR_WEB_APPLICATION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:71
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:77
 #, java-format
 msgctxt "FILE_SYSTEM_IS_USED_AS_ROOT_FOR_WEB_APPLICATION"
-msgid "File system is used as root for web application. Unmark file system as web root?"
+msgid ""
+"File system is used as root for web application. Unmark file system as web "
+"root?"
 msgstr ""
 
 #. 
 #: YES
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:73
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:79
 #, java-format
 msgctxt "YES"
 msgid "Yes"
@@ -8565,7 +8561,7 @@ msgstr ""
 
 #. 
 #: NO
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:75
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:81
 #, java-format
 msgctxt "NO"
 msgid "No"
@@ -8573,15 +8569,17 @@ msgstr ""
 
 #. 
 #: SOURCE_FOLDER_FOR_MODULE_ISNOT_FOUND
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:77
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:83
 #, java-format
 msgctxt "SOURCE_FOLDER_FOR_MODULE_ISNOT_FOUND"
-msgid "Source folder for module \"{0}\" is not found. Please set it through ''Modules Configuration'' dialog."
+msgid ""
+"Source folder for module \"{0}\" is not found. Please set it through "
+"''Modules Configuration'' dialog."
 msgstr ""
 
 #. 
 #: ERROR
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:79
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:85
 #, java-format
 msgctxt "ERROR"
 msgid "Error"
@@ -8589,7 +8587,7 @@ msgstr ""
 
 #. 
 #: GENERATE_JAVABEAN_PROPERTIES
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:81
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:87
 #, java-format
 msgctxt "GENERATE_JAVABEAN_PROPERTIES"
 msgid "Generate JavaBean properties"
@@ -8597,7 +8595,7 @@ msgstr ""
 
 #. 
 #: GENERATE_CONSTANTS_FOR_LOCAL_FORWARDS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:83
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:89
 #, java-format
 msgctxt "GENERATE_CONSTANTS_FOR_LOCAL_FORWARDS"
 msgid "Generate constants for local forwards"
@@ -8605,7 +8603,7 @@ msgstr ""
 
 #. 
 #: GENERATE_CONSTANTS_FOR_GLOBAL_FORWARDS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:85
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:91
 #, java-format
 msgctxt "GENERATE_CONSTANTS_FOR_GLOBAL_FORWARDS"
 msgid "Generate constants for global forwards"
@@ -8613,7 +8611,7 @@ msgstr ""
 
 #. 
 #: GENERATE_CLASSES_FOR_FORWARDS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:87
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:93
 #, java-format
 msgctxt "GENERATE_CLASSES_FOR_FORWARDS"
 msgid "Generate classes for Forwards"
@@ -8621,7 +8619,7 @@ msgstr ""
 
 #. 
 #: GENERATE_CLASSES_FOR_ACTIONS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:89
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:95
 #, java-format
 msgctxt "GENERATE_CLASSES_FOR_ACTIONS"
 msgid "Generate classes for Actions"
@@ -8629,7 +8627,7 @@ msgstr ""
 
 #. 
 #: GENERATE_CLASSES_FOR_FORMBEANS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:91
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:97
 #, java-format
 msgctxt "GENERATE_CLASSES_FOR_FORMBEANS"
 msgid "Generate classes for FormBeans"
@@ -8637,7 +8635,7 @@ msgstr ""
 
 #. 
 #: GENERATE_CLASSES_FOR_EXCEPTIONS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:93
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:99
 #, java-format
 msgctxt "GENERATE_CLASSES_FOR_EXCEPTIONS"
 msgid "Generate classes for Exceptions"
@@ -8645,7 +8643,7 @@ msgstr ""
 
 #. 
 #: OVERWRITE_EXISTING_FILES
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:95
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:101
 #, java-format
 msgctxt "OVERWRITE_EXISTING_FILES"
 msgid "Overwrite existing files"
@@ -8653,7 +8651,7 @@ msgstr ""
 
 #. 
 #: BASE_PACKAGE_FROM_WHICH_TO_START_CODE_GENERATION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:97
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:103
 #, java-format
 msgctxt "BASE_PACKAGE_FROM_WHICH_TO_START_CODE_GENERATION"
 msgid "Base package from which to start code generation"
@@ -8661,7 +8659,7 @@ msgstr ""
 
 #. 
 #: GENERATING_JAVA_CODE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:99
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:105
 #, java-format
 msgctxt "GENERATING_JAVA_CODE"
 msgid "Generating Java Code. Please, wait..."
@@ -8669,7 +8667,7 @@ msgstr ""
 
 #. 
 #: GENERATE_JAVA_CODE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:101
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:107
 #, java-format
 msgctxt "GENERATE_JAVA_CODE"
 msgid "Generate Java Code"
@@ -8677,7 +8675,7 @@ msgstr ""
 
 #. 
 #: GENERATION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:103
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:109
 #, java-format
 msgctxt "GENERATION"
 msgid "Generation"
@@ -8685,7 +8683,7 @@ msgstr ""
 
 #. 
 #: GENERATION_INTERRUPTED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:105
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:111
 #, java-format
 msgctxt "GENERATION_INTERRUPTED"
 msgid "Generation interrupted"
@@ -8693,7 +8691,7 @@ msgstr ""
 
 #. 
 #: FINISHED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:107
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:113
 #, java-format
 msgctxt "FINISHED"
 msgid "finished."
@@ -8701,7 +8699,7 @@ msgstr ""
 
 #. 
 #: FAILED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:109
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:115
 #, java-format
 msgctxt "FAILED"
 msgid "failed."
@@ -8709,7 +8707,7 @@ msgstr ""
 
 #. 
 #: FINISH
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:111
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:117
 #, java-format
 msgctxt "FINISH"
 msgid "Finish"
@@ -8717,7 +8715,7 @@ msgstr ""
 
 #. 
 #: FORM_BEAN_GENERATED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:113
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:119
 #, java-format
 msgctxt "FORM_BEAN_GENERATED"
 msgid "Form bean generated."
@@ -8725,7 +8723,7 @@ msgstr ""
 
 #. 
 #: FOLDER_DOESNT_EXIST
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:115
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:121
 #, java-format
 msgctxt "FOLDER_DOESNT_EXIST"
 msgid "Folder {0} does not exist. Do you want to create it?"
@@ -8733,7 +8731,7 @@ msgstr ""
 
 #. 
 #: FORM_BEAN_ISNOT_GENERATED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:117
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:123
 #, java-format
 msgctxt "FORM_BEAN_ISNOT_GENERATED"
 msgid "Form bean is not generated."
@@ -8741,7 +8739,7 @@ msgstr ""
 
 #. 
 #: FORMBEAN_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:119
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:125
 #, java-format
 msgctxt "FORMBEAN_ISNOT_SPECIFIED"
 msgid "Form bean is not specified."
@@ -8749,7 +8747,7 @@ msgstr ""
 
 #. 
 #: EXCEPTION_GENERATED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:121
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:127
 #, java-format
 msgctxt "EXCEPTION_GENERATED"
 msgid "Exception generated."
@@ -8757,7 +8755,7 @@ msgstr ""
 
 #. 
 #: EXCEPTION_ISNOT_GENERATED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:123
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:129
 #, java-format
 msgctxt "EXCEPTION_ISNOT_GENERATED"
 msgid "Exception is not generated."
@@ -8765,23 +8763,23 @@ msgstr ""
 
 #. 
 #: CLEAN_ATTRIBUTE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:125
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:131
 #, java-format
 msgctxt "CLEAN_ATTRIBUTE"
-msgid "Clean Attribute "
+msgid "Clean Attribute {0}"
 msgstr ""
 
 #. 
 #: CREATE_STRUTS_CONFIG
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:127
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:133
 #, java-format
 msgctxt "CREATE_STRUTS_CONFIG"
-msgid "Create struts config 1.1 in "
+msgid "Create struts config 1.1 in {0}"
 msgstr ""
 
 #. 
 #: CREATE_NEW_STRUTS_PROJECT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:129
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:135
 #, java-format
 msgctxt "CREATE_NEW_STRUTS_PROJECT"
 msgid "Create New Struts Project"
@@ -8789,7 +8787,7 @@ msgstr ""
 
 #. 
 #: CREATE_WEB_PROJECT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:131
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:137
 #, java-format
 msgctxt "CREATE_WEB_PROJECT"
 msgid "Create Web Project"
@@ -8797,17 +8795,16 @@ msgstr ""
 
 #. 
 #: PAGE_IS_REFERENCED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:133
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:139
 #, java-format
 msgctxt "PAGE_IS_REFERENCED"
-msgid ""
-"Page {0} is referenced.\n"
+msgid "Page {0} is referenced.\n"
 "Please remove references first."
 msgstr ""
 
 #. 
 #: DELETE_PAGE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:135
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:141
 #, java-format
 msgctxt "DELETE_PAGE"
 msgid "Delete page {0}?"
@@ -8815,7 +8812,7 @@ msgstr ""
 
 #. 
 #: DELETE_RULE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:137
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:143
 #, java-format
 msgctxt "DELETE_RULE"
 msgid "Delete rule {0}?"
@@ -8823,7 +8820,7 @@ msgstr ""
 
 #. 
 #: DELETE_MODULE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:139
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:145
 #, java-format
 msgctxt "DELETE_MODULE"
 msgid "Delete module {0}?"
@@ -8831,7 +8828,7 @@ msgstr ""
 
 #. 
 #: REMOVE_FILE_FROM_DISK
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:141
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:147
 #, java-format
 msgctxt "REMOVE_FILE_FROM_DISK"
 msgid "Remove file from disk"
@@ -8839,7 +8836,7 @@ msgstr ""
 
 #. 
 #: REMOVE_ARROW_LEFT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:143
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:149
 #, java-format
 msgctxt "REMOVE_ARROW_LEFT"
 msgid "<- Remove"
@@ -8847,7 +8844,7 @@ msgstr ""
 
 #. 
 #: FILE_IS_READONLY
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:145
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:151
 #, java-format
 msgctxt "FILE_IS_READONLY"
 msgid "File {0} is readonly."
@@ -8855,7 +8852,7 @@ msgstr ""
 
 #. 
 #: FILE_ALREADY_EXISTS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:147
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:153
 #, java-format
 msgctxt "FILE_ALREADY_EXISTS"
 msgid "File {0} already exists. If you continue, it will be overwritten."
@@ -8863,7 +8860,7 @@ msgstr ""
 
 #. 
 #: RETRY
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:149
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:155
 #, java-format
 msgctxt "RETRY"
 msgid "Retry"
@@ -8871,7 +8868,7 @@ msgstr ""
 
 #. 
 #: CANCEL
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:151
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:157
 #, java-format
 msgctxt "CANCEL"
 msgid "Cancel"
@@ -8879,7 +8876,7 @@ msgstr ""
 
 #. 
 #: TEMPLATE_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:153
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:159
 #, java-format
 msgctxt "TEMPLATE_ISNOT_SPECIFIED"
 msgid "Template is not specified."
@@ -8887,7 +8884,7 @@ msgstr ""
 
 #. 
 #: TEMPLATE_DOESNT_EXIST
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:155
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:161
 #, java-format
 msgctxt "TEMPLATE_DOESNT_EXIST"
 msgid "Template does not exist."
@@ -8895,7 +8892,7 @@ msgstr ""
 
 #. 
 #: PATH_CANNOT_END_WITH
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:157
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:163
 #, java-format
 msgctxt "PATH_CANNOT_END_WITH"
 msgid "Path cannot end with /"
@@ -8903,7 +8900,7 @@ msgstr ""
 
 #. 
 #: PAGE_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:159
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:165
 #, java-format
 msgctxt "PAGE_ISNOT_SPECIFIED"
 msgid "Page is not specified."
@@ -8911,17 +8908,16 @@ msgstr ""
 
 #. 
 #: PAGE_CONTAINS_LINK
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:161
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:167
 #, java-format
 msgctxt "PAGE_CONTAINS_LINK"
-msgid ""
-"Page {0} contains link {1}.\n"
+msgid "Page {0} contains link {1}.\n"
 "Duplicate link cannot be created."
 msgstr ""
 
 #. 
 #: PATH_EXTENSION_MUST_BE_JSP_HTM_HTML
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:163
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:169
 #, java-format
 msgctxt "PATH_EXTENSION_MUST_BE_JSP_HTM_HTML"
 msgid "Path extension must be jsp (default), htm or html"
@@ -8929,7 +8925,7 @@ msgstr ""
 
 #. 
 #: PATH_EXTENSION_MUST_BE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:165
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:171
 #, java-format
 msgctxt "PATH_EXTENSION_MUST_BE"
 msgid "Path extension must be {0} (default), jsp, htm or html"
@@ -8937,15 +8933,17 @@ msgstr ""
 
 #. 
 #: ENTER_UNIQUE_MODULE_NAME
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:167
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:173
 #, java-format
 msgctxt "ENTER_UNIQUE_MODULE_NAME"
-msgid "Enter unique module name and select the path to existing Struts Configuration file"
+msgid ""
+"Enter unique module name and select the path to existing Struts "
+"Configuration file"
 msgstr ""
 
 #. 
 #: QUESTION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:169
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:175
 #, java-format
 msgctxt "QUESTION"
 msgid "Question"
@@ -8953,7 +8951,7 @@ msgstr ""
 
 #. 
 #: WEBXML_ISNOT_CORRECT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:171
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:177
 #, java-format
 msgctxt "WEBXML_ISNOT_CORRECT"
 msgid "File web.xml is not correct."
@@ -8961,15 +8959,16 @@ msgstr ""
 
 #. 
 #: MODULES_DESCRIBED_IN_WEBXML_ARENT_SYNCHRONIZED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:173
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:179
 #, java-format
 msgctxt "MODULES_DESCRIBED_IN_WEBXML_ARENT_SYNCHRONIZED"
-msgid "Modules described in web.xml are not synchronized with installed modules."
+msgid ""
+"Modules described in web.xml are not synchronized with installed modules."
 msgstr ""
 
 #. 
 #: MODULE_DOESNT_DEFINE_URI
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:175
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:181
 #, java-format
 msgctxt "MODULE_DOESNT_DEFINE_URI"
 msgid "Module {0}  does not define URI"
@@ -8977,7 +8976,7 @@ msgstr ""
 
 #. 
 #: URI_FOR_MODULE_ISNOTT_SYNCHRONIZED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:177
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:183
 #, java-format
 msgctxt "URI_FOR_MODULE_ISNOTT_SYNCHRONIZED"
 msgid "URI for module {0} is not synchronized."
@@ -8985,7 +8984,7 @@ msgstr ""
 
 #. 
 #: ROOT_FOR_MODULE_ISNOT_FOUND
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:179
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:185
 #, java-format
 msgctxt "ROOT_FOR_MODULE_ISNOT_FOUND"
 msgid "Root for module {0} is not found."
@@ -8993,7 +8992,7 @@ msgstr ""
 
 #. 
 #: CONFIG_FOR_MODULE_IS_MISSING
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:181
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:187
 #, java-format
 msgctxt "CONFIG_FOR_MODULE_IS_MISSING"
 msgid "Config for module {0} is missing."
@@ -9001,7 +9000,7 @@ msgstr ""
 
 #. 
 #: CONFIG_FOR_URI_ISNOT_FOUND
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:183
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:189
 #, java-format
 msgctxt "CONFIG_FOR_URI_ISNOT_FOUND"
 msgid "Config for URI {0} is not found."
@@ -9009,7 +9008,7 @@ msgstr ""
 
 #. 
 #: WEBXML_ISNOT_FOUND
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:185
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:191
 #, java-format
 msgctxt "WEBXML_ISNOT_FOUND"
 msgid "web.xml file is not found."
@@ -9017,15 +9016,17 @@ msgstr ""
 
 #. 
 #: PATH_IN_MODULE_MUST_REFERENCE_CONFIGFILE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:187
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:193
 #, java-format
 msgctxt "PATH_IN_MODULE_MUST_REFERENCE_CONFIGFILE"
-msgid "Attribute Path on Disk in module {0} must reference existing struts config file."
+msgid ""
+"Attribute Path on Disk in module {0} must reference existing struts config "
+"file."
 msgstr ""
 
 #. 
 #: URI_ISNOT_UNIQUE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:189
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:195
 #, java-format
 msgctxt "URI_ISNOT_UNIQUE"
 msgid "URI {0} is not unique"
@@ -9033,7 +9034,7 @@ msgstr ""
 
 #. 
 #: URI_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:191
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:197
 #, java-format
 msgctxt "URI_ISNOT_SPECIFIED"
 msgid "URI is not specified."
@@ -9041,7 +9042,7 @@ msgstr ""
 
 #. 
 #: EACH_URI_MUST_REFERENCE_UNIQUE_PATH
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:193
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:199
 #, java-format
 msgctxt "EACH_URI_MUST_REFERENCE_UNIQUE_PATH"
 msgid "Each URI must reference unique Path on Disk"
@@ -9049,7 +9050,7 @@ msgstr ""
 
 #. 
 #: ATTRIBUTE_FOR_MODULE_MUST_BE_SET
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:195
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:201
 #, java-format
 msgctxt "ATTRIBUTE_FOR_MODULE_MUST_BE_SET"
 msgid "Attribute {0} for module {1} must be set"
@@ -9057,7 +9058,7 @@ msgstr ""
 
 #. 
 #: ATTRIBUTE_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:197
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:203
 #, java-format
 msgctxt "ATTRIBUTE_ISNOT_SPECIFIED"
 msgid "Attribute is not specified."
@@ -9065,15 +9066,17 @@ msgstr ""
 
 #. 
 #: ATTRIBUTE_OF_MODULE_CANNOT_REFERENCE_FOLDER
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:199
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:205
 #, java-format
 msgctxt "ATTRIBUTE_OF_MODULE_CANNOT_REFERENCE_FOLDER"
-msgid "Attribute {0} of module {1}  cannot reference folder that contains folder with current eclipse project."
+msgid ""
+"Attribute {0} of module {1}  cannot reference folder that contains folder "
+"with current eclipse project."
 msgstr ""
 
 #. 
 #: LOCATION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:201
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:207
 #, java-format
 msgctxt "LOCATION"
 msgid "Location"
@@ -9081,7 +9084,7 @@ msgstr ""
 
 #. 
 #: ENTER_PATH_TO_THE_FOLDER_WHERE_STRUTSCONFIGXML_IS_LOCATED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:203
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:209
 #, java-format
 msgctxt "ENTER_PATH_TO_THE_FOLDER_WHERE_STRUTSCONFIGXML_IS_LOCATED"
 msgid "Enter path to the folder where struts-config.xml is located"
@@ -9089,7 +9092,7 @@ msgstr ""
 
 #. 
 #: FOLDER_ALREADY_CONTAINS_ADOPTED_PROJECT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:205
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:211
 #, java-format
 msgctxt "FOLDER_ALREADY_CONTAINS_ADOPTED_PROJECT"
 msgid "Folder {0} already contains adopted project."
@@ -9097,7 +9100,7 @@ msgstr ""
 
 #. 
 #: REOPEN
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:207
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:213
 #, java-format
 msgctxt "REOPEN"
 msgid "Reopen"
@@ -9105,7 +9108,7 @@ msgstr ""
 
 #. 
 #: OVERWRITE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:209
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:215
 #, java-format
 msgctxt "OVERWRITE"
 msgid "Overwrite"
@@ -9113,7 +9116,7 @@ msgstr ""
 
 #. 
 #: APPLICATION_NAME_AND_WEBXML_FOLDER
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:211
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:217
 #, java-format
 msgctxt "APPLICATION_NAME_AND_WEBXML_FOLDER"
 msgid "Application Name and web.xml Folder"
@@ -9121,7 +9124,7 @@ msgstr ""
 
 #. 
 #: IMPORT_STRUTS_PROJECT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:213
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:219
 #, java-format
 msgctxt "IMPORT_STRUTS_PROJECT"
 msgid "Import Struts Project"
@@ -9129,7 +9132,7 @@ msgstr ""
 
 #. 
 #: ENTER_PROJECTNAME_AND_CONFIGURATIONFILE_VERSION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:215
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:221
 #, java-format
 msgctxt "ENTER_PROJECTNAME_AND_CONFIGURATIONFILE_VERSION"
 msgid "Enter project name and Struts configuration file version."
@@ -9137,7 +9140,7 @@ msgstr ""
 
 #. 
 #: STEP1_PROJECTNAME_AND_VERSION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:217
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:223
 #, java-format
 msgctxt "STEP1_PROJECTNAME_AND_VERSION"
 msgid "Step 1 - Project Name and Version"
@@ -9145,7 +9148,7 @@ msgstr ""
 
 #. 
 #: PROJECT_ROOTFOLDER_AND_SELECT_TEMPLATE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:219
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:225
 #, java-format
 msgctxt "PROJECT_ROOTFOLDER_AND_SELECT_TEMPLATE"
 msgid "Enter project's root folder and select template."
@@ -9153,7 +9156,7 @@ msgstr ""
 
 #. 
 #: STEP2_LOCATION_AND_TEMPLATE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:221
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:227
 #, java-format
 msgctxt "STEP2_LOCATION_AND_TEMPLATE"
 msgid "Step 2 - Location and Template"
@@ -9161,7 +9164,7 @@ msgstr ""
 
 #. 
 #: FOLDER_EXISTS_AND_ISNOT_EMPTY
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:223
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:229
 #, java-format
 msgctxt "FOLDER_EXISTS_AND_ISNOT_EMPTY"
 msgid "Folder {0} exists and is not empty. Overwrite?"
@@ -9169,7 +9172,7 @@ msgstr ""
 
 #. 
 #: CONFIRMATION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:225
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:231
 #, java-format
 msgctxt "CONFIRMATION"
 msgid "Confirmation"
@@ -9177,7 +9180,7 @@ msgstr ""
 
 #. 
 #: LEAVE_FIELDS_EMPTY
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:227
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:233
 #, java-format
 msgctxt "LEAVE_FIELDS_EMPTY"
 msgid "Leave the fields empty to create a default formset."
@@ -9185,7 +9188,7 @@ msgstr ""
 
 #. 
 #: ALREADY_EXISTS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:229
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:235
 #, java-format
 msgctxt "ALREADY_EXISTS"
 msgid "The {0} already exists. Do you want to create additional one?"
@@ -9193,7 +9196,7 @@ msgstr ""
 
 #. 
 #: ADD_FORMSET
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:231
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:237
 #, java-format
 msgctxt "ADD_FORMSET"
 msgid "Add Formset"
@@ -9201,7 +9204,7 @@ msgstr ""
 
 #. 
 #: ADD_VALIDATOR
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:233
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:239
 #, java-format
 msgctxt "ADD_VALIDATOR"
 msgid "Add Validator"
@@ -9209,7 +9212,7 @@ msgstr ""
 
 #. 
 #: ADD_PLUGIN
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:235
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:241
 #, java-format
 msgctxt "ADD_PLUGIN"
 msgid "Add Plug-in"
@@ -9217,15 +9220,23 @@ msgstr ""
 
 #. 
 #: ADD
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:237
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:243
 #, java-format
 msgctxt "ADD"
 msgid "Add "
 msgstr ""
 
 #. 
+#: ADD_NAME
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:245
+#, java-format
+msgctxt "ADD_NAME"
+msgid "Add {0}"
+msgstr ""
+
+#. 
 #: ADD_MESSAGES_FROM_TEMPLATE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:239
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:247
 #, java-format
 msgctxt "ADD_MESSAGES_FROM_TEMPLATE"
 msgid "Add Messages From Template"
@@ -9233,7 +9244,7 @@ msgstr ""
 
 #. 
 #: ADD_PLUGIN_BY_TEMPLATE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:241
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:249
 #, java-format
 msgctxt "ADD_PLUGIN_BY_TEMPLATE"
 msgid "Add Plugin by Template"
@@ -9241,27 +9252,25 @@ msgstr ""
 
 #. 
 #: PLUGIN_FOR_CLASS_EXISTS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:243
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:251
 #, java-format
 msgctxt "PLUGIN_FOR_CLASS_EXISTS"
-msgid ""
-"Plugin for class {0} exists.\n"
+msgid "Plugin for class {0} exists.\n"
 "Do you want to override it?"
 msgstr ""
 
 #. 
 #: WRONG_TEXT_IN_PLUGIN_OPTION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:245
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:253
 #, java-format
 msgctxt "WRONG_TEXT_IN_PLUGIN_OPTION"
-msgid ""
-"Wrong text in plugin option {0}:\n"
+msgid "Wrong text in plugin option {0}:\n"
 "{1}"
 msgstr ""
 
 #. 
 #: LINK_IS_CONFIRMED_1
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:247
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:255
 #, java-format
 msgctxt "LINK_IS_CONFIRMED_1"
 msgid ""
@@ -9272,7 +9281,7 @@ msgstr ""
 
 #. 
 #: LINK_IS_CONFIRMED_2
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:249
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:257
 #, java-format
 msgctxt "LINK_IS_CONFIRMED_2"
 msgid ""
@@ -9283,7 +9292,7 @@ msgstr ""
 
 #. 
 #: BUNDLE_ID_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:251
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:259
 #, java-format
 msgctxt "BUNDLE_ID_ISNOT_SPECIFIED"
 msgid "Bundle id is not specified."
@@ -9291,7 +9300,7 @@ msgstr ""
 
 #. 
 #: PARAMETER_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:253
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:261
 #, java-format
 msgctxt "PARAMETER_ISNOT_SPECIFIED"
 msgid "Parameter is not specified."
@@ -9299,7 +9308,7 @@ msgstr ""
 
 #. 
 #: FORWARD_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:255
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:263
 #, java-format
 msgctxt "FORWARD_ISNOT_SPECIFIED"
 msgid "Forward is not specified."
@@ -9307,7 +9316,7 @@ msgstr ""
 
 #. 
 #: TYPE_OF_FORMBEAN_ISNOT_SET
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:257
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:265
 #, java-format
 msgctxt "TYPE_OF_FORMBEAN_ISNOT_SET"
 msgid "Type of form-bean {0} is not set. "
@@ -9315,7 +9324,7 @@ msgstr ""
 
 #. 
 #: TYPE_ISNOT_SET
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:259
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:267
 #, java-format
 msgctxt "TYPE_ISNOT_SET"
 msgid "Type is not set."
@@ -9323,7 +9332,7 @@ msgstr ""
 
 #. 
 #: KEY_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:261
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:269
 #, java-format
 msgctxt "KEY_ISNOT_SPECIFIED"
 msgid "Key is not specified."
@@ -9331,7 +9340,7 @@ msgstr ""
 
 #. 
 #: SET_REQUIRED_ATTRIBUTES
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:263
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:271
 #, java-format
 msgctxt "SET_REQUIRED_ATTRIBUTES"
 msgid "Set required attributes."
@@ -9339,7 +9348,7 @@ msgstr ""
 
 #. 
 #: ACTION_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:265
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:273
 #, java-format
 msgctxt "ACTION_ISNOT_SPECIFIED"
 msgid "Action is not specified."
@@ -9347,7 +9356,7 @@ msgstr ""
 
 #. 
 #: ABORT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:267
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:275
 #, java-format
 msgctxt "ABORT"
 msgid "Abort"
@@ -9355,7 +9364,7 @@ msgstr ""
 
 #. 
 #: CONTINUE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:269
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:277
 #, java-format
 msgctxt "CONTINUE"
 msgid "Continue"
@@ -9363,7 +9372,7 @@ msgstr ""
 
 #. 
 #: TAG_ISNOT_SPECIFIED
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:271
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:279
 #, java-format
 msgctxt "TAG_ISNOT_SPECIFIED"
 msgid "Tag is not specified."
@@ -9371,7 +9380,7 @@ msgstr ""
 
 #. 
 #: UPDATE_REFERENCE_TO_PAGE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:273
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:281
 #, java-format
 msgctxt "UPDATE_REFERENCE_TO_PAGE"
 msgid "Update reference to page {0}"
@@ -9379,7 +9388,7 @@ msgstr ""
 
 #. 
 #: STRUTS_CONFIG_CHANGES
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:275
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:283
 #, java-format
 msgctxt "STRUTS_CONFIG_CHANGES"
 msgid "Struts Config Changes"
@@ -9387,7 +9396,7 @@ msgstr ""
 
 #. 
 #: LINK_RECOGNIZER
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:277
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:285
 #, java-format
 msgctxt "LINK_RECOGNIZER"
 msgid "Link Recognizer"
@@ -9395,7 +9404,7 @@ msgstr ""
 
 #. 
 #: TAG
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:279
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:287
 #, java-format
 msgctxt "TAG"
 msgid "Tag"
@@ -9403,7 +9412,7 @@ msgstr ""
 
 #. 
 #: ATTRIBUTE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:281
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:289
 #, java-format
 msgctxt "ATTRIBUTE"
 msgid "Attribute"
@@ -9411,7 +9420,7 @@ msgstr ""
 
 #. 
 #: REFER_TO
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:283
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:291
 #, java-format
 msgctxt "REFER_TO"
 msgid "Refer to"
@@ -9419,7 +9428,7 @@ msgstr ""
 
 #. 
 #: LINK_TYPE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:285
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:293
 #, java-format
 msgctxt "LINK_TYPE"
 msgid "Link Type"
@@ -9427,7 +9436,7 @@ msgstr ""
 
 #. 
 #: PRINT_DIAGRAMM
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:287
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:295
 #, java-format
 msgctxt "PRINT_DIAGRAMM"
 msgid "Print Diagram"
@@ -9435,7 +9444,7 @@ msgstr ""
 
 #. 
 #: DEPENDS
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:289
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:297
 #, java-format
 msgctxt "DEPENDS"
 msgid "Depends"
@@ -9443,7 +9452,7 @@ msgstr ""
 
 #. 
 #: MSG_CORRESPONDED_MESSAGE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:291
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:299
 #, java-format
 msgctxt "MSG_CORRESPONDED_MESSAGE"
 msgid "Msg - Corresponded Message Template"
@@ -9451,7 +9460,7 @@ msgstr ""
 
 #. 
 #: ARG_REPLACEMENT_VALUE_FOR_MESSAGE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:293
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:301
 #, java-format
 msgctxt "ARG_REPLACEMENT_VALUE_FOR_MESSAGE"
 msgid "Arg - Replacement Value for Message Template"
@@ -9459,7 +9468,7 @@ msgstr ""
 
 #. 
 #: VAR_VALIDATOR_PARAMETER
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:295
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:303
 #, java-format
 msgctxt "VAR_VALIDATOR_PARAMETER"
 msgid "Var - Validator Parameter"
@@ -9467,7 +9476,7 @@ msgstr ""
 
 #. 
 #: CHANGE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:297
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:305
 #, java-format
 msgctxt "CHANGE"
 msgid "Change..."
@@ -9475,7 +9484,7 @@ msgstr ""
 
 #. 
 #: ADD_NEW
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:299
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:307
 #, java-format
 msgctxt "ADD_NEW"
 msgid "Add New"
@@ -9483,7 +9492,7 @@ msgstr ""
 
 #. 
 #: ADD_ARROW_RIGHT
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:301
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:309
 #, java-format
 msgctxt "ADD_ARROW_RIGHT"
 msgid "Add ->"
@@ -9491,7 +9500,7 @@ msgstr ""
 
 #. 
 #: UP
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:303
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:311
 #, java-format
 msgctxt "UP"
 msgid "Up"
@@ -9499,7 +9508,7 @@ msgstr ""
 
 #. 
 #: DOWN
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:305
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:313
 #, java-format
 msgctxt "DOWN"
 msgid "Down"
@@ -9507,7 +9516,7 @@ msgstr ""
 
 #. 
 #: SAVE_CHANGES
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:307
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:315
 #, java-format
 msgctxt "SAVE_CHANGES"
 msgid "Do you want to save changes?"
@@ -9515,7 +9524,7 @@ msgstr ""
 
 #. 
 #: PATH_TO_RESOURCE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:309
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:317
 #, java-format
 msgctxt "PATH_TO_RESOURCE"
 msgid "Path to Resource"
@@ -9523,7 +9532,7 @@ msgstr ""
 
 #. 
 #: ADOPT_PROJECTS_TEPMODULES
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:311
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:319
 #, java-format
 msgctxt "ADOPT_PROJECTS_TEPMODULES"
 msgid "Modules"
@@ -9531,7 +9540,7 @@ msgstr ""
 
 #. 
 #: DIAGRAM_TOOLBAR_SELECTION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:313
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:321
 #, java-format
 msgctxt "DIAGRAM_TOOLBAR_SELECTION"
 msgid "Select"
@@ -9539,7 +9548,7 @@ msgstr ""
 
 #. 
 #: DIAGRAM_TOOLBAR_MARQUEE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:315
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:323
 #, java-format
 msgctxt "DIAGRAM_TOOLBAR_MARQUEE"
 msgid "Marquee"
@@ -9547,7 +9556,7 @@ msgstr ""
 
 #. 
 #: DIAGRAM_TOOLBAR_CREATE_CONNECTION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:317
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:325
 #, java-format
 msgctxt "DIAGRAM_TOOLBAR_CREATE_CONNECTION"
 msgid "Create New Connection"
@@ -9555,7 +9564,7 @@ msgstr ""
 
 #. 
 #: DIAGRAM_TOOLBAR_ADD_ACTION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:319
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:327
 #, java-format
 msgctxt "DIAGRAM_TOOLBAR_ADD_ACTION"
 msgid "Add Action"
@@ -9563,7 +9572,7 @@ msgstr ""
 
 #. 
 #: DIAGRAM_TOOLBAR_ADD_GLOBAL_FORWARD
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:321
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:329
 #, java-format
 msgctxt "DIAGRAM_TOOLBAR_ADD_GLOBAL_FORWARD"
 msgid "Add Global Forward"
@@ -9571,7 +9580,7 @@ msgstr ""
 
 #. 
 #: DIAGRAM_TOOLBAR_ADD_GLOBAL_EXCEPTION
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:323
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:331
 #, java-format
 msgctxt "DIAGRAM_TOOLBAR_ADD_GLOBAL_EXCEPTION"
 msgid "Add Global Exception"
@@ -9579,9 +9588,8 @@ msgstr ""
 
 #. 
 #: DIAGRAM_TOOLBAR_ADD_PAGE
-#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:325
+#: ../../../struts/plugins/org.jboss.tools.struts/src/org/jboss/tools/struts/messages/messages.properties:333
 #, java-format
 msgctxt "DIAGRAM_TOOLBAR_ADD_PAGE"
 msgid "Add Page"
 msgstr ""
-

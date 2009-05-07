@@ -1,21 +1,20 @@
-#SOME DESCRIPTIVE TITLE.
-#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-#This file is distributed under the same license as the PACKAGE package.
-#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-05-07 15:14+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-""
 
 #. ##############################################################################
 #. Copyright (c) 2009 JBoss, a division of Red Hat and others.
@@ -217,48 +216,40 @@ msgid "Open converter definition for ID ''{0}''"
 msgstr ""
 
 #. 
-#: OpenTagLibrary
+#: OpenTagLibraryForATag
 #: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:27
 #, java-format
-msgctxt "OpenTagLibrary"
-msgid "Open a Tag Library for {0}"
+msgctxt "OpenTagLibraryForATag"
+msgid "Open a Tag Library for a tag"
 msgstr ""
 
 #. 
-#: Tag
+#: OpenTagLibraryForTagName
 #: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:29
 #, java-format
-msgctxt "Tag"
-msgid "a tag "
+msgctxt "OpenTagLibraryForTagName"
+msgid "Open a Tag Library for tag ''{0}''"
 msgstr ""
 
 #. 
-#: TagAttribute
+#: OpenTagLibraryForAnAttribute
 #: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:31
 #, java-format
-msgctxt "TagAttribute"
-msgid "an attribute "
+msgctxt "OpenTagLibraryForAnAttribute"
+msgid "Open a Tag Library for an attribute"
 msgstr ""
 
 #. 
-#: ForTag
+#: OpenTagLibraryForAttributeName
 #: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:33
 #, java-format
-msgctxt "ForTag"
-msgid "tag ''{0}''"
-msgstr ""
-
-#. 
-#: ForTagAttribute
-#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:35
-#, java-format
-msgctxt "ForTagAttribute"
-msgid "attribute ''{0}'' of tag ''{1}''"
+msgctxt "OpenTagLibraryForAttributeName"
+msgid "Open a Tag Library for attribute ''{0}'' of tag ''{1}''"
 msgstr ""
 
 #. 
 #: NavigationRule
-#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:37
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:35
 #, java-format
 msgctxt "NavigationRule"
 msgid "Navigation Rule"
@@ -266,7 +257,7 @@ msgstr ""
 
 #. 
 #: OpenBeanProperty
-#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:39
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:37
 #, java-format
 msgctxt "OpenBeanProperty"
 msgid "Open bean ''{0}'' for the property ''{1}''"
@@ -274,7 +265,7 @@ msgstr ""
 
 #. 
 #: BeanProperty
-#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:41
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:39
 #, java-format
 msgctxt "BeanProperty"
 msgid "Bean Property"
@@ -282,7 +273,7 @@ msgstr ""
 
 #. 
 #: RenderKit
-#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:43
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:41
 #, java-format
 msgctxt "RenderKit"
 msgid "Render Kit"
@@ -290,7 +281,7 @@ msgstr ""
 
 #. 
 #: OpenRenderKit
-#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:45
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:43
 #, java-format
 msgctxt "OpenRenderKit"
 msgid "Open Render Kit ''{0}''"
@@ -298,7 +289,7 @@ msgstr ""
 
 #. 
 #: Validator
-#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:47
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:45
 #, java-format
 msgctxt "Validator"
 msgid "validator"
@@ -306,7 +297,7 @@ msgstr ""
 
 #. 
 #: OpenValidatorForId
-#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:49
+#: ../../../jsf/plugins/org.jboss.tools.jsf.text.ext/src/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:47
 #, java-format
 msgctxt "OpenValidatorForId"
 msgid "Open a validator for ID ''{1}''"
@@ -549,7 +540,9 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:71
 #, java-format
 msgctxt "ImportWizardDescription_JSFProject"
-msgid "Create a new Project from a JSF project in the file system. This does not copy the project to the workspace."
+msgid ""
+"Create a new Project from a JSF project in the file system. This does not "
+"copy the project to the workspace."
 msgstr ""
 
 #. 
@@ -557,7 +550,9 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:73
 #, java-format
 msgctxt "ImportWizardDescription_JSFWar"
-msgid "Create a new Project from a JSF project in a WAR file. The content of WAR file will be copied to the workspace."
+msgid ""
+"Create a new Project from a JSF project in a WAR file. The content of WAR "
+"file will be copied to the workspace."
 msgstr ""
 
 #: license.dialog.title
@@ -959,7 +954,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:21
 #, java-format
 msgctxt "JSF.default-render-kit-id"
-msgid "Default-Render-Kit-ID"
+msgid "Default Render Kit ID"
 msgstr ""
 
 #. 
@@ -967,7 +962,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:23
 #, java-format
 msgctxt "JSF.navigation-handler"
-msgid "Navigation-Handler"
+msgid "Navigation Handler"
 msgstr ""
 
 #. 
@@ -975,7 +970,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:25
 #, java-format
 msgctxt "JSF.view-handler"
-msgid "View-Handler"
+msgid "View Handler"
 msgstr ""
 
 #. 
@@ -983,7 +978,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:27
 #, java-format
 msgctxt "JSF.state-manager"
-msgid "State-Manager"
+msgid "State Manager"
 msgstr ""
 
 #. 
@@ -991,7 +986,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:29
 #, java-format
 msgctxt "JSF.property-resolver"
-msgid "Property-Resolver"
+msgid "Property Resolver"
 msgstr ""
 
 #. 
@@ -999,7 +994,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:31
 #, java-format
 msgctxt "JSF.variable-resolver"
-msgid "Variable-Resolver"
+msgid "Variable Resolver"
 msgstr ""
 
 #. 
@@ -1007,7 +1002,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:33
 #, java-format
 msgctxt "JSF.el-resolver"
-msgid "El-Resolver"
+msgid "El Resolver"
 msgstr ""
 
 #. 
@@ -1023,7 +1018,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:37
 #, java-format
 msgctxt "JSF.display-name"
-msgid "Display-Name"
+msgid "Display Name"
 msgstr ""
 
 #. 
@@ -1031,7 +1026,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:39
 #, java-format
 msgctxt "JSF.small-icon"
-msgid "Small-Icon"
+msgid "Small Icon"
 msgstr ""
 
 #. 
@@ -1039,7 +1034,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:41
 #, java-format
 msgctxt "JSF.large-icon"
-msgid "Large-Icon"
+msgid "Large Icon"
 msgstr ""
 
 #. 
@@ -1047,7 +1042,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:43
 #, java-format
 msgctxt "JSF.attribute-name"
-msgid "Attribute-Name"
+msgid "Attribute Name"
 msgstr ""
 
 #. 
@@ -1055,7 +1050,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:45
 #, java-format
 msgctxt "JSF.attribute-class"
-msgid "Attribute-Class"
+msgid "Attribute Class"
 msgstr ""
 
 #. 
@@ -1063,7 +1058,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:47
 #, java-format
 msgctxt "JSF.default-value"
-msgid "Default-Value"
+msgid "Default Value"
 msgstr ""
 
 #. 
@@ -1071,7 +1066,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:49
 #, java-format
 msgctxt "JSF.suggested-value"
-msgid "Suggested-Value"
+msgid "Suggested Value"
 msgstr ""
 
 #. 
@@ -1079,7 +1074,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:51
 #, java-format
 msgctxt "JSF.component-type"
-msgid "Component-Type"
+msgid "Component Type"
 msgstr ""
 
 #. 
@@ -1087,7 +1082,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:53
 #, java-format
 msgctxt "JSF.component-class"
-msgid "Component-Class"
+msgid "Component Class"
 msgstr ""
 
 #. 
@@ -1095,7 +1090,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:55
 #, java-format
 msgctxt "JSF.converter-id"
-msgid "Converter-ID"
+msgid "Converter ID"
 msgstr ""
 
 #. 
@@ -1103,7 +1098,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:57
 #, java-format
 msgctxt "JSF.converter-for-class"
-msgid "Converter-for-Class"
+msgid "Converter for Class"
 msgstr ""
 
 #. 
@@ -1111,7 +1106,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:59
 #, java-format
 msgctxt "JSF.converter-class"
-msgid "Converter-Class"
+msgid "Converter Class"
 msgstr ""
 
 #. 
@@ -1127,7 +1122,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:63
 #, java-format
 msgctxt "JSF.facet-name"
-msgid "Facet-Name"
+msgid "Facet Name"
 msgstr ""
 
 #. 
@@ -1135,7 +1130,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:65
 #, java-format
 msgctxt "JSF.application-factory"
-msgid "Application-Factory"
+msgid "Application Factory"
 msgstr ""
 
 #. 
@@ -1143,7 +1138,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:67
 #, java-format
 msgctxt "JSF.faces-context-factory"
-msgid "Faces-Context-Factory"
+msgid "Faces Context Factory"
 msgstr ""
 
 #. 
@@ -1151,7 +1146,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:69
 #, java-format
 msgctxt "JSF.lifecycle-factory"
-msgid "Lifecycle-Factory"
+msgid "Lifecycle Factory"
 msgstr ""
 
 #. 
@@ -1159,7 +1154,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:71
 #, java-format
 msgctxt "JSF.render-kit-factory"
-msgid "Render-Kit-Factory"
+msgid "Render Kit Factory"
 msgstr ""
 
 #. 
@@ -1167,7 +1162,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:73
 #, java-format
 msgctxt "JSF.value-class"
-msgid "Value-Class"
+msgid "Value Class"
 msgstr ""
 
 #. 
@@ -1175,7 +1170,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:75
 #, java-format
 msgctxt "JSF.null-value"
-msgid "Null-Value"
+msgid "Null Value"
 msgstr ""
 
 #. 
@@ -1191,7 +1186,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:79
 #, java-format
 msgctxt "JSF.default-locale"
-msgid "Default-Locale"
+msgid "Default Locale"
 msgstr ""
 
 #. 
@@ -1199,7 +1194,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:81
 #, java-format
 msgctxt "JSF.managed-bean-name"
-msgid "Managed-Bean-Name"
+msgid "Managed Bean Name"
 msgstr ""
 
 #. 
@@ -1207,7 +1202,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:83
 #, java-format
 msgctxt "JSF.managed-bean-class"
-msgid "Managed-Bean-Class"
+msgid "Managed Bean Class"
 msgstr ""
 
 #. 
@@ -1215,7 +1210,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:85
 #, java-format
 msgctxt "JSF.managed-bean-scope"
-msgid "Managed-Bean-Scope"
+msgid "Managed Bean Scope"
 msgstr ""
 
 #. 
@@ -1223,7 +1218,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:87
 #, java-format
 msgctxt "JSF.property-name"
-msgid "Property-Name"
+msgid "Property Name"
 msgstr ""
 
 #. 
@@ -1231,7 +1226,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:89
 #, java-format
 msgctxt "JSF.property-class"
-msgid "Property-Class"
+msgid "Property Class"
 msgstr ""
 
 #. 
@@ -1239,7 +1234,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:91
 #, java-format
 msgctxt "JSF.value-kind"
-msgid "Value-Kind"
+msgid "Value Kind"
 msgstr ""
 
 #. 
@@ -1247,7 +1242,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:93
 #, java-format
 msgctxt "JSF.key-class"
-msgid "Key-Class"
+msgid "Key Class"
 msgstr ""
 
 #. 
@@ -1263,7 +1258,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:97
 #, java-format
 msgctxt "JSF.message-bundle"
-msgid "Message-Bundle"
+msgid "Message Bundle"
 msgstr ""
 
 #. 
@@ -1271,7 +1266,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:99
 #, java-format
 msgctxt "JSF.from-action"
-msgid "From-Action"
+msgid "From Action"
 msgstr ""
 
 #. 
@@ -1279,7 +1274,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:101
 #, java-format
 msgctxt "JSF.from-outcome"
-msgid "From-Outcome"
+msgid "From Outcome"
 msgstr ""
 
 #. 
@@ -1287,7 +1282,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:103
 #, java-format
 msgctxt "JSF.to-view-id"
-msgid "To-View-ID"
+msgid "To View ID"
 msgstr ""
 
 #. 
@@ -1303,7 +1298,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:107
 #, java-format
 msgctxt "JSF.from-view-id"
-msgid "From-View-ID"
+msgid "From View ID"
 msgstr ""
 
 #. 
@@ -1311,7 +1306,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:109
 #, java-format
 msgctxt "JSF.phase-listener"
-msgid "Phase-Listener"
+msgid "Phase Listener"
 msgstr ""
 
 #. 
@@ -1391,7 +1386,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:129
 #, java-format
 msgctxt "JSF.referenced-bean-name"
-msgid "Referenced-Bean-Name"
+msgid "Referenced Bean Name"
 msgstr ""
 
 #. 
@@ -1399,7 +1394,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:131
 #, java-format
 msgctxt "JSF.referenced-bean-class"
-msgid "Referenced-Bean-Class"
+msgid "Referenced Bean Class"
 msgstr ""
 
 #. 
@@ -1407,7 +1402,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:133
 #, java-format
 msgctxt "JSF.render-kit-id"
-msgid "Render-Kit-ID"
+msgid "Render Kit ID"
 msgstr ""
 
 #. 
@@ -1415,7 +1410,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:135
 #, java-format
 msgctxt "JSF.render-kit-class"
-msgid "Render-Kit-Class"
+msgid "Render Kit Class"
 msgstr ""
 
 #. 
@@ -1423,7 +1418,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:137
 #, java-format
 msgctxt "JSF.component-family"
-msgid "Component-Family"
+msgid "Component Family"
 msgstr ""
 
 #. 
@@ -1431,7 +1426,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:139
 #, java-format
 msgctxt "JSF.renderer-type"
-msgid "Renderer-Type"
+msgid "Renderer Type"
 msgstr ""
 
 #. 
@@ -1439,7 +1434,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:141
 #, java-format
 msgctxt "JSF.renderer-class"
-msgid "Renderer-Class"
+msgid "Renderer Class"
 msgstr ""
 
 #. 
@@ -1447,7 +1442,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:143
 #, java-format
 msgctxt "JSF.base-name"
-msgid "Base-Name"
+msgid "Base Name"
 msgstr ""
 
 #. 
@@ -1463,7 +1458,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:147
 #, java-format
 msgctxt "JSF.attribute-names"
-msgid "Attribute-Names"
+msgid "Attribute Names"
 msgstr ""
 
 #. 
@@ -1471,7 +1466,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:149
 #, java-format
 msgctxt "JSF.supported-locale"
-msgid "Supported-Locale"
+msgid "Supported Locale"
 msgstr ""
 
 #. 
@@ -1479,7 +1474,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:151
 #, java-format
 msgctxt "JSF.validator-id"
-msgid "Validator-ID"
+msgid "Validator ID"
 msgstr ""
 
 #. 
@@ -1487,7 +1482,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:153
 #, java-format
 msgctxt "JSF.validator-class"
-msgid "Validator-Class"
+msgid "Validator Class"
 msgstr ""
 
 #. 
@@ -1688,6 +1683,70 @@ msgstr ""
 #, java-format
 msgctxt "JSF.select_items"
 msgid "Select Items"
+msgstr ""
+
+#. 
+#: JSF.function-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:205
+#, java-format
+msgctxt "JSF.function-name"
+msgid "Function Name"
+msgstr ""
+
+#. 
+#: JSF.function-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:207
+#, java-format
+msgctxt "JSF.function-class"
+msgid "Function Class"
+msgstr ""
+
+#. 
+#: JSF.function-signature
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:209
+#, java-format
+msgctxt "JSF.function-signature"
+msgid "Function Signature"
+msgstr ""
+
+#. 
+#: JSF.handler-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:211
+#, java-format
+msgctxt "JSF.handler-class"
+msgid "Handler Class"
+msgstr ""
+
+#. 
+#: JSF.source
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:213
+#, java-format
+msgctxt "JSF.source"
+msgid "Source"
+msgstr ""
+
+#. 
+#: JSF.tag-name
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:215
+#, java-format
+msgctxt "JSF.tag-name"
+msgid "Tag Name"
+msgstr ""
+
+#. 
+#: JSF.library-class
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:217
+#, java-format
+msgctxt "JSF.library-class"
+msgid "Library Class"
+msgstr ""
+
+#. 
+#: JSF.uri
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf-attrs.properties:219
+#, java-format
+msgctxt "JSF.uri"
+msgid "Namespace"
 msgstr ""
 
 #: JSF.SetApplication.menu
@@ -4786,6 +4845,174 @@ msgctxt "JSFConfigExtensions_Properties.Title"
 msgid "Extensions"
 msgstr ""
 
+#. 
+#: FileFaceletTaglib_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1267
+#, java-format
+msgctxt "FileFaceletTaglib_Properties.Title"
+msgid "File Facelet Taglib"
+msgstr ""
+
+#. 
+#: FileFaceletTaglib_AddTag.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1271
+#, java-format
+msgctxt "FileFaceletTaglib_AddTag.WindowTitle"
+msgid "Add Tag"
+msgstr ""
+
+#. 
+#: FileFaceletTaglib_AddTag.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1273
+#, java-format
+msgctxt "FileFaceletTaglib_AddTag.Title"
+msgid "Facelet Tag"
+msgstr ""
+
+#. 
+#: FileFaceletTaglib_AddFunction.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1277
+#, java-format
+msgctxt "FileFaceletTaglib_AddFunction.WindowTitle"
+msgid "Add Function"
+msgstr ""
+
+#. 
+#: FileFaceletTaglib_AddFunction.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1279
+#, java-format
+msgctxt "FileFaceletTaglib_AddFunction.Title"
+msgid "Facelet Function"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddHandler.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1283
+#, java-format
+msgctxt "FaceletTaglibTag_AddHandler.WindowTitle"
+msgid "New Handler"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddHandler.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1285
+#, java-format
+msgctxt "FaceletTaglibTag_AddHandler.Title"
+msgid "Facelet Tag Handler"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddComponent.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1289
+#, java-format
+msgctxt "FaceletTaglibTag_AddComponent.WindowTitle"
+msgid "New Component"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddComponent.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1291
+#, java-format
+msgctxt "FaceletTaglibTag_AddComponent.Title"
+msgid "Facelet Component"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddConverter.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1295
+#, java-format
+msgctxt "FaceletTaglibTag_AddConverter.WindowTitle"
+msgid "New Converter"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddConverter.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1297
+#, java-format
+msgctxt "FaceletTaglibTag_AddConverter.Title"
+msgid "Facelet Converter"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddValidator.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1301
+#, java-format
+msgctxt "FaceletTaglibTag_AddValidator.WindowTitle"
+msgid "New Validator"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddValidator.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1303
+#, java-format
+msgctxt "FaceletTaglibTag_AddValidator.Title"
+msgid "Facelet Validator"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddSource.WindowTitle
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1307
+#, java-format
+msgctxt "FaceletTaglibTag_AddSource.WindowTitle"
+msgid "New Source"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_AddSource.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1309
+#, java-format
+msgctxt "FaceletTaglibTag_AddSource.Title"
+msgid "Facelet Tag Source"
+msgstr ""
+
+#. 
+#: FaceletTaglibTag_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1313
+#, java-format
+msgctxt "FaceletTaglibTag_Properties.Title"
+msgid "Facelet Tag"
+msgstr ""
+
+#. 
+#: FaceletTaglibHandler_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1317
+#, java-format
+msgctxt "FaceletTaglibHandler_Properties.Title"
+msgid "Facelet Tag Handler"
+msgstr ""
+
+#. 
+#: FaceletTaglibComponent_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1319
+#, java-format
+msgctxt "FaceletTaglibComponent_Properties.Title"
+msgid "Facelet Component"
+msgstr ""
+
+#. 
+#: FaceletTaglibConverter_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1321
+#, java-format
+msgctxt "FaceletTaglibConverter_Properties.Title"
+msgid "Facelet Converter"
+msgstr ""
+
+#. 
+#: FaceletTaglibValidator_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1323
+#, java-format
+msgctxt "FaceletTaglibValidator_Properties.Title"
+msgid "Facelet Validator"
+msgstr ""
+
+#. 
+#: FaceletTaglibSource_Properties.Title
+#: ../../../jsf/plugins/org.jboss.tools.jsf/resources/help/keys-jsf.properties:1325
+#, java-format
+msgctxt "FaceletTaglibSource_Properties.Title"
+msgid "Facelet Tag Source"
+msgstr ""
+
 #: IT_ISNT_CORRECT_TO_MAKE_LINK_TO_A_PATTERN
 #: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:1
 #, java-format
@@ -4824,9 +5051,7 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:9
 #, java-format
 msgctxt "THE_VIEW_WITH_PATH_IS_ALREADY_CREATED"
-msgid ""
-"The View with frow-view-id ''{0}'' is already created.\n"
-""
+msgid "The View with frow-view-id ''{0}'' is already created.\n"
 msgstr ""
 
 #. 
@@ -4834,7 +5059,9 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:11
 #, java-format
 msgctxt "YOU_WANT_TO_ADD_ADDITIONAL_NAVIGATION_RULE_WITH_SAME_FROM_VIEW_ID"
-msgid "Are you sure you want to add an additional navigation rule with the same from-view-id?"
+msgid ""
+"Are you sure you want to add an additional navigation rule with the same "
+"from-view-id?"
 msgstr ""
 
 #. 
@@ -4842,7 +5069,9 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:13
 #, java-format
 msgctxt "YOU_WANT_TO_CREATE_AN_ADDITIONAL_VIEW_WITH_THE_SAME_FROM_VIEW_ID"
-msgid "Are you sure you want to create an additional view with the same from-view-id?"
+msgid ""
+"Are you sure you want to create an additional view with the same from-view-"
+"id?"
 msgstr ""
 
 #. 
@@ -4850,7 +5079,8 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:15
 #, java-format
 msgctxt "YOU_WANT_TO_CREATE_A_NAVIGATION_RULE_FOR_THIS_FROM_VIEW_ID"
-msgid "Are you sure you want to create a navigation rule for this from-view-id?"
+msgid ""
+"Are you sure you want to create a navigation rule for this from-view-id?"
 msgstr ""
 
 #. 
@@ -4922,12 +5152,20 @@ msgstr ""
 #: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:33
 #, java-format
 msgctxt "DELETE"
-msgid "Delete "
+msgid "Delete"
+msgstr ""
+
+#. 
+#: DELETE_TITLE_QUESTION
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:35
+#, java-format
+msgctxt "DELETE_TITLE_QUESTION"
+msgid "Delete {0}?"
 msgstr ""
 
 #. 
 #: DELETE_FILE_FROM_DISK
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:35
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:37
 #, java-format
 msgctxt "DELETE_FILE_FROM_DISK"
 msgid "Delete file from disk"
@@ -4935,7 +5173,7 @@ msgstr ""
 
 #. 
 #: PASTE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:37
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:39
 #, java-format
 msgctxt "PASTE"
 msgid "Paste"
@@ -4943,7 +5181,7 @@ msgstr ""
 
 #. 
 #: SELECT_BEAN
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:39
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:41
 #, java-format
 msgctxt "SELECT_BEAN"
 msgid "Select Bean"
@@ -4951,41 +5189,40 @@ msgstr ""
 
 #. 
 #: CLASS_IS_REFERENCED_BY_SEVERAL_BEANS
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:41
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:43
 #, java-format
 msgctxt "CLASS_IS_REFERENCED_BY_SEVERAL_BEANS"
-msgid ""
-"Class {0} is referenced by several beans.\n"
+msgid "Class {0} is referenced by several beans.\n"
 " Please select one of them."
 msgstr ""
 
 #. 
 #: ADD_GETTER_FOR_PROPERTY
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:43
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:45
 #, java-format
 msgctxt "ADD_GETTER_FOR_PROPERTY"
-msgid "Do you want to add getter for property "
+msgid "Do you want to add getter for property {0}?"
 msgstr ""
 
 #. 
 #: ADD_SETTER_FOR_PROPERTY
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:45
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:47
 #, java-format
 msgctxt "ADD_SETTER_FOR_PROPERTY"
-msgid "Do you want to add setter for property "
+msgid "Do you want to add setter for property {0}?"
 msgstr ""
 
 #. 
 #: ADD_GETTER_SETTER_FOR_PROPERTY
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:47
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:49
 #, java-format
 msgctxt "ADD_GETTER_SETTER_FOR_PROPERTY"
-msgid "Do you want to add getter/setter for property"
+msgid "Do you want to add getter/setter for property {0}?"
 msgstr ""
 
 #. 
 #: APPLY_FOR_ALL_PROPERTIES
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:49
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:51
 #, java-format
 msgctxt "APPLY_FOR_ALL_PROPERTIES"
 msgid "Apply for All Properties"
@@ -4993,7 +5230,7 @@ msgstr ""
 
 #. 
 #: REFERENCES
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:51
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:53
 #, java-format
 msgctxt "REFERENCES"
 msgid "References"
@@ -5001,7 +5238,7 @@ msgstr ""
 
 #. 
 #: UPDATE_FIELD_REFERENCE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:53
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:55
 #, java-format
 msgctxt "UPDATE_FIELD_REFERENCE"
 msgid "Update field reference"
@@ -5009,7 +5246,7 @@ msgstr ""
 
 #. 
 #: MANAGED_PROPERTY_RENAME
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:55
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:57
 #, java-format
 msgctxt "MANAGED_PROPERTY_RENAME"
 msgid "Managed Property Rename"
@@ -5017,7 +5254,7 @@ msgstr ""
 
 #. 
 #: UPDATE_WEB_XML
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:57
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:59
 #, java-format
 msgctxt "UPDATE_WEB_XML"
 msgid "Update web.xml"
@@ -5025,7 +5262,7 @@ msgstr ""
 
 #. 
 #: FACES_CONFIG_CHANGES
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:59
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:61
 #, java-format
 msgctxt "FACES_CONFIG_CHANGES"
 msgid "Faces Config Changes"
@@ -5033,23 +5270,23 @@ msgstr ""
 
 #. 
 #: UPDATE_REFERENCE_TO_PAGE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:61
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:63
 #, java-format
 msgctxt "UPDATE_REFERENCE_TO_PAGE"
-msgid "Update reference to page "
+msgid "Update reference to page {0}"
 msgstr ""
 
 #. 
 #: JSF_PAGE_UPDATE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:63
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:65
 #, java-format
 msgctxt "JSF_PAGE_UPDATE"
-msgid "JSF Page Update - "
+msgid "JSF Page Update - {0}"
 msgstr ""
 
 #. 
 #: CONVERTER_ID_IS_NOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:65
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:67
 #, java-format
 msgctxt "CONVERTER_ID_IS_NOT_SPECIFIED"
 msgid "Converter id is not specified."
@@ -5057,7 +5294,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_CONVERTER
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:67
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:69
 #, java-format
 msgctxt "CANNOT_FIND_CONVERTER"
 msgid "Cannot find converter {0}."
@@ -5065,7 +5302,7 @@ msgstr ""
 
 #. 
 #: ATTRIBUTE_CONVERTER_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:69
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:71
 #, java-format
 msgctxt "ATTRIBUTE_CONVERTER_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED"
 msgid "Attribute converter-class for converter {0} is not specified."
@@ -5073,7 +5310,7 @@ msgstr ""
 
 #. 
 #: BUNDLE_IS_NOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:71
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:73
 #, java-format
 msgctxt "BUNDLE_IS_NOT_SPECIFIED"
 msgid "Bundle is not specified."
@@ -5081,15 +5318,15 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_BUNDLE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:73
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:75
 #, java-format
 msgctxt "CANNOT_FIND_BUNDLE"
-msgid "Cannot find bundle "
+msgid "Cannot find bundle {0}"
 msgstr ""
 
 #. 
 #: KEY_ISNOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:75
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:77
 #, java-format
 msgctxt "KEY_ISNOT_SPECIFIED"
 msgid "Key is not specified."
@@ -5097,7 +5334,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_PROPERTY
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:77
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:79
 #, java-format
 msgctxt "CANNOT_FIND_PROPERTY"
 msgid "Cannot find property {0}."
@@ -5105,7 +5342,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_RENDER_KIT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:79
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:81
 #, java-format
 msgctxt "CANNOT_FIND_RENDER_KIT"
 msgid "Cannot find render-kit {0}."
@@ -5113,7 +5350,7 @@ msgstr ""
 
 #. 
 #: ATTRIBUTE_RENDER_KIT_CLASS_FOR_RENDER_KIT_ISNOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:81
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:83
 #, java-format
 msgctxt "ATTRIBUTE_RENDER_KIT_CLASS_FOR_RENDER_KIT_ISNOT_SPECIFIED"
 msgid "Attribute render-kit-class for render-kit {0} is not specified."
@@ -5121,7 +5358,7 @@ msgstr ""
 
 #. 
 #: URI_ISNOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:83
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:85
 #, java-format
 msgctxt "URI_ISNOT_SPECIFIED"
 msgid "URI is not specified."
@@ -5129,7 +5366,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_TAG_LIBRARY
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:85
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:87
 #, java-format
 msgctxt "CANNOT_FIND_TAG_LIBRARY"
 msgid "annot find tag library {0}."
@@ -5137,7 +5374,7 @@ msgstr ""
 
 #. 
 #: TAG_ISNOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:87
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:89
 #, java-format
 msgctxt "TAG_ISNOT_SPECIFIED"
 msgid "Tag is not specified."
@@ -5145,7 +5382,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_TAG_IN_LIBRARY
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:89
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:91
 #, java-format
 msgctxt "CANNOT_FIND_TAG_IN_LIBRARY"
 msgid "Cannot find tag {0} in library {1}."
@@ -5153,7 +5390,7 @@ msgstr ""
 
 #. 
 #: ATTRIBUTE_ISNOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:91
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:93
 #, java-format
 msgctxt "ATTRIBUTE_ISNOT_SPECIFIED"
 msgid "Attribute is not specified."
@@ -5161,7 +5398,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_ATTRIBUTE_IN_TAG
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:93
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:95
 #, java-format
 msgctxt "CANNOT_FIND_ATTRIBUTE_IN_TAG"
 msgid "Cannot find attribute {0} in tag {1}."
@@ -5169,7 +5406,7 @@ msgstr ""
 
 #. 
 #: VALIDATOR_ID_ISNOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:95
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:97
 #, java-format
 msgctxt "VALIDATOR_ID_ISNOT_SPECIFIED"
 msgid "Validator id is not specified."
@@ -5177,7 +5414,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_VALIDATOR
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:97
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:99
 #, java-format
 msgctxt "CANNOT_FIND_VALIDATOR"
 msgid "Cannot find validator {0}."
@@ -5185,7 +5422,7 @@ msgstr ""
 
 #. 
 #: ATTRIBUTE_VALIDATOR_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:99
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:101
 #, java-format
 msgctxt "ATTRIBUTE_VALIDATOR_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED"
 msgid "Attribute validator-class for converter {0} is not specified."
@@ -5193,7 +5430,7 @@ msgstr ""
 
 #. 
 #: CANNOT_FIND_MATCHING_RULE_FOR_PATH
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:101
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:103
 #, java-format
 msgctxt "CANNOT_FIND_MATCHING_RULE_FOR_PATH"
 msgid "Cannot find matching rule for path {0}."
@@ -5201,7 +5438,7 @@ msgstr ""
 
 #. 
 #: ERROR
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:103
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:105
 #, java-format
 msgctxt "ERROR"
 msgid "Error"
@@ -5209,7 +5446,7 @@ msgstr ""
 
 #. 
 #: CLOSE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:105
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:107
 #, java-format
 msgctxt "CLOSE"
 msgid "Close"
@@ -5217,31 +5454,38 @@ msgstr ""
 
 #. 
 #: PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:107
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:109
 #, java-format
 msgctxt "PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED"
-msgid "The project already has some of libraries included into the capability ({0}). Existing files will be overwritten and any new files will be added."
+msgid ""
+"The project already has some of libraries included into the capability ({0})."
+" Existing files will be overwritten and any new files will be added."
 msgstr ""
 
 #. 
 #: PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED_2
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:109
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:111
 #, java-format
 msgctxt "PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED_2"
-msgid "The project already has some of libraries included into the capability ({0} and {1} more). Existing files will be overwritten and any new files will be added."
+msgid ""
+"The project already has some of libraries included into the capability ({0} "
+"and {1} more). Existing files will be overwritten and any new files will be "
+"added."
 msgstr ""
 
 #. 
 #: PROJECT_HAS_COFLICTING_LIBRARIES
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:111
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:113
 #, java-format
 msgctxt "PROJECT_HAS_COFLICTING_LIBRARIES"
-msgid "The project has conflicting library {0}. Do you want to replace it with selected libraries?"
+msgid ""
+"The project has conflicting library {0}. Do you want to replace it with "
+"selected libraries?"
 msgstr ""
 
 #. 
 #: OVERWRITE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:113
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:115
 #, java-format
 msgctxt "OVERWRITE"
 msgid "Overwrite"
@@ -5249,7 +5493,7 @@ msgstr ""
 
 #. 
 #: CONFIGURATION_FILE_ISNOT_FOUND_IN_PROJECT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:115
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:117
 #, java-format
 msgctxt "CONFIGURATION_FILE_ISNOT_FOUND_IN_PROJECT"
 msgid "Configuration file ''{0}'' is not found in project {0}."
@@ -5257,7 +5501,7 @@ msgstr ""
 
 #. 
 #: FILE_EXISTS
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:117
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:119
 #, java-format
 msgctxt "FILE_EXISTS"
 msgid "File {0} exists."
@@ -5265,7 +5509,7 @@ msgstr ""
 
 #. 
 #: CREATE_NEW_JSF_PROJECT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:119
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:121
 #, java-format
 msgctxt "CREATE_NEW_JSF_PROJECT"
 msgid "Create New JSF Project"
@@ -5273,7 +5517,7 @@ msgstr ""
 
 #. 
 #: IMPORT_JSF_PROJECT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:121
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:123
 #, java-format
 msgctxt "IMPORT_JSF_PROJECT"
 msgid "Import JSF Project"
@@ -5281,7 +5525,7 @@ msgstr ""
 
 #. 
 #: FACES_CONFIG_EDITOR
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:123
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:125
 #, java-format
 msgctxt "FACES_CONFIG_EDITOR"
 msgid "Faces Config Editor"
@@ -5289,7 +5533,7 @@ msgstr ""
 
 #. 
 #: PRINT_DIAGRAM
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:125
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:127
 #, java-format
 msgctxt "PRINT_DIAGRAM"
 msgid "Print Diagram"
@@ -5297,7 +5541,7 @@ msgstr ""
 
 #. 
 #: REPARENTING_JSFSUBPART
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:127
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:129
 #, java-format
 msgctxt "REPARENTING_JSFSUBPART"
 msgid "Reparenting JSFSubpart"
@@ -5305,7 +5549,7 @@ msgstr ""
 
 #. 
 #: OF_NORMAL_SIZE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:129
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:131
 #, java-format
 msgctxt "OF_NORMAL_SIZE"
 msgid "% of normal size"
@@ -5313,7 +5557,7 @@ msgstr ""
 
 #. 
 #: PRINT
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:131
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:133
 #, java-format
 msgctxt "PRINT"
 msgid "Print"
@@ -5321,7 +5565,7 @@ msgstr ""
 
 #. 
 #: ZOOM
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:133
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:135
 #, java-format
 msgctxt "ZOOM"
 msgid "Zoom"
@@ -5329,7 +5573,7 @@ msgstr ""
 
 #. 
 #: SELECT_ALL
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:135
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:137
 #, java-format
 msgctxt "SELECT_ALL"
 msgid "Select All"
@@ -5337,7 +5581,7 @@ msgstr ""
 
 #. 
 #: UNSELECT_ALL
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:137
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:139
 #, java-format
 msgctxt "UNSELECT_ALL"
 msgid "Unselect All"
@@ -5345,7 +5589,7 @@ msgstr ""
 
 #. 
 #: SELECTED_PAGES
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:139
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:141
 #, java-format
 msgctxt "SELECTED_PAGES"
 msgid "Selected Pages"
@@ -5353,7 +5597,7 @@ msgstr ""
 
 #. 
 #: PRINT_PREVIEW
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:141
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:143
 #, java-format
 msgctxt "PRINT_PREVIEW"
 msgid "Print Preview"
@@ -5361,7 +5605,7 @@ msgstr ""
 
 #. 
 #: LIBRARY_SETS
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:143
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:145
 #, java-format
 msgctxt "LIBRARY_SETS"
 msgid "Library Sets"
@@ -5369,7 +5613,7 @@ msgstr ""
 
 #. 
 #: CONFIGURATION_FILE_ADDITIONS
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:145
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:147
 #, java-format
 msgctxt "CONFIGURATION_FILE_ADDITIONS"
 msgid "Configuration File Additions"
@@ -5377,9 +5621,8 @@ msgstr ""
 
 #. 
 #: DELETE_JAVA_SOURCE
-#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:147
+#: ../../../jsf/plugins/org.jboss.tools.jsf/src/org/jboss/tools/jsf/messages/messages.properties:149
 #, java-format
 msgctxt "DELETE_JAVA_SOURCE"
 msgid "Delete Java Source"
 msgstr ""
-

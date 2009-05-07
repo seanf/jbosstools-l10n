@@ -1,21 +1,20 @@
-#SOME DESCRIPTIVE TITLE.
-#Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-#This file is distributed under the same license as the PACKAGE package.
-#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-08 14:18+1000\n"
+"POT-Creation-Date: 2009-05-07 15:14+1000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-""
 
 #. properties file for org.jboss.tools.jmx
 #: featureName
@@ -47,7 +46,10 @@ msgstr ""
 #: ../../../jmx/features/org.jboss.tools.jmx.feature/feature.properties:9
 #, java-format
 msgctxt "description"
-msgid "eclipse-jmx is a JMX console which is used to manage Java applications through JMX and its RMI Connector. eclipse-jmx can be run from the Eclipse IDE."
+msgid ""
+"eclipse-jmx is a JMX console which is used to manage Java applications "
+"through JMX and its RMI Connector. eclipse-jmx can be run from the Eclipse "
+"IDE."
 msgstr ""
 
 #. 
@@ -275,7 +277,9 @@ msgstr ""
 #: ../../../jmx/plugins/org.jboss.tools.jmx.ui/src/org/jboss/tools/jmx/ui/Messages.properties:5
 #, java-format
 msgctxt "DefaultConnectionWizardPage_Description"
-msgid "Create a new Default JMX Connection type by filling out either the Simple or the Advanced tab."
+msgid ""
+"Create a new Default JMX Connection type by filling out either the Simple or "
+"the Advanced tab."
 msgstr ""
 
 #: DefaultConnectionWizardPage_Simple
@@ -751,4 +755,3 @@ msgstr ""
 msgctxt "DeleteConnection"
 msgid "Delete Connection"
 msgstr ""
-
