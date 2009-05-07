@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/smooks/features/org.jboss.tools.smooks.feature/feature.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "Smooks Tools"
 msgstr "Smooks Tools"
@@ -46,7 +45,7 @@ msgstr "Smooks Tools"
 #: providerName
 #: ../../WORK/modules/smooks/features/org.jboss.tools.smooks.feature/feature.properties:41
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -56,7 +55,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/smooks/features/org.jboss.tools.smooks.feature/feature.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -66,7 +65,7 @@ msgstr "JBossTools Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/smooks/features/org.jboss.tools.smooks.feature/feature.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "Smooks Tools"
 msgstr "Smooks Tools"
@@ -76,7 +75,7 @@ msgstr "Smooks Tools"
 #. "copyright" property - text of the "Feature Update Copyright"
 #: copyright
 #: ../../WORK/modules/smooks/features/org.jboss.tools.smooks.feature/feature.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
@@ -90,7 +89,7 @@ msgstr ""
 #.
 #: are
 #: ../../WORK/modules/smooks/features/org.jboss.tools.smooks.feature/feature.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "are"
 msgid ""
 "made available under the terms of the Eclipse Public License v1.0\n"
@@ -112,7 +111,7 @@ msgstr ""
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/smooks/features/org.jboss.tools.smooks.feature/feature.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "license.html"
 msgstr "license.html"
@@ -123,7 +122,7 @@ msgstr "license.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/smooks/features/org.jboss.tools.smooks.feature/feature.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
@@ -371,21 +370,21 @@ msgstr ""
 #. Properties file for org.jboss.tools.smooks.core
 #: Bundle-Vendor.0
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Vendor.0"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.core/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Smooks Tools Core Plug-in"
 msgstr "Smooks Tools コア・プラグイン"
 
 #: blurb
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "Smooks Tools\n"
@@ -406,70 +405,70 @@ msgstr ""
 
 #: MappingModel.Source
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/analyzer/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "MappingModel.Source"
 msgid "Source : "
 msgstr "ソース : "
 
 #: MappingModel.SourceIsNull
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/analyzer/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "MappingModel.SourceIsNull"
 msgid "Source is NULL "
 msgstr "ソースは NULL です"
 
 #: MappingModel.Target
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/analyzer/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "MappingModel.Target"
 msgid ";Target : "
 msgstr ";ターゲット :"
 
 #: MappingModel.TargetIsNull
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/analyzer/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "MappingModel.TargetIsNull"
 msgid ";Target is NULL "
 msgstr ";ターゲットは NULL です"
 
 #: SmooksFileBuilder.NullAnalyzer1
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/analyzer/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksFileBuilder.NullAnalyzer1"
 msgid "Can not find the Analyzer for SourceID : "
 msgstr "アナライザーを見つけられません SourceID : "
 
 #: SmooksFileBuilder.NullAnalyzer2
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/analyzer/messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksFileBuilder.NullAnalyzer2"
 msgid " and the TargetID : "
 msgstr "と TargetID : "
 
 #: SmooksFileBuilder.ResourceIsNull
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/analyzer/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksFileBuilder.ResourceIsNull"
 msgid "SmooksResource is NULL"
 msgstr "SmooksResource は NULL です"
 
 #: Java2XMLAnalyzer.CantFindRoot
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/java2xml/analyzer/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "Java2XMLAnalyzer.CantFindRoot"
 msgid "Can not find the root element"
 msgstr "ルート要素を見つけられません"
 
 #: Java2XMLAnalyzer.CantGenerateConfig
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/java2xml/analyzer/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "Java2XMLAnalyzer.CantGenerateConfig"
 msgid "Java2XML is not supported currently."
 msgstr "Java2XML は現在サポートされていません。"
 
 #: Java2XMLAnalyzer.DontSupportJ2X
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/java2xml/analyzer/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Java2XMLAnalyzer.DontSupportJ2X"
 msgid ""
 "The Smooks editor currently does not support parsing Java2XML configuration "
@@ -479,28 +478,28 @@ msgstr ""
 
 #: Java2XMLAnalyzer.Warning
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/java2xml/analyzer/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "Java2XMLAnalyzer.Warning"
 msgid "Warning"
 msgstr "警告"
 
 #: JavaBeanAnalyzer.ClassNotExist
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/analyzer/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanAnalyzer.ClassNotExist"
 msgid "Can not find the class : "
 msgstr "クラスを見つけられません : "
 
 #: JavaBeanAnalyzer.ConnectionQuestion
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/analyzer/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanAnalyzer.ConnectionQuestion"
 msgid "Root Node Connection"
 msgstr "ルート・ノード接続"
 
 #: JavaBeanAnalyzer.ConnectRootQuestion
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/analyzer/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanAnalyzer.ConnectRootQuestion"
 msgid ""
 "To ensure a correct mapping, the root nodes should be connected.\n"
@@ -511,217 +510,217 @@ msgstr ""
 
 #: JavaBeanAnalyzer.DontExist
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/analyzer/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanAnalyzer.DontExist"
 msgid "Do not exist"
 msgstr "存在しません"
 
 #: JavaModelConnectionResolveCommand.SmooksContextIsNull
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/analyzer/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaModelConnectionResolveCommand.SmooksContextIsNull"
 msgid "Smooks generated context is NULL"
 msgstr "Smooks の生成したコンテキストが NULL です"
 
 #: JavaBeanModel.ClassIs
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/model/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanModel.ClassIs"
 msgid ";Class : "
 msgstr ";クラス : "
 
 #: JavaBeanModel.JavaBeanName
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/model/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanModel.JavaBeanName"
 msgid "JavaBean Name : "
 msgstr "JavaBean 名 : "
 
 #: JavaBeanConfigWizardPage.JavaBeanSelectionDialogDesc
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanConfigWizardPage.JavaBeanSelectionDialogDesc"
 msgid "Select the JavaBean class"
 msgstr "JavaBean 名の選択"
 
 #: JavaBeanConfigWizardPage.JavaBeanSelectionDialogErrorMsg
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanConfigWizardPage.JavaBeanSelectionDialogErrorMsg"
 msgid "Please select a Java project."
 msgstr "Java プロジェクトを選択してください。"
 
 #: JavaBeanConfigWizardPage.JavaBeanSelectionDialogTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanConfigWizardPage.JavaBeanSelectionDialogTitle"
 msgid "JavaBean Class selection page"
 msgstr "JavaBean クラス選択ページ"
 
 #: JavaBeanModelLoadComposite.Browse
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanModelLoadComposite.Browse"
 msgid "Browse..."
 msgstr "参照..."
 
 #: JavaBeanModelLoadComposite.ClassNameText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanModelLoadComposite.ClassNameText"
 msgid "JavaBean Model List :"
 msgstr "JavaBean モデル・リスト :"
 
 #: JavaBeanModelLoadComposite.InitRunnableContextException
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanModelLoadComposite.InitRunnableContextException"
 msgid "Unable to init IRunnableContext"
 msgstr "IRunnableContext を初期化できません"
 
 #: JavaBeanModelLoadComposite.SearchJavaType
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanModelLoadComposite.SearchJavaType"
 msgid "Search Java Type"
 msgstr "Java タイプの検索"
 
 #: JavaBeanModelLoadComposite.SourceJavaBean
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanModelLoadComposite.SourceJavaBean"
 msgid "Source Java Bean:"
 msgstr "ソース Java Bean:"
 
 #: JavaBeanPropertiesSection.Browse
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.Browse"
 msgid "Browse"
 msgstr "参照"
 
 #: JavaBeanPropertiesSection.ClassBrowse
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.ClassBrowse"
 msgid "Browse class"
 msgstr "クラスの参照"
 
 #: JavaBeanPropertiesSection.CustomTypeBrowse
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.CustomTypeBrowse"
 msgid "Browse custom type"
 msgstr "カスタム・タイプの参照"
 
 #: JavaBeanPropertiesSection.ErrorMessageTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.ErrorMessageTitle"
 msgid "Error"
 msgstr "エラー"
 
 #: JavaBeanPropertiesSection.JavaBeanProperties
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.JavaBeanProperties"
 msgid "JavaBean Properties"
 msgstr "JavaBean プロパティー"
 
 #: JavaBeanPropertiesSection.JavaType
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:14
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.JavaType"
 msgid "Java Type:"
 msgstr "Java タイプ:"
 
 #: JavaBeanPropertiesSection.MappingType
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.MappingType"
 msgid "Mapping Type : "
 msgstr "マッピング・タイプ : "
 
 #: JavaBeanPropertiesSection.SearchJavaType
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:16
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.SearchJavaType"
 msgid "Search Java Type"
 msgstr "Java タイプの検索"
 
 #: JavaBeanPropertiesSection.TargetInstanceClass
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.TargetInstanceClass"
 msgid "Target instance class name : "
 msgstr "ターゲット・インスタンス・クラス名 : "
 
 #: JavaBeanPropertiesSection.TypeDialogErrorMessage
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:18
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.TypeDialogErrorMessage"
 msgid "Unable to open type selection dialog"
 msgstr "タイプ選択ダイアログを開けません"
 
 #: JavaBeanPropertiesSection.TypePropertyName
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/javabean/ui/messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "JavaBeanPropertiesSection.TypePropertyName"
 msgid "type"
 msgstr "型"
 
 #: AbstractSmooksModelDetailPage.DetailSectionTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractSmooksModelDetailPage.DetailSectionTitle"
 msgid "Detail Information"
 msgstr "詳細情報"
 
 #: DateTypeDetailPage.DateTypeFormatText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "DateTypeDetailPage.DateTypeFormatText"
 msgid "Format:"
 msgstr "Format:"
 
 #: DateTypeDetailPage.DateTypeLocaleContryText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "DateTypeDetailPage.DateTypeLocaleContryText"
 msgid "Locale-Contry:"
 msgstr "Locale-Contry:"
 
 #: DateTypeDetailPage.DateTypeLocaleLanguageText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "DateTypeDetailPage.DateTypeLocaleLanguageText"
 msgid "Locale-Language:"
 msgstr "Locale-Language:"
 
 #: DocumentResourceTypeDetailPage.BrowseFile
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "DocumentResourceTypeDetailPage.BrowseFile"
 msgid "Browse..."
 msgstr "参照..."
 
 #: DocumentResourceTypeDetailPage.DocPath
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "DocumentResourceTypeDetailPage.DocPath"
 msgid "Document Path:"
 msgstr "Document Path:"
 
 #: DocumentResourceTypeDetailPage.Selector
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "DocumentResourceTypeDetailPage.Selector"
 msgid "Selector:"
 msgstr "Selector:"
 
 #: SmooksGraphicalFormPage.CleanErrorsDialogContents1
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.CleanErrorsDialogContents1"
 msgid ""
 "There are errors in the graphical representation. Correct these before "
@@ -730,7 +729,7 @@ msgstr "\n"
 
 #: SmooksGraphicalFormPage.CleanErrorsDialogContents2
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.CleanErrorsDialogContents2"
 msgid ""
 "Click \"Yes\" to return to the editor, or \"No\" to save file with errors."
@@ -740,49 +739,49 @@ msgstr ""
 
 #: SmooksGraphicalFormPage.CleanErrorsDialogTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.CleanErrorsDialogTitle"
 msgid "Please correct the errors"
 msgstr "エラーを修正してください"
 
 #: SmooksGraphicalFormPage.FillViewerErrorContent
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.FillViewerErrorContent"
 msgid "An error occurred during loading data into the viewer:\n"
 msgstr "ビューワーにデータのロード中にエラーが発生しました。\n"
 
 #: SmooksGraphicalFormPage.FillViewerErrorTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.FillViewerErrorTitle"
 msgid "Error"
 msgstr "エラー"
 
 #: SmooksGraphicalFormPage.MappingPageFormTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.MappingPageFormTitle"
 msgid "Data Mapping Page"
 msgstr "データ・マッピング・ページ"
 
 #: SmooksGraphicalFormPage.MappingSectionDescription
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:14
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.MappingSectionDescription"
 msgid "Edit source to target links"
 msgstr "ターゲット・リンクへのソースの編集"
 
 #: SmooksGraphicalFormPage.MappingSectionTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.MappingSectionTitle"
 msgid "Graphical Mapping Panel"
 msgstr "グラフィカル・マッピング・ページ"
 
 #: SmooksGraphicalFormPage.ReselectViewerContentDlgContent
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:16
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.ReselectViewerContentDlgContent"
 msgid ""
 "Do you want to change the data type? If you do so , all current links will "
@@ -792,238 +791,238 @@ msgstr ""
 
 #: SmooksGraphicalFormPage.ReselectViewerContentDlgTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.ReselectViewerContentDlgTitle"
 msgid "Change data type?"
 msgstr "データ・タイプを変更しますか?"
 
 #: SmooksGraphicalFormPage.SaveErrorDlgContent
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:18
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.SaveErrorDlgContent"
 msgid "Errors during file save."
 msgstr "ファイルの保管中にエラー。"
 
 #: SmooksGraphicalFormPage.SaveErrorDlgTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.SaveErrorDlgTitle"
 msgid "Save Error"
 msgstr "保管エラー"
 
 #: SmooksGraphicalFormPage.SourceSelectLinkText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:20
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.SourceSelectLinkText"
 msgid "Source Select"
 msgstr "ソースの選択"
 
 #: SmooksGraphicalFormPage.TargetSelectLinkText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksGraphicalFormPage.TargetSelectLinkText"
 msgid "Target Select"
 msgstr "ターゲットの選択"
 
 #: SmooksNormalContentEditFormPage.ConfigurationPageText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:22
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksNormalContentEditFormPage.ConfigurationPageText"
 msgid "Configuration Page"
 msgstr "構成ページ"
 
 #: SmooksNormalContentEditFormPage.SmooksParseType
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksNormalContentEditFormPage.SmooksParseType"
 msgid "Other Configurations"
 msgstr "別の構成"
 
 #: SmooksResourceConfigFormBlock.BeanPopulator
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:24
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.BeanPopulator"
 msgid "BeanPopulator : "
 msgstr "BeanPopulator : "
 
 #: SmooksResourceConfigFormBlock.DateType
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.DateType"
 msgid "Date Type"
 msgstr "データ・タイプ"
 
 #: SmooksResourceConfigFormBlock.DeleteButton
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:26
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.DeleteButton"
 msgid "Delete"
 msgstr "削除"
 
 #: SmooksResourceConfigFormBlock.DownButton
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.DownButton"
 msgid "Down"
 msgstr "下へ"
 
 #: SmooksResourceConfigFormBlock.NewButton
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:28
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.NewButton"
 msgid "New"
 msgstr "新規"
 
 #: SmooksResourceConfigFormBlock.NULLString
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.NULLString"
 msgid "<NULL>"
 msgstr "<NULL>"
 
 #: SmooksResourceConfigFormBlock.TemplateFile
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:30
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.TemplateFile"
 msgid "Template File:"
 msgstr "テンプレート・ファイル:"
 
 #: SmooksResourceConfigFormBlock.UnknownResourceConfig
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.UnknownResourceConfig"
 msgid "UnKnown ResourceConfig - "
 msgstr "不明な ResourceConfig - "
 
 #: SmooksResourceConfigFormBlock.UpButton
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:32
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceConfigFormBlock.UpButton"
 msgid "Up"
 msgstr "上へ"
 
 #: TypeIDSelectionWizard.TypeIDSelection
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "TypeIDSelectionWizard.TypeIDSelection"
 msgid "TypeID Selection"
 msgstr "データ・タイプ ID の選択"
 
 #: TypeIDSelectionWizardPage.NameColumn
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:34
-#, fuzzy, java-format
+#, java-format
 msgctxt "TypeIDSelectionWizardPage.NameColumn"
 msgid "Name"
 msgstr "名前"
 
 #: TypeIDSelectionWizardPage.SourceTypeIDTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "TypeIDSelectionWizardPage.SourceTypeIDTitle"
 msgid "Source Data Type ID List : "
 msgstr "ソースのデータ・タイプ ID リスト : "
 
 #: TypeIDSelectionWizardPage.TargetTypeIDTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:36
-#, fuzzy, java-format
+#, java-format
 msgctxt "TypeIDSelectionWizardPage.TargetTypeIDTitle"
 msgid "Target Data Type ID List : "
 msgstr "ターゲットのデータ・タイプ ID リスト : "
 
 #: TypeIDSelectionWizardPage.TypeIDSelectionWizardPageDescription
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "TypeIDSelectionWizardPage.TypeIDSelectionWizardPageDescription"
 msgid "Select the data type for source/target data"
 msgstr "ソース/ターゲットのデータのデータ・タイプを選択します"
 
 #: TypeIDSelectionWizardPage.TypeIDSelectionWizardPageTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:38
-#, fuzzy, java-format
+#, java-format
 msgctxt "TypeIDSelectionWizardPage.TypeIDSelectionWizardPageTitle"
 msgid "Select Source/Target Data Type"
 msgstr "ソース/ターゲットのデータ・タイプの選択"
 
 #: TypeIDSelectionWizardPage.WarningMessage
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/editors/messages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "TypeIDSelectionWizardPage.WarningMessage"
 msgid "Please select the data type first"
 msgstr "最初にデータ・タイプを選択してください"
 
 #: ConnectionPropertySection.ConnectionPropertiesSecionText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "ConnectionPropertySection.ConnectionPropertiesSecionText"
 msgid "Mapping Properties"
 msgstr "マッピング・プロパティー"
 
 #: ConnectionPropertySection.DeleteButtonText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "ConnectionPropertySection.DeleteButtonText"
 msgid "Delete  "
 msgstr "削除  "
 
 #: ConnectionPropertySection.NameColumnText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "ConnectionPropertySection.NameColumnText"
 msgid "Name"
 msgstr "名前"
 
 #: ConnectionPropertySection.NewButtonText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "ConnectionPropertySection.NewButtonText"
 msgid "New  "
 msgstr "新規  "
 
 #: ConnectionPropertySection.ValueColumnText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "ConnectionPropertySection.ValueColumnText"
 msgid "Value"
 msgstr "値"
 
 #: SmooksResourceChangeListener.ConverFileMsg1
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceChangeListener.ConverFileMsg1"
 msgid "File "
 msgstr "ファイル "
 
 #: SmooksResourceChangeListener.ConverFileMsg2
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceChangeListener.ConverFileMsg2"
 msgid " already exists. Overwrite the file?"
 msgstr " すでに存在します. ファイルを上書きしますか?"
 
 #: SmooksResourceChangeListener.CoverFile
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceChangeListener.CoverFile"
 msgid "Cover"
 msgstr "Cover"
 
 #: SmooksResourceChangeListener.SmooksFileExtensionName
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceChangeListener.SmooksFileExtensionName"
 msgid "smooks"
 msgstr "smooks"
 
 #: SmooksResourceChangeListener.SmooksGraphFileExtensionName
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksResourceChangeListener.SmooksGraphFileExtensionName"
 msgid ".graph"
 msgstr ".graph"
 
 #: SmooksTextEdtor.NotifyTitleMessage
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksTextEdtor.NotifyTitleMessage"
 msgid ""
 "Incorrect or currently unsupported file content. The graphical display can "
@@ -1034,189 +1033,189 @@ msgstr ""
 
 #: SmooksTextEdtor.UnKnownErrorMessage
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/messages.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksTextEdtor.UnKnownErrorMessage"
 msgid "Unknown error"
 msgstr "不明なエラー"
 
 #: NewResourceConfigWizardPage.NewConfigWizardPageDescription
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewResourceConfigWizardPage.NewConfigWizardPageDescription"
 msgid "Select the ResourceConfig type to add into the configuration file"
 msgstr "構成ファイルに追加するために ResourceConfig タイプを選択します"
 
 #: NewResourceConfigWizardPage.NewConfigWizardPageErrorMessage1
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewResourceConfigWizardPage.NewConfigWizardPageErrorMessage1"
 msgid "Please select one key"
 msgstr "１つのキーを選択してください"
 
 #: NewResourceConfigWizardPage.NewConfigWizardPageTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewResourceConfigWizardPage.NewConfigWizardPageTitle"
 msgid "Select New ResourceConfig Type"
 msgstr "新規 ResourceConfig タイプの選択"
 
 #: SmooksConfigFileNewWizard.ErrorTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksConfigFileNewWizard.ErrorTitle"
 msgid "Error"
 msgstr "エラー"
 
 #: SmooksConfigFileNewWizard.NewConfigFileWizardTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksConfigFileNewWizard.NewConfigFileWizardTitle"
 msgid "New Smooks Configuration File"
 msgstr "新規 Smooks 構成ファイル"
 
 #: SmooksConfigFileNewWizard.SourceDataTypeSelectionTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksConfigFileNewWizard.SourceDataTypeSelectionTitle"
 msgid "Source Data Selection"
 msgstr "ソース・データ選択"
 
 #: SmooksConfigFileNewWizard.TargetDataTypeSelectionTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksConfigFileNewWizard.TargetDataTypeSelectionTitle"
 msgid "Target Data Selection"
 msgstr "ターゲット・データ選択"
 
 #: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDefaultFileName
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDefaultFileName"
 msgid "newConfig.smooks"
 msgstr "newConfig.smooks"
 
 #: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDescription
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageDescription"
 msgid "Create a new Smooks configuration file"
 msgstr "新規 Smooks 構成ファイルを作成します"
 
 #: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageErrorMessage1
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageErrorMessage1"
 msgid "File extension must be \"smooks\""
 msgstr "ファイルの拡張子は \"smooks\" である必要があります"
 
 #: SmooksConfigFileNewWizardPage.NewConfigFileWizardPageTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "SmooksConfigFileNewWizardPage.NewConfigFileWizardPageTitle"
 msgid "Smooks Configuration"
 msgstr "Smooks 構成"
 
 #: TransformDataWizardSelectionPage.TransformDataWizardDescription
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "TransformDataWizardSelectionPage.TransformDataWizardDescription"
 msgid "Select the transform data type"
 msgstr "変換データ型を選択します"
 
 #: TransformDataWizardSelectionPage.TransformDataWizardTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/ui/wizards/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "TransformDataWizardSelectionPage.TransformDataWizardTitle"
 msgid "Data Type Selection"
 msgstr "データ型の選択"
 
 #: AbstractFileSelectionWizardPage.BrowseFileSystemButtonText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractFileSelectionWizardPage.BrowseFileSystemButtonText"
 msgid "Browse File System..."
 msgstr "ファイル・システムの参照..."
 
 #: AbstractFileSelectionWizardPage.BrowseWorkspaceButtonText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractFileSelectionWizardPage.BrowseWorkspaceButtonText"
 msgid "Browse Workspace..."
 msgstr "ワークスペースの参照..."
 
 #: AbstractFileSelectionWizardPage.Errormessage
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractFileSelectionWizardPage.Errormessage"
 msgid "Please select a file"
 msgstr "ファイルを選択してください"
 
 #: AbstractFileSelectionWizardPage.XMLFilePathLabelText
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractFileSelectionWizardPage.XMLFilePathLabelText"
 msgid "XML File Path:"
 msgstr "XML ファイル・パス:"
 
 #: XMLStructuredDataWizardPage.XMLDataWizardPageDescription
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml/ui/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "XMLStructuredDataWizardPage.XMLDataWizardPageDescription"
 msgid "Select a .xml file for configuration data"
 msgstr "構成データの .xml ファイルを選択します"
 
 #: XMLStructuredDataWizardPage.XMLDataWizardPageTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml/ui/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "XMLStructuredDataWizardPage.XMLDataWizardPageTitle"
 msgid "Select a XML file"
 msgstr "XML ファイルを選択します"
 
 #: AbstractXMLModelAnalyzer.FileDosentExistErrorMessage1
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractXMLModelAnalyzer.FileDosentExistErrorMessage1"
 msgid "File does not exist"
 msgstr "ファイルが存在しません"
 
 #: AbstractXMLModelAnalyzer.FileDosentExistErrorMessage2
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractXMLModelAnalyzer.FileDosentExistErrorMessage2"
 msgid " in the workspace."
 msgstr "ワークスペース内。"
 
 #: AbstractXMLModelAnalyzer.IllegalPathErrorMessage1
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractXMLModelAnalyzer.IllegalPathErrorMessage1"
 msgid "Illegal file path: "
 msgstr "不正なファイル・パス: "
 
 #: XML2JavaAnalyzer.CantFindNodeErrorMessage1
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "XML2JavaAnalyzer.CantFindNodeErrorMessage1"
 msgid "Can not find the \""
 msgstr "\""
 
 #: XML2JavaAnalyzer.CantFindNodeErrorMessage2
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "XML2JavaAnalyzer.CantFindNodeErrorMessage2"
 msgid "\" node."
 msgstr "\" ノードを見つけられません。"
 
 #: XML2JavaAnalyzer.CantFindRootNodeErrorMessage
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "XML2JavaAnalyzer.CantFindRootNodeErrorMessage"
 msgid "Can not find the root node."
 msgstr "ルート・ノードを見つけられません。"
 
 #: XML2JavaAnalyzer.ConnectQDlgContent
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "XML2JavaAnalyzer.ConnectQDlgContent"
 msgid ""
 "To ensure a correct mapping, the root nodes should be connected.\n"
@@ -1227,28 +1226,28 @@ msgstr ""
 
 #: XML2JavaAnalyzer.ConnectQDlgTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2java/analyzer/messages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "XML2JavaAnalyzer.ConnectQDlgTitle"
 msgid "Root Node Connection"
 msgstr "ルート・ノード接続"
 
 #: XML2XMLAnalyzer.WarningDlgTitle
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2xml/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "XML2XMLAnalyzer.WarningDlgTitle"
 msgid "Warning"
 msgstr "警告"
 
 #: XML2XMLAnalyzer.XML2XMLGenerateErrorMessage
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2xml/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "XML2XMLAnalyzer.XML2XMLGenerateErrorMessage"
 msgid "XML2XML is currently not supported"
 msgstr "XML2XML は現在サポートされていません"
 
 #: XML2XMLAnalyzer.XML2XMLParseErrorMessage
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/org/jboss/tools/smooks/xml2xml/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "XML2XMLAnalyzer.XML2XMLParseErrorMessage"
 msgid ""
 "The Smooks editor currently does not support parsing the XML2XML "
@@ -1257,7 +1256,7 @@ msgstr "Smooks エディターは現在 XML2XML 構成ファイルの解析を�
 
 #: pluginName
 #: ../../WORK/modules/smooks/plugins/org.jboss.tools.smooks.ui/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "Smooks Tools"
 msgstr "Smooks Tools"

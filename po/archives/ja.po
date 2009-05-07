@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/archives/features/org.jboss.ide.eclipse.archives.feature/feature.properties:18
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "JBoss Archives Tools"
 msgstr "JBoss アーカイブ Tools"
@@ -44,7 +43,7 @@ msgstr "JBoss アーカイブ Tools"
 #. "providerName" property - name of the company that provides the feature
 #: providerName
 #: ../../WORK/modules/archives/features/org.jboss.ide.eclipse.archives.feature/feature.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -53,7 +52,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/archives/features/org.jboss.ide.eclipse.archives.feature/feature.properties:24
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -61,7 +60,7 @@ msgstr "JBossTools Update Site"
 #.
 #: devUpdateSiteName
 #: ../../WORK/modules/archives/features/org.jboss.ide.eclipse.archives.feature/feature.properties:26
-#, fuzzy, java-format
+#, java-format
 msgctxt "devUpdateSiteName"
 msgid "JBossTools Development Update Site"
 msgstr "JBossTools Development Update Site"
@@ -70,7 +69,7 @@ msgstr "JBossTools Development Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/archives/features/org.jboss.ide.eclipse.archives.feature/feature.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid ""
 "Project Archives provides a way to define archives based on include/exclude "
@@ -86,7 +85,7 @@ msgstr ""
 #.
 #: copyright
 #: ../../WORK/modules/archives/features/org.jboss.ide.eclipse.archives.feature/feature.properties:32
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "JBoss, Home of Professional Open Source\n"
@@ -103,70 +102,70 @@ msgstr ""
 
 #: CleanedArchiveTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "CleanedArchiveTrace"
 msgid "Cleaned archive {0}"
 msgstr "アーカイブ {0} をクリーンしました"
 
 #: CleanedProjectTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "CleanedProjectTrace"
 msgid "Cleaned project {0}"
 msgstr "プロジェクト {0} をクリーンしました"
 
 #: FileRemovedTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileRemovedTrace"
 msgid "Removed {0} in {1} at {2}"
 msgstr "{2} で {1} の {0} を除去しました"
 
 #: UpdatedFileTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "UpdatedFileTrace"
 msgid "Updated {0} in {1} at {2}"
 msgstr "{2} で {1} の {0} を更新しました"
 
 #: FinishedBuildingProjectTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "FinishedBuildingProjectTrace"
 msgid "Finished building project {0}"
 msgstr "プロジェクト {0} のビルドを完了しました"
 
 #: FinishedBuildingArchiveTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "FinishedBuildingArchiveTrace"
 msgid "Finished building archive {0}"
 msgstr "アーカイブ {0} のビルドを完了しました"
 
 #: FinishedCollectingFilesetTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "FinishedCollectingFilesetTrace"
 msgid "Finished collecting fileset {0}"
 msgstr "ファイルセット{0} の収集を完了しました"
 
 #: StartedBuildingProjectTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "StartedBuildingProjectTrace"
 msgid "Started building project {0}"
 msgstr "プロジェクト {0} のビルドを開始しました"
 
 #: StartedBuildingArchiveTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "StartedBuildingArchiveTrace"
 msgid "Started building archive {0}"
 msgstr "アーカイブ {0} のビルドを開始しました"
 
 #: StartedCollectingFilesetTrace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "StartedCollectingFilesetTrace"
 msgid "Started collecting fileset {0}"
 msgstr "ファイルセット{0} の収集を開始しました"
@@ -174,14 +173,14 @@ msgstr "ファイルセット{0} の収集を開始しました"
 #.
 #: RuntimeErrorDuringBuild
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "RuntimeErrorDuringBuild"
 msgid "A runtime error has occurred during the build."
 msgstr "ビルド中にランタイム・エラーが発生しました。"
 
 #: ProjectCannotBeBuilt
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectCannotBeBuilt"
 msgid "Project {0} does not exist or has no .packages file. Skipping."
 msgstr ""
@@ -191,49 +190,49 @@ msgstr ""
 #.
 #: ErrorBuilding
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorBuilding"
 msgid "An error occurred while building project archives"
 msgstr "プロジェクト・アーカイブのビルド中にエラーが発生"
 
 #: ErrorLocatingRootNode
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:16
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorLocatingRootNode"
 msgid "An error occurred locating the descriptor for {0}"
 msgstr "{0} の記述子の配置中にエラーが発生"
 
 #: BuildingProject
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "BuildingProject"
 msgid "Building project {0}"
 msgstr "プロジェクト {0} をビルド中"
 
 #: BuildingArchive
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:18
-#, fuzzy, java-format
+#, java-format
 msgctxt "BuildingArchive"
 msgid "Building archive {0}"
 msgstr "アーカイブ {0} のビルド中"
 
 #: CreatingFolders
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "CreatingFolders"
 msgid "Creating folders"
 msgstr "フォルダーの作成中"
 
 #: BuildingFilesets
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:20
-#, fuzzy, java-format
+#, java-format
 msgctxt "BuildingFilesets"
 msgid "Building filesets"
 msgstr "ファイルセットのビルド中"
 
 #: CannotBuildBadConfiguration
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "CannotBuildBadConfiguration"
 msgid ""
 "Cannot build archive \"{0}\" due to a problem in the archive's configuration."
@@ -241,56 +240,56 @@ msgstr "アーカイブ構成に問題があるためアーカイブ \"{0}\" の
 
 #: CannotBuildOutputLocationNotWriteable
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:22
-#, fuzzy, java-format
+#, java-format
 msgctxt "CannotBuildOutputLocationNotWriteable"
 msgid "Cannot build archive \"{0}. Output location {1} is not writeable."
 msgstr "アーカイブ {0} のビルドできません。出力位置 {1} が書き込み不可です。"
 
 #: ErrorCreatingOutputFile
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorCreatingOutputFile"
 msgid "Error creating output file {0} for node {1}"
 msgstr "ノード {1} の出力ファイル {0} の作成中にエラー"
 
 #: ProjectArchivesIncrementalBuild
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:24
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectArchivesIncrementalBuild"
 msgid "Project Archives Incremental Build"
 msgstr "プロジェクト・アーカイブ差分ビルド"
 
 #: ErrorUpdatingModel
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorUpdatingModel"
 msgid "Error updating model changes"
 msgstr "モデルの変更の更新中にエラー"
 
 #: ErrorUnmarshallingFile
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:26
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorUnmarshallingFile"
 msgid "Error unmarshalling packages file {0}"
 msgstr "パッケージ・ファイル {0} のアンマーシャル中にエラー"
 
 #: ArchivesListenerError
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "ArchivesListenerError"
 msgid "Archives listener error"
 msgstr "アーカイブ・リスナー・エラー"
 
 #: CouldNotCreateScanner
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:28
-#, fuzzy, java-format
+#, java-format
 msgctxt "CouldNotCreateScanner"
 msgid "Could not create directory scanner: {0}"
 msgstr "ディレクトリー・スキャナー: {0} を作成できませんでした"
 
 #: ErrorAddChildNode
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorAddChildNode"
 msgid "Error adding child node {0}"
 msgstr "子ノード {0} の追加中にエラー"
@@ -298,63 +297,63 @@ msgstr "子ノード {0} の追加中にエラー"
 #.
 #: RemovingFileset
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "RemovingFileset"
 msgid "Removing fileset: {0}"
 msgstr "ファイルセット: {0} の削除中"
 
 #: RemovingCountFiles
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:32
-#, fuzzy, java-format
+#, java-format
 msgctxt "RemovingCountFiles"
 msgid "Removing {0} files"
 msgstr "{0} ファイルの削除中"
 
 #: ErrorEmptyingFolder
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorEmptyingFolder"
 msgid "Error emptying folder {0}"
 msgstr "フォルダー {0} の消去中にエラー"
 
 #: ErrorCreatingFile
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:34
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorCreatingFile"
 msgid "Error creating file {0}"
 msgstr "ファイル {0} の作成中にエラー"
 
 #: CopyingCountFiles
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "CopyingCountFiles"
 msgid "Copying {0} files"
 msgstr "{0} ファイルのコピー中"
 
 #: FileCopyFailed
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:36
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileCopyFailed"
 msgid "File copy failed. source={0} destination={1}"
 msgstr "ファイル・コピーに失敗しました。ソース={0} デスティネーション={1}"
 
 #: DeletingCountFiles
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "DeletingCountFiles"
 msgid "Deleting {0} files"
 msgstr "{0} ファイルの削除中"
 
 #: FileDeleteFailed
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:38
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileDeleteFailed"
 msgid "Error deleting file {0}"
 msgstr "ファイル {0} の削除中にエラー"
 
 #: VariableUndefined
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "VariableUndefined"
 msgid "Variable {0} undefined"
 msgstr "変数 {0} は定義されていません"
@@ -362,14 +361,14 @@ msgstr "変数 {0} は定義されていません"
 #.
 #: KeyIsNull
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "KeyIsNull"
 msgid "Key is null in {0}"
 msgstr "{0} でキーは null です"
 
 #: ValueIsNull
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:42
-#, fuzzy, java-format
+#, java-format
 msgctxt "ValueIsNull"
 msgid "Value is null in {0}"
 msgstr "{0} で値は null です"
@@ -378,63 +377,63 @@ msgstr "{0} で値は null です"
 #. Eclipse
 #: RefreshProject
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "RefreshProject"
 msgid "Refresh project {0}"
 msgstr "プロジェクト {0} をリフレッシュします"
 
 #: RefreshProjectFailed
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:46
-#, fuzzy, java-format
+#, java-format
 msgctxt "RefreshProjectFailed"
 msgid "Could not refresh project {0}"
 msgstr "プロジェクト {0} をリフレッシュできません"
 
 #: RegisterProjectFailed
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "RegisterProjectFailed"
 msgid "Could not register project {0}"
 msgstr "プロジェクト {0} を登録できません"
 
 #: RegisterProject
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:48
-#, fuzzy, java-format
+#, java-format
 msgctxt "RegisterProject"
 msgid "Register Project"
 msgstr "プロジェクトの登録"
 
 #: UnregisterProject
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "UnregisterProject"
 msgid "Unregister Project"
 msgstr "プロジェクトの登録削除"
 
 #: SaveArchivesJob
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:50
-#, fuzzy, java-format
+#, java-format
 msgctxt "SaveArchivesJob"
 msgid "Save archives job"
 msgstr "アーカイブ・ジョブの保管"
 
 #: ErrorPreSave
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorPreSave"
 msgid "Problem executing pre-save runnable"
 msgstr "事前保管の実行で問題発生"
 
 #: CreatingDefaultJarConfig
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:52
-#, fuzzy, java-format
+#, java-format
 msgctxt "CreatingDefaultJarConfig"
 msgid "Creating default JAR configuration for java project \"{0}\""
 msgstr "Java プロジェクト \"{0}\" のデフォルト JAR 構成を作成中"
 
 #: UpdatingModelJob
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/org/jboss/ide/eclipse/archives/core/ArchivesCoreMessages.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "UpdatingModelJob"
 msgid "Updating archives model"
 msgstr "アーカイブ・モデルの更新"
@@ -443,21 +442,21 @@ msgstr "アーカイブ・モデルの更新"
 #: Bundle-Vendor.0
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/plugin.properties:2
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Vendor.0"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.core/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "JBossTools Archives Core Plugin"
 msgstr "JBossTools アーカイブ・コア・プラグイン"
 
 #: BuildError
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "BuildError"
 msgid "Error building project archives"
 msgstr "プロジェクト・アーカイブのビルド中にエラー"
@@ -465,7 +464,7 @@ msgstr "プロジェクト・アーカイブのビルド中にエラー"
 #.
 #: BuildError2
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "BuildError2"
 msgid "Error building project archives node {0}"
 msgstr "プロジェクト・アーカイブ・ノード {0} のビルド中にエラー"
@@ -473,7 +472,7 @@ msgstr "プロジェクト・アーカイブ・ノード {0} のビルド中に�
 #.
 #: DoNotShowThisAgain
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "DoNotShowThisAgain"
 msgid "Do not show this message again."
 msgstr "このメッセージを再び表示しない。"
@@ -481,7 +480,7 @@ msgstr "このメッセージを再び表示しない。"
 #.
 #: BuildArchivesNode
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "BuildArchivesNode"
 msgid "Build Archive Node"
 msgstr "アーカイブ・ノードのビルド"
@@ -489,7 +488,7 @@ msgstr "アーカイブ・ノードのビルド"
 #.
 #: SelectAProject
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "SelectAProject"
 msgid "Please select a project"
 msgstr "プロジェクトを選択してください"
@@ -497,7 +496,7 @@ msgstr "プロジェクトを選択してください"
 #.
 #: ProjectArchives
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectArchives"
 msgid "Project Archives"
 msgstr "プロジェクト・アーカイブ"
@@ -505,7 +504,7 @@ msgstr "プロジェクト・アーカイブ"
 #.
 #: Loading
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "Loading"
 msgid "Loading..."
 msgstr "ロード中..."
@@ -513,7 +512,7 @@ msgstr "ロード中..."
 #.
 #: SelectionNotValid
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "SelectionNotValid"
 msgid "Selection not valid."
 msgstr "選択は無効です。"
@@ -521,7 +520,7 @@ msgstr "選択は無効です。"
 #.
 #: Filesystem
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "Filesystem"
 msgid "Filesystem..."
 msgstr "ファイル・システム..."
@@ -529,7 +528,7 @@ msgstr "ファイル・システム..."
 #.
 #: Workspace
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "Workspace"
 msgid "Workspace..."
 msgstr "ワークスペース..."
@@ -537,7 +536,7 @@ msgstr "ワークスペース..."
 #.
 #: Variables
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "Variables"
 msgid "Variables..."
 msgstr "変数..."
@@ -545,7 +544,7 @@ msgstr "変数..."
 #.
 #: RelativeTo
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "RelativeTo"
 msgid "Relative to"
 msgstr "相対位置"
@@ -553,7 +552,7 @@ msgstr "相対位置"
 #.
 #: Workspace2
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "Workspace2"
 msgid "workspace"
 msgstr "ワークスペース"
@@ -561,7 +560,7 @@ msgstr "ワークスペース"
 #.
 #: Filesystem2
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "Filesystem2"
 msgid "file system"
 msgstr "ファイル・システム"
@@ -569,7 +568,7 @@ msgstr "ファイル・システム"
 #.
 #: PathDoesNotExistInFilesystem
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "PathDoesNotExistInFilesystem"
 msgid "{0} does not exist in the filesystem"
 msgstr "{0} はファイル・システムに存在しません"
@@ -577,7 +576,7 @@ msgstr "{0} はファイル・システムに存在しません"
 #.
 #: ErrorConvertingPaths
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorConvertingPaths"
 msgid "Unable to convert workspace path into global path: {0}"
 msgstr "ワークスペース・パスをグローバル・パスに変換できません: {0}"
@@ -585,7 +584,7 @@ msgstr "ワークスペース・パスをグローバル・パスに変換でき
 #.
 #: ErrorStringSubstitution
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorStringSubstitution"
 msgid "Error during string substitution: {0}"
 msgstr "文字列の置き換え中にエラー: {0}"
@@ -593,7 +592,7 @@ msgstr "文字列の置き換え中にエラー: {0}"
 #.
 #: ErrorCompletingWizard
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "ErrorCompletingWizard"
 msgid "Error Completing Wizard"
 msgstr "ウィザードの完了中にエラー"
@@ -601,7 +600,7 @@ msgstr "ウィザードの完了中にエラー"
 #.
 #: FilesetWizard
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetWizard"
 msgid "Fileset Wizard"
 msgstr "ファイルセット・ウィザード"
@@ -609,7 +608,7 @@ msgstr "ファイルセット・ウィザード"
 #.
 #: DefaultJarConfiguration
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultJarConfiguration"
 msgid "Default JAR Configuration"
 msgstr "デフォルト JAR 構成"
@@ -617,7 +616,7 @@ msgstr "デフォルト JAR 構成"
 #.
 #: Preview
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "Preview"
 msgid "Preview"
 msgstr "プレビュー"
@@ -625,7 +624,7 @@ msgstr "プレビュー"
 #.
 #: UseDefaultJARConfiguration
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "UseDefaultJARConfiguration"
 msgid "Use default JAR configuration"
 msgstr "デフォルト JAR 構成の使用"
@@ -633,7 +632,7 @@ msgstr "デフォルト JAR 構成の使用"
 #.
 #: Flatten
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "Flatten"
 msgid "Flatten?"
 msgstr "平坦表示?"
@@ -641,7 +640,7 @@ msgstr "平坦表示?"
 #.
 #: Yes
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "Yes"
 msgid "Yes"
 msgstr "はい"
@@ -649,7 +648,7 @@ msgstr "はい"
 #.
 #: No
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "No"
 msgid "No"
 msgstr "いいえ"
@@ -657,7 +656,7 @@ msgstr "いいえ"
 #.
 #: ProjectPackagesView_noProjectSelectedMessage
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_noProjectSelectedMessage"
 msgid "Please select an opened project or resource."
 msgstr "開いたプロジェクトまたはリソースを選択してください。"
@@ -665,7 +664,7 @@ msgstr "開いたプロジェクトまたはリソースを選択してくださ
 #.
 #: ProjectPackagesView_noPackagesDefinedMessage
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_noPackagesDefinedMessage"
 msgid "No archives have been defined for the project \"{0}\"."
 msgstr "プロジェクト \"{0}\" にはアーカイブが定義されていません。"
@@ -673,7 +672,7 @@ msgstr "プロジェクト \"{0}\" にはアーカイブが定義されていま
 #.
 #: ProjectPackagesView_createPackagesMessage
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_createPackagesMessage"
 msgid "Project has no defined archives. Create an Archive:"
 msgstr ""
@@ -682,7 +681,7 @@ msgstr ""
 #.
 #: ProjectPackagesView_newPackageMenu_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_newPackageMenu_label"
 msgid "New Archive"
 msgstr "新規アーカイブ"
@@ -690,7 +689,7 @@ msgstr "新規アーカイブ"
 #.
 #: ProjectPackagesView_newFolderAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_newFolderAction_label"
 msgid "New Folder"
 msgstr "新規フォルダー"
@@ -698,7 +697,7 @@ msgstr "新規フォルダー"
 #.
 #: ProjectPackagesView_newFilesetAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_newFilesetAction_label"
 msgid "New Fileset"
 msgstr "新規ファイルセット"
@@ -706,7 +705,7 @@ msgstr "新規ファイルセット"
 #.
 #: ProjectPackagesView_newActionAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_newActionAction_label"
 msgid "New Action"
 msgstr "新規アクション"
@@ -714,7 +713,7 @@ msgstr "新規アクション"
 #.
 #: ProjectPackagesView_collapseAllAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_collapseAllAction_label"
 msgid "Collapse All"
 msgstr "すべて縮小表示"
@@ -722,7 +721,7 @@ msgstr "すべて縮小表示"
 #.
 #: ProjectPackagesView_deletePackageAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_deletePackageAction_label"
 msgid "Delete Archive"
 msgstr "アーカイブの削除"
@@ -730,7 +729,7 @@ msgstr "アーカイブの削除"
 #.
 #: ProjectPackagesView_deleteFilesetAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_deleteFilesetAction_label"
 msgid "Delete Fileset"
 msgstr "ファイルセットの削除"
@@ -738,7 +737,7 @@ msgstr "ファイルセットの削除"
 #.
 #: ProjectPackagesView_deleteFolderAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_deleteFolderAction_label"
 msgid "Delete Folder"
 msgstr "フォルダーの削除"
@@ -746,7 +745,7 @@ msgstr "フォルダーの削除"
 #.
 #: ProjectPackagesView_deleteActionAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_deleteActionAction_label"
 msgid "Delete Action"
 msgstr "アクションの削除"
@@ -754,7 +753,7 @@ msgstr "アクションの削除"
 #.
 #: ProjectPackagesView_editPackageAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_editPackageAction_label"
 msgid "Edit Archive"
 msgstr "アーカイブの編集"
@@ -762,7 +761,7 @@ msgstr "アーカイブの編集"
 #.
 #: ProjectPackagesView_editFolderAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_editFolderAction_label"
 msgid "Edit Folder"
 msgstr "フォルダーの編集"
@@ -770,7 +769,7 @@ msgstr "フォルダーの編集"
 #.
 #: ProjectPackagesView_editFilesetAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_editFilesetAction_label"
 msgid "Edit Fileset"
 msgstr "ファイルセットの編集"
@@ -778,7 +777,7 @@ msgstr "ファイルセットの編集"
 #.
 #: ProjectPackagesView_editActionAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_editActionAction_label"
 msgid "Edit Action"
 msgstr "アクションの編集"
@@ -786,7 +785,7 @@ msgstr "アクションの編集"
 #.
 #: ProjectPackagesView_buildArchiveAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:89
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_buildArchiveAction_label"
 msgid "Build Archive (Full)"
 msgstr "アーカイブのビルド (全部)"
@@ -794,7 +793,7 @@ msgstr "アーカイブのビルド (全部)"
 #.
 #: ProjectPackagesView_buildProjectAction_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_buildProjectAction_label"
 msgid "Build Project (Full)"
 msgstr "プロジェクトのビルド (全部)"
@@ -802,7 +801,7 @@ msgstr "プロジェクトのビルド (全部)"
 #.
 #: ProjectPackagesView_createFolderDialog_title
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_createFolderDialog_title"
 msgid "Create a folder"
 msgstr "フォルダーの作成"
@@ -810,7 +809,7 @@ msgstr "フォルダーの作成"
 #.
 #: ProjectPackagesView_createFolderDialog_message
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_createFolderDialog_message"
 msgid "Name of the folder to create"
 msgstr "作成するフォルダーの名前"
@@ -818,7 +817,7 @@ msgstr "作成するフォルダーの名前"
 #.
 #: ProjectPackagesView_createFolderDialog_warnFolderExists
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:97
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView_createFolderDialog_warnFolderExists"
 msgid "The folder \"{0}\" already exists."
 msgstr "フォルダー \"{0}\" は既に存在します。"
@@ -826,7 +825,7 @@ msgstr "フォルダー \"{0}\" は既に存在します。"
 #.
 #: FilesetInfoWizardPage_new_message
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_new_message"
 msgid "Create a new fileset consisting of one or more files"
 msgstr "１つ以上のファイルからなるファイルセットを作成します"
@@ -834,7 +833,7 @@ msgstr "１つ以上のファイルからなるファイルセットを作成し
 #.
 #: FilesetInfoWizardPage_new_title
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:103
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_new_title"
 msgid "New Fileset"
 msgstr "新規ファイルセット"
@@ -842,7 +841,7 @@ msgstr "新規ファイルセット"
 #.
 #: FilesetInfoWizardPage_edit_message
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:105
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_edit_message"
 msgid "Edit an existing fileset"
 msgstr "既存のファイルセットの編集"
@@ -850,7 +849,7 @@ msgstr "既存のファイルセットの編集"
 #.
 #: FilesetInfoWizardPage_edit_title
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:107
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_edit_title"
 msgid "Edit Fileset"
 msgstr "ファイルセットの編集"
@@ -858,7 +857,7 @@ msgstr "ファイルセットの編集"
 #.
 #: FilesetInfoWizardPage_infoGroup_title
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:109
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_infoGroup_title"
 msgid "Fileset information"
 msgstr "ファイルセット情報"
@@ -866,7 +865,7 @@ msgstr "ファイルセット情報"
 #.
 #: FilesetInfoWizardPage_destination_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:111
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_destination_label"
 msgid "Destination:"
 msgstr "宛先:"
@@ -874,7 +873,7 @@ msgstr "宛先:"
 #.
 #: FilesetInfoWizardPage_multipleFilesButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:113
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_multipleFilesButton_label"
 msgid "Create a fileset that has multiple files"
 msgstr "複数のファイルからなるファイルセットを作成します"
@@ -882,7 +881,7 @@ msgstr "複数のファイルからなるファイルセットを作成します
 #.
 #: FilesetInfoWizardPage_singleFileButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:115
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_singleFileButton_label"
 msgid "Create a fileset that has just one file"
 msgstr "１つのファイルからなるファイルセットを作成します"
@@ -890,7 +889,7 @@ msgstr "１つのファイルからなるファイルセットを作成します
 #.
 #: FilesetInfoWizardPage_rootProject_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:117
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_rootProject_label"
 msgid "Root project:"
 msgstr "ルート・プロジェクト:"
@@ -898,7 +897,7 @@ msgstr "ルート・プロジェクト:"
 #.
 #: FilesetInfoWizardPage_rootDirectory_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:119
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_rootDirectory_label"
 msgid "Root directory:"
 msgstr "ルート・ディレクトリー:"
@@ -906,7 +905,7 @@ msgstr "ルート・ディレクトリー:"
 #.
 #: FilesetInfoWizardPage_rootDirWorkspaceBrowseButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:121
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_rootDirWorkspaceBrowseButton_label"
 msgid "Workspace..."
 msgstr "ワークスペース..."
@@ -914,7 +913,7 @@ msgstr "ワークスペース..."
 #.
 #: FilesetInfoWizardPage_rootDirFilesystemBrowseButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:123
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_rootDirFilesystemBrowseButton_label"
 msgid "Filesystem..."
 msgstr "ファイル・システム..."
@@ -922,7 +921,7 @@ msgstr "ファイル・システム..."
 #.
 #: FilesetInfoWizardPage_includes_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:125
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_includes_label"
 msgid "Includes:"
 msgstr "含む:"
@@ -930,7 +929,7 @@ msgstr "含む:"
 #.
 #: FilesetInfoWizardPage_excludes_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:127
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_excludes_label"
 msgid "Excludes:"
 msgstr "除外:"
@@ -938,7 +937,7 @@ msgstr "除外:"
 #.
 #: FilesetInfoWizardPage_singleFileProject_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:129
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_singleFileProject_label"
 msgid "Project:"
 msgstr "プロジェクト:"
@@ -946,7 +945,7 @@ msgstr "プロジェクト:"
 #.
 #: FilesetInfoWizardPage_singleFile_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:131
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_singleFile_label"
 msgid "File:"
 msgstr "ファイル:"
@@ -954,7 +953,7 @@ msgstr "ファイル:"
 #.
 #: FilesetInfoWizardPage_fileWorkspaceBrowseButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:133
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_fileWorkspaceBrowseButton_label"
 msgid "Workspace..."
 msgstr "ワークスペース..."
@@ -962,7 +961,7 @@ msgstr "ワークスペース..."
 #.
 #: FilesetInfoWizardPage_fileFilesystemBrowseButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:135
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_fileFilesystemBrowseButton_label"
 msgid "Filesystem..."
 msgstr "ファイル・システム..."
@@ -970,7 +969,7 @@ msgstr "ファイル・システム..."
 #.
 #: FilesetInfoWizardPage_previewGroup_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:137
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_previewGroup_label"
 msgid "Preview"
 msgstr "プレビュー"
@@ -978,7 +977,7 @@ msgstr "プレビュー"
 #.
 #: FilesetInfoWizardPage_noProjectMessage
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:139
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_noProjectMessage"
 msgid "N/A"
 msgstr "該当なし"
@@ -986,7 +985,7 @@ msgstr "該当なし"
 #.
 #: FilesetInfoWizardPage_rootDirWorkspaceBrowser_message
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:141
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_rootDirWorkspaceBrowser_message"
 msgid "Select a root directory for this fileset"
 msgstr "このファイルセットのルート・ディレクトリを選択してください"
@@ -994,7 +993,7 @@ msgstr "このファイルセットのルート・ディレクトリを選択し
 #.
 #: FilesetInfoWizardPage_fileWorkspaceBrowser_title
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:143
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_fileWorkspaceBrowser_title"
 msgid "Select file"
 msgstr "ファイルの選択"
@@ -1002,7 +1001,7 @@ msgstr "ファイルの選択"
 #.
 #: FilesetInfoWizardPage_fileWorkspaceBrowser_message
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:145
-#, fuzzy, java-format
+#, java-format
 msgctxt "FilesetInfoWizardPage_fileWorkspaceBrowser_message"
 msgid "Select a file for this fileset"
 msgstr "このファイルセットのファイルを選択してください"
@@ -1010,7 +1009,7 @@ msgstr "このファイルセットのファイルを選択してください"
 #.
 #: PackageInfoWizardPage_title
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:149
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_title"
 msgid "Create a new archive"
 msgstr "新規アーカイブを作成します"
@@ -1018,7 +1017,7 @@ msgstr "新規アーカイブを作成します"
 #.
 #: PackageInfoWizardPage_message
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:151
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_message"
 msgid "Create a new archive consisting of filesets in the workspace."
 msgstr "ワークスペースにファイルセットから成る新規アーカイブを作成します。"
@@ -1026,7 +1025,7 @@ msgstr "ワークスペースにファイルセットから成る新規アーカ
 #.
 #: PackageInfoWizardPage_infoGroup_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:153
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_infoGroup_label"
 msgid "Archive information"
 msgstr "アーカイブ情報"
@@ -1034,7 +1033,7 @@ msgstr "アーカイブ情報"
 #.
 #: PackageInfoWizardPage_packageName_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:155
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_packageName_label"
 msgid "Archive name:"
 msgstr "アーカイブ名:"
@@ -1042,7 +1041,7 @@ msgstr "アーカイブ名:"
 #.
 #: PackageInfoWizardPage_destination_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:157
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_destination_label"
 msgid "Destination:"
 msgstr "宛先:"
@@ -1050,7 +1049,7 @@ msgstr "宛先:"
 #.
 #: PackageInfoWizardPage_manifestBrowseButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:159
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_manifestBrowseButton_label"
 msgid "Browse..."
 msgstr "参照..."
@@ -1058,7 +1057,7 @@ msgstr "参照..."
 #.
 #: PackageInfoWizardPage_packageTypeGroup_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:161
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_packageTypeGroup_label"
 msgid "Archive type"
 msgstr "アーカイブ・タイプ"
@@ -1066,7 +1065,7 @@ msgstr "アーカイブ・タイプ"
 #.
 #: PackageInfoWizardPage_compressedButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:163
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_compressedButton_label"
 msgid "Standard archive using zip compression"
 msgstr "ZIP 圧縮を使用した標準アーカイブ"
@@ -1074,7 +1073,7 @@ msgstr "ZIP 圧縮を使用した標準アーカイブ"
 #.
 #: PackageInfoWizardPage_explodedButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:165
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_explodedButton_label"
 msgid "Exploded archive resulting in a folder (no compression)"
 msgstr "フォルダーへの展開型アーカイブ (圧縮なし)"
@@ -1082,7 +1081,7 @@ msgstr "フォルダーへの展開型アーカイブ (圧縮なし)"
 #.
 #: PackageInfoWizardPage_error_noPackageName
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:167
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_error_noPackageName"
 msgid "Please enter a archive name"
 msgstr "アーカイブ名を入力してください"
@@ -1090,7 +1089,7 @@ msgstr "アーカイブ名を入力してください"
 #.
 #: PackageInfoWizardPage_error_packageAlreadyExists
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:169
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_error_packageAlreadyExists"
 msgid "The archive \"{0}\" already exists."
 msgstr "アーカイブ \"{0}\" は既に存在します。"
@@ -1098,7 +1097,7 @@ msgstr "アーカイブ \"{0}\" は既に存在します。"
 #.
 #: PackageInfoWizardPage_error_noDestination
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:171
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageInfoWizardPage_error_noDestination"
 msgid "There is no destination selected for this archive."
 msgstr "このアーカイブには選択された宛先がありません。"
@@ -1106,7 +1105,7 @@ msgstr "このアーカイブには選択された宛先がありません。"
 #.
 #: PackageNodeDestinationComposite_destinationBrowseButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:175
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageNodeDestinationComposite_destinationBrowseButton_label"
 msgid "Browse..."
 msgstr "参照..."
@@ -1114,7 +1113,7 @@ msgstr "参照..."
 #.
 #: PackageDestinationComposite_filesystemBrowseButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:179
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageDestinationComposite_filesystemBrowseButton_label"
 msgid "Filesystem..."
 msgstr "ファイル・システム..."
@@ -1122,7 +1121,7 @@ msgstr "ファイル・システム..."
 #.
 #: PackageDestinationComposite_workspaceBrowseButton_label
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:181
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageDestinationComposite_workspaceBrowseButton_label"
 msgid "Workspace..."
 msgstr "ワークスペース..."
@@ -1130,7 +1129,7 @@ msgstr "ワークスペース..."
 #.
 #: NewJARWizard_windowTitle
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:185
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewJARWizard_windowTitle"
 msgid "New JAR"
 msgstr "新規 JAR"
@@ -1138,7 +1137,7 @@ msgstr "新規 JAR"
 #.
 #: NewJARWizard_windowTitle_editJAR
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:187
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewJARWizard_windowTitle_editJAR"
 msgid "Edit Archive"
 msgstr "アーカイブの編集"
@@ -1146,7 +1145,7 @@ msgstr "アーカイブの編集"
 #.
 #: PackagesLabelProvider_filesetProperty_destination
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:191
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackagesLabelProvider_filesetProperty_destination"
 msgid "Destination :"
 msgstr "宛先 :"
@@ -1154,7 +1153,7 @@ msgstr "宛先 :"
 #.
 #: PackagesLabelProvider_filesetProperty_sourceFolder
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:193
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackagesLabelProvider_filesetProperty_sourceFolder"
 msgid "Source Folder :"
 msgstr "ソース・フォルダー :"
@@ -1162,7 +1161,7 @@ msgstr "ソース・フォルダー :"
 #.
 #: PackagesLabelProvider_filesetProperty_excludes
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:195
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackagesLabelProvider_filesetProperty_excludes"
 msgid "Excludes :"
 msgstr "除外 :"
@@ -1170,7 +1169,7 @@ msgstr "除外 :"
 #.
 #: PackagesLabelProvider_filesetProperty_includes
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:197
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackagesLabelProvider_filesetProperty_includes"
 msgid "Includes :"
 msgstr "含む :"
@@ -1178,7 +1177,7 @@ msgstr "含む :"
 #.
 #: PackagesLabelProvider_filesetProperty_project
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:199
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackagesLabelProvider_filesetProperty_project"
 msgid "Project :"
 msgstr "プロジェクト :"
@@ -1186,7 +1185,7 @@ msgstr "プロジェクト :"
 #.
 #: PackagesLabelProvider_filesetProperty_file
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:201
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackagesLabelProvider_filesetProperty_file"
 msgid "File :"
 msgstr "ファイル :"
@@ -1194,7 +1193,7 @@ msgstr "ファイル :"
 #.
 #: PackagesLabelProvider_filesetProperty_dir
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:205
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackagesLabelProvider_filesetProperty_dir"
 msgid "Dir :"
 msgstr "ディレクトリー :"
@@ -1202,7 +1201,7 @@ msgstr "ディレクトリー :"
 #.
 #: PackageNodeDestinationDialog_messagePrefix
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:209
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageNodeDestinationDialog_messagePrefix"
 msgid "Please select a destination for this"
 msgstr "宛先を選択してください"
@@ -1210,7 +1209,7 @@ msgstr "宛先を選択してください"
 #.
 #: PackageNodeDestinationDialog_packageLabel
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:211
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageNodeDestinationDialog_packageLabel"
 msgid "archive"
 msgstr "アーカイブ"
@@ -1218,7 +1217,7 @@ msgstr "アーカイブ"
 #.
 #: PackageNodeDestinationDialog_filesetLabel
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:213
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageNodeDestinationDialog_filesetLabel"
 msgid "fileset"
 msgstr "ファイルセット"
@@ -1226,7 +1225,7 @@ msgstr "ファイルセット"
 #.
 #: PackageNodeDestinationDialog_folderLabel
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:215
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageNodeDestinationDialog_folderLabel"
 msgid "folder"
 msgstr "フォルダー"
@@ -1234,7 +1233,7 @@ msgstr "フォルダー"
 #.
 #: PackageNodeDestinationDialog_title
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:217
-#, fuzzy, java-format
+#, java-format
 msgctxt "PackageNodeDestinationDialog_title"
 msgid "Select a destination"
 msgstr "宛先を選択してください"
@@ -1242,7 +1241,7 @@ msgstr "宛先を選択してください"
 #.
 #: PreferencePageTitle
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:221
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePageTitle"
 msgid "Project Archives"
 msgstr "プロジェクト・アーカイブ"
@@ -1250,7 +1249,7 @@ msgstr "プロジェクト・アーカイブ"
 #.
 #: ProjectSpecificSettings
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:223
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectSpecificSettings"
 msgid "Enable Project Specific Settings"
 msgstr "プロジェクト固有の設定を可能にする"
@@ -1258,7 +1257,7 @@ msgstr "プロジェクト固有の設定を可能にする"
 #.
 #: CorePreferences
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:225
-#, fuzzy, java-format
+#, java-format
 msgctxt "CorePreferences"
 msgid "Core Preferences"
 msgstr "コア設定"
@@ -1266,7 +1265,7 @@ msgstr "コア設定"
 #.
 #: ProjectExplorerPreferences
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:227
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectExplorerPreferences"
 msgid "Project Explorer Preferences"
 msgstr "プロジェクト・エクスプローラ設定"
@@ -1274,7 +1273,7 @@ msgstr "プロジェクト・エクスプローラ設定"
 #.
 #: EnableIncrementalBuilder
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:229
-#, fuzzy, java-format
+#, java-format
 msgctxt "EnableIncrementalBuilder"
 msgid "Enable incremental builder"
 msgstr "インクリメンタル・ビルダーを使用可能にする"
@@ -1282,7 +1281,7 @@ msgstr "インクリメンタル・ビルダーを使用可能にする"
 #.
 #: ShowBuildErrorDialog
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:231
-#, fuzzy, java-format
+#, java-format
 msgctxt "ShowBuildErrorDialog"
 msgid "Show build error dialog"
 msgstr "ビルド・エラー・ダイアログを表示"
@@ -1290,7 +1289,7 @@ msgstr "ビルド・エラー・ダイアログを表示"
 #.
 #: EnableNodeAlways
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:233
-#, fuzzy, java-format
+#, java-format
 msgctxt "EnableNodeAlways"
 msgid "Show node in all projects"
 msgstr "すべてのプロジェクトのノードを表示"
@@ -1298,7 +1297,7 @@ msgstr "すべてのプロジェクトのノードを表示"
 #.
 #: ProjectPackagesView
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:235
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPackagesView"
 msgid "Project Archives View"
 msgstr "プロジェクト・アーカイブ"
@@ -1306,7 +1305,7 @@ msgstr "プロジェクト・アーカイブ"
 #.
 #: ShowOutputPath
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:237
-#, fuzzy, java-format
+#, java-format
 msgctxt "ShowOutputPath"
 msgid "Show output path next to packages."
 msgstr "パッケージの次に出力パスを表示"
@@ -1314,7 +1313,7 @@ msgstr "パッケージの次に出力パスを表示"
 #.
 #: ShowRootDirectory
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:239
-#, fuzzy, java-format
+#, java-format
 msgctxt "ShowRootDirectory"
 msgid "Show the root directory of filesets."
 msgstr "ファイルセットのルート・ディレクトリを表示"
@@ -1322,7 +1321,7 @@ msgstr "ファイルセットのルート・ディレクトリを表示"
 #.
 #: ShowRootProject
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:241
-#, fuzzy, java-format
+#, java-format
 msgctxt "ShowRootProject"
 msgid "Show project at the root"
 msgstr "ルートのプロジェクトを表示"
@@ -1330,7 +1329,7 @@ msgstr "ルートのプロジェクトを表示"
 #.
 #: ShowAllProjects
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:243
-#, fuzzy, java-format
+#, java-format
 msgctxt "ShowAllProjects"
 msgid "Show all projects that contain packages"
 msgstr "パッケージを含むすべてのプロジェクトを表示"
@@ -1338,7 +1337,7 @@ msgstr "パッケージを含むすべてのプロジェクトを表示"
 #.
 #: ArchivesVariables
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:245
-#, fuzzy, java-format
+#, java-format
 msgctxt "ArchivesVariables"
 msgid "Archives Variables"
 msgstr "アーカイブ変数"
@@ -1346,7 +1345,7 @@ msgstr "アーカイブ変数"
 #.
 #: VariablesGroup
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:247
-#, fuzzy, java-format
+#, java-format
 msgctxt "VariablesGroup"
 msgid "Enabled Variables"
 msgstr "使用可能な変数"
@@ -1354,7 +1353,7 @@ msgstr "使用可能な変数"
 #.
 #: Add
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:249
-#, fuzzy, java-format
+#, java-format
 msgctxt "Add"
 msgid "Add"
 msgstr "追加"
@@ -1362,7 +1361,7 @@ msgstr "追加"
 #.
 #: Edit
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:251
-#, fuzzy, java-format
+#, java-format
 msgctxt "Edit"
 msgid "Edit"
 msgstr "編集"
@@ -1370,7 +1369,7 @@ msgstr "編集"
 #.
 #: Remove
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:253
-#, fuzzy, java-format
+#, java-format
 msgctxt "Remove"
 msgid "Remove"
 msgstr "除去"
@@ -1378,7 +1377,7 @@ msgstr "除去"
 #.
 #: Enable
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:255
-#, fuzzy, java-format
+#, java-format
 msgctxt "Enable"
 msgid "Enable"
 msgstr "使用可能"
@@ -1386,7 +1385,7 @@ msgstr "使用可能"
 #.
 #: Disable
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:257
-#, fuzzy, java-format
+#, java-format
 msgctxt "Disable"
 msgid "Disable"
 msgstr "使用不可"
@@ -1394,7 +1393,7 @@ msgstr "使用不可"
 #.
 #: MoveUp
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:259
-#, fuzzy, java-format
+#, java-format
 msgctxt "MoveUp"
 msgid "Move Up"
 msgstr "上へ移動"
@@ -1402,49 +1401,49 @@ msgstr "上へ移動"
 #.
 #: MoveDown
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/org/jboss/ide/eclipse/archives/ui/ArchivesUIMessages.properties:261
-#, fuzzy, java-format
+#, java-format
 msgctxt "MoveDown"
 msgid "Move Down"
 msgstr "下へ移動"
 
 #: PreferencePage_ProjectArchives
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_ProjectArchives"
 msgid "Project Archives"
 msgstr "プロジェクト・アーカイブ"
 
 #: ProjectPropertiesPage_ProjectArchives
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "ProjectPropertiesPage_ProjectArchives"
 msgid "Project Archives"
 msgstr "プロジェクト・アーカイブ"
 
 #: ViewName_ProjectArchives
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "ViewName_ProjectArchives"
 msgid "Project archives"
 msgstr "プロジェクト・アーカイブ"
 
 #: ViewCategory_JBossTools
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/plugin.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "ViewCategory_JBossTools"
 msgid "JBoss Tools"
 msgstr "JBoss Tools"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/plugin.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "JBoss Archives Tools"
 msgstr "JBoss アーカイブ Tools"
 
 #: newPackageAction.label.jar
 #: ../../WORK/modules/archives/plugins/org.jboss.ide.eclipse.archives.ui/plugin.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "newPackageAction.label.jar"
 msgid "JAR"
 msgstr "JAR"

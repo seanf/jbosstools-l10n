@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -19,14 +18,14 @@ msgstr ""
 #. properties file for org.jboss.tools.jmx
 #: featureName
 #: ../../WORK/modules/jmx/features/org.jboss.tools.jmx.feature/feature.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "JMX Console"
 msgstr "JMX コンソール"
 
 #: featureProvider
 #: ../../WORK/modules/jmx/features/org.jboss.tools.jmx.feature/feature.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureProvider"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -35,7 +34,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/jmx/features/org.jboss.tools.jmx.feature/feature.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -44,7 +43,7 @@ msgstr "JBossTools Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/jmx/features/org.jboss.tools.jmx.feature/feature.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid ""
 "eclipse-jmx is a JMX console which is used to manage Java applications "
@@ -60,7 +59,7 @@ msgstr ""
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/jmx/features/org.jboss.tools.jmx.feature/feature.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "license.html"
 msgstr "license.html"
@@ -70,7 +69,7 @@ msgstr "license.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/jmx/features/org.jboss.tools.jmx.feature/feature.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
@@ -317,70 +316,70 @@ msgstr ""
 
 #: ConnectJob
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "ConnectJob"
 msgid "Connect Job"
 msgstr "接続ジョブ"
 
 #: ConnectJobFailed
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "ConnectJobFailed"
 msgid "An error occurred while opening the connection."
 msgstr "接続のオープン時にエラーが発生しました。"
 
 #: DisconnectJob
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "DisconnectJob"
 msgid "Disconnect Job"
 msgstr "切断ジョブ"
 
 #: DeleteConnectionJob
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "DeleteConnectionJob"
 msgid "Delete JMX Connection Job"
 msgstr "JMX 接続の削除ジョブ"
 
 #: DisconnectJobFailed
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "DisconnectJobFailed"
 msgid "An error occurred while closing the connection."
 msgstr "接続のクローズ時にエラーが発生しました。"
 
 #: ExtensionManagerError1
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "ExtensionManagerError1"
 msgid "An error occurred while loading a connection provider."
 msgstr "接続プロバイダーのロード時にエラーが発生しました。"
 
 #: DefaultConnection_ErrorLoading
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnection_ErrorLoading"
 msgid "Error loading connection "
 msgstr "接続のロードエラー"
 
 #: DefaultConnection_ErrorAdding
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnection_ErrorAdding"
 msgid "Error adding connection."
 msgstr "接続の追加エラー。"
 
 #: DefaultConnection_ErrorRemoving
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnection_ErrorRemoving"
 msgid "Error removing connection."
 msgstr "接続の削除エラー。"
 
 #: DefaultConnection_ErrorRunningJMXCode
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/org/jboss/tools/jmx/core/JMXCoreMessages.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnection_ErrorRunningJMXCode"
 msgid "Error executing JMX request."
 msgstr "JMX リクエストの実行エラー。"
@@ -389,21 +388,21 @@ msgstr "JMX リクエストの実行エラー。"
 #: BundleProvider
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/plugin.properties:2
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleProvider"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
 
 #: BundleName
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.core/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleName"
 msgid "JMX Resources Bundle"
 msgstr "JMX リソース・バンドル"
 
 #: blurb
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "JMX Console\n"
@@ -420,35 +419,35 @@ msgstr ""
 
 #: NewConnectionAction
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewConnectionAction"
 msgid "New Connection..."
 msgstr "新規接続..."
 
 #: NewConnectionWizard
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewConnectionWizard"
 msgid "New Connection Wizard"
 msgstr "新規接続ウィザード"
 
 #: NewConnectionWizard_CreateNewConnection
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewConnectionWizard_CreateNewConnection"
 msgid "Create a new JMX Connection"
 msgstr "新規 JMX 接続を作成します"
 
 #: DefaultConnectionWizardPage_Title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Title"
 msgid "Create JMX Connection"
 msgstr "JMX 接続の作成"
 
 #: DefaultConnectionWizardPage_Description
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Description"
 msgid ""
 "Create a new Default JMX Connection type by filling out either the Simple or "
@@ -457,63 +456,63 @@ msgstr "単純タブか拡張タブで入力してデフォルト JMX 接続を�
 
 #: DefaultConnectionWizardPage_Simple
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Simple"
 msgid "Simple"
 msgstr "単純"
 
 #: DefaultConnectionWizardPage_Advanced
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Advanced"
 msgid "Advanced"
 msgstr "拡張"
 
 #: DefaultConnectionWizardPage_Name
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Name"
 msgid "Name"
 msgstr "名前"
 
 #: DefaultConnectionWizardPage_Default_Name
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Default_Name"
 msgid "JMX Server"
 msgstr "JMX サーバー"
 
 #: DefaultConnectionWizardPage_Host
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Host"
 msgid "Host"
 msgstr "ホスト"
 
 #: DefaultConnectionWizardPage_Port
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Port"
 msgid "Port"
 msgstr "ポート"
 
 #: DefaultConnectionWizardPage_Username
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Username"
 msgid "Username"
 msgstr "ユーザー名"
 
 #: DefaultConnectionWizardPage_Password
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_Password"
 msgid "Password"
 msgstr "パスワード"
 
 #: DefaultConnectionWizardPage_JMX_URL
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:14
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultConnectionWizardPage_JMX_URL"
 msgid "JMX URL"
 msgstr "JMX URL"
@@ -521,140 +520,140 @@ msgstr "JMX URL"
 #.
 #: AttributeControlFactory_updateButtonTitle
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:16
-#, fuzzy, java-format
+#, java-format
 msgctxt "AttributeControlFactory_updateButtonTitle"
 msgid "Update"
 msgstr "更新"
 
 #: AttributeDetails_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "AttributeDetails_title"
 msgid "Attribute Details"
 msgstr "属性の詳細"
 
 #: AttributeDetailsSection_errorTitle
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:18
-#, fuzzy, java-format
+#, java-format
 msgctxt "AttributeDetailsSection_errorTitle"
 msgid "Error"
 msgstr "エラー"
 
 #: AttributesPage_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "AttributesPage_title"
 msgid "Attributes"
 msgstr "属性"
 
 #: AttributesSection_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:20
-#, fuzzy, java-format
+#, java-format
 msgctxt "AttributesSection_title"
 msgid "All Attributes"
 msgstr "すべての属性"
 
 #: className
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "className"
 msgid "Class Name"
 msgstr "クラス名"
 
 #: description
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:22
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "Description"
 msgstr "説明"
 
 #: domain
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "domain"
 msgid "Domain"
 msgstr "ドメイン"
 
 #: general
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:24
-#, fuzzy, java-format
+#, java-format
 msgctxt "general"
 msgid "General"
 msgstr "一般"
 
 #: horizontal
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "horizontal"
 msgid "horizontal"
 msgstr "水平"
 
 #: impact
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:26
-#, fuzzy, java-format
+#, java-format
 msgctxt "impact"
 msgid "Impact"
 msgstr "インパクト"
 
 #: InfoPage_notificationsSectionTitle
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "InfoPage_notificationsSectionTitle"
 msgid "Notifications"
 msgstr "通知"
 
 #: InfoPage_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:28
-#, fuzzy, java-format
+#, java-format
 msgctxt "InfoPage_title"
 msgid "Info"
 msgstr "情報"
 
 #: InvocationResultDialog_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "InvocationResultDialog_title"
 msgid "Result"
 msgstr "結果"
 
 #: key
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:30
-#, fuzzy, java-format
+#, java-format
 msgctxt "key"
 msgid "Key"
 msgstr "キー"
 
 #: MBeanAttributeValue_Warning
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "MBeanAttributeValue_Warning"
 msgid "Unable to retrieve value for attribute {0}"
 msgstr "属性 {0} の値を取得することができません"
 
 #: MBeanServerConnectAction_text
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:32
-#, fuzzy, java-format
+#, java-format
 msgctxt "MBeanServerConnectAction_text"
 msgid "Connect..."
 msgstr "接続..."
 
 #: MBeanServerDisconnectAction_text
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "MBeanServerDisconnectAction_text"
 msgid "Disconnect"
 msgstr "切断"
 
 #: MBeanServerDisconnectAction_dialogTitle
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:34
-#, fuzzy, java-format
+#, java-format
 msgctxt "MBeanServerDisconnectAction_dialogTitle"
 msgid "JMX Disconnection"
 msgstr "JMX 切断"
 
 #: MBeanServerDisconnectAction_dialogText
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "MBeanServerDisconnectAction_dialogText"
 msgid ""
 "You are managing MBeans from this server.\n"
@@ -669,245 +668,245 @@ msgstr ""
 
 #: name
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:38
-#, fuzzy, java-format
+#, java-format
 msgctxt "name"
 msgid "Name"
 msgstr "名前"
 
 #: NotificationsPage_clearActionToolTip
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_clearActionToolTip"
 msgid "Clear received notifications"
 msgstr "受信した通知をクリア"
 
 #: NotificationsPage_message
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:40
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_message"
 msgid "Message"
 msgstr "メッセージ"
 
 #: NotificationsPage_sequenceNumber
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_sequenceNumber"
 msgid "Sequence Number"
 msgstr "シーケンス番号"
 
 #: NotificationsPage_source
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:42
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_source"
 msgid "Source"
 msgstr "ソース"
 
 #: NotificationsPage_subscribeActionToolTip
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_subscribeActionToolTip"
 msgid "Subscribe to receive notifications"
 msgstr "通知のサブスクライブ"
 
 #: NotificationsPage_timestamp
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:44
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_timestamp"
 msgid "Timestamp"
 msgstr "タイムスタンプ"
 
 #: NotificationsPage_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_title"
 msgid "Notifications"
 msgstr "通知"
 
 #: NotificationsPage_type
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:46
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_type"
 msgid "Type"
 msgstr "型"
 
 #: NotificationsPage_userData
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "NotificationsPage_userData"
 msgid "User Data"
 msgstr "ユーザー・データ"
 
 #: objectName
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:48
-#, fuzzy, java-format
+#, java-format
 msgctxt "objectName"
 msgid "Object Name"
 msgstr "オブジェクト名"
 
 #: OpenMBeanAction_description
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenMBeanAction_description"
 msgid "Open a MBean in a MBean editor"
 msgstr "MBean を MBean エディターで開きます"
 
 #: OpenMBeanAction_dialogDescription
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:50
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenMBeanAction_dialogDescription"
 msgid "Select a MBean to open"
 msgstr "開く MBean を選択してください"
 
 #: OpenMBeanAction_dialogTitle
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenMBeanAction_dialogTitle"
 msgid "Open MBean"
 msgstr "MBean を開く"
 
 #: OpenMBeanAction_text
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:52
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenMBeanAction_text"
 msgid "Open MBean..."
 msgstr "MBean を開く..."
 
 #: OpenMBeanAction_tooltip
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenMBeanAction_tooltip"
 msgid "Open a MBean"
 msgstr "MBean を開きます"
 
 #: OperationDetails_invocationError
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:54
-#, fuzzy, java-format
+#, java-format
 msgctxt "OperationDetails_invocationError"
 msgid "Error"
 msgstr "エラー"
 
 #: OperationDetails_invocationResult
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "OperationDetails_invocationResult"
 msgid "Result"
 msgstr "結果"
 
 #: OperationDetails_invocationSuccess
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:56
-#, fuzzy, java-format
+#, java-format
 msgctxt "OperationDetails_invocationSuccess"
 msgid "Operation invoked successfully."
 msgstr "操作の実行は成功しました。"
 
 #: OperationDetails_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "OperationDetails_title"
 msgid "Operation Details"
 msgstr "操作の詳細"
 
 #: OperationsPage_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:58
-#, fuzzy, java-format
+#, java-format
 msgctxt "OperationsPage_title"
 msgid "Operations"
 msgstr "操作"
 
 #: OperationsSection_title
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "OperationsSection_title"
 msgid "All Operations"
 msgstr "すべての操作"
 
 #: parameters
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:60
-#, fuzzy, java-format
+#, java-format
 msgctxt "parameters"
 msgid "Parameters"
 msgstr "パラメーター"
 
 #: permission
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "permission"
 msgid "Permission"
 msgstr "アクセス権"
 
 #: readable
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:62
-#, fuzzy, java-format
+#, java-format
 msgctxt "readable"
 msgid "Readable"
 msgstr "読み込み可能"
 
 #: readOnly
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "readOnly"
 msgid "Read-Only"
 msgstr "読み取り専用"
 
 #: readWrite
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:64
-#, fuzzy, java-format
+#, java-format
 msgctxt "readWrite"
 msgid "Read/Write"
 msgstr "読み取り/書き込み"
 
 #: returnType
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "returnType"
 msgid "Return Type"
 msgstr "戻りの型"
 
 #: type
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:66
-#, fuzzy, java-format
+#, java-format
 msgctxt "type"
 msgid "Type"
 msgstr "型"
 
 #: unavailable
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "unavailable"
 msgid "Unavailable"
 msgstr "不可能"
 
 #: value
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:68
-#, fuzzy, java-format
+#, java-format
 msgctxt "value"
 msgid "Value"
 msgstr "値"
 
 #: vertical
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "vertical"
 msgid "vertical"
 msgstr "垂直"
 
 #: writable
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:70
-#, fuzzy, java-format
+#, java-format
 msgctxt "writable"
 msgid "Writable"
 msgstr "書き込み可能"
 
 #: writeOnly
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "writeOnly"
 msgid "Write-Only"
 msgstr "書き込み専用"
 
 #: DeleteConnection
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/org/jboss/tools/jmx/ui/Messages.properties:72
-#, fuzzy, java-format
+#, java-format
 msgctxt "DeleteConnection"
 msgid "Delete Connection"
 msgstr "接続の削除"
@@ -915,77 +914,77 @@ msgstr "接続の削除"
 #. properties file for org.jboss.tools.jmx.ui
 #: ActionDefinition.openMBean.name
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "ActionDefinition.openMBean.name"
 msgid "Open MBean"
 msgstr "MBean を開く"
 
 #: ActionDefinition.openMBean.description
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "ActionDefinition.openMBean.description"
 msgid "Open a MBean in a MBean editor"
 msgstr "MBean を MBean エディターで開きます"
 
 #: BundleName
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleName"
 msgid "JMX Console"
 msgstr "JMX コンソール"
 
 #: DefaultJMXConnectionProvider.name
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "DefaultJMXConnectionProvider.name"
 msgid "Default JMX Connection"
 msgstr "デフォルト JMX 接続"
 
 #: MBeanActionSet.label
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "MBeanActionSet.label"
 msgid "MBean Navigation"
 msgstr "MBean ナビゲーション"
 
 #: MBeanActionSet.description
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "MBeanActionSet.description"
 msgid "MBean Navigation Action Set"
 msgstr "MBean ナビゲーション・アクション・セット"
 
 #: MBeanExplorer.name
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "MBeanExplorer.name"
 msgid "MBean Explorer"
 msgstr "MBean エクスプローラー"
 
 #: OpenMBeanAction.label
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenMBeanAction.label"
 msgid "Open &MBean..."
 msgstr "MBean を開く(&M)..."
 
 #: OpenMBeanAction.tooltip
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenMBeanAction.tooltip"
 msgid "Open MBean"
 msgstr "MBean を開く"
 
 #: perspective.name
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "perspective.name"
 msgid "JMX"
 msgstr "JMX"
 
 #: ViewCategory_JMX
 #: ../../WORK/modules/jmx/plugins/org.jboss.tools.jmx.ui/plugin.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "ViewCategory_JMX"
 msgid "JMX"
 msgstr "JMX"

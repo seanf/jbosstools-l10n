@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -61,7 +60,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/vpe/features/org.jboss.tools.xulrunner.feature/feature.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "XULRunner"
 msgstr "XULRunner"
@@ -77,7 +76,7 @@ msgstr "XULRunner"
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/plugin.properties:1
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.ui.palette/plugin.properties:3
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -87,7 +86,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/vpe/features/org.jboss.tools.xulrunner.feature/feature.properties:99
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -95,7 +94,7 @@ msgstr "JBossTools Update Site"
 #.
 #: discoverySiteName
 #: ../../WORK/modules/vpe/features/org.jboss.tools.xulrunner.feature/feature.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "discoverySiteName"
 msgid "JBossTools Development Update Site"
 msgstr "JBossTools Development Update Site"
@@ -105,7 +104,7 @@ msgstr "JBossTools Development Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/vpe/features/org.jboss.tools.xulrunner.feature/feature.properties:107
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid ""
 "A feature that provides Mozilla&apos;s XULRunner as various platform-"
@@ -119,7 +118,7 @@ msgstr ""
 #. "copyright" property - text of the "Feature Update Copyright"
 #: copyright
 #: ../../WORK/modules/vpe/features/org.jboss.tools.xulrunner.feature/feature.properties:113
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid "Copyright (C) 2007 Mozilla and others "
 msgstr "Copyright (C) 2007 Mozilla and others "
@@ -131,7 +130,7 @@ msgstr "Copyright (C) 2007 Mozilla and others "
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/vpe/features/org.jboss.tools.xulrunner.feature/feature.properties:123
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "license.html"
 msgstr "license.html"
@@ -142,7 +141,7 @@ msgstr "license.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/vpe/features/org.jboss.tools.xulrunner.feature/feature.properties:131
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "\n"
@@ -1100,14 +1099,14 @@ msgstr ""
 #: Bundle-Vendor.0
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.docbook/plugin.properties:2
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.xulrunner/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Vendor.0"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.docbook/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Docbook Xml Visual Editor Plug-in"
 msgstr "Docbook Xml ビジュアル・エディター・プラグイン"
@@ -1115,7 +1114,7 @@ msgstr "Docbook Xml ビジュアル・エディター・プラグイン"
 #.
 #: pluginName
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.html/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "HTML support for JBoss Visual Page Editor Plug-in"
 msgstr "JBoss ビジュアル・ページ・エディター・プラグインの HTML サポート"
@@ -1123,70 +1122,70 @@ msgstr "JBoss ビジュアル・ページ・エディター・プラグインの
 #.
 #: pluginName
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.jsp/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JSP support for JBoss Visual Page Editor Plug-in"
 msgstr "JBoss ビジュアル・ページ・エディター・プラグインの JSP サポート"
 
 #: INCLUDED_CSS_FILES
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/org/jboss/tools/vpe/resref/core/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "INCLUDED_CSS_FILES"
 msgid "Included css files"
 msgstr "含まれた CSS ファイル"
 
 #: INCLUDED_TAG_LIBS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/org/jboss/tools/vpe/resref/core/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "INCLUDED_TAG_LIBS"
 msgid "Included tag libs"
 msgstr "含まれたタグ・ライブラリー"
 
 #: SUBSTITUTED_EL_EXPRESSIONS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/org/jboss/tools/vpe/resref/core/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "SUBSTITUTED_EL_EXPRESSIONS"
 msgid "Substituted El expressions"
 msgstr "置換された EL 式"
 
 #: ACTUAL_RUN_TIME_ABSOLUTE_FOLDER
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/org/jboss/tools/vpe/resref/core/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "ACTUAL_RUN_TIME_ABSOLUTE_FOLDER"
 msgid "Absolute Folder"
 msgstr "絶対フォルダー"
 
 #: ACTUAL_RUN_TIME_RELATIVE_FOLDER
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/org/jboss/tools/vpe/resref/core/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "ACTUAL_RUN_TIME_RELATIVE_FOLDER"
 msgid "Relative Folder"
 msgstr "相対フォルダー"
 
 #: ACTUAL_RUN_TIME_FOLDERS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/org/jboss/tools/vpe/resref/core/messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "ACTUAL_RUN_TIME_FOLDERS"
 msgid "Actual Run-Time Folders"
 msgstr "実行時のフォルダー"
 
 #: INVALID_EL_EXPRESSION
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/org/jboss/tools/vpe/resref/core/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "INVALID_EL_EXPRESSION"
 msgid "Invalid El Expression"
 msgstr "無効な EL 式"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.resref/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Resources to references Plug-in"
 msgstr "参照プラグインのリソース"
 
 #: PALETTE_EDITOR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.ui.palette/org/jboss/tools/vpe/ui/palette/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "PALETTE_EDITOR"
 msgid "Palette Editor"
 msgstr "パレット・エディター"
@@ -1194,7 +1193,7 @@ msgstr "パレット・エディター"
 #.
 #: SHOW_HIDE_TABS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.ui.palette/org/jboss/tools/vpe/ui/palette/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_HIDE_TABS"
 msgid "Show/Hide tabs"
 msgstr "タブを表示/隠す"
@@ -1202,7 +1201,7 @@ msgstr "タブを表示/隠す"
 #.
 #: SHOW_HIDE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.ui.palette/org/jboss/tools/vpe/ui/palette/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_HIDE"
 msgid "Show/Hide"
 msgstr "表示/隠す"
@@ -1210,7 +1209,7 @@ msgstr "表示/隠す"
 #.
 #: IMPORT_TLD
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.ui.palette/org/jboss/tools/vpe/ui/palette/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "IMPORT_TLD"
 msgid "Import TLD"
 msgstr "TLD のインポート"
@@ -1218,27 +1217,27 @@ msgstr "TLD のインポート"
 #.
 #: IMPORT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.ui.palette/org/jboss/tools/vpe/ui/palette/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "IMPORT"
 msgid "Import"
 msgstr "インポート"
 
 #: pluginName
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.ui.palette/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JBoss Tools Palette"
 msgstr "JBoss Tools パレット"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe.xulrunner/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Browser (XULRunner) Plug-in"
 msgstr "ブラウザ (XULRunner) プラグイン"
 
 #: blurb ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "JBoss Tools RichFaces for Eclipse\n"
@@ -1259,7 +1258,7 @@ msgstr ""
 
 #: VPE.lists.Page__Only_This_Page
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-lists.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.lists.Page__Only_This_Page"
 msgid "Page: Only This Page"
 msgstr "ページ: このページのみ"
@@ -1267,7 +1266,7 @@ msgstr "ページ: このページのみ"
 #.
 #: VPE.lists.Folder__Any_Page_at_the_Same_Folder
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-lists.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.lists.Folder__Any_Page_at_the_Same_Folder"
 msgid "Folder: Any Page at the Same Folder"
 msgstr "フォルダー: 同一フォルダーの任意のページ"
@@ -1275,7 +1274,7 @@ msgstr "フォルダー: 同一フォルダーの任意のページ"
 #.
 #: VPE.lists.Project__Any_Page_at_the_Same_Project
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-lists.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.lists.Project__Any_Page_at_the_Same_Project"
 msgid "Project: Any Page at the Same Project"
 msgstr "プロジェクト: 同一プロジェクトの任意のページ"
@@ -1283,7 +1282,7 @@ msgstr "プロジェクト: 同一プロジェクトの任意のページ"
 #.
 #: VPE.lists.Page
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-lists.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.lists.Page"
 msgid "Page"
 msgstr "ページ"
@@ -1291,7 +1290,7 @@ msgstr "ページ"
 #.
 #: VPE.lists.Folder
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-lists.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.lists.Folder"
 msgid "Folder"
 msgstr "フォルダー"
@@ -1299,7 +1298,7 @@ msgstr "フォルダー"
 #.
 #: VPE.lists.Project
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-lists.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.lists.Project"
 msgid "Project"
 msgstr "プロジェクト"
@@ -1307,14 +1306,14 @@ msgstr "プロジェクト"
 #.
 #: VPE.lists.Global__For_all_projects_in_workspace
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-lists.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.lists.Global__For_all_projects_in_workspace"
 msgid "Global: For all projects in workspace"
 msgstr "グローバル: ワークスペースのすべてのプロジェクト"
 
 #: VPE.AddItem.menu
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-menu.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.AddItem.menu"
 msgid "Add CSS Reference..."
 msgstr "CSS 参照の追加..."
@@ -1322,14 +1321,14 @@ msgstr "CSS 参照の追加..."
 #.
 #: VPE.EditItem.menu
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe-menu.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE.EditItem.menu"
 msgid "Edit CSS Reference..."
 msgstr "CSS 参照の編集..."
 
 #: VpeCssReferencesDialog.WindowTitle
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "VpeCssReferencesDialog.WindowTitle"
 msgid "References to CSS Files"
 msgstr "CSS ファイルの参照"
@@ -1337,7 +1336,7 @@ msgstr "CSS ファイルの参照"
 #.
 #: VpeCssReferencesDialog.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "VpeCssReferencesDialog.Title"
 msgid "Visual Page Editor"
 msgstr "ビジュアル・ページ・エディター"
@@ -1345,7 +1344,7 @@ msgstr "ビジュアル・ページ・エディター"
 #.
 #: VPECSSReference.location
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPECSSReference.location"
 msgid "CSS File Path"
 msgstr "CSS ファイル・パス"
@@ -1353,7 +1352,7 @@ msgstr "CSS ファイル・パス"
 #.
 #: VPECSSReferenceAddItem.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPECSSReferenceAddItem.Title"
 msgid "Add References to CSS File"
 msgstr "CSS ファイル参照の追加"
@@ -1361,7 +1360,7 @@ msgstr "CSS ファイル参照の追加"
 #.
 #: VPECSSReferenceEditItem.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPECSSReferenceEditItem.Title"
 msgid "Edit Existing References to CSS File"
 msgstr "既存のCSS ファイルの編集"
@@ -1369,7 +1368,7 @@ msgstr "既存のCSS ファイルの編集"
 #.
 #: VPECSSReferenceAddItem.Message
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPECSSReferenceAddItem.Message"
 msgid "Add References to CSS File, which will be used for generation a preview"
 msgstr "プレビュー生成に使用する CSS ファイル参照の追加"
@@ -1377,7 +1376,7 @@ msgstr "プレビュー生成に使用する CSS ファイル参照の追加"
 #.
 #: VPECSSReferenceEditItem.Message
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPECSSReferenceEditItem.Message"
 msgid ""
 "Edit Existing References to CSS File, which is used for generation a preview"
@@ -1386,7 +1385,7 @@ msgstr "プレビュー生成に使用する CSS ファイル参照の編集"
 #.
 #: VPETLDReferenceAddItem.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPETLDReferenceAddItem.Title"
 msgid "Add TLD Item"
 msgstr "TLD 項目の追加"
@@ -1394,7 +1393,7 @@ msgstr "TLD 項目の追加"
 #.
 #: VPETLDReferenceEditItem.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPETLDReferenceEditItem.Title"
 msgid "Edit TLD Item"
 msgstr "TLD 項目の編集"
@@ -1402,7 +1401,7 @@ msgstr "TLD 項目の編集"
 #.
 #: VPETLDReferenceAddItem.Message
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPETLDReferenceAddItem.Message"
 msgid ""
 "Add TLD definition, which will be used in a visual part for generation a "
@@ -1412,7 +1411,7 @@ msgstr "ビジュアル部でプレビュー生成に使用する TLD 定義の�
 #.
 #: VPETLDReferenceEditItem.Message
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPETLDReferenceEditItem.Message"
 msgid "Edit TLD Item, which is used in a visual part for generation a preview"
 msgstr "ビジュアル部でプレビュー生成に使用する TLD 定義の編集"
@@ -1420,7 +1419,7 @@ msgstr "ビジュアル部でプレビュー生成に使用する TLD 定義の�
 #.
 #: VpeImageReferencesDialog.WindowTitle
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "VpeImageReferencesDialog.WindowTitle"
 msgid "References to Images Files"
 msgstr "イメージ・ファイルの参照"
@@ -1428,7 +1427,7 @@ msgstr "イメージ・ファイルの参照"
 #.
 #: VpeImageReferencesDialog.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "VpeImageReferencesDialog.Title"
 msgid "Visual Page Editor"
 msgstr "ビジュアル・ページ・エディター"
@@ -1436,7 +1435,7 @@ msgstr "ビジュアル・ページ・エディター"
 #.
 #: VPEImageReference.location
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEImageReference.location"
 msgid "Path to Folder"
 msgstr "フォルダーへのパス"
@@ -1444,7 +1443,7 @@ msgstr "フォルダーへのパス"
 #.
 #: VPETLDReference.location
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPETLDReference.location"
 msgid "URI"
 msgstr "URI"
@@ -1452,7 +1451,7 @@ msgstr "URI"
 #.
 #: VPETLDReferenceExt.location
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPETLDReferenceExt.location"
 msgid "URI"
 msgstr "URI"
@@ -1460,7 +1459,7 @@ msgstr "URI"
 #.
 #: VPEElReference.location
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEElReference.location"
 msgid "El Value"
 msgstr "EL 値"
@@ -1468,7 +1467,7 @@ msgstr "EL 値"
 #.
 #: VPEElReference.prefix
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEElReference.prefix"
 msgid "Value"
 msgstr "値"
@@ -1476,7 +1475,7 @@ msgstr "値"
 #.
 #: VPEElReferenceEditItem.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEElReferenceEditItem.Title"
 msgid "Edit El Item Title"
 msgstr "EL 項目タイトルの編集"
@@ -1484,7 +1483,7 @@ msgstr "EL 項目タイトルの編集"
 #.
 #: VPEElReferenceEditItem.Message
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEElReferenceEditItem.Message"
 msgid ""
 "Edit El variable, which is substituted in a visual part for generating a "
@@ -1494,7 +1493,7 @@ msgstr "ビジュアル部でプレビュー生成で置き換わる EL 変数�
 #.
 #: VPEElReferenceAddItem.Message
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEElReferenceAddItem.Message"
 msgid ""
 "Add El variable, which will be substituted in a visual part for generating a "
@@ -1504,7 +1503,7 @@ msgstr "ビジュアル部でプレビュー生成で置き換わる EL 変数�
 #.
 #: VPEElReferenceAddItem.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEElReferenceAddItem.Title"
 msgid "Add El Item "
 msgstr "EL 項目の追加"
@@ -1512,7 +1511,7 @@ msgstr "EL 項目の追加"
 #.
 #: VPEGlobalElReference.location
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEGlobalElReference.location"
 msgid "El Value"
 msgstr "EL 値"
@@ -1520,7 +1519,7 @@ msgstr "EL 値"
 #.
 #: VPEGlobalElReference.prefix
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEGlobalElReference.prefix"
 msgid "Value"
 msgstr "値"
@@ -1528,7 +1527,7 @@ msgstr "値"
 #.
 #: VPEGlobalElReferenceAddItem.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEGlobalElReferenceAddItem.Title"
 msgid "Add El Item"
 msgstr "EL 項目の追加"
@@ -1536,7 +1535,7 @@ msgstr "EL 項目の追加"
 #.
 #: VPEGlobalElReferenceEditItem.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEGlobalElReferenceEditItem.Title"
 msgid "Edit EL Item"
 msgstr "EL 項目の編集"
@@ -1544,7 +1543,7 @@ msgstr "EL 項目の編集"
 #.
 #: VPEGlobalElReferenceAddItem.Message
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEGlobalElReferenceAddItem.Message"
 msgid ""
 "Add global El variable, which will be substituted in a visual part for "
@@ -1554,7 +1553,7 @@ msgstr "ビジュアル部でプレビュー生成で置き換わるグローバ
 #.
 #: VPEGlobalElReferenceEditItem.Message
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEGlobalElReferenceEditItem.Message"
 msgid ""
 "Edit global El variable, which is substituted in a visual part for "
@@ -1564,7 +1563,7 @@ msgstr "ビジュアル部でプレビュー生成で置き換わるグローバ
 #.
 #: VpeResourcesDialog.WindowTitle
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "VpeResourcesDialog.WindowTitle"
 msgid "Page Design Options"
 msgstr "ページ・デザイン・オプション"
@@ -1572,7 +1571,7 @@ msgstr "ページ・デザイン・オプション"
 #.
 #: VpeResourcesDialog.Title
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "VpeResourcesDialog.Title"
 msgid "Page Design Options"
 msgstr "ページ・デザイン・オプション"
@@ -1580,14 +1579,14 @@ msgstr "ページ・デザイン・オプション"
 #.
 #: VPEFolderReference.location
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/help/keys-vpe.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPEFolderReference.location"
 msgid "Path"
 msgstr "パス"
 
 #: NAMESPACE_NOT_DEFINED
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "NAMESPACE_NOT_DEFINED"
 msgid "Namespace not defined. Template could not be edit."
 msgstr ""
@@ -1595,42 +1594,42 @@ msgstr ""
 
 #: PREFERENCES
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "PREFERENCES"
 msgid "Preferences"
 msgstr "設定"
 
 #: REFRESH
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "REFRESH"
 msgid "Refresh"
 msgstr "リフレッシュ"
 
 #: PAGE_DESIGN_OPTIONS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "PAGE_DESIGN_OPTIONS"
 msgid "Page Design Options"
 msgstr "ページ・デザイン・オプション"
 
 #: HIDE_SELECTIONBAR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "HIDE_SELECTIONBAR"
 msgid "Hide Selection Bar"
 msgstr "選択バーを隠す"
 
 #: SHOW_BORDER_FOR_ALL_TAGS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_BORDER_FOR_ALL_TAGS"
 msgid "show border for all tags"
 msgstr "すべてのタグにボーダーを表示"
 
 #: MOZILLA_LOADING_ERROR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "MOZILLA_LOADING_ERROR"
 msgid ""
 "The VPE editor can't be run because your system environment needs to be "
@@ -1640,518 +1639,518 @@ msgstr ""
 
 #: MOZILLA_LOADING_ERROR_LINK_TEXT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "MOZILLA_LOADING_ERROR_LINK_TEXT"
 msgid "Find out more."
 msgstr "Find out more."
 
 #: MOZILLA_LOADING_ERROR_LINK
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "MOZILLA_LOADING_ERROR_LINK"
 msgid "http://labs.jboss.com/wiki/JBosstoolsVisualEditorFAQ"
 msgstr "http://labs.jboss.com/wiki/JBosstoolsVisualEditorFAQ"
 
 #: SHOW_COMMENTS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_COMMENTS"
 msgid "show comments"
 msgstr "コメントを表示"
 
 #: SHOW_BORDER_FOR_UNKNOWN_TAGS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_BORDER_FOR_UNKNOWN_TAGS"
 msgid "show border for unknown tags"
 msgstr "不明なタグに罫線を表示"
 
 #: USE_DETAIL_BORDER
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "USE_DETAIL_BORDER"
 msgid "use detail border"
 msgstr "詳細罫線を使用"
 
 #: SHOW_RESOURCE_BUNDLES_USAGE_AS_EL
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_RESOURCE_BUNDLES_USAGE_AS_EL"
 msgid "show resource bundles usage as EL expressions"
 msgstr "EL 式としてリソース・バンドル使用を表示"
 
 #: USE_ABSOLUTE_POSITION
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:14
-#, fuzzy, java-format
+#, java-format
 msgctxt "USE_ABSOLUTE_POSITION"
 msgid "use absolute position"
 msgstr "絶対位置を使用"
 
 #: ALWAYS_PROMPT_FOR_TAG_ATTRIBUTES_DURING_TAG_INSERT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "ALWAYS_PROMPT_FOR_TAG_ATTRIBUTES_DURING_TAG_INSERT"
 msgid "always prompt for tag attributes during tag insert"
 msgstr "タグ挿入中にタグ属性を常にプロンプト"
 
 #: OPTION_LIST
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:16
-#, fuzzy, java-format
+#, java-format
 msgctxt "OPTION_LIST"
 msgid "option list"
 msgstr "オプション・リスト"
 
 #: SOURCE_VISUAL_EDITORS_WEIGHTS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "SOURCE_VISUAL_EDITORS_WEIGHTS"
 msgid "Size of Visual Editor pane 0-100%"
 msgstr "ビジュアル・エディターペインのサイズ 0-100%"
 
 #: GENERAL
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:18
-#, fuzzy, java-format
+#, java-format
 msgctxt "GENERAL"
 msgid "General"
 msgstr "一般"
 
 #: TEMPLATES
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "TEMPLATES"
 msgid "Templates"
 msgstr "テンプレート"
 
 #: TEMPLATE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:20
-#, fuzzy, java-format
+#, java-format
 msgctxt "TEMPLATE"
 msgid "Template"
 msgstr "テンプレート"
 
 #: TAG_ATTRIBUTES
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "TAG_ATTRIBUTES"
 msgid "Tag Attributes"
 msgstr "タグ属性"
 
 #: TAG_NAME
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:22
-#, fuzzy, java-format
+#, java-format
 msgctxt "TAG_NAME"
 msgid "Tag Name: "
 msgstr "タグ名: "
 
 #: CHILDREN
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "CHILDREN"
 msgid "Children"
 msgstr "子"
 
 #: DISPLAY
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:24
-#, fuzzy, java-format
+#, java-format
 msgctxt "DISPLAY"
 msgid "Display"
 msgstr "表示"
 
 #: ICON
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "ICON"
 msgid "Icon"
 msgstr "アイコン"
 
 #: VALUE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:26
-#, fuzzy, java-format
+#, java-format
 msgctxt "VALUE"
 msgid "Value"
 msgstr "値"
 
 #: VALUE_COLOR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "VALUE_COLOR"
 msgid "Value Color"
 msgstr "色の値"
 
 #: VALUE_BACKGROUND_COLOR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:28
-#, fuzzy, java-format
+#, java-format
 msgctxt "VALUE_BACKGROUND_COLOR"
 msgid "Value Background Color"
 msgstr "背景色の値"
 
 #: BACKGROUND_COLOR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "BACKGROUND_COLOR"
 msgid "Background Color"
 msgstr "背景色"
 
 #: BORDER
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:30
-#, fuzzy, java-format
+#, java-format
 msgctxt "BORDER"
 msgid "Border"
 msgstr "境界線"
 
 #: BORDER_COLOR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "BORDER_COLOR"
 msgid "Border Color"
 msgstr "ボーダーの色"
 
 #: ERROR_OF_TYPE_CONVERSION
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:32
-#, fuzzy, java-format
+#, java-format
 msgctxt "ERROR_OF_TYPE_CONVERSION"
 msgid "Error of type conversion"
 msgstr "型変換のエラー"
 
 #: INCORRECT_PARAMETER_ERROR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "INCORRECT_PARAMETER_ERROR"
 msgid "Incorrect parameter error"
 msgstr "不正パラメーター・エラー"
 
 #: HIDE_TOOLBAR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:34
-#, fuzzy, java-format
+#, java-format
 msgctxt "HIDE_TOOLBAR"
 msgid "Hide Text Formatting Toolbar"
 msgstr "テキスト・フォーマット・ツールバーを隠す"
 
 #: SHOW_TOOLBAR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_TOOLBAR"
 msgid "Show Text Formatting Toolbar"
 msgstr "テキスト・フォーマット・ツールバーを表示"
 
 #: MENU
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:36
-#, fuzzy, java-format
+#, java-format
 msgctxt "MENU"
 msgid "Menu"
 msgstr "メニュー"
 
 #: SET_BACKGROUND_COLOR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "SET_BACKGROUND_COLOR"
 msgid "Set Background Color"
 msgstr "背景色の設定"
 
 #: SET_FOREGROUND_COLOR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:38
-#, fuzzy, java-format
+#, java-format
 msgctxt "SET_FOREGROUND_COLOR"
 msgid "Set Foreground color"
 msgstr "前景色の設定"
 
 #: TEXT_FORMATTING
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "TEXT_FORMATTING"
 msgid "Text Formatting"
 msgstr "テキスト・フォーマット"
 
 #: BLOCK_FORMAT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:40
-#, fuzzy, java-format
+#, java-format
 msgctxt "BLOCK_FORMAT"
 msgid "Block Format"
 msgstr "ブロック・フォーマット"
 
 #: FONT_NAME
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "FONT_NAME"
 msgid "Font Name"
 msgstr "フォント名"
 
 #: FONT_SIZE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:42
-#, fuzzy, java-format
+#, java-format
 msgctxt "FONT_SIZE"
 msgid "Font Size"
 msgstr "フォント・サイズ"
 
 #: BOLD
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "BOLD"
 msgid "Bold"
 msgstr "太字"
 
 #: ITALIC
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:44
-#, fuzzy, java-format
+#, java-format
 msgctxt "ITALIC"
 msgid "Italic"
 msgstr "斜体"
 
 #: UNDERLINE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "UNDERLINE"
 msgid "Underline"
 msgstr "下線"
 
 #: FOREGROUND_COLOR
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:46
-#, fuzzy, java-format
+#, java-format
 msgctxt "FOREGROUND_COLOR"
 msgid "Foreground Color"
 msgstr "前景色"
 
 #: ALIGN_LEFT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "ALIGN_LEFT"
 msgid "Align Left"
 msgstr "左そろえ"
 
 #: CENTER
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:48
-#, fuzzy, java-format
+#, java-format
 msgctxt "CENTER"
 msgid "Center"
 msgstr "中央"
 
 #: ALIGN_RIGHT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "ALIGN_RIGHT"
 msgid "Align Right"
 msgstr "右そろえ"
 
 #: JUSTIFY
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:50
-#, fuzzy, java-format
+#, java-format
 msgctxt "JUSTIFY"
 msgid "Justify"
 msgstr "位置調整"
 
 #: BULLETS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "BULLETS"
 msgid "Bullets"
 msgstr "中点"
 
 #: NUMBERING
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:52
-#, fuzzy, java-format
+#, java-format
 msgctxt "NUMBERING"
 msgid "Numbering"
 msgstr "番号付け"
 
 #: CONFIRM_SELECTION_BAR_DIALOG_TITLE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "CONFIRM_SELECTION_BAR_DIALOG_TITLE"
 msgid "Confirm hide selection bar"
 msgstr "選択バーを隠す確認"
 
 #: CONFIRM_SELECTION_BAR_DIALOG_MESSAGE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:54
-#, fuzzy, java-format
+#, java-format
 msgctxt "CONFIRM_SELECTION_BAR_DIALOG_MESSAGE"
 msgid "Hide selection bar ?"
 msgstr "選択バーを隠しますか?"
 
 #: CONFIRM_SELECTION_BAR_DIALOG_TOGGLE_MESSAGE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "CONFIRM_SELECTION_BAR_DIALOG_TOGGLE_MESSAGE"
 msgid "Always hide selection bar without prompt"
 msgstr "プロンプトを表示せずに選択バーを常に隠す"
 
 #: VPE_UPDATE_JOB_TITLE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:56
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE_UPDATE_JOB_TITLE"
 msgid "Visual Editor View Update"
 msgstr "ビジュアル・エディター・ビューのリフレッシュ"
 
 #: VPE_VISUAL_REFRESH_JOB
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "VPE_VISUAL_REFRESH_JOB"
 msgid "Visual Editor Refresh "
 msgstr "ビジュアル・エディターのリフレッシュ"
 
 #: NON_VISUAL_TAGS
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:58
-#, fuzzy, java-format
+#, java-format
 msgctxt "NON_VISUAL_TAGS"
 msgid "Non-visual tags"
 msgstr "ビジュアルでないタグ"
 
 #: SHOW
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW"
 msgid "Show"
 msgstr "表示"
 
 #: HIDE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:60
-#, fuzzy, java-format
+#, java-format
 msgctxt "HIDE"
 msgid "Hide"
 msgstr "非表示"
 
 #: TAG_FOR_DISPLAY
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "TAG_FOR_DISPLAY"
 msgid "Tag for Display"
 msgstr "表示用のタグ"
 
 #: TemplatesPreferencePage_Edit
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:62
-#, fuzzy, java-format
+#, java-format
 msgctxt "TemplatesPreferencePage_Edit"
 msgid "Edit"
 msgstr "編集"
 
 #: TemplatesPreferencePage_Remove
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "TemplatesPreferencePage_Remove"
 msgid "Remove"
 msgstr "除去"
 
 #: TemplatesTableProvider_Children
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:64
-#, fuzzy, java-format
+#, java-format
 msgctxt "TemplatesTableProvider_Children"
 msgid "Children"
 msgstr "子"
 
 #: TemplatesTableProvider_No
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "TemplatesTableProvider_No"
 msgid "no"
 msgstr "いいえ"
 
 #: TemplatesTableProvider_TagForDisplay
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:66
-#, fuzzy, java-format
+#, java-format
 msgctxt "TemplatesTableProvider_TagForDisplay"
 msgid "Tag for Display"
 msgstr "表示用のタグ"
 
 #: TemplatesTableProvider_TagName
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "TemplatesTableProvider_TagName"
 msgid "Tag Name"
 msgstr "タグ名"
 
 #: TemplatesTableProvider_URI
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:68
-#, fuzzy, java-format
+#, java-format
 msgctxt "TemplatesTableProvider_URI"
 msgid "URI"
 msgstr "URI"
 
 #: TemplatesTableProvider_Yes
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "TemplatesTableProvider_Yes"
 msgid "yes"
 msgstr "はい"
 
 #: STYLE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:70
-#, fuzzy, java-format
+#, java-format
 msgctxt "STYLE"
 msgid "Style"
 msgstr "スタイル"
 
 #: MAX_SOURCE_PANE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "MAX_SOURCE_PANE"
 msgid "Maximize Source Pane"
 msgstr "ソース・ペインの最大化"
 
 #: MAX_VISUAL_PANE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:72
-#, fuzzy, java-format
+#, java-format
 msgctxt "MAX_VISUAL_PANE"
 msgid "Maximize Visual Pane"
 msgstr "ビジュアル・ペインの最大化"
 
 #: RESTORE_PREVIOUS_LOCATION
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "RESTORE_PREVIOUS_LOCATION"
 msgid "Restore Previous Location"
 msgstr "前のロケーションを復元"
 
 #: BACKGROUND_COLOR_TIP
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:74
-#, fuzzy, java-format
+#, java-format
 msgctxt "BACKGROUND_COLOR_TIP"
 msgid "Choose background color"
 msgstr "背景色の選択"
 
 #: SETUP_TEMPLATE_FOR_MENU
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "SETUP_TEMPLATE_FOR_MENU"
 msgid "Setup Template for {0}"
 msgstr "{0} のテンプレートの設定"
 
 #: INSERT_AROUND
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:76
-#, fuzzy, java-format
+#, java-format
 msgctxt "INSERT_AROUND"
 msgid "Insert Around"
 msgstr "前後に挿入"
 
 #: INSERT_BEFORE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "INSERT_BEFORE"
 msgid "Insert Before"
 msgstr "前に挿入"
 
 #: INSERT_AFTER
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:78
-#, fuzzy, java-format
+#, java-format
 msgctxt "INSERT_AFTER"
 msgid "Insert After"
 msgstr "後に挿入"
 
 #: REPLACE_WITH
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "REPLACE_WITH"
 msgid "Replace With"
 msgstr "置換"
 
 #: FROM_PALETTE
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:80
-#, fuzzy, java-format
+#, java-format
 msgctxt "FROM_PALETTE"
 msgid "From Palette"
 msgstr "パレットから"
 
 #: PAGE_DESIGN_OPTIONS_ABOUT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "PAGE_DESIGN_OPTIONS_ABOUT"
 msgid ""
 "Here you can configure Visual Page Editor options, which will be used for "
@@ -2162,7 +2161,7 @@ msgstr ""
 
 #: ACTUAL_RUN_TIME_FOLDERS_ABOUT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:82
-#, fuzzy, java-format
+#, java-format
 msgctxt "ACTUAL_RUN_TIME_FOLDERS_ABOUT"
 msgid ""
 "These options will be used by Visual Page Editor for replacing absolute and "
@@ -2173,7 +2172,7 @@ msgstr ""
 
 #: INCLUDED_CSS_FILES_ABOUT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "INCLUDED_CSS_FILES_ABOUT"
 msgid ""
 "These CSS files will be linked by Visual Page Editor when generating a "
@@ -2184,7 +2183,7 @@ msgstr ""
 
 #: INCLUDED_TAG_LIBS_ABOUT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:84
-#, fuzzy, java-format
+#, java-format
 msgctxt "INCLUDED_TAG_LIBS_ABOUT"
 msgid ""
 "These Taglibs will be used by Visual Page Editor for getting appropriate "
@@ -2195,7 +2194,7 @@ msgstr ""
 
 #: SUBSTITUTED_EL_EXPRESSIONS_ABOUT
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/org/jboss/tools/vpe/messages/messages.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "SUBSTITUTED_EL_EXPRESSIONS_ABOUT"
 msgid ""
 "These EL expressions will be substituted by Visual Page Editor when "
@@ -2207,7 +2206,7 @@ msgstr ""
 #.
 #: pluginName
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JBoss Tools RichFaces"
 msgstr "JBoss Tools RichFaces"
@@ -2215,7 +2214,7 @@ msgstr "JBoss Tools RichFaces"
 #.
 #: vpe.editor.binding.context.description
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "vpe.editor.binding.context.description"
 msgid "The Visual Page Editor"
 msgstr "ビジュアル・ページ・エディター"
@@ -2223,7 +2222,7 @@ msgstr "ビジュアル・ページ・エディター"
 #.
 #: editor.binding.context.name
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "editor.binding.context.name"
 msgid "Visual Page Editor"
 msgstr "ビジュアル・ページ・エディター"
@@ -2231,7 +2230,7 @@ msgstr "ビジュアル・ページ・エディター"
 #.
 #: vpe.category
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "vpe.category"
 msgid "Visual Page Editor"
 msgstr "ビジュアル・ページ・エディター"
@@ -2239,7 +2238,7 @@ msgstr "ビジュアル・ページ・エディター"
 #.
 #: source.maxmin
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "source.maxmin"
 msgid "Maximize/Restore Source Part"
 msgstr "ソース部の最大化/復元"
@@ -2247,7 +2246,7 @@ msgstr "ソース部の最大化/復元"
 #.
 #: visual.maxmin
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "visual.maxmin"
 msgid "Maximize/Restore Visual Part"
 msgstr "ビジュアル部の最大化/復元"
@@ -2255,7 +2254,7 @@ msgstr "ビジュアル部の最大化/復元"
 #.
 #: visual.jumping
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "visual.jumping"
 msgid "Jump"
 msgstr "ジャンプ"
@@ -2263,7 +2262,7 @@ msgstr "ジャンプ"
 #.
 #: PreferencePage_ElVariables
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_ElVariables"
 msgid "El Variables"
 msgstr "EL 変数"
@@ -2271,7 +2270,7 @@ msgstr "EL 変数"
 #.
 #: visualEditorImpl_name
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "visualEditorImpl_name"
 msgid "XulRunner Visual Editor"
 msgstr "XulRunner ビジュアル・エディター"
@@ -2279,14 +2278,14 @@ msgstr "XulRunner ビジュアル・エディター"
 #.
 #: PreferencePage_VpeEditor
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.vpe/plugin.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_VpeEditor"
 msgid "Visual Page Editor"
 msgstr "ビジュアル・ページ・エディター"
 
 #: blurb
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner.initializer/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "XULRunner\n"
@@ -2310,7 +2309,7 @@ msgstr ""
 #: BundleVendor
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner.initializer/initializer.properties:3
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleVendor"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -2320,14 +2319,14 @@ msgstr "JBoss, a division of Red Hat"
 #: BundleName
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner.initializer/initializer.properties:5
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleName"
 msgid "XULRunner"
 msgstr "XULRunner"
 
 #: XULRunnerInitializer_Bundle_doesnt_contain
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner.initializer/org/eclipse/swt/browser/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "XULRunnerInitializer_Bundle_doesnt_contain"
 msgid "Bundle {0} doesn''t contain {1}."
 msgstr "バンドル {0} は {1} を含みません。"
@@ -2335,7 +2334,7 @@ msgstr "バンドル {0} は {1} を含みません。"
 #.
 #: XULRunnerInitializer_Bundle_is_not_found
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner.initializer/org/eclipse/swt/browser/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "XULRunnerInitializer_Bundle_is_not_found"
 msgid "Bundle {0} is not found."
 msgstr "バンドル {0} は見つかりません。"
@@ -2343,14 +2342,14 @@ msgstr "バンドル {0} は見つかりません。"
 #.
 #: XULRunnerInitializer_Cannot_get_path_to_XULRunner_from_bundle
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner.initializer/org/eclipse/swt/browser/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "XULRunnerInitializer_Cannot_get_path_to_XULRunner_from_bundle"
 msgid "Cannot get path to XULRunner from bundle {0}. "
 msgstr "バンドル {0} から XULRunner へのパスを取得できません。"
 
 #: blurb
 #: ../../WORK/modules/vpe/plugins/org.jboss.tools.xulrunner/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "XULRunner\n"

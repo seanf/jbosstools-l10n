@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/esb/features/org.jboss.tools.esb.feature/feature.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "JBoss ESB Tools"
 msgstr "JBoss ESB Tools"
@@ -49,7 +48,7 @@ msgstr "JBoss ESB Tools"
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/plugin.properties:1
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/plugin.properties:1
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.ui/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -59,7 +58,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/esb/features/org.jboss.tools.esb.feature/feature.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -69,7 +68,7 @@ msgstr "JBossTools Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/esb/features/org.jboss.tools.esb.feature/feature.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "JBoss ESB Tools"
 msgstr "JBoss ESB Tools"
@@ -79,7 +78,7 @@ msgstr "JBoss ESB Tools"
 #. "copyright" property - text of the "Feature Update Copyright"
 #: copyright
 #: ../../WORK/modules/esb/features/org.jboss.tools.esb.feature/feature.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
@@ -93,7 +92,7 @@ msgstr ""
 #.
 #: are
 #: ../../WORK/modules/esb/features/org.jboss.tools.esb.feature/feature.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "are"
 msgid ""
 "made available under the terms of the Eclipse Public License v1.0\n"
@@ -115,7 +114,7 @@ msgstr ""
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/esb/features/org.jboss.tools.esb.feature/feature.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "license.html"
 msgstr "license.html"
@@ -126,7 +125,7 @@ msgstr "license.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/esb/features/org.jboss.tools.esb.feature/feature.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
@@ -373,7 +372,7 @@ msgstr ""
 
 #: ESB.element_type
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.element_type"
 msgid "Element Type"
 msgstr "要素タイプ"
@@ -381,7 +380,7 @@ msgstr "要素タイプ"
 #.
 #: ESB.name
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.name"
 msgid "Name"
 msgstr "名前"
@@ -389,7 +388,7 @@ msgstr "名前"
 #.
 #: ESB.class
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.class"
 msgid "Class"
 msgstr "クラス"
@@ -397,7 +396,7 @@ msgstr "クラス"
 #.
 #: ESB.timeout_in_millies
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.timeout_in_millies"
 msgid "Timeout in Millies"
 msgstr "Timeout in Millies"
@@ -405,7 +404,7 @@ msgstr "Timeout in Millies"
 #.
 #: ESB.process
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.process"
 msgid "Process"
 msgstr "処理"
@@ -413,7 +412,7 @@ msgstr "処理"
 #.
 #: ESB.encoding
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.encoding"
 msgid "Encoding"
 msgstr "エンコード"
@@ -421,7 +420,7 @@ msgstr "エンコード"
 #.
 #: ESB.rule_set
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.rule_set"
 msgid "Rule Set"
 msgstr "ルール・セット"
@@ -429,7 +428,7 @@ msgstr "ルール・セット"
 #.
 #: ESB.rule_language
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.rule_language"
 msgid "Rule Language"
 msgstr "ルール言語"
@@ -437,7 +436,7 @@ msgstr "ルール言語"
 #.
 #: ESB.rule_reload
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.rule_reload"
 msgid "Rule Reload"
 msgstr "ルール・リロード"
@@ -445,7 +444,7 @@ msgstr "ルール・リロード"
 #.
 #: ESB.script
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.script"
 msgid "Script"
 msgstr "スクリプト"
@@ -453,7 +452,7 @@ msgstr "スクリプト"
 #.
 #: ESB.classification
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.classification"
 msgid "Classification"
 msgstr "種別"
@@ -461,7 +460,7 @@ msgstr "種別"
 #.
 #: ESB.message_store_class
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.message_store_class"
 msgid "Message Store Class"
 msgstr "Message Store Class"
@@ -469,7 +468,7 @@ msgstr "Message Store Class"
 #.
 #: ESB.class_processor
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.class_processor"
 msgid "Class Processor"
 msgstr "Class Processor"
@@ -477,7 +476,7 @@ msgstr "Class Processor"
 #.
 #: ESB.class_method
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.class_method"
 msgid "Class Method"
 msgstr "Class Method"
@@ -485,7 +484,7 @@ msgstr "Class Method"
 #.
 #: ESB.bean_properties
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.bean_properties"
 msgid "Bean Properties"
 msgstr "Bean Properties"
@@ -493,7 +492,7 @@ msgstr "Bean Properties"
 #.
 #: ESB.fail_on_missing_property
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.fail_on_missing_property"
 msgid "Fail on Missing Property"
 msgstr "Fail on Missing Property"
@@ -501,7 +500,7 @@ msgstr "Fail on Missing Property"
 #.
 #: ESB.class_alias
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.class_alias"
 msgid "Class Alias"
 msgstr "Class Alias"
@@ -509,7 +508,7 @@ msgstr "Class Alias"
 #.
 #: ESB.exclude_package
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.exclude_package"
 msgid "Exclude Package"
 msgstr "Exclude Package"
@@ -517,7 +516,7 @@ msgstr "Exclude Package"
 #.
 #: ESB.wsdl
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.wsdl"
 msgid "Wsdl"
 msgstr "Wsdl"
@@ -525,7 +524,7 @@ msgstr "Wsdl"
 #.
 #: ESB.operation
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.operation"
 msgid "Operation"
 msgstr "演算命令"
@@ -533,7 +532,7 @@ msgstr "演算命令"
 #.
 #: ESB.jbossws_endpoint
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.jbossws_endpoint"
 msgid "Jbossws Endpoint"
 msgstr "Jbossws Endpoint"
@@ -541,7 +540,7 @@ msgstr "Jbossws Endpoint"
 #.
 #: ESB.resource_config
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.resource_config"
 msgid "Resource Config"
 msgstr "Resource Config"
@@ -549,7 +548,7 @@ msgstr "Resource Config"
 #.
 #: ESB.from
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.from"
 msgid "From"
 msgstr "From"
@@ -557,7 +556,7 @@ msgstr "From"
 #.
 #: ESB.from_type
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.from_type"
 msgid "From Type"
 msgstr "From Type"
@@ -565,7 +564,7 @@ msgstr "From Type"
 #.
 #: ESB.to
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.to"
 msgid "To"
 msgstr "To"
@@ -573,7 +572,7 @@ msgstr "To"
 #.
 #: ESB.to_type
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.to_type"
 msgid "To Type"
 msgstr "To Type"
@@ -581,7 +580,7 @@ msgstr "To Type"
 #.
 #: ESB.message
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.message"
 msgid "Message"
 msgstr "メッセージ"
@@ -589,7 +588,7 @@ msgstr "メッセージ"
 #.
 #: ESB.print_full
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.print_full"
 msgid "Print Full"
 msgstr "Print Full"
@@ -597,7 +596,7 @@ msgstr "Print Full"
 #.
 #: ESB.output_stream
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.output_stream"
 msgid "Output Stream"
 msgstr "出力ストリーム"
@@ -605,7 +604,7 @@ msgstr "出力ストリーム"
 #.
 #: ESB.incoming_type
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.incoming_type"
 msgid "Incoming Type"
 msgstr "Incoming Type"
@@ -613,7 +612,7 @@ msgstr "Incoming Type"
 #.
 #: ESB.root_node
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.root_node"
 msgid "Root Node"
 msgstr "Root Node"
@@ -621,7 +620,7 @@ msgstr "Root Node"
 #.
 #: ESB.value
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.value"
 msgid "Value"
 msgstr "値"
@@ -629,7 +628,7 @@ msgstr "値"
 #.
 #: ESB.type
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.type"
 msgid "Type"
 msgstr "型"
@@ -637,7 +636,7 @@ msgstr "型"
 #.
 #: ESB.destination_name
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.destination_name"
 msgid "Destination Name"
 msgstr "宛先名"
@@ -645,7 +644,7 @@ msgstr "宛先名"
 #.
 #: ESB.service_category
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.service_category"
 msgid "Service Category"
 msgstr "サービス・カテゴリ"
@@ -653,7 +652,7 @@ msgstr "サービス・カテゴリ"
 #.
 #: ESB.service_name
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.service_name"
 msgid "Service Name"
 msgstr "サービス名"
@@ -661,7 +660,7 @@ msgstr "サービス名"
 #.
 #: ESB.mep
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.mep"
 msgid "MEP"
 msgstr "MEP"
@@ -669,7 +668,7 @@ msgstr "MEP"
 #.
 #: ESB.id
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.id"
 msgid "ID"
 msgstr "ID"
@@ -677,7 +676,7 @@ msgstr "ID"
 #.
 #: ESBBusCreator.id
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBusCreator.id"
 msgid "Channel ID"
 msgstr "チャネル ID"
@@ -685,7 +684,7 @@ msgstr "チャネル ID"
 #.
 #: ESB.cron_expression
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.cron_expression"
 msgid "Cron Expression"
 msgstr "Cron Expression"
@@ -693,7 +692,7 @@ msgstr "Cron Expression"
 #.
 #: ESB.directory
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.directory"
 msgid "Directory"
 msgstr "ディレクトリー"
@@ -701,7 +700,7 @@ msgstr "ディレクトリー"
 #.
 #: ESB.input_suffix
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.input_suffix"
 msgid "Input Suffix"
 msgstr "Input Suffix"
@@ -709,7 +708,7 @@ msgstr "Input Suffix"
 #.
 #: ESB.work_suffix
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.work_suffix"
 msgid "Work Suffix"
 msgstr "Work Suffix"
@@ -717,7 +716,7 @@ msgstr "Work Suffix"
 #.
 #: ESB.post_delete
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.post_delete"
 msgid "Post Delete"
 msgstr "Post Delete"
@@ -725,7 +724,7 @@ msgstr "Post Delete"
 #.
 #: ESB.post_rename
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:89
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.post_rename"
 msgid "Post Rename"
 msgstr "Post Rename"
@@ -733,7 +732,7 @@ msgstr "Post Rename"
 #.
 #: ESB.post_directory
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.post_directory"
 msgid "Post Directory"
 msgstr "Post Directory"
@@ -741,7 +740,7 @@ msgstr "Post Directory"
 #.
 #: ESB.post_suffix
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.post_suffix"
 msgid "Post Suffix"
 msgstr "Post Suffix"
@@ -749,7 +748,7 @@ msgstr "Post Suffix"
 #.
 #: ESB.error_delete
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.error_delete"
 msgid "Error Delete"
 msgstr "Error Delete"
@@ -757,7 +756,7 @@ msgstr "Error Delete"
 #.
 #: ESB.error_directory
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:97
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.error_directory"
 msgid "Error Directory"
 msgstr "Error Directory"
@@ -765,7 +764,7 @@ msgstr "Error Directory"
 #.
 #: ESB.error_suffix
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:99
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.error_suffix"
 msgid "Error Suffix"
 msgstr "Error Suffix"
@@ -773,7 +772,7 @@ msgstr "Error Suffix"
 #.
 #: ESB.username
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.username"
 msgid "Username"
 msgstr "ユーザー名"
@@ -781,7 +780,7 @@ msgstr "ユーザー名"
 #.
 #: ESB.password
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:103
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.password"
 msgid "Password"
 msgstr "パスワード"
@@ -789,7 +788,7 @@ msgstr "パスワード"
 #.
 #: ESB.passive
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:105
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.passive"
 msgid "Passive"
 msgstr "Passive"
@@ -797,7 +796,7 @@ msgstr "Passive"
 #.
 #: ESB.protocol
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:107
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.protocol"
 msgid "Protocol"
 msgstr "プロトコル"
@@ -805,7 +804,7 @@ msgstr "プロトコル"
 #.
 #: ESB.certificate_url
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:109
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.certificate_url"
 msgid "Certificate URL"
 msgstr "Certificate URL"
@@ -813,7 +812,7 @@ msgstr "Certificate URL"
 #.
 #: ESB.certificate_name
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:111
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.certificate_name"
 msgid "Certificate Name"
 msgstr "Certificate Name"
@@ -821,7 +820,7 @@ msgstr "Certificate Name"
 #.
 #: ESB.certificate_passphrase
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:113
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.certificate_passphrase"
 msgid "Certificate Passphrase"
 msgstr "Certificate Passphrase"
@@ -829,7 +828,7 @@ msgstr "Certificate Passphrase"
 #.
 #: ESB.read_only
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:115
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.read_only"
 msgid "Read Only"
 msgstr "読み取り専用"
@@ -837,7 +836,7 @@ msgstr "読み取り専用"
 #.
 #: ESB.hostname
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:117
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.hostname"
 msgid "Hostname"
 msgstr "ホスト名"
@@ -845,7 +844,7 @@ msgstr "ホスト名"
 #.
 #: ESB.class_name
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:119
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.class_name"
 msgid "Class Name"
 msgstr "クラス名"
@@ -853,7 +852,7 @@ msgstr "クラス名"
 #.
 #: ESB.event
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:121
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.event"
 msgid "Event"
 msgstr "イベント"
@@ -861,7 +860,7 @@ msgstr "イベント"
 #.
 #: ESB.hibernate_cfg_file
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:123
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.hibernate_cfg_file"
 msgid "Hibernate Cfg File"
 msgstr "Hibernate Cfg File"
@@ -869,7 +868,7 @@ msgstr "Hibernate Cfg File"
 #.
 #: ESB.port
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:125
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.port"
 msgid "Port"
 msgstr "ポート"
@@ -877,7 +876,7 @@ msgstr "ポート"
 #.
 #: ESB.host
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:127
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.host"
 msgid "Host"
 msgstr "ホスト"
@@ -885,7 +884,7 @@ msgstr "ホスト"
 #.
 #: ESB.adapter
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:129
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.adapter"
 msgid "Adapter"
 msgstr "アダプター"
@@ -893,7 +892,7 @@ msgstr "アダプター"
 #.
 #: ESB.endpoint_class
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:131
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.endpoint_class"
 msgid "Endpoint Class"
 msgstr "Endpoint Class"
@@ -901,7 +900,7 @@ msgstr "Endpoint Class"
 #.
 #: ESB.messaging_type
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:133
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.messaging_type"
 msgid "Messaging Type"
 msgstr "Messaging Type"
@@ -909,7 +908,7 @@ msgstr "Messaging Type"
 #.
 #: ESB.jca_bridge
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:135
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.jca_bridge"
 msgid "Jca Bridge"
 msgstr "Jca Bridge"
@@ -917,7 +916,7 @@ msgstr "Jca Bridge"
 #.
 #: ESB.transacted
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:137
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.transacted"
 msgid "Transacted"
 msgstr "Transacted"
@@ -925,7 +924,7 @@ msgstr "Transacted"
 #.
 #: ESB.provider_adapter_JNDI
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:139
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.provider_adapter_JNDI"
 msgid "Provider Adapter JNDI"
 msgstr "Provider Adapter JNDI"
@@ -933,7 +932,7 @@ msgstr "Provider Adapter JNDI"
 #.
 #: ESB.destination_type
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:141
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.destination_type"
 msgid "Destination Type"
 msgstr "Destination Type"
@@ -941,7 +940,7 @@ msgstr "Destination Type"
 #.
 #: ESB.selector
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:143
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.selector"
 msgid "Selector"
 msgstr "セレクター"
@@ -949,7 +948,7 @@ msgstr "セレクター"
 #.
 #: ESB.persistent
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:145
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.persistent"
 msgid "Persistent"
 msgstr "Persistent"
@@ -957,7 +956,7 @@ msgstr "Persistent"
 #.
 #: ESB.acknowledge_mode
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:147
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.acknowledge_mode"
 msgid "Acknowledge Mode"
 msgstr "確認モード"
@@ -965,7 +964,7 @@ msgstr "確認モード"
 #.
 #: ESB.jms_security_principal
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:149
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.jms_security_principal"
 msgid "JMS Security Principal"
 msgstr "JMS Security Principal"
@@ -973,7 +972,7 @@ msgstr "JMS Security Principal"
 #.
 #: ESB.jms_security_credential
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:151
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.jms_security_credential"
 msgid "JMS Security Credential"
 msgstr "JMS Security Credential"
@@ -981,7 +980,7 @@ msgstr "JMS Security Credential"
 #.
 #: ESB.connection_factory
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:153
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.connection_factory"
 msgid "Connection Factory"
 msgstr "接続ファクトリー"
@@ -989,7 +988,7 @@ msgstr "接続ファクトリー"
 #.
 #: ESB.jndi_context_factory
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:155
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.jndi_context_factory"
 msgid "Jndi Context Factory"
 msgstr "Jndi Context Factory"
@@ -997,7 +996,7 @@ msgstr "Jndi Context Factory"
 #.
 #: ESB.jndi_pkg_prefix
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:157
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.jndi_pkg_prefix"
 msgid "Jndi Pkg Prefix"
 msgstr "Jndi Pkg Prefix"
@@ -1005,7 +1004,7 @@ msgstr "Jndi Pkg Prefix"
 #.
 #: ESB.jndi_url
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:159
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.jndi_url"
 msgid "Jndi URL"
 msgstr "Jndi URL"
@@ -1013,7 +1012,7 @@ msgstr "Jndi URL"
 #.
 #: ESB.channel_id_ref
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:161
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.channel_id_ref"
 msgid "Channel ID Ref"
 msgstr "Channel ID Ref"
@@ -1021,7 +1020,7 @@ msgstr "Channel ID Ref"
 #.
 #: ESB.max_threads
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:163
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.max_threads"
 msgid "Max Threads"
 msgstr "Max Threads"
@@ -1029,7 +1028,7 @@ msgstr "Max Threads"
 #.
 #: ESB.is_gateway
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:165
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.is_gateway"
 msgid "Is Gateway"
 msgstr "Is Gateway"
@@ -1037,7 +1036,7 @@ msgstr "Is Gateway"
 #.
 #: ESB.tablename
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:167
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.tablename"
 msgid "Tablename"
 msgstr "Tablename"
@@ -1045,7 +1044,7 @@ msgstr "Tablename"
 #.
 #: ESB.message_id_column
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:169
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.message_id_column"
 msgid "Message ID Column"
 msgstr "Message ID Column"
@@ -1053,7 +1052,7 @@ msgstr "Message ID Column"
 #.
 #: ESB.message_column
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:171
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.message_column"
 msgid "Message Column"
 msgstr "Message Column"
@@ -1061,7 +1060,7 @@ msgstr "Message Column"
 #.
 #: ESB.status_column
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:173
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.status_column"
 msgid "Status Column"
 msgstr "Status Column"
@@ -1069,7 +1068,7 @@ msgstr "Status Column"
 #.
 #: ESB.where_condition
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:175
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.where_condition"
 msgid "Where Condition"
 msgstr "Where Condition"
@@ -1077,7 +1076,7 @@ msgstr "Where Condition"
 #.
 #: ESB.order_by
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:177
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.order_by"
 msgid "Order by"
 msgstr "Order by"
@@ -1085,7 +1084,7 @@ msgstr "Order by"
 #.
 #: ESB.insert_timestamp_column
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:179
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.insert_timestamp_column"
 msgid "Insert Timestamp Column"
 msgstr "Insert Timestamp Column"
@@ -1093,7 +1092,7 @@ msgstr "Insert Timestamp Column"
 #.
 #: ESB.datasource
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:181
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.datasource"
 msgid "Datasource"
 msgstr "データソース"
@@ -1101,7 +1100,7 @@ msgstr "データソース"
 #.
 #: ESB.url
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:183
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.url"
 msgid "URL"
 msgstr "URL"
@@ -1109,7 +1108,7 @@ msgstr "URL"
 #.
 #: ESB.driver
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:185
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.driver"
 msgid "Driver"
 msgstr "ドライバー"
@@ -1117,7 +1116,7 @@ msgstr "ドライバー"
 #.
 #: ESB.poll_frequency_seconds
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:187
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.poll_frequency_seconds"
 msgid "Poll Frequency Seconds"
 msgstr "Poll Frequency Seconds"
@@ -1125,7 +1124,7 @@ msgstr "Poll Frequency Seconds"
 #.
 #: ESB.schedule_frequency
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:189
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.schedule_frequency"
 msgid "Schedule Frequency"
 msgstr "Schedule Frequency"
@@ -1133,7 +1132,7 @@ msgstr "Schedule Frequency"
 #.
 #: ESB.schedule_id_ref
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:191
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.schedule_id_ref"
 msgid "Schedule ID Ref"
 msgstr "Schedule ID Ref"
@@ -1141,7 +1140,7 @@ msgstr "Schedule ID Ref"
 #.
 #: ESB.event_processor
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:193
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.event_processor"
 msgid "Event Processor"
 msgstr "Event Processor"
@@ -1149,7 +1148,7 @@ msgstr "Event Processor"
 #.
 #: ESB.category
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:195
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.category"
 msgid "Category"
 msgstr "カテゴリー"
@@ -1157,7 +1156,7 @@ msgstr "カテゴリー"
 #.
 #: ESB.description
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:197
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.description"
 msgid "Description"
 msgstr "説明"
@@ -1165,7 +1164,7 @@ msgstr "説明"
 #.
 #: ESB.invm_scope
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:199
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.invm_scope"
 msgid "Invm Scope"
 msgstr "Invm Scope"
@@ -1173,7 +1172,7 @@ msgstr "Invm Scope"
 #.
 #: ESB.schedule_id
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:201
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.schedule_id"
 msgid "Schedule ID"
 msgstr "スケジュール ID"
@@ -1181,7 +1180,7 @@ msgstr "スケジュール ID"
 #.
 #: ESB.start_date
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:203
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.start_date"
 msgid "Start Date"
 msgstr "開始日"
@@ -1189,7 +1188,7 @@ msgstr "開始日"
 #.
 #: ESB.end_date
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:205
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.end_date"
 msgid "End Date"
 msgstr "終了日"
@@ -1197,7 +1196,7 @@ msgstr "終了日"
 #.
 #: ESB.frequency
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:207
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.frequency"
 msgid "Frequency"
 msgstr "間隔"
@@ -1205,7 +1204,7 @@ msgstr "間隔"
 #.
 #: ESB.frequency_units
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:209
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.frequency_units"
 msgid "Frequency Units"
 msgstr "Frequency Units"
@@ -1213,7 +1212,7 @@ msgstr "Frequency Units"
 #.
 #: ESB.exec_count
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:211
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.exec_count"
 msgid "Exec Count"
 msgstr "Exec Count"
@@ -1221,7 +1220,7 @@ msgstr "Exec Count"
 #.
 #: ESB.extension
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:213
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.extension"
 msgid "Extension"
 msgstr "拡張子"
@@ -1229,7 +1228,7 @@ msgstr "拡張子"
 #.
 #: ESB.xmlns
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:215
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.xmlns"
 msgid "Xmlns"
 msgstr "Xmlns"
@@ -1237,7 +1236,7 @@ msgstr "Xmlns"
 #.
 #: ESB.xmlns_xsi
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:217
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.xmlns_xsi"
 msgid "Xmlns:xsi"
 msgstr "Xmlns:xsi"
@@ -1245,7 +1244,7 @@ msgstr "Xmlns:xsi"
 #.
 #: ESB.xsi_schemaLocation
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:219
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.xsi_schemaLocation"
 msgid "Xsi:schemaLocation"
 msgstr "Xsi:schemaLocation"
@@ -1253,14 +1252,14 @@ msgstr "Xsi:schemaLocation"
 #.
 #: ESB.parameter_reload_secs
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-attrs.properties:221
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.parameter_reload_secs"
 msgid "Parameter Reload Secs"
 msgstr "Parameter Reload Secs"
 
 #: ESB.lists.process
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.process"
 msgid "process"
 msgstr "プロセス"
@@ -1268,7 +1267,7 @@ msgstr "プロセス"
 #.
 #: ESB.lists.split
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.split"
 msgid "split"
 msgstr "分割"
@@ -1276,7 +1275,7 @@ msgstr "分割"
 #.
 #: ESB.lists.RequestResponse
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.RequestResponse"
 msgid "RequestResponse"
 msgstr "RequestResponse"
@@ -1284,7 +1283,7 @@ msgstr "RequestResponse"
 #.
 #: ESB.lists.OneWay
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.OneWay"
 msgid "OneWay"
 msgstr "OneWay"
@@ -1292,7 +1291,7 @@ msgstr "OneWay"
 #.
 #: ESB.lists.ftp
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.ftp"
 msgid "ftp"
 msgstr "ftp"
@@ -1300,7 +1299,7 @@ msgstr "ftp"
 #.
 #: ESB.lists.ftps
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.ftps"
 msgid "ftps"
 msgstr "ftps"
@@ -1308,7 +1307,7 @@ msgstr "ftps"
 #.
 #: ESB.lists.sftp
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.sftp"
 msgid "sftp"
 msgstr "sftp"
@@ -1316,7 +1315,7 @@ msgstr "sftp"
 #.
 #: ESB.lists.http
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.http"
 msgid "http"
 msgstr "http"
@@ -1324,7 +1323,7 @@ msgstr "http"
 #.
 #: ESB.lists.https
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.https"
 msgid "https"
 msgstr "https"
@@ -1332,7 +1331,7 @@ msgstr "https"
 #.
 #: ESB.lists.socket
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.socket"
 msgid "socket"
 msgstr "socket"
@@ -1340,7 +1339,7 @@ msgstr "socket"
 #.
 #: ESB.lists.sslsocket
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.sslsocket"
 msgid "sslsocket"
 msgstr "sslsocket"
@@ -1348,7 +1347,7 @@ msgstr "sslsocket"
 #.
 #: ESB.lists.QUEUE
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.QUEUE"
 msgid "QUEUE"
 msgstr "QUEUE"
@@ -1356,7 +1355,7 @@ msgstr "QUEUE"
 #.
 #: ESB.lists.TOPIC
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.TOPIC"
 msgid "TOPIC"
 msgstr "TOPIC"
@@ -1364,7 +1363,7 @@ msgstr "TOPIC"
 #.
 #: ESB.lists.AUTO_ACKNOWLEDGE
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.AUTO_ACKNOWLEDGE"
 msgid "AUTO_ACKNOWLEDGE"
 msgstr "AUTO_ACKNOWLEDGE"
@@ -1372,7 +1371,7 @@ msgstr "AUTO_ACKNOWLEDGE"
 #.
 #: ESB.lists.CLIENT_ACKNOWLEDGE
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.CLIENT_ACKNOWLEDGE"
 msgid "CLIENT_ACKNOWLEDGE"
 msgstr "CLIENT_ACKNOWLEDGE"
@@ -1380,7 +1379,7 @@ msgstr "CLIENT_ACKNOWLEDGE"
 #.
 #: ESB.lists.DUPS_OK_ACKNOWLEDGE
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.DUPS_OK_ACKNOWLEDGE"
 msgid "DUPS_OK_ACKNOWLEDGE"
 msgstr "DUPS_OK_ACKNOWLEDGE"
@@ -1388,7 +1387,7 @@ msgstr "DUPS_OK_ACKNOWLEDGE"
 #.
 #: ESB.lists.NONE
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.NONE"
 msgid "NONE"
 msgstr "NONE"
@@ -1396,7 +1395,7 @@ msgstr "NONE"
 #.
 #: ESB.lists.GLOBAL
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.GLOBAL"
 msgid "GLOBAL"
 msgstr "GLOBAL"
@@ -1404,7 +1403,7 @@ msgstr "GLOBAL"
 #.
 #: ESB.lists.seconds
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.seconds"
 msgid "seconds"
 msgstr "秒"
@@ -1412,14 +1411,14 @@ msgstr "秒"
 #.
 #: ESB.lists.milliseconds
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-lists.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.lists.milliseconds"
 msgid "milliseconds"
 msgstr "ミリ秒"
 
 #: ESB.AddRouteTo.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddRouteTo.menu"
 msgid "Add Route To..."
 msgstr "Add Route To..."
@@ -1427,7 +1426,7 @@ msgstr "Add Route To..."
 #.
 #: ESB.AddNotificationList.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddNotificationList.menu"
 msgid "Add Notification List..."
 msgstr "Add Notification List..."
@@ -1435,7 +1434,7 @@ msgstr "Add Notification List..."
 #.
 #: ESB.AddProperty.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddProperty.menu"
 msgid "Add Property..."
 msgstr "プロパティーの追加..."
@@ -1443,7 +1442,7 @@ msgstr "プロパティーの追加..."
 #.
 #: ESB.AddAlias.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddAlias.menu"
 msgid "Add Alias..."
 msgstr "別名の追加..."
@@ -1451,7 +1450,7 @@ msgstr "別名の追加..."
 #.
 #: ESB.CreateTarget.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.CreateTarget.menu"
 msgid "Add Target..."
 msgstr "Add Target..."
@@ -1459,7 +1458,7 @@ msgstr "Add Target..."
 #.
 #: ESB.CreateTag.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.CreateTag.menu"
 msgid "Add Tag..."
 msgstr "タグの追加..."
@@ -1467,7 +1466,7 @@ msgstr "タグの追加..."
 #.
 #: ESB.AddAction.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddAction.menu"
 msgid "Generic Action..."
 msgstr "Generic Action..."
@@ -1475,7 +1474,7 @@ msgstr "Generic Action..."
 #.
 #: ESB.AddBus.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddBus.menu"
 msgid "Add Channel..."
 msgstr "Add Channel..."
@@ -1483,7 +1482,7 @@ msgstr "Add Channel..."
 #.
 #: ESB.AddFilter.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddFilter.menu"
 msgid "Add Filter..."
 msgstr "フィルターの追加..."
@@ -1491,7 +1490,7 @@ msgstr "フィルターの追加..."
 #.
 #: ESB.AddListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddListener.menu"
 msgid "Listener..."
 msgstr "リスナー..."
@@ -1499,7 +1498,7 @@ msgstr "リスナー..."
 #.
 #: ESB.AddScheduledListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddScheduledListener.menu"
 msgid "Scheduled Listener..."
 msgstr "Scheduled Listener..."
@@ -1507,7 +1506,7 @@ msgstr "Scheduled Listener..."
 #.
 #: ESB.AddJCAGateway.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddJCAGateway.menu"
 msgid "JCA Gateway..."
 msgstr "JCA Gateway..."
@@ -1515,7 +1514,7 @@ msgstr "JCA Gateway..."
 #.
 #: ESB.AddJMSListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddJMSListener.menu"
 msgid "JMS Listener..."
 msgstr "JMS Listener..."
@@ -1523,7 +1522,7 @@ msgstr "JMS Listener..."
 #.
 #: ESB.AddFSListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddFSListener.menu"
 msgid "FS Listener..."
 msgstr "FS Listener..."
@@ -1531,7 +1530,7 @@ msgstr "FS Listener..."
 #.
 #: ESB.AddFTPListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddFTPListener.menu"
 msgid "FTP Listener..."
 msgstr "FTP Listener..."
@@ -1539,7 +1538,7 @@ msgstr "FTP Listener..."
 #.
 #: ESB.AddSQLListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddSQLListener.menu"
 msgid "SQL Listener..."
 msgstr "SQL Listener..."
@@ -1547,7 +1546,7 @@ msgstr "SQL Listener..."
 #.
 #: ESB.AddHibernateListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddHibernateListener.menu"
 msgid "Hibernate Listener..."
 msgstr "Hibernate Listener..."
@@ -1555,7 +1554,7 @@ msgstr "Hibernate Listener..."
 #.
 #: ESB.AddJBRListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddJBRListener.menu"
 msgid "JBR Listener..."
 msgstr "JBR Listener..."
@@ -1563,7 +1562,7 @@ msgstr "JBR Listener..."
 #.
 #: ESB.AddGroovyListener.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddGroovyListener.menu"
 msgid "Groovy Listener..."
 msgstr "Groovy Listener..."
@@ -1571,7 +1570,7 @@ msgstr "Groovy Listener..."
 #.
 #: ESB.AddBusProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddBusProvider.menu"
 msgid "Channel Provider..."
 msgstr "Channel Provider..."
@@ -1579,7 +1578,7 @@ msgstr "Channel Provider..."
 #.
 #: ESB.AddJBRProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddJBRProvider.menu"
 msgid "JBR Provider..."
 msgstr "JBR Provider..."
@@ -1587,7 +1586,7 @@ msgstr "JBR Provider..."
 #.
 #: ESB.AddScheduleProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddScheduleProvider.menu"
 msgid "Schedule Provider..."
 msgstr "Schedule Provider..."
@@ -1595,7 +1594,7 @@ msgstr "Schedule Provider..."
 #.
 #: ESB.AddJMSProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddJMSProvider.menu"
 msgid "JMS Provider..."
 msgstr "JMS Provider..."
@@ -1603,7 +1602,7 @@ msgstr "JMS Provider..."
 #.
 #: ESB.AddJCAProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddJCAProvider.menu"
 msgid "JCA Provider..."
 msgstr "JCA Provider..."
@@ -1611,7 +1610,7 @@ msgstr "JCA Provider..."
 #.
 #: ESB.AddFSProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddFSProvider.menu"
 msgid "FS Provider..."
 msgstr "FS Provider..."
@@ -1619,7 +1618,7 @@ msgstr "FS Provider..."
 #.
 #: ESB.AddFTPProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddFTPProvider.menu"
 msgid "FTP Provider..."
 msgstr "FTP Provider..."
@@ -1627,7 +1626,7 @@ msgstr "FTP Provider..."
 #.
 #: ESB.AddSQLProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddSQLProvider.menu"
 msgid "SQL Provider..."
 msgstr "SQL Provider..."
@@ -1635,7 +1634,7 @@ msgstr "SQL Provider..."
 #.
 #: ESB.AddHibernateProvider.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddHibernateProvider.menu"
 msgid "Hibernate Provider..."
 msgstr "Hibernate Provider..."
@@ -1643,7 +1642,7 @@ msgstr "Hibernate Provider..."
 #.
 #: ESB.AddSimpleSchedule.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddSimpleSchedule.menu"
 msgid "Simple Schedule..."
 msgstr "Simple Schedule..."
@@ -1651,7 +1650,7 @@ msgstr "Simple Schedule..."
 #.
 #: ESB.AddCronSchedule.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddCronSchedule.menu"
 msgid "Cron Schedule..."
 msgstr "Cron Schedule..."
@@ -1659,7 +1658,7 @@ msgstr "Cron Schedule..."
 #.
 #: ESB.AddService.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddService.menu"
 msgid "Add Service..."
 msgstr "サービスの追加..."
@@ -1667,7 +1666,7 @@ msgstr "サービスの追加..."
 #.
 #: ESB.AddObjectInvoke.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddObjectInvoke.menu"
 msgid "Object Invoke..."
 msgstr "Object Invoke..."
@@ -1675,7 +1674,7 @@ msgstr "Object Invoke..."
 #.
 #: ESB.AddByteArrayToString.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddByteArrayToString.menu"
 msgid "Byte Array To String..."
 msgstr "Byte Array To String..."
@@ -1683,7 +1682,7 @@ msgstr "Byte Array To String..."
 #.
 #: ESB.AddLongToDate.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddLongToDate.menu"
 msgid "Long To Date..."
 msgstr "Long To Date..."
@@ -1691,7 +1690,7 @@ msgstr "Long To Date..."
 #.
 #: ESB.AddObjectToCSVString.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddObjectToCSVString.menu"
 msgid "Object To CSV String..."
 msgstr "Object To CSV String..."
@@ -1699,7 +1698,7 @@ msgstr "Object To CSV String..."
 #.
 #: ESB.AddObjectToXStream.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddObjectToXStream.menu"
 msgid "Object To XStream..."
 msgstr "Object To XStream..."
@@ -1707,7 +1706,7 @@ msgstr "Object To XStream..."
 #.
 #: ESB.AddSmooksTransformer.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddSmooksTransformer.menu"
 msgid "Smooks Transformer..."
 msgstr "Smooks Transformer..."
@@ -1715,7 +1714,7 @@ msgstr "Smooks Transformer..."
 #.
 #: ESB.AddMessagePersister.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddMessagePersister.menu"
 msgid "Message Persister..."
 msgstr "Message Persister..."
@@ -1723,7 +1722,7 @@ msgstr "Message Persister..."
 #.
 #: ESB.AddXStreamToObject.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddXStreamToObject.menu"
 msgid "XStream To Object..."
 msgstr "XStream To Object..."
@@ -1731,7 +1730,7 @@ msgstr "XStream To Object..."
 #.
 #: ESB.AddCommandInterpreter.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddCommandInterpreter.menu"
 msgid "Command Interpreter..."
 msgstr "Command Interpreter..."
@@ -1739,7 +1738,7 @@ msgstr "Command Interpreter..."
 #.
 #: ESB.AddGroovyProcessor.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddGroovyProcessor.menu"
 msgid "Groovy Action Processor..."
 msgstr "Groovy Action Processor..."
@@ -1747,7 +1746,7 @@ msgstr "Groovy Action Processor..."
 #.
 #: ESB.AddAggregator.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddAggregator.menu"
 msgid "Aggregator..."
 msgstr "Aggregator..."
@@ -1755,7 +1754,7 @@ msgstr "Aggregator..."
 #.
 #: ESB.AddContentBasedRouter.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddContentBasedRouter.menu"
 msgid "Content Based Router..."
 msgstr "Content Based Router..."
@@ -1763,7 +1762,7 @@ msgstr "Content Based Router..."
 #.
 #: ESB.AddStaticRouter.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddStaticRouter.menu"
 msgid "Static Router..."
 msgstr "Static Router..."
@@ -1771,7 +1770,7 @@ msgstr "Static Router..."
 #.
 #: ESB.AddStaticWiretap.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:89
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddStaticWiretap.menu"
 msgid "Static Wiretap..."
 msgstr "Static Wiretap..."
@@ -1779,7 +1778,7 @@ msgstr "Static Wiretap..."
 #.
 #: ESB.AddNotifier.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddNotifier.menu"
 msgid "Notifier..."
 msgstr "Notifier..."
@@ -1787,7 +1786,7 @@ msgstr "Notifier..."
 #.
 #: ESB.AddSOAPProcessor.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddSOAPProcessor.menu"
 msgid "SOAP Processor..."
 msgstr "SOAP Processor..."
@@ -1795,7 +1794,7 @@ msgstr "SOAP Processor..."
 #.
 #: ESB.AddSOAPClient.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddSOAPClient.menu"
 msgid "SOAP Client..."
 msgstr "SOAP Client..."
@@ -1803,7 +1802,7 @@ msgstr "SOAP Client..."
 #.
 #: ESB.AddSystemPrintln.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:97
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.AddSystemPrintln.menu"
 msgid "System Println..."
 msgstr "System Println..."
@@ -1811,14 +1810,14 @@ msgstr "System Println..."
 #.
 #: ESB.CreateFileESBV.menu
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb-menu.properties:99
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB.CreateFileESBV.menu"
 msgid "JBoss ESB File..."
 msgstr "JBoss ESB File..."
 
 #: FileESB101.editorTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileESB101.editorTitle"
 msgid "JBoss ESB Editor"
 msgstr "JBoss ESB Editor"
@@ -1828,7 +1827,7 @@ msgstr "JBoss ESB Editor"
 #. ESB File
 #: FileSystemFolder_CreateFileESB_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystemFolder_CreateFileESB_0.WindowTitle"
 msgid "New ESB File"
 msgstr "New ESB File"
@@ -1836,7 +1835,7 @@ msgstr "New ESB File"
 #.
 #: FileSystemFolder_CreateFileESB_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystemFolder_CreateFileESB_0.Title"
 msgid "ESB File"
 msgstr "ESB File"
@@ -1844,7 +1843,7 @@ msgstr "ESB File"
 #.
 #: FileSystemFolder_CreateFileESB.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystemFolder_CreateFileESB.WindowTitle"
 msgid "New ESB File"
 msgstr "New ESB File"
@@ -1852,7 +1851,7 @@ msgstr "New ESB File"
 #.
 #: FileSystemFolder_CreateFileESB.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystemFolder_CreateFileESB.Title"
 msgid "ESB File"
 msgstr "ESB File"
@@ -1860,7 +1859,7 @@ msgstr "ESB File"
 #.
 #: FileFolder_CreateFileESB.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileFolder_CreateFileESB.WindowTitle"
 msgid "New ESB File"
 msgstr "New ESB File"
@@ -1868,7 +1867,7 @@ msgstr "New ESB File"
 #.
 #: FileFolder_CreateFileESB.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileFolder_CreateFileESB.Title"
 msgid "ESB File"
 msgstr "ESB File"
@@ -1876,7 +1875,7 @@ msgstr "ESB File"
 #.
 #: FileESB101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileESB101_Properties.Title"
 msgid "ESB File 1.0.1"
 msgstr "ESB File 1.0.1"
@@ -1886,7 +1885,7 @@ msgstr "ESB File 1.0.1"
 #. Providers List
 #: ESBProviders101_AddBusProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddBusProvider_0.WindowTitle"
 msgid "Add Channel Provider"
 msgstr "Add Channel Provider"
@@ -1894,7 +1893,7 @@ msgstr "Add Channel Provider"
 #.
 #: ESBProviders101_AddBusProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddBusProvider_0.Title"
 msgid "ESB Provider"
 msgstr "ESB Provider"
@@ -1902,7 +1901,7 @@ msgstr "ESB Provider"
 #.
 #: ESBProviders101_AddBusProvider_1.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddBusProvider_1.WindowTitle"
 msgid "Add Channel Provider"
 msgstr "Add Channel Provider"
@@ -1910,7 +1909,7 @@ msgstr "Add Channel Provider"
 #.
 #: ESBProviders101_AddBusProvider_1.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddBusProvider_1.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -1918,7 +1917,7 @@ msgstr "ESB Channel"
 #.
 #: ESBProviders101_AddJBRProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJBRProvider_0.WindowTitle"
 msgid "Add JBR Provider"
 msgstr "Add JBR Provider"
@@ -1926,7 +1925,7 @@ msgstr "Add JBR Provider"
 #.
 #: ESBProviders101_AddJBRProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJBRProvider_0.Title"
 msgid "ESB JBR Provider"
 msgstr "ESB JBR Provider"
@@ -1934,7 +1933,7 @@ msgstr "ESB JBR Provider"
 #.
 #: ESBProviders101_AddJBRProvider_1.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJBRProvider_1.WindowTitle"
 msgid "Add JBR Provider"
 msgstr "Add JBR Provider"
@@ -1942,7 +1941,7 @@ msgstr "Add JBR Provider"
 #.
 #: ESBProviders101_AddJBRProvider_1.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJBRProvider_1.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -1950,7 +1949,7 @@ msgstr "ESB Channel"
 #.
 #: ESBProviders101_AddScheduleProvider.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddScheduleProvider.WindowTitle"
 msgid "Add Schedule Provider"
 msgstr "Add Schedule Provider"
@@ -1958,7 +1957,7 @@ msgstr "Add Schedule Provider"
 #.
 #: ESBProviders101_AddScheduleProvider.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddScheduleProvider.Title"
 msgid "ESB Schedule Provider"
 msgstr "ESB Schedule Provider"
@@ -1966,7 +1965,7 @@ msgstr "ESB Schedule Provider"
 #.
 #: ESBProviders101_AddScheduleProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddScheduleProvider_0.WindowTitle"
 msgid "Add Schedule Provider"
 msgstr "Add Schedule Provider"
@@ -1974,7 +1973,7 @@ msgstr "Add Schedule Provider"
 #.
 #: ESBProviders101_AddScheduleProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddScheduleProvider_0.Title"
 msgid "ESB Schedule Provider"
 msgstr "ESB Schedule Provider"
@@ -1982,7 +1981,7 @@ msgstr "ESB Schedule Provider"
 #.
 #: ESBProviders101_AddJMSProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJMSProvider_0.WindowTitle"
 msgid "Add JMS Provider"
 msgstr "Add JMS Provider"
@@ -1990,7 +1989,7 @@ msgstr "Add JMS Provider"
 #.
 #: ESBProviders101_AddJMSProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJMSProvider_0.Title"
 msgid "ESB JMS Provider"
 msgstr "ESB JMS Provider"
@@ -1998,7 +1997,7 @@ msgstr "ESB JMS Provider"
 #.
 #: ESBProviders101_AddJMSProvider_1.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJMSProvider_1.WindowTitle"
 msgid "Add JMS Provider"
 msgstr "Add JMS Provider"
@@ -2006,7 +2005,7 @@ msgstr "Add JMS Provider"
 #.
 #: ESBProviders101_AddJMSProvider_1.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJMSProvider_1.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -2014,7 +2013,7 @@ msgstr "ESB Channel"
 #.
 #: ESBProviders101_AddJCAProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJCAProvider_0.WindowTitle"
 msgid "Add JCA Provider"
 msgstr "Add JCA Provider"
@@ -2022,7 +2021,7 @@ msgstr "Add JCA Provider"
 #.
 #: ESBProviders101_AddJCAProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJCAProvider_0.Title"
 msgid "ESB JCA Provider"
 msgstr "ESB JCA Provider"
@@ -2030,7 +2029,7 @@ msgstr "ESB JCA Provider"
 #.
 #: ESBProviders101_AddJCAProvider_1.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJCAProvider_1.WindowTitle"
 msgid "Add JCA Provider"
 msgstr "Add JCA Provider"
@@ -2038,7 +2037,7 @@ msgstr "Add JCA Provider"
 #.
 #: ESBProviders101_AddJCAProvider_1.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddJCAProvider_1.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -2046,7 +2045,7 @@ msgstr "ESB Channel"
 #.
 #: ESBProviders101_AddFSProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddFSProvider_0.WindowTitle"
 msgid "Add FS Provider"
 msgstr "Add FS Provider"
@@ -2054,7 +2053,7 @@ msgstr "Add FS Provider"
 #.
 #: ESBProviders101_AddFSProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddFSProvider_0.Title"
 msgid "ESB FS Provider"
 msgstr "ESB FS Provider"
@@ -2062,7 +2061,7 @@ msgstr "ESB FS Provider"
 #.
 #: ESBProviders101_AddFSProvider_1.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddFSProvider_1.WindowTitle"
 msgid "Add FS Provider"
 msgstr "Add FS Provider"
@@ -2070,7 +2069,7 @@ msgstr "Add FS Provider"
 #.
 #: ESBProviders101_AddFSProvider_1.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddFSProvider_1.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -2078,7 +2077,7 @@ msgstr "ESB Channel"
 #.
 #: ESBProviders101_AddFTPProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddFTPProvider_0.WindowTitle"
 msgid "Add FTP Provider"
 msgstr "Add FTP Provider"
@@ -2086,7 +2085,7 @@ msgstr "Add FTP Provider"
 #.
 #: ESBProviders101_AddFTPProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddFTPProvider_0.Title"
 msgid "ESB FTP Provider"
 msgstr "ESB FTP Provider"
@@ -2094,7 +2093,7 @@ msgstr "ESB FTP Provider"
 #.
 #: ESBProviders101_AddFTPProvider_1.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddFTPProvider_1.WindowTitle"
 msgid "Add FTP Provider"
 msgstr "Add FTP Provider"
@@ -2102,7 +2101,7 @@ msgstr "Add FTP Provider"
 #.
 #: ESBProviders101_AddFTPProvider_1.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:97
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddFTPProvider_1.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -2110,7 +2109,7 @@ msgstr "ESB Channel"
 #.
 #: ESBProviders101_AddSQLProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddSQLProvider_0.WindowTitle"
 msgid "Add SQL Provider"
 msgstr "Add SQL Provider"
@@ -2118,7 +2117,7 @@ msgstr "Add SQL Provider"
 #.
 #: ESBProviders101_AddSQLProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:103
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddSQLProvider_0.Title"
 msgid "ESB SQL Provider"
 msgstr "ESB SQL Provider"
@@ -2126,7 +2125,7 @@ msgstr "ESB SQL Provider"
 #.
 #: ESBProviders101_AddSQLProvider_1.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:105
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddSQLProvider_1.WindowTitle"
 msgid "Add SQL Provider"
 msgstr "Add SQL Provider"
@@ -2134,7 +2133,7 @@ msgstr "Add SQL Provider"
 #.
 #: ESBProviders101_AddSQLProvider_1.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:107
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddSQLProvider_1.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -2142,7 +2141,7 @@ msgstr "ESB Channel"
 #.
 #: ESBProviders101_AddHibernateProvider_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:111
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddHibernateProvider_0.WindowTitle"
 msgid "Add Hibernate Provider"
 msgstr "Add Hibernate Provider"
@@ -2150,7 +2149,7 @@ msgstr "Add Hibernate Provider"
 #.
 #: ESBProviders101_AddHibernateProvider_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:113
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddHibernateProvider_0.Title"
 msgid "ESB Hibernate Provider"
 msgstr "ESB Hibernate Provider"
@@ -2158,7 +2157,7 @@ msgstr "ESB Hibernate Provider"
 #.
 #: ESBProviders101_AddHibernateProvider_1.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:115
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddHibernateProvider_1.WindowTitle"
 msgid "Add Hibernate Provider"
 msgstr "Add Hibernate Provider"
@@ -2166,7 +2165,7 @@ msgstr "Add Hibernate Provider"
 #.
 #: ESBProviders101_AddHibernateProvider_1.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:117
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_AddHibernateProvider_1.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -2174,7 +2173,7 @@ msgstr "ESB Channel"
 #.
 #: ESBProviders101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:121
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProviders101_Properties.Title"
 msgid "Providers List"
 msgstr "Providers List"
@@ -2184,7 +2183,7 @@ msgstr "Providers List"
 #. Services List
 #: ESBServices101_AddService.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:129
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBServices101_AddService.WindowTitle"
 msgid "Add Service"
 msgstr "サービスの追加"
@@ -2192,7 +2191,7 @@ msgstr "サービスの追加"
 #.
 #: ESBServices101_AddService.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:131
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBServices101_AddService.Title"
 msgid "ESB Service"
 msgstr "ESB Service"
@@ -2200,7 +2199,7 @@ msgstr "ESB Service"
 #.
 #: ESBServices101_AddService_0.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:133
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBServices101_AddService_0.WindowTitle"
 msgid "Add Service"
 msgstr "サービスの追加"
@@ -2208,7 +2207,7 @@ msgstr "サービスの追加"
 #.
 #: ESBServices101_AddService_0.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:135
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBServices101_AddService_0.Title"
 msgid "ESB Service"
 msgstr "ESB Service"
@@ -2216,7 +2215,7 @@ msgstr "ESB Service"
 #.
 #: ESBServices101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:139
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBServices101_Properties.Title"
 msgid "Services List"
 msgstr "Services List"
@@ -2226,7 +2225,7 @@ msgstr "Services List"
 #. Bus Provider
 #: ESBBusProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:147
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBusProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2234,7 +2233,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBBusProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:149
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBusProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2242,7 +2241,7 @@ msgstr "ESB Property"
 #.
 #: ESBBusProvider101_AddBus.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:153
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBusProvider101_AddBus.WindowTitle"
 msgid "Add Channel"
 msgstr "Add Channel"
@@ -2250,7 +2249,7 @@ msgstr "Add Channel"
 #.
 #: ESBBusProvider101_AddBus.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:155
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBusProvider101_AddBus.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -2258,7 +2257,7 @@ msgstr "ESB Channel"
 #.
 #: ESBBusProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:159
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBusProvider101_Properties.Title"
 msgid "ESB Channel Provider"
 msgstr "ESB Channel Provider"
@@ -2268,7 +2267,7 @@ msgstr "ESB Channel Provider"
 #. JBR Provider
 #: ESBJBRProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:167
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2276,7 +2275,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBJBRProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:169
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2284,7 +2283,7 @@ msgstr "ESB Property"
 #.
 #: ESBJBRProvider101_AddBus.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:173
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRProvider101_AddBus.WindowTitle"
 msgid "Add JBR Channel"
 msgstr "Add JBR Channel"
@@ -2292,7 +2291,7 @@ msgstr "Add JBR Channel"
 #.
 #: ESBJBRProvider101_AddBus.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:175
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRProvider101_AddBus.Title"
 msgid "ESB JBR Channel"
 msgstr "ESB JBR Channel"
@@ -2300,7 +2299,7 @@ msgstr "ESB JBR Channel"
 #.
 #: ESBJBRProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:179
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRProvider101_Properties.Title"
 msgid "ESB JBR Provider"
 msgstr "ESB JBR Provider"
@@ -2310,7 +2309,7 @@ msgstr "ESB JBR Provider"
 #. Schedule Provider
 #: ESBScheduleProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:187
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduleProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2318,7 +2317,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBScheduleProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:189
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduleProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2326,7 +2325,7 @@ msgstr "ESB Property"
 #.
 #: ESBScheduleProvider101_AddSimpleSchedule.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:193
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduleProvider101_AddSimpleSchedule.WindowTitle"
 msgid "Add Simple Schedule"
 msgstr "Add Simple Schedule"
@@ -2334,7 +2333,7 @@ msgstr "Add Simple Schedule"
 #.
 #: ESBScheduleProvider101_AddSimpleSchedule.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:195
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduleProvider101_AddSimpleSchedule.Title"
 msgid "ESB Simple Schedule"
 msgstr "ESB Simple Schedule"
@@ -2342,7 +2341,7 @@ msgstr "ESB Simple Schedule"
 #.
 #: ESBScheduleProvider101_AddCronSchedule.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:199
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduleProvider101_AddCronSchedule.WindowTitle"
 msgid "Add Cron Schedule"
 msgstr "Add Cron Schedule"
@@ -2350,7 +2349,7 @@ msgstr "Add Cron Schedule"
 #.
 #: ESBScheduleProvider101_AddCronSchedule.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:201
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduleProvider101_AddCronSchedule.Title"
 msgid "ESB Cron Schedule"
 msgstr "ESB Cron Schedule"
@@ -2358,7 +2357,7 @@ msgstr "ESB Cron Schedule"
 #.
 #: ESBScheduleProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:205
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduleProvider101_Properties.Title"
 msgid "ESB Schedule Provider"
 msgstr "ESB Schedule Provider"
@@ -2368,7 +2367,7 @@ msgstr "ESB Schedule Provider"
 #. JMS Provider
 #: ESBJMSProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:213
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2376,7 +2375,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBJMSProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:215
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2384,7 +2383,7 @@ msgstr "ESB Property"
 #.
 #: ESBJMSProvider101_AddBus.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:219
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSProvider101_AddBus.WindowTitle"
 msgid "Add JMS Channel"
 msgstr "Add JMS Channel"
@@ -2392,7 +2391,7 @@ msgstr "Add JMS Channel"
 #.
 #: ESBJMSProvider101_AddBus.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:221
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSProvider101_AddBus.Title"
 msgid "ESB JMS Channel"
 msgstr "ESB JMS Channel"
@@ -2400,7 +2399,7 @@ msgstr "ESB JMS Channel"
 #.
 #: ESBJMSProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:225
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSProvider101_Properties.Title"
 msgid "ESB JMS Provider"
 msgstr "ESB JMS Provider"
@@ -2410,7 +2409,7 @@ msgstr "ESB JMS Provider"
 #. Hibernate Provider
 #: ESBHibernateProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:233
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2418,7 +2417,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBHibernateProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:235
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2426,7 +2425,7 @@ msgstr "ESB Property"
 #.
 #: ESBHibernateProvider101_AddBus.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:239
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateProvider101_AddBus.WindowTitle"
 msgid "Add Hibernate Channel"
 msgstr "Add Hibernate Channel"
@@ -2434,7 +2433,7 @@ msgstr "Add Hibernate Channel"
 #.
 #: ESBHibernateProvider101_AddBus.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:241
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateProvider101_AddBus.Title"
 msgid "ESB Hibernate Channel"
 msgstr "ESB Hibernate Channel"
@@ -2442,7 +2441,7 @@ msgstr "ESB Hibernate Channel"
 #.
 #: ESBHibernateProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:245
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateProvider101_Properties.Title"
 msgid "ESB Hibernate Provider"
 msgstr "ESB Hibernate Provider"
@@ -2452,7 +2451,7 @@ msgstr "ESB Hibernate Provider"
 #. JCA Provider
 #: ESBJCAProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:253
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJCAProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2460,7 +2459,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBJCAProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:255
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJCAProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2468,7 +2467,7 @@ msgstr "ESB Property"
 #.
 #: ESBJCAProvider101_AddBus.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:259
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJCAProvider101_AddBus.WindowTitle"
 msgid "Add JMS Channel"
 msgstr "Add JMS Channel"
@@ -2476,7 +2475,7 @@ msgstr "Add JMS Channel"
 #.
 #: ESBJCAProvider101_AddBus.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:261
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJCAProvider101_AddBus.Title"
 msgid "ESB JMS Channel"
 msgstr "ESB JMS Channel"
@@ -2484,7 +2483,7 @@ msgstr "ESB JMS Channel"
 #.
 #: ESBJCAProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:265
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJCAProvider101_Properties.Title"
 msgid "ESB JCA Provider"
 msgstr "ESB JCA Provider"
@@ -2494,7 +2493,7 @@ msgstr "ESB JCA Provider"
 #. SQL Provider
 #: ESBSQLProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:273
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2502,7 +2501,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBSQLProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:275
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2510,7 +2509,7 @@ msgstr "ESB Property"
 #.
 #: ESBSQLProvider101_AddBus.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:279
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLProvider101_AddBus.WindowTitle"
 msgid "Add SQL Channel"
 msgstr "Add SQL Channel"
@@ -2518,7 +2517,7 @@ msgstr "Add SQL Channel"
 #.
 #: ESBSQLProvider101_AddBus.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:281
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLProvider101_AddBus.Title"
 msgid "ESB SQL Channel"
 msgstr "ESB SQL Channel"
@@ -2526,7 +2525,7 @@ msgstr "ESB SQL Channel"
 #.
 #: ESBSQLProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:285
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLProvider101_Properties.Title"
 msgid "ESB SQL Provider"
 msgstr "ESB SQL Provider"
@@ -2536,7 +2535,7 @@ msgstr "ESB SQL Provider"
 #. FTP Provider
 #: ESBFTPProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:293
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2544,7 +2543,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBFTPProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:295
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2552,7 +2551,7 @@ msgstr "ESB Property"
 #.
 #: ESBFTPProvider101_AddBus.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:299
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPProvider101_AddBus.WindowTitle"
 msgid "Add FTP Channel"
 msgstr "Add FTP Channel"
@@ -2560,7 +2559,7 @@ msgstr "Add FTP Channel"
 #.
 #: ESBFTPProvider101_AddBus.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:301
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPProvider101_AddBus.Title"
 msgid "ESB FTP Channel"
 msgstr "ESB FTP Channel"
@@ -2568,7 +2567,7 @@ msgstr "ESB FTP Channel"
 #.
 #: ESBFTPProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:305
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPProvider101_Properties.Title"
 msgid "ESB FTP Provider"
 msgstr "ESB FTP Provider"
@@ -2578,7 +2577,7 @@ msgstr "ESB FTP Provider"
 #. FS Provider
 #: ESBFSProvider101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:313
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSProvider101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2586,7 +2585,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBFSProvider101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:315
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSProvider101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2594,7 +2593,7 @@ msgstr "ESB Property"
 #.
 #: ESBFSProvider101_AddBus.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:319
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSProvider101_AddBus.WindowTitle"
 msgid "Add FS Channel"
 msgstr "Add FS Channel"
@@ -2602,7 +2601,7 @@ msgstr "Add FS Channel"
 #.
 #: ESBFSProvider101_AddBus.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:321
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSProvider101_AddBus.Title"
 msgid "ESB FS Channel"
 msgstr "ESB FS Channel"
@@ -2610,7 +2609,7 @@ msgstr "ESB FS Channel"
 #.
 #: ESBFSProvider101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:325
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSProvider101_Properties.Title"
 msgid "ESB FS Provider"
 msgstr "ESB FS Provider"
@@ -2620,7 +2619,7 @@ msgstr "ESB FS Provider"
 #. Bus
 #: ESBBus_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:333
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBus_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2628,7 +2627,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBBus_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:335
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBus_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2636,7 +2635,7 @@ msgstr "ESB Property"
 #.
 #: ESBBus_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:339
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBBus_Properties.Title"
 msgid "ESB Channel"
 msgstr "ESB Channel"
@@ -2646,7 +2645,7 @@ msgstr "ESB Channel"
 #. JBR Bus
 #: ESBJBRBus101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:347
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRBus101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2654,7 +2653,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBJBRBus101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:349
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRBus101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2662,7 +2661,7 @@ msgstr "ESB Property"
 #.
 #: ESBJBRBus101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:353
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRBus101_Properties.Title"
 msgid "ESB JBR Channel"
 msgstr "ESB JBR Channel"
@@ -2672,7 +2671,7 @@ msgstr "ESB JBR Channel"
 #. Cron Schedule
 #: ESBCronSchedule101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:361
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBCronSchedule101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2680,7 +2679,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBCronSchedule101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:363
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBCronSchedule101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2688,7 +2687,7 @@ msgstr "ESB Property"
 #.
 #: ESBCronSchedule101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:367
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBCronSchedule101_Properties.Title"
 msgid "ESB Cron Schedule"
 msgstr "ESB Cron Schedule"
@@ -2698,7 +2697,7 @@ msgstr "ESB Cron Schedule"
 #. Simple Schedule
 #: ESBSimpleSchedule101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:375
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSimpleSchedule101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2706,7 +2705,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBSimpleSchedule101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:377
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSimpleSchedule101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2714,7 +2713,7 @@ msgstr "ESB Property"
 #.
 #: ESBSimpleSchedule101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:381
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSimpleSchedule101_Properties.Title"
 msgid "ESB Simple Schedule"
 msgstr "ESB Simple Schedule"
@@ -2724,7 +2723,7 @@ msgstr "ESB Simple Schedule"
 #. JMS Bus
 #: ESBJMSBus101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:389
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSBus101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2732,7 +2731,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBJMSBus101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:391
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSBus101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2740,7 +2739,7 @@ msgstr "ESB Property"
 #.
 #: ESBJMSBus101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:395
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSBus101_Properties.Title"
 msgid "ESB JMS Channel"
 msgstr "ESB JMS Channel"
@@ -2750,7 +2749,7 @@ msgstr "ESB JMS Channel"
 #. JMS Message Filter
 #: ESBJMSMessageFilter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:403
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSMessageFilter101_Properties.Title"
 msgid "ESB JMS Message Filter"
 msgstr "ESB JMS Message Filter"
@@ -2760,7 +2759,7 @@ msgstr "ESB JMS Message Filter"
 #. Hibernate Bus
 #: ESBHibernateBus101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:411
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateBus101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2768,7 +2767,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBHibernateBus101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:413
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateBus101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2776,7 +2775,7 @@ msgstr "ESB Property"
 #.
 #: ESBHibernateBus101_AddFilter.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:417
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateBus101_AddFilter.WindowTitle"
 msgid "Add Hibernate Message Filter"
 msgstr "Add Hibernate Message Filter"
@@ -2784,7 +2783,7 @@ msgstr "Add Hibernate Message Filter"
 #.
 #: ESBHibernateBus101_AddFilter.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:419
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateBus101_AddFilter.Title"
 msgid "ESB Hibernate Message Filter"
 msgstr "ESB Hibernate Message Filter"
@@ -2792,7 +2791,7 @@ msgstr "ESB Hibernate Message Filter"
 #.
 #: ESBHibernateBus101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:423
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateBus101_Properties.Title"
 msgid "ESB Hibernate Channel"
 msgstr "ESB Hibernate Channel"
@@ -2802,7 +2801,7 @@ msgstr "ESB Hibernate Channel"
 #. Hibernate Message Filter
 #: ESBHibernateMessageFilter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:431
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateMessageFilter101_Properties.Title"
 msgid "ESB Hibernate Message Filter"
 msgstr "ESB Hibernate Message Filter"
@@ -2812,7 +2811,7 @@ msgstr "ESB Hibernate Message Filter"
 #. SQL Bus
 #: ESBSQLBus101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:439
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLBus101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2820,7 +2819,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBSQLBus101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:441
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLBus101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2828,7 +2827,7 @@ msgstr "ESB Property"
 #.
 #: ESBSQLBus101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:445
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLBus101_Properties.Title"
 msgid "ESB SQL Channel"
 msgstr "ESB SQL Channel"
@@ -2838,7 +2837,7 @@ msgstr "ESB SQL Channel"
 #. SQL Message Filter
 #: ESBSQLMessageFilter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:453
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLMessageFilter101_Properties.Title"
 msgid "ESB SQL Message Filter"
 msgstr "ESB SQL Message Filter"
@@ -2848,7 +2847,7 @@ msgstr "ESB SQL Message Filter"
 #. FTP Bus
 #: ESBFTPBus101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:461
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPBus101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2856,7 +2855,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBFTPBus101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:463
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPBus101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2864,7 +2863,7 @@ msgstr "ESB Property"
 #.
 #: ESBFTPBus101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:467
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPBus101_Properties.Title"
 msgid "ESB FTP Channel"
 msgstr "ESB FTP Channel"
@@ -2874,7 +2873,7 @@ msgstr "ESB FTP Channel"
 #. FTP Message Filter
 #: ESBFTPMessageFilter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:475
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPMessageFilter101_Properties.Title"
 msgid "ESB FTP Message Filter"
 msgstr "ESB FTP Message Filter"
@@ -2884,7 +2883,7 @@ msgstr "ESB FTP Message Filter"
 #. FS Bus
 #: ESBFSBus101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:483
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSBus101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2892,7 +2891,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBFSBus101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:485
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSBus101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2900,7 +2899,7 @@ msgstr "ESB Property"
 #.
 #: ESBFSBus101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:489
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSBus101_Properties.Title"
 msgid "ESB FS Channel"
 msgstr "ESB FS Channel"
@@ -2910,7 +2909,7 @@ msgstr "ESB FS Channel"
 #. FS Message Filter
 #: ESBFSMessageFilter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:497
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSMessageFilter101_Properties.Title"
 msgid "ESB FS Message Filter"
 msgstr "ESB FS Message Filter"
@@ -2920,7 +2919,7 @@ msgstr "ESB FS Message Filter"
 #. Property
 #: ESBProperty_CreateTag.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:505
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProperty_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -2928,7 +2927,7 @@ msgstr "タグの追加"
 #.
 #: ESBProperty_CreateTag.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:507
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProperty_CreateTag.Title"
 msgid "Any Tag"
 msgstr "Any Tag"
@@ -2936,7 +2935,7 @@ msgstr "Any Tag"
 #.
 #: ESBProperty_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:511
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProperty_Properties.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2946,7 +2945,7 @@ msgstr "ESB Property"
 #. Service
 #: ESBService101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:519
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBService101_Properties.Title"
 msgid "ESB Service"
 msgstr "ESB Service"
@@ -2954,7 +2953,7 @@ msgstr "ESB Service"
 #.
 #: ESBService101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:523
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBService101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2962,7 +2961,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBService101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:525
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBService101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -2972,7 +2971,7 @@ msgstr "ESB Property"
 #. Listeners List
 #: ESBListeners101_AddListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:533
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddListener.WindowTitle"
 msgid "Add Listener"
 msgstr "リスナーの追加"
@@ -2980,7 +2979,7 @@ msgstr "リスナーの追加"
 #.
 #: ESBListeners101_AddListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:535
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddListener.Title"
 msgid "ESB Listener"
 msgstr "ESB Listener"
@@ -2988,7 +2987,7 @@ msgstr "ESB Listener"
 #.
 #: ESBListeners101_AddScheduledListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:539
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddScheduledListener.WindowTitle"
 msgid "Add Scheduled Listener"
 msgstr "Add Scheduled Listener"
@@ -2996,7 +2995,7 @@ msgstr "Add Scheduled Listener"
 #.
 #: ESBListeners101_AddScheduledListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:541
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddScheduledListener.Title"
 msgid "ESB Scheduled Listener"
 msgstr "ESB Scheduled Listener"
@@ -3004,7 +3003,7 @@ msgstr "ESB Scheduled Listener"
 #.
 #: ESBListeners101_AddJCAGateway.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:545
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddJCAGateway.WindowTitle"
 msgid "Add JCA Gateway"
 msgstr "Add JCA Gateway"
@@ -3012,7 +3011,7 @@ msgstr "Add JCA Gateway"
 #.
 #: ESBListeners101_AddJCAGateway.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:547
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddJCAGateway.Title"
 msgid "ESB JCA Gateway"
 msgstr "ESB JCA Gateway"
@@ -3020,7 +3019,7 @@ msgstr "ESB JCA Gateway"
 #.
 #: ESBListeners101_AddJMSListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:551
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddJMSListener.WindowTitle"
 msgid "Add JMS Listener"
 msgstr "Add JMS Listener"
@@ -3028,7 +3027,7 @@ msgstr "Add JMS Listener"
 #.
 #: ESBListeners101_AddJMSListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:553
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddJMSListener.Title"
 msgid "ESB JMS Listener"
 msgstr "ESB JMS Listener"
@@ -3036,7 +3035,7 @@ msgstr "ESB JMS Listener"
 #.
 #: ESBListeners101_AddFSListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:557
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddFSListener.WindowTitle"
 msgid "Add FS Listener"
 msgstr "Add FS Listener"
@@ -3044,7 +3043,7 @@ msgstr "Add FS Listener"
 #.
 #: ESBListeners101_AddFSListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:559
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddFSListener.Title"
 msgid "ESB FS Listener"
 msgstr "ESB FS Listener"
@@ -3052,7 +3051,7 @@ msgstr "ESB FS Listener"
 #.
 #: ESBListeners101_AddFTPListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:563
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddFTPListener.WindowTitle"
 msgid "Add FTP Listener"
 msgstr "Add FTP Listener"
@@ -3060,7 +3059,7 @@ msgstr "Add FTP Listener"
 #.
 #: ESBListeners101_AddFTPListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:565
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddFTPListener.Title"
 msgid "ESB FTP Listener"
 msgstr "ESB FTP Listener"
@@ -3068,7 +3067,7 @@ msgstr "ESB FTP Listener"
 #.
 #: ESBListeners101_AddSQLListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:569
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddSQLListener.WindowTitle"
 msgid "Add SQL Listener"
 msgstr "Add SQL Listener"
@@ -3076,7 +3075,7 @@ msgstr "Add SQL Listener"
 #.
 #: ESBListeners101_AddSQLListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:571
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddSQLListener.Title"
 msgid "ESB SQL Listener"
 msgstr "ESB SQL Listener"
@@ -3084,7 +3083,7 @@ msgstr "ESB SQL Listener"
 #.
 #: ESBListeners101_AddJBRListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:575
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddJBRListener.WindowTitle"
 msgid "Add JBR Listener"
 msgstr "Add JBR Listener"
@@ -3092,7 +3091,7 @@ msgstr "Add JBR Listener"
 #.
 #: ESBListeners101_AddJBRListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:577
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddJBRListener.Title"
 msgid "ESB JBR Listener"
 msgstr "ESB JBR Listener"
@@ -3100,7 +3099,7 @@ msgstr "ESB JBR Listener"
 #.
 #: ESBListeners101_AddHibernateListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:581
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddHibernateListener.WindowTitle"
 msgid "Add Hibernate Listener"
 msgstr "Add Hibernate Listener"
@@ -3108,7 +3107,7 @@ msgstr "Add Hibernate Listener"
 #.
 #: ESBListeners101_AddHibernateListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:583
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddHibernateListener.Title"
 msgid "ESB Hibernate Listener"
 msgstr "ESB Hibernate Listener"
@@ -3116,7 +3115,7 @@ msgstr "ESB Hibernate Listener"
 #.
 #: ESBListeners101_AddGroovyListener.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:587
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddGroovyListener.WindowTitle"
 msgid "Add Groovy Listener"
 msgstr "Add Groovy Listener"
@@ -3124,7 +3123,7 @@ msgstr "Add Groovy Listener"
 #.
 #: ESBListeners101_AddGroovyListener.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:589
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_AddGroovyListener.Title"
 msgid "ESB Groovy Listener"
 msgstr "ESB Groovy Listener"
@@ -3132,7 +3131,7 @@ msgstr "ESB Groovy Listener"
 #.
 #: ESBListeners101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:593
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListeners101_Properties.Title"
 msgid "ESB Listeners List"
 msgstr "ESB Listeners List"
@@ -3142,7 +3141,7 @@ msgstr "ESB Listeners List"
 #. ESB Listener
 #: ESBListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:601
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3150,7 +3149,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:603
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3158,7 +3157,7 @@ msgstr "ESB Property"
 #.
 #: ESBListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:607
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBListener101_Properties.Title"
 msgid "ESB Listener"
 msgstr "ESB Listener"
@@ -3168,7 +3167,7 @@ msgstr "ESB Listener"
 #. Scheduled Listener
 #: ESBScheduledListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:615
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduledListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3176,7 +3175,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBScheduledListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:617
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduledListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3184,7 +3183,7 @@ msgstr "ESB Property"
 #.
 #: ESBScheduledListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:621
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBScheduledListener101_Properties.Title"
 msgid "ESB Scheduled Listener"
 msgstr "ESB Scheduled Listener"
@@ -3194,7 +3193,7 @@ msgstr "ESB Scheduled Listener"
 #. JCA Gateway
 #: ESBJCAGateway101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:629
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJCAGateway101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3202,7 +3201,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBJCAGateway101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:631
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJCAGateway101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3210,7 +3209,7 @@ msgstr "ESB Property"
 #.
 #: ESBJCAGateway101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:635
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJCAGateway101_Properties.Title"
 msgid "ESB JCA Gateway"
 msgstr "ESB JCA Gateway"
@@ -3220,7 +3219,7 @@ msgstr "ESB JCA Gateway"
 #. JMS Listener
 #: ESBJMSListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:643
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3228,7 +3227,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBJMSListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:645
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3236,7 +3235,7 @@ msgstr "ESB Property"
 #.
 #: ESBJMSListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:649
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJMSListener101_Properties.Title"
 msgid "ESB JMS Listener"
 msgstr "ESB JMS Listener"
@@ -3246,7 +3245,7 @@ msgstr "ESB JMS Listener"
 #. FS Listener
 #: ESBFSListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:657
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3254,7 +3253,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBFSListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:659
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3262,7 +3261,7 @@ msgstr "ESB Property"
 #.
 #: ESBFSListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:663
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFSListener101_Properties.Title"
 msgid "ESB FS Listener"
 msgstr "ESB FS Listener"
@@ -3272,7 +3271,7 @@ msgstr "ESB FS Listener"
 #. FTP Listener
 #: ESBFTPListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:671
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3280,7 +3279,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBFTPListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:673
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3288,7 +3287,7 @@ msgstr "ESB Property"
 #.
 #: ESBFTPListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:677
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFTPListener101_Properties.Title"
 msgid "ESB FTP Listener"
 msgstr "ESB FTP Listener"
@@ -3298,7 +3297,7 @@ msgstr "ESB FTP Listener"
 #. SQL Listener
 #: ESBSQLListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:685
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3306,7 +3305,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBSQLListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:687
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3314,7 +3313,7 @@ msgstr "ESB Property"
 #.
 #: ESBSQLListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:691
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBSQLListener101_Properties.Title"
 msgid "ESB SQL Listener"
 msgstr "ESB SQL Listener"
@@ -3324,7 +3323,7 @@ msgstr "ESB SQL Listener"
 #. Groovy Listener
 #: ESBGroovyListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:699
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBGroovyListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3332,7 +3331,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBGroovyListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:701
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBGroovyListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3340,7 +3339,7 @@ msgstr "ESB Property"
 #.
 #: ESBGroovyListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:705
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBGroovyListener101_Properties.Title"
 msgid "ESB Groovy Listener"
 msgstr "ESB Groovy Listener"
@@ -3350,7 +3349,7 @@ msgstr "ESB Groovy Listener"
 #. JBR Listener
 #: ESBJBRListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:713
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3358,7 +3357,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBJBRListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:715
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3366,7 +3365,7 @@ msgstr "ESB Property"
 #.
 #: ESBJBRListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:719
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBJBRListener101_Properties.Title"
 msgid "ESB JBR Listener"
 msgstr "ESB JBR Listener"
@@ -3376,7 +3375,7 @@ msgstr "ESB JBR Listener"
 #. Hibernate Listener
 #: ESBHibernateListener101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:727
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateListener101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3384,7 +3383,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBHibernateListener101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:729
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateListener101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3392,7 +3391,7 @@ msgstr "ESB Property"
 #.
 #: ESBHibernateListener101_AddFilter.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:733
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateListener101_AddFilter.WindowTitle"
 msgid "Add Hibernate Message Filter"
 msgstr "Add Hibernate Message Filter"
@@ -3400,7 +3399,7 @@ msgstr "Add Hibernate Message Filter"
 #.
 #: ESBHibernateListener101_AddFilter.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:735
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateListener101_AddFilter.Title"
 msgid "ESB Hibernate Message Filter"
 msgstr "ESB Hibernate Message Filter"
@@ -3408,7 +3407,7 @@ msgstr "ESB Hibernate Message Filter"
 #.
 #: ESBHibernateListener101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:739
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBHibernateListener101_Properties.Title"
 msgid "ESB Hibernate Listener"
 msgstr "ESB Hibernate Listener"
@@ -3418,7 +3417,7 @@ msgstr "ESB Hibernate Listener"
 #. Actions List
 #: ESBActions101_AddAction.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:747
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddAction.WindowTitle"
 msgid "Add Action"
 msgstr "アクションの追加"
@@ -3426,7 +3425,7 @@ msgstr "アクションの追加"
 #.
 #: ESBActions101_AddAction.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:749
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddAction.Title"
 msgid "ESB Action"
 msgstr "ESB Action"
@@ -3434,7 +3433,7 @@ msgstr "ESB Action"
 #.
 #: ESBActions101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:753
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_Properties.Title"
 msgid "ESB Actions List"
 msgstr "ESB Actions List"
@@ -3444,7 +3443,7 @@ msgstr "ESB Actions List"
 #. Action
 #: ESBAction101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:761
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBAction101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3452,7 +3451,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBAction101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:763
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBAction101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3460,7 +3459,7 @@ msgstr "ESB Property"
 #.
 #: ESBAction101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:767
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBAction101_Properties.Title"
 msgid "ESB Action"
 msgstr "ESB Action"
@@ -3470,7 +3469,7 @@ msgstr "ESB Action"
 #. Activation Config
 #: ESBActivationConfig101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:775
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActivationConfig101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3478,7 +3477,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBActivationConfig101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:777
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActivationConfig101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3486,7 +3485,7 @@ msgstr "ESB Property"
 #.
 #: ESBActivationConfig101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:781
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActivationConfig101_Properties.Title"
 msgid "ESB Activation Config"
 msgstr "ESB Activation Config"
@@ -3496,7 +3495,7 @@ msgstr "ESB Activation Config"
 #. Actions extension
 #: ESBPreActionContentBasedRouter101_AddRouteTo.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:789
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionContentBasedRouter101_AddRouteTo.WindowTitle"
 msgid "Add Route To"
 msgstr "Add Route To"
@@ -3504,7 +3503,7 @@ msgstr "Add Route To"
 #.
 #: ESBPreActionContentBasedRouter101_AddRouteTo.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:791
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionContentBasedRouter101_AddRouteTo.Title"
 msgid "ESB Route To"
 msgstr "ESB Route To"
@@ -3512,7 +3511,7 @@ msgstr "ESB Route To"
 #.
 #: ESBPreActionNotifier101_AddNotificationList.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:795
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionNotifier101_AddNotificationList.WindowTitle"
 msgid "Add Notification List"
 msgstr "Add Notification List"
@@ -3520,7 +3519,7 @@ msgstr "Add Notification List"
 #.
 #: ESBPreActionNotifier101_AddNotificationList.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:797
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionNotifier101_AddNotificationList.Title"
 msgid "ESB Notification List"
 msgstr "ESB Notification List"
@@ -3528,7 +3527,7 @@ msgstr "ESB Notification List"
 #.
 #: ESBPreActionSOAPClient101_AddProperty.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:801
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionSOAPClient101_AddProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3536,7 +3535,7 @@ msgstr "プロパティーの追加"
 #.
 #: ESBPreActionSOAPClient101_AddProperty.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:803
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionSOAPClient101_AddProperty.Title"
 msgid "ESB Property"
 msgstr "ESB Property"
@@ -3544,7 +3543,7 @@ msgstr "ESB Property"
 #.
 #: ESBPreActionStaticRouter101_AddRouteTo.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:807
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionStaticRouter101_AddRouteTo.WindowTitle"
 msgid "Add Route To"
 msgstr "Add Route To"
@@ -3552,7 +3551,7 @@ msgstr "Add Route To"
 #.
 #: ESBPreActionStaticRouter101_AddRouteTo.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:809
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionStaticRouter101_AddRouteTo.Title"
 msgid "ESB Route To"
 msgstr "ESB Route To"
@@ -3560,7 +3559,7 @@ msgstr "ESB Route To"
 #.
 #: ESBPreActionStaticWiretap101_AddRouteTo.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:813
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionStaticWiretap101_AddRouteTo.WindowTitle"
 msgid "Add Route To"
 msgstr "Add Route To"
@@ -3568,7 +3567,7 @@ msgstr "Add Route To"
 #.
 #: ESBPreActionStaticWiretap101_AddRouteTo.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:815
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionStaticWiretap101_AddRouteTo.Title"
 msgid "ESB Route To"
 msgstr "ESB Route To"
@@ -3576,7 +3575,7 @@ msgstr "ESB Route To"
 #.
 #: ESBPreActionXStreamToObject101_AddAlias.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:819
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionXStreamToObject101_AddAlias.WindowTitle"
 msgid "Add Alias"
 msgstr "別名の追加"
@@ -3584,7 +3583,7 @@ msgstr "別名の追加"
 #.
 #: ESBPreActionXStreamToObject101_AddAlias.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:821
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionXStreamToObject101_AddAlias.Title"
 msgid "ESB Alias"
 msgstr "ESB Alias"
@@ -3592,7 +3591,7 @@ msgstr "ESB Alias"
 #.
 #: ESBPreAlias_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:825
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreAlias_Properties.Title"
 msgid "ESB Alias"
 msgstr "ESB Alias"
@@ -3600,7 +3599,7 @@ msgstr "ESB Alias"
 #.
 #: ESBPreNotificationList_CreateTarget.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:829
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreNotificationList_CreateTarget.WindowTitle"
 msgid "Add Target"
 msgstr "Add Target"
@@ -3608,7 +3607,7 @@ msgstr "Add Target"
 #.
 #: ESBPreNotificationList_CreateTarget.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:831
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreNotificationList_CreateTarget.Title"
 msgid "ESB Target"
 msgstr "ESB Target"
@@ -3616,7 +3615,7 @@ msgstr "ESB Target"
 #.
 #: ESBPreNotificationList_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:835
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreNotificationList_Properties.Title"
 msgid "ESB Notification List"
 msgstr "ESB Notification List"
@@ -3624,7 +3623,7 @@ msgstr "ESB Notification List"
 #.
 #: ESBPreRouteTo_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:839
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreRouteTo_Properties.Title"
 msgid "ESB Route To"
 msgstr "ESB Route To"
@@ -3632,7 +3631,7 @@ msgstr "ESB Route To"
 #.
 #: ESBPreTarget_CreateTag.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:841
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreTarget_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -3640,7 +3639,7 @@ msgstr "タグの追加"
 #.
 #: ESBPreTarget_CreateTag.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:845
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreTarget_CreateTag.Title"
 msgid "XML Element"
 msgstr "XML Element"
@@ -3648,7 +3647,7 @@ msgstr "XML Element"
 #.
 #: ESBPreTarget_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:849
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreTarget_Properties.Title"
 msgid "ESB Target"
 msgstr "ESB Target"
@@ -3658,7 +3657,7 @@ msgstr "ESB Target"
 #. Adding specific actions
 #: ESBActions101_AddByteArrayToString.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:857
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddByteArrayToString.WindowTitle"
 msgid "Add Byte Array To String"
 msgstr "Add Byte Array To String"
@@ -3666,7 +3665,7 @@ msgstr "Add Byte Array To String"
 #.
 #: ESBActions101_AddByteArrayToString.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:859
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddByteArrayToString.Title"
 msgid "ESB Byte Array To String Converter"
 msgstr "ESB Byte Array To String Converter"
@@ -3674,7 +3673,7 @@ msgstr "ESB Byte Array To String Converter"
 #.
 #: ESBActions101_AddLongToDate.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:863
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddLongToDate.WindowTitle"
 msgid "Add Long To Date"
 msgstr "Add Long To Date"
@@ -3682,7 +3681,7 @@ msgstr "Add Long To Date"
 #.
 #: ESBActions101_AddLongToDate.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:865
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddLongToDate.Title"
 msgid "ESB Long To Date Converter"
 msgstr "ESB Long To Date Converter"
@@ -3690,7 +3689,7 @@ msgstr "ESB Long To Date Converter"
 #.
 #: ESBActions101_AddObjectToCSVString.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:869
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddObjectToCSVString.WindowTitle"
 msgid "Add Object To CSV String"
 msgstr "Add Object To CSV String"
@@ -3698,7 +3697,7 @@ msgstr "Add Object To CSV String"
 #.
 #: ESBActions101_AddObjectToCSVString.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:871
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddObjectToCSVString.Title"
 msgid "ESB Action Object To CSVString Converter"
 msgstr "ESB Action Object To CSVString Converter"
@@ -3706,7 +3705,7 @@ msgstr "ESB Action Object To CSVString Converter"
 #.
 #: ESBActions101_AddObjectToXStream.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:875
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddObjectToXStream.WindowTitle"
 msgid "Add Object To XStream"
 msgstr "Add Object To XStream"
@@ -3714,7 +3713,7 @@ msgstr "Add Object To XStream"
 #.
 #: ESBActions101_AddObjectToXStream.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:877
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddObjectToXStream.Title"
 msgid "ESB Object To XStream Converter"
 msgstr "ESB Object To XStream Converter"
@@ -3722,7 +3721,7 @@ msgstr "ESB Object To XStream Converter"
 #.
 #: ESBActions101_AddSmooksTransformer.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:881
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddSmooksTransformer.WindowTitle"
 msgid "Add Smooks Transformer"
 msgstr "Add Smooks Transformer"
@@ -3730,7 +3729,7 @@ msgstr "Add Smooks Transformer"
 #.
 #: ESBActions101_AddSmooksTransformer.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:883
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddSmooksTransformer.Title"
 msgid "ESB Smooks Transformer"
 msgstr "ESB Smooks Transformer"
@@ -3738,7 +3737,7 @@ msgstr "ESB Smooks Transformer"
 #.
 #: ESBActions101_AddMessagePersister.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:887
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddMessagePersister.WindowTitle"
 msgid "Add Message Persister"
 msgstr "Add Message Persister"
@@ -3746,7 +3745,7 @@ msgstr "Add Message Persister"
 #.
 #: ESBActions101_AddMessagePersister.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:889
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddMessagePersister.Title"
 msgid "ESB Message Persister"
 msgstr "ESB Message Persister"
@@ -3754,7 +3753,7 @@ msgstr "ESB Message Persister"
 #.
 #: ESBActions101_AddXStreamToObject.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:893
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddXStreamToObject.WindowTitle"
 msgid "Add XStream To Object"
 msgstr "Add XStream To Object"
@@ -3762,7 +3761,7 @@ msgstr "Add XStream To Object"
 #.
 #: ESBActions101_AddXStreamToObject.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:895
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddXStreamToObject.Title"
 msgid "ESB XStream To Object Converter"
 msgstr "ESB XStream To Object Converter"
@@ -3770,7 +3769,7 @@ msgstr "ESB XStream To Object Converter"
 #.
 #: ESBActions101_AddAggregator.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:899
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddAggregator.WindowTitle"
 msgid "Add Aggregator"
 msgstr "Add Aggregator"
@@ -3778,7 +3777,7 @@ msgstr "Add Aggregator"
 #.
 #: ESBActions101_AddAggregator.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:901
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddAggregator.Title"
 msgid "ESB Aggregator"
 msgstr "ESB Aggregator"
@@ -3786,7 +3785,7 @@ msgstr "ESB Aggregator"
 #.
 #: ESBActions101_AddContentBasedRouter.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:905
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddContentBasedRouter.WindowTitle"
 msgid "Add Content Based Router"
 msgstr "Add Content Based Router"
@@ -3794,7 +3793,7 @@ msgstr "Add Content Based Router"
 #.
 #: ESBActions101_AddContentBasedRouter.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:907
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddContentBasedRouter.Title"
 msgid "ESB Content Based Router"
 msgstr "ESB Content Based Router"
@@ -3802,7 +3801,7 @@ msgstr "ESB Content Based Router"
 #.
 #: ESBActions101_AddStaticRouter.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:911
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddStaticRouter.WindowTitle"
 msgid "Add Static Router"
 msgstr "Add Static Router"
@@ -3810,7 +3809,7 @@ msgstr "Add Static Router"
 #.
 #: ESBActions101_AddStaticRouter.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:913
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddStaticRouter.Title"
 msgid "ESB Static Router"
 msgstr "ESB Static Router"
@@ -3818,7 +3817,7 @@ msgstr "ESB Static Router"
 #.
 #: ESBActions101_AddStaticWiretap.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:917
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddStaticWiretap.WindowTitle"
 msgid "Add Static Wiretap"
 msgstr "Add Static Wiretap"
@@ -3826,7 +3825,7 @@ msgstr "Add Static Wiretap"
 #.
 #: ESBActions101_AddStaticWiretap.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:919
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddStaticWiretap.Title"
 msgid "ESB Static Wiretap"
 msgstr "ESB Static Wiretap"
@@ -3834,7 +3833,7 @@ msgstr "ESB Static Wiretap"
 #.
 #: ESBActions101_AddNotifier.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:923
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddNotifier.WindowTitle"
 msgid "Add Notifier"
 msgstr "Add Notifier"
@@ -3842,7 +3841,7 @@ msgstr "Add Notifier"
 #.
 #: ESBActions101_AddNotifier.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:925
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddNotifier.Title"
 msgid "ESB Notifier"
 msgstr "ESB Notifier"
@@ -3850,7 +3849,7 @@ msgstr "ESB Notifier"
 #.
 #: ESBActions101_SOAPProcessor.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:929
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_SOAPProcessor.WindowTitle"
 msgid "Add SOAP Processor"
 msgstr "Add SOAP Processor"
@@ -3858,7 +3857,7 @@ msgstr "Add SOAP Processor"
 #.
 #: ESBActions101_SOAPProcessor.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:931
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_SOAPProcessor.Title"
 msgid "SOAP Processor"
 msgstr "SOAP Processor"
@@ -3866,7 +3865,7 @@ msgstr "SOAP Processor"
 #.
 #: ESBActions101_SOAPClient.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:935
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_SOAPClient.WindowTitle"
 msgid "Add SOAP Client"
 msgstr "Add SOAP Client"
@@ -3874,7 +3873,7 @@ msgstr "Add SOAP Client"
 #.
 #: ESBActions101_SOAPClient.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:937
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_SOAPClient.Title"
 msgid "SOAP Client"
 msgstr "SOAP Client"
@@ -3882,7 +3881,7 @@ msgstr "SOAP Client"
 #.
 #: ESBActions101_AddObjectInvoke.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:941
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddObjectInvoke.WindowTitle"
 msgid "Add Object Invoke"
 msgstr "Add Object Invoke"
@@ -3890,7 +3889,7 @@ msgstr "Add Object Invoke"
 #.
 #: ESBActions101_AddObjectInvoke.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:943
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddObjectInvoke.Title"
 msgid "ESB Object Invoke"
 msgstr "ESB Object Invoke"
@@ -3898,7 +3897,7 @@ msgstr "ESB Object Invoke"
 #.
 #: ESBActions101_AddCommandInterpreter.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:947
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddCommandInterpreter.WindowTitle"
 msgid "Add Command Interpreter"
 msgstr "Add Command Interpreter"
@@ -3906,7 +3905,7 @@ msgstr "Add Command Interpreter"
 #.
 #: ESBActions101_AddCommandInterpreter.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:949
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddCommandInterpreter.Title"
 msgid "ESB Command Interpreter"
 msgstr "ESB Command Interpreter"
@@ -3914,7 +3913,7 @@ msgstr "ESB Command Interpreter"
 #.
 #: ESBActions101_AddGroovyProcessor.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:953
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddGroovyProcessor.WindowTitle"
 msgid "Add Groovy Action Processor"
 msgstr "Add Groovy Action Processor"
@@ -3922,7 +3921,7 @@ msgstr "Add Groovy Action Processor"
 #.
 #: ESBActions101_AddGroovyProcessor.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:955
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddGroovyProcessor.Title"
 msgid "ESB Groovy Action Processor"
 msgstr "ESB Groovy Action Processor"
@@ -3930,7 +3929,7 @@ msgstr "ESB Groovy Action Processor"
 #.
 #: ESBActions101_AddSystemPrintln.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:959
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddSystemPrintln.WindowTitle"
 msgid "Add System Println"
 msgstr "Add System Println"
@@ -3938,7 +3937,7 @@ msgstr "Add System Println"
 #.
 #: ESBActions101_AddSystemPrintln.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:961
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddSystemPrintln.Title"
 msgid "ESB System Println"
 msgstr "ESB System Println"
@@ -3946,7 +3945,7 @@ msgstr "ESB System Println"
 #.
 #: ESBActions101_AddSOAPProcessor.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:965
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddSOAPProcessor.WindowTitle"
 msgid "Add SOAP Processor"
 msgstr "Add SOAP Processor"
@@ -3954,7 +3953,7 @@ msgstr "Add SOAP Processor"
 #.
 #: ESBActions101_AddSOAPProcessor.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:967
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddSOAPProcessor.Title"
 msgid "ESB SOAP Processor"
 msgstr "ESB SOAP Processor"
@@ -3962,7 +3961,7 @@ msgstr "ESB SOAP Processor"
 #.
 #: ESBActions101_AddSOAPClient.WindowTitle
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:971
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddSOAPClient.WindowTitle"
 msgid "Add SOAP Client"
 msgstr "Add SOAP Client"
@@ -3970,7 +3969,7 @@ msgstr "Add SOAP Client"
 #.
 #: ESBActions101_AddSOAPClient.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:973
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBActions101_AddSOAPClient.Title"
 msgid "ESB SOAP Client"
 msgstr "ESB SOAP Client"
@@ -3978,7 +3977,7 @@ msgstr "ESB SOAP Client"
 #.
 #: ESBPreActionAggregator101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:977
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionAggregator101_Properties.Title"
 msgid "Aggregator"
 msgstr "Aggregator"
@@ -3986,7 +3985,7 @@ msgstr "Aggregator"
 #.
 #: ESBPreActionByteArrayToString101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:979
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionByteArrayToString101_Properties.Title"
 msgid "Byte Array to String"
 msgstr "Byte Array to String"
@@ -3994,7 +3993,7 @@ msgstr "Byte Array to String"
 #.
 #: ESBPreActionCommandInterpreter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:981
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionCommandInterpreter101_Properties.Title"
 msgid "Command Interpreter"
 msgstr "Command Interpreter"
@@ -4002,7 +4001,7 @@ msgstr "Command Interpreter"
 #.
 #: ESBPreActionContentBasedRouter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:983
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionContentBasedRouter101_Properties.Title"
 msgid "Content Based Router"
 msgstr "Content Based Router"
@@ -4010,7 +4009,7 @@ msgstr "Content Based Router"
 #.
 #: ESBPreActionGroovyProcessor101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:985
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionGroovyProcessor101_Properties.Title"
 msgid "Groovy Processor"
 msgstr "Groovy Processor"
@@ -4018,7 +4017,7 @@ msgstr "Groovy Processor"
 #.
 #: ESBPreActionLongToDateConverter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:987
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionLongToDateConverter101_Properties.Title"
 msgid "Long to Date Converter"
 msgstr "Long to Date Converter"
@@ -4026,7 +4025,7 @@ msgstr "Long to Date Converter"
 #.
 #: ESBPreActionMessagePersister101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:989
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionMessagePersister101_Properties.Title"
 msgid "Message Persister"
 msgstr "Message Persister"
@@ -4034,7 +4033,7 @@ msgstr "Message Persister"
 #.
 #: ESBPreActionNotifier101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:991
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionNotifier101_Properties.Title"
 msgid "Notifier"
 msgstr "Notifier"
@@ -4042,7 +4041,7 @@ msgstr "Notifier"
 #.
 #: ESBPreActionObjectInvoke101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:993
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionObjectInvoke101_Properties.Title"
 msgid "Object Invoke"
 msgstr "Object Invoke"
@@ -4050,7 +4049,7 @@ msgstr "Object Invoke"
 #.
 #: ESBPreActionObjectToCSVString101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:995
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionObjectToCSVString101_Properties.Title"
 msgid "Object to CSV String"
 msgstr "Object to CSV String"
@@ -4058,7 +4057,7 @@ msgstr "Object to CSV String"
 #.
 #: ESBPreActionObjectToXStream101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:997
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionObjectToXStream101_Properties.Title"
 msgid "Object to XStream"
 msgstr "Object to XStream"
@@ -4066,7 +4065,7 @@ msgstr "Object to XStream"
 #.
 #: ESBPreActionSOAPClient101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:999
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionSOAPClient101_Properties.Title"
 msgid "SOAP Client"
 msgstr "SOAP Client"
@@ -4074,7 +4073,7 @@ msgstr "SOAP Client"
 #.
 #: ESBPreActionSOAPProcessor101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:1001
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionSOAPProcessor101_Properties.Title"
 msgid "SOAP Processor"
 msgstr "SOAP Processor"
@@ -4082,7 +4081,7 @@ msgstr "SOAP Processor"
 #.
 #: ESBPreActionSmooksTransformer101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:1003
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionSmooksTransformer101_Properties.Title"
 msgid "Smooks Transformer"
 msgstr "Smooks Transformer"
@@ -4090,7 +4089,7 @@ msgstr "Smooks Transformer"
 #.
 #: ESBPreActionStaticRouter101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:1005
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionStaticRouter101_Properties.Title"
 msgid "Static Router"
 msgstr "Static Router"
@@ -4098,7 +4097,7 @@ msgstr "Static Router"
 #.
 #: ESBPreActionStaticWiretap101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:1007
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionStaticWiretap101_Properties.Title"
 msgid "Static Wiretap"
 msgstr "Static Wiretap"
@@ -4106,7 +4105,7 @@ msgstr "Static Wiretap"
 #.
 #: ESBPreActionSystemPrintln101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:1009
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionSystemPrintln101_Properties.Title"
 msgid "System Println"
 msgstr "System Println"
@@ -4114,133 +4113,133 @@ msgstr "System Println"
 #.
 #: ESBPreActionXStreamToObject101_Properties.Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/help/keys-esb.properties:1011
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBPreActionXStreamToObject101_Properties.Title"
 msgid "XStream to Object"
 msgstr "XStream to Object"
 
 #: ESB_CORE_PLUGIN_NO_MESSAGE
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/org/jboss/tools/esb/core/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB_CORE_PLUGIN_NO_MESSAGE"
 msgid "No message"
 msgstr "メッセージがありません"
 
 #: pluginName
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.core/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "ESB Core Plugin"
 msgstr "ESB コア・プラグイン"
 
 #: Progress_Install_JBossWS_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "Progress_Install_JBossWS_Runtime"
 msgid "JBoss ESB Runtime"
 msgstr "JBoss ESB ランタイム"
 
 #: Progress_UnInstall_JBossWS_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "Progress_UnInstall_JBossWS_Runtime"
 msgid "Uninstall JBoss ESB Runtime"
 msgstr "JBoss ESB ランタイムのアンインストール"
 
 #: Dir_Lib
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Dir_Lib"
 msgid "lib"
 msgstr "lib"
 
 #: Dir_Client
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "Dir_Client"
 msgid "client"
 msgstr "client"
 
 #: Dir_Web_Inf
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "Dir_Web_Inf"
 msgid "WEB-INF"
 msgstr "WEB-INF"
 
 #: Dir_Web_Content
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "Dir_Web_Content"
 msgid "WebContent"
 msgstr "WebContent"
 
 #: Error_Copy
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_Copy"
 msgid "Exception while copy runtime jars"
 msgstr "ランタイム jar のコピー中に例外"
 
 #: ESB_Location
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESB_Location"
 msgid "jbossesbruntimelocation"
 msgstr "jbossesbruntimelocation"
 
 #: JBoss_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime"
 msgid "JBoss ESB Runtime"
 msgstr "JBoss ESB ランタイム"
 
 #: JBossAS
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBossAS"
 msgid "JBOSS"
 msgstr "JBOSS"
 
 #: Error_WS_Location
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_WS_Location"
 msgid "The JBoss ESB Runtime Location is NULL"
 msgstr "JBoss ESB ランタイム・ロケーションが空です"
 
 #: Error_WS_Classpath
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_WS_Classpath"
 msgid "A error comes up when create JBoss ESB runtime Classpath"
 msgstr "JBoss ESB ランタイム・クラスパスの作成中にエラー"
 
 #: Error_Add_Facet_JBossESB
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_Add_Facet_JBossESB"
 msgid "Exception while install JBoss ESB facet"
 msgstr "JBoss ESB ファセットのインストール中に例外"
 
 #: Error_Remove_Facet_JBossWS
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/org/jboss/tools/esb/core/messages/JBossFacetCore.properties:14
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_Remove_Facet_JBossWS"
 msgid "Exception while uninstall JBoss ESB facet"
 msgstr "JBoss ESB ファセットのアンインストール中に例外"
 
 #: pluginName
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.core/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JBoss ESB Project Core Plugin"
 msgstr "JBoss ESB プロジェクト・コア・プラグイン"
 
 #: Label_JBoss_Runtime_Load_Error
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "Label_JBoss_Runtime_Load_Error"
 msgid ""
 "Error occurred while loading JBoss ESB {0} runtime . Please select a correct "
@@ -4252,70 +4251,70 @@ msgstr ""
 #.
 #: Error_JBoss_Basic_Editor_Composite
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_JBoss_Basic_Editor_Composite"
 msgid "Parent control should be Composite"
 msgstr "親コントロールはコンポジットである必要があります"
 
 #: Error_JBoss_Basic_Editor_Support
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_JBoss_Basic_Editor_Support"
 msgid "Editor supports only grid layout"
 msgstr "エディターはグリッド・レイアウトのみをサポートします"
 
 #: Error_JBoss_Basic_Editor_Different
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_JBoss_Basic_Editor_Different"
 msgid "Parent for label is different"
 msgstr "ラベルの親が異なります"
 
 #: JBoss_Runtime_List_Field_Editor_Name
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:6
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Name"
 msgid "Name"
 msgstr "名前"
 
 #: JBoss_Runtime_List_Field_Editor_Version
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Version"
 msgid "Version"
 msgstr "バージョン"
 
 #: JBoss_Runtime_List_Field_Editor_Path
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:8
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Path"
 msgid "Path"
 msgstr "パス"
 
 #: JBoss_Runtime_List_Field_Editor_Inputelement_Must_Be
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Inputelement_Must_Be"
 msgid "inputElement must be"
 msgstr "inputElement は"
 
 #: JBoss_Runtime_List_Field_Editor_An_Instance_Of_List
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:10
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_An_Instance_Of_List"
 msgid "an instance of List<JBossRuntime>."
 msgstr "an instance of List<JBossRuntime>."
 
 #: JBoss_Runtime_Delete_Confirm_Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_Delete_Confirm_Title"
 msgid "Confirm Runtime Delete"
 msgstr "ランタイム削除の確認"
 
 #: JBoss_Runtime_Delete_Used_Confirm
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:12
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_Delete_Used_Confirm"
 msgid ""
 "Runtime ''{0}'' is used by JBoss ESB projects. Are you sure you want to "
@@ -4325,252 +4324,252 @@ msgstr ""
 
 #: JBoss_Runtime_Delete_Not_Used_Confirm
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_Delete_Not_Used_Confirm"
 msgid "Are you sure you want to delete runtime ''{0}''?"
 msgstr "ランタイム ''{0}'' を削除しますか?"
 
 #: JBoss_Runtime_List_Field_Editor_Edit_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:14
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Edit_Runtime"
 msgid "Edit JBoss ESB Runtime"
 msgstr "JBoss ESB ランタイムの編集"
 
 #: JBoss_Runtime_List_Field_Editor_Modify_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Modify_Runtime"
 msgid "Input new values"
 msgstr "新しい値の入力"
 
 #: JBoss_Runtime_List_Field_Editor_New_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:16
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_New_Runtime"
 msgid "New JBoss ESB Runtime"
 msgstr "新規 JBoss ESB ランタイム"
 
 #: Error_JBoss_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_JBoss_Runtime_List_Field_Editor_Path_To_Home_Diretory_Cannot_Be_Empty"
 msgid "Path to JBoss ESB runtime home directory cannot be empty"
 msgstr "JBoss ESB ランタイム・ホーム・ディレクトリーへのパスは空欄にできません"
 
 #: JBoss_Runtime_List_Field_Editor_Already_Exists
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:18
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Already_Exists"
 msgid "' already exists"
 msgstr "' は既に存在します"
 
 #: JBoss_Runtime_List_Field_Editor_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Runtime"
 msgid "JBoss ESB Runtime "
 msgstr "JBoss ESB ランタイム "
 
 #: Error_JBoss_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:20
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_JBoss_Runtime_List_Field_Editor_Runtime_Name_Is_Not_Correct"
 msgid "Runtime name is not correct"
 msgstr "ランタイム名が不正です"
 
 #: Error_JBoss_Runtime_List_Field_Editor_Name_Cannot_Be_Empty
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_JBoss_Runtime_List_Field_Editor_Name_Cannot_Be_Empty"
 msgid "Name cannot be empty"
 msgstr "名前を空白にすることはできません"
 
 #: Error_JBoss_Runtime_List_Field_Editor_Version_Cannot_Be_Empty
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:22
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_JBoss_Runtime_List_Field_Editor_Version_Cannot_Be_Empty"
 msgid "Version cannot be empty"
 msgstr "バージョンは空にできません"
 
 #: JBoss_Runtime_List_Field_Editor_Create_A_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Create_A_Runtime"
 msgid "Create a JBoss ESB Runtime"
 msgstr "JBoss ESB ランタイムを作成します"
 
 #: JBoss_Runtime_List_Field_Editor_Home_Folder
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:24
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Home_Folder"
 msgid "Home Folder:"
 msgstr "ホーム・フォルダー:"
 
 #: JBoss_Composite_Editor_This_Method_Can_Be_Invoked
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Composite_Editor_This_Method_Can_Be_Invoked"
 msgid "This method can be invoked after getEditorControls(parent) only"
 msgstr "このメソッドは、getEditorControls(parent) の後でのみ実行できます"
 
 #: JBoss_Button_Field_Editor_Browse
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:26
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Button_Field_Editor_Browse"
 msgid "Browse..."
 msgstr "参照..."
 
 #: JBoss_ESBRuntime_Classpath_Container_5
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_5"
 msgid "esb_runtime"
 msgstr "esb_runtime"
 
 #: JBoss_ESBRuntime_Classpath_Container_Description
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:28
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_Description"
 msgid "Select a ESB runtime to add to the project classpath"
 msgstr "プロジェクトのクラスパスに追加する ESB ランタイムを選択してください"
 
 #: JBoss_ESBRuntime_Classpath_Container_Name
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_Name"
 msgid "Name"
 msgstr "名前"
 
 #: JBoss_ESBRuntime_Classpath_Container_RuntimeType
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:30
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_RuntimeType"
 msgid "Runtime Type"
 msgstr "ランタイム・タイプ"
 
 #: JBoss_ESBRuntime_Classpath_Container_RuntimeType_ESBLibrariesOnly
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_RuntimeType_ESBLibrariesOnly"
 msgid "ESB Libraries Only"
 msgstr "ESB ライブラリーのみ"
 
 #: JBoss_ESBRuntime_Classpath_Container_RuntimeType_ServerContained
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:32
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_RuntimeType_ServerContained"
 msgid "Server Contained"
 msgstr "Server Contained"
 
 #: JBoss_ESBRuntime_Classpath_Container_Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_ESBRuntime_Classpath_Container_Title"
 msgid "JBoss ESB Library"
 msgstr "JBoss ESB ライブラリー"
 
 #: Error_JBoss_Button_Field_Editor_Not_Implemented_Yet
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:34
-#, fuzzy, java-format
+#, java-format
 msgctxt "Error_JBoss_Button_Field_Editor_Not_Implemented_Yet"
 msgid "Not implemented yet. Please setup real acion for editor."
 msgstr "まだ実装されていません。エディターで実アクションを設定してください。"
 
 #: JBoss_SWT_Field_Editor_Factory_Browse
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_SWT_Field_Editor_Factory_Browse"
 msgid "Browse..."
 msgstr "参照..."
 
 #: JBoss_SWT_Field_Editor_Factory_Select_Home_Folder
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:36
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_SWT_Field_Editor_Factory_Select_Home_Folder"
 msgid "Select JBoss ESB runtime Home Folder"
 msgstr "JBoss ESB ランタイムのホーム・フォルダーを選択してください"
 
 #: JBoss_Runtime_List_Field_Editor_Name2
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_List_Field_Editor_Name2"
 msgid "Name:"
 msgstr "名前:"
 
 #: JBoss_Runtime_Check_Field_Default_Classpath
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:38
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Runtime_Check_Field_Default_Classpath"
 msgid "Customize JBoss ESB runtime jars"
 msgstr "JBoss ESB ランタイム JAR のカスタマイズ"
 
 #: JBoss_Preference_Page_Runtimes
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Preference_Page_Runtimes"
 msgid "JBoss ESB Runtimes"
 msgstr "JBoss ESB ランタイム"
 
 #: JBossRuntimeListFieldEditor_ActionAdd
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:40
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionAdd"
 msgid "&Add"
 msgstr "追加(&A)"
 
 #: JBossRuntimeListFieldEditor_ActionEdit
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionEdit"
 msgid "&Edit"
 msgstr "編集(&E)"
 
 #: JBossRuntimeListFieldEditor_ActionRemove
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:42
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBossRuntimeListFieldEditor_ActionRemove"
 msgid "&Remove"
 msgstr "除去(&R)"
 
 #: JBossRuntimeListFieldEditor_ErrorMessageAtLeastOneJar
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBossRuntimeListFieldEditor_ErrorMessageAtLeastOneJar"
 msgid "The library must contain at least one jar."
 msgstr "ライブラリーには少なくとも 1 つの jar が含まれている必要があります。"
 
 #: ESBFacetInstallationPage_Button_Text_New
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:46
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Button_Text_New"
 msgid "New"
 msgstr "新規"
 
 #: ESBFacetInstallationPage_Default_SRC_Folder
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Default_SRC_Folder"
 msgid "src"
 msgstr "src"
 
 #: ESBFacetInstallationPage_Description
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:48
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Description"
 msgid "Configure project structure and classpath"
 msgstr "プロジェクト構造とクラスパスの構成"
 
 #: ESBFacetInstallationPage_Error_Message_Have_Not_Set_Target_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Have_Not_Set_Target_Runtime"
 msgid "Please specify the project primary target runtime"
 msgstr "プロジェクト・プライマリー・ターゲット・ランタイムを指定してください"
 
 #: ESBFacetInstallationPage_Error_Message_Invalid_ESB_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:50
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Invalid_ESB_Runtime"
 msgid "The specified target runtime does not contain a valid ESB {0} runtime ."
 msgstr ""
@@ -4579,70 +4578,70 @@ msgstr ""
 
 #: ESBFacetInstallationPage_Error_Message_No_Target_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_No_Target_Runtime"
 msgid "No target runtime was specified."
 msgstr "ターゲット・ランタイムが指定されていません。"
 
 #: ESBFacetInstallationPage_Error_Message_Specify_Content_Folder
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:52
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Specify_Content_Folder"
 msgid "Please specify a valid content folder."
 msgstr "有効なコンテンツ・フォルダーを指定してください。"
 
 #: ESBFacetInstallationPage_Error_Message_Specify_ESB_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Specify_ESB_Runtime"
 msgid "Please specify a ESB runtime"
 msgstr "ESB ランタイムを指定してください"
 
 #: ESBFacetInstallationPage_Error_Message_Specify_Source_Folder
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:54
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Error_Message_Specify_Source_Folder"
 msgid "Please specify a valid source folder."
 msgstr "有効なソース・フォルダーを指定してください。"
 
 #: ESBFacetInstallationPage_Group_Runtime_Text
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Group_Runtime_Text"
 msgid "JBoss ESB Runtime"
 msgstr "JBoss ESB ランタイム"
 
 #: ESBFacetInstallationPage_Group_Text_Folder
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:56
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Group_Text_Folder"
 msgid "Project Folders"
 msgstr "プロジェクト・フォルダー"
 
 #: ESBFacetInstallationPage_Label_Content_Directory
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Label_Content_Directory"
 msgid "Content Directory"
 msgstr "コンテンツ・ディレクトリー"
 
 #: ESBFacetInstallationPage_Label_Server_Supplied_Runtime
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:58
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Label_Server_Supplied_Runtime"
 msgid "Server supplied ESB Runtime"
 msgstr "サーバー提供の ESB ランタイム"
 
 #: ESBFacetInstallationPage_Label_Source_Directory
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Label_Source_Directory"
 msgid "Java Source Directory"
 msgstr "Java ソース・ディレクトリー"
 
 #: ESBFacetInstallationPage_Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:60
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBFacetInstallationPage_Title"
 msgid "Install ESB Facet"
 msgstr "ESB ファセットのインストール"
@@ -4650,14 +4649,14 @@ msgstr "ESB ファセットのインストール"
 #.
 #: ESBProjectFirstPage_Description
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProjectFirstPage_Description"
 msgid "Create a new JBoss ESB project."
 msgstr "JBoss ESB プロジェクトを作成します"
 
 #: ESBProjectFirstPage_Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:64
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProjectFirstPage_Title"
 msgid "JBoss ESB Project"
 msgstr "JBoss ESB プロジェクト"
@@ -4665,70 +4664,70 @@ msgstr "JBoss ESB プロジェクト"
 #.
 #: ESBProjectWizard_Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBProjectWizard_Title"
 msgid "New ESB Project Wizard"
 msgstr "JBoss ESB プロジェクト・ウィザード"
 
 #: ESBExportWizard_NotValidProject
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:68
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBExportWizard_NotValidProject"
 msgid "Project \"{0}\" is not a valid ESB Project"
 msgstr "プロジェクト \"{0}\" は有効な ESB プロジェクトではありません"
 
 #: ESBExportWizard_Title
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBExportWizard_Title"
 msgid "ESB Export"
 msgstr "ESB エクスポート"
 
 #: ESBExportWizard_Description
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:70
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBExportWizard_Description"
 msgid "Export an ESB project to the local file system."
 msgstr "ESB プロジェクトをローカル・ファイル・システムにエクスポートします。"
 
 #: ESBExportWizard_ESBProject
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/org/jboss/tools/esb/project/ui/messages/JBossESBUI.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "ESBExportWizard_ESBProject"
 msgid "ESB Project: "
 msgstr "ESB プロジェクト:"
 
 #: pluginName
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JBoss ESB Project UI Plugin"
 msgstr "JBoss ESB プロジェクト UI プラグイン"
 
 #: Preference_Page_Runtimes
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Preference_Page_Runtimes"
 msgid "JBoss ESB Runtimes"
 msgstr "JBoss ESB ランタイム"
 
 #: Bundle-Vendor.0
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/plugin.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Vendor.0"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.project.ui/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "JBoss ESB Project UI Plugin"
 msgstr "JBoss ESB プロジェクト UI プラグイン"
 
 #: blurb
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.ui/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "JBoss ESB Tools\n"
@@ -4750,7 +4749,7 @@ msgstr ""
 #.
 #: pluginName
 #: ../../WORK/modules/esb/plugins/org.jboss.tools.esb.ui/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JBoss ESB Tools"
 msgstr "JBoss ESB Tools"

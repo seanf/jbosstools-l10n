@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/portlet/features/org.jboss.tools.portlet.feature/feature.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "JBoss Portlet"
 msgstr "JBoss ポートレット"
@@ -45,7 +44,7 @@ msgstr "JBoss ポートレット"
 #. "providerName" property - name of the company that provides the feature
 #: providerName
 #: ../../WORK/modules/portlet/features/org.jboss.tools.portlet.feature/feature.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -55,7 +54,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/portlet/features/org.jboss.tools.portlet.feature/feature.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -65,7 +64,7 @@ msgstr "JBossTools Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/portlet/features/org.jboss.tools.portlet.feature/feature.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "JBoss Portlet"
 msgstr "JBoss ポートレット"
@@ -75,7 +74,7 @@ msgstr "JBoss ポートレット"
 #. "copyright" property - text of the "Feature Update Copyright"
 #: copyright
 #: ../../WORK/modules/portlet/features/org.jboss.tools.portlet.feature/feature.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
@@ -89,7 +88,7 @@ msgstr ""
 #.
 #: are
 #: ../../WORK/modules/portlet/features/org.jboss.tools.portlet.feature/feature.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "are"
 msgid ""
 "made available under the terms of the Eclipse Public License v1.0\n"
@@ -111,7 +110,7 @@ msgstr ""
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/portlet/features/org.jboss.tools.portlet.feature/feature.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "license.html"
 msgstr "license.html"
@@ -122,7 +121,7 @@ msgstr "license.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/portlet/features/org.jboss.tools.portlet.feature/feature.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
@@ -369,7 +368,7 @@ msgstr ""
 
 #: BasePortletClasspathContainer_Error_loading_classpath_container
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "BasePortletClasspathContainer_Error_loading_classpath_container"
 msgid "Error loading classpath container"
 msgstr "クラスパス・コンテナーのロード中にエラー"
@@ -377,7 +376,7 @@ msgstr "クラスパス・コンテナーのロード中にエラー"
 #.
 #: IPortletConstants_Libraries_provided_by_server_runtime
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletConstants_Libraries_provided_by_server_runtime"
 msgid "Libraries provided by server runtime"
 msgstr "サーバー・ランタイムから提供されるライブラリー"
@@ -385,7 +384,7 @@ msgstr "サーバー・ランタイムから提供されるライブラリー"
 #.
 #: IPortletConstants_User_library
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletConstants_User_library"
 msgid "User library"
 msgstr "ユーザー・ライブラリー"
@@ -393,7 +392,7 @@ msgstr "ユーザー・ライブラリー"
 #.
 #: JSFPortlet10LibrariesContainerInitializer_Error_loading_classpath_container
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortlet10LibrariesContainerInitializer_Error_loading_classpath_container"
 msgid "Error loading classpath container"
 msgstr "クラスパス・コンテナーのロード中にエラー"
@@ -401,7 +400,7 @@ msgstr "クラスパス・コンテナーのロード中にエラー"
 #.
 #: JSFPortlet10LibrariesContainerInitializer_JBoss_JSF_Portlet_Libraries_v1_0
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortlet10LibrariesContainerInitializer_JBoss_JSF_Portlet_Libraries_v1_0"
 msgid "JBoss JSF Portlet Libraries v1.0"
 msgstr "JBoss JSF ポートレット・ライブラリー v1.0"
@@ -409,7 +408,7 @@ msgstr "JBoss JSF ポートレット・ライブラリー v1.0"
 #.
 #: JSFPortlet10LibrariesContainerInitializer_JBossJSF_Portlet_Classpath_Container_Initializer_v1_0
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortlet10LibrariesContainerInitializer_JBossJSF_Portlet_Classpath_Container_Initializer_v1_0"
 msgid "JBoss JSF Portlet Classpath Container Initializer v1.0"
 msgstr "JBoss JSF ポートレット・クラスパス・コンテナー・イニシャライザー v1.0"
@@ -417,7 +416,7 @@ msgstr "JBoss JSF ポートレット・クラスパス・コンテナー・イ�
 #.
 #: JSFPortletConfigurationPresetFactory10_JBoss_JSF_Portlet_Project_v1_0
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletConfigurationPresetFactory10_JBoss_JSF_Portlet_Project_v1_0"
 msgid "JBoss JSF Portlet Project v1.0"
 msgstr "JBoss JSF ポートレット・プロジェクト v1.0"
@@ -425,7 +424,7 @@ msgstr "JBoss JSF ポートレット・プロジェクト v1.0"
 #.
 #: JSFPortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_JSF_Portlet_Facet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_JSF_Portlet_Facet"
 msgid "Cannot configure web module for JBoss JSF Portlet Facet"
 msgstr "JBoss JSF ポートレット・ファセットの Web モジュールを構成できません"
@@ -433,7 +432,7 @@ msgstr "JBoss JSF ポートレット・ファセットの Web モジュールを
 #.
 #: JSFPortletFacetInstallDelegate_Cannot_find_the_JSF_servlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallDelegate_Cannot_find_the_JSF_servlet"
 msgid "Cannot find the JSF servlet"
 msgstr "JSF サーブレットを見つけられません"
@@ -441,7 +440,7 @@ msgstr "JSF サーブレットを見つけられません"
 #.
 #: JSFPortletFacetInstallDelegate_Error_loading_classpath_container
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallDelegate_Error_loading_classpath_container"
 msgid "Error loading classpath container"
 msgstr "クラスパス・コンテナーのロード中にエラー"
@@ -449,7 +448,7 @@ msgstr "クラスパス・コンテナーのロード中にエラー"
 #.
 #: JSFPortletFacetInstallDelegate_Missing_configuration
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallDelegate_Missing_configuration"
 msgid ""
 "Internal Error creating JBoss JSF Portlet Facet.  Missing configuration."
@@ -460,7 +459,7 @@ msgstr ""
 #.
 #: JSFPortletFacetInstallDelegate_The_web_xml_file_is_not_updateable
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallDelegate_The_web_xml_file_is_not_updateable"
 msgid "The web.xml file is not updateable"
 msgstr "web.xml は更新できません"
@@ -468,7 +467,7 @@ msgstr "web.xml は更新できません"
 #.
 #: PortletLibrariesContainerInitializer_JBoss_Portlet_Library
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletLibrariesContainerInitializer_JBoss_Portlet_Library"
 msgid "JBoss Portlet Libraries"
 msgstr "JBoss ポートレット・ライブラリー"
@@ -476,7 +475,7 @@ msgstr "JBoss ポートレット・ライブラリー"
 #.
 #: PortletLibrariesContainerInitializer_JBoss_Portlet_Classpath_Container_Initializer
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletLibrariesContainerInitializer_JBoss_Portlet_Classpath_Container_Initializer"
 msgid "JBoss Portlet Classpath Container Initializer"
 msgstr "JBoss ポートレット・クラスパス・コンテナー・イニシャライザー"
@@ -484,7 +483,7 @@ msgstr "JBoss ポートレット・クラスパス・コンテナー・イニシ
 #.
 #: Portlet20LibrariesContainerInitializer_JBoss_Portlet_Classpath_Container_Initializer
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "Portlet20LibrariesContainerInitializer_JBoss_Portlet_Classpath_Container_Initializer"
 msgid "JBoss Portlet Classpath Container Initializer"
 msgstr "JBoss ポートレット・クラスパス・コンテナー・イニシャライザー"
@@ -492,7 +491,7 @@ msgstr "JBoss ポートレット・クラスパス・コンテナー・イニシ
 #.
 #: Portlet20LibrariesContainerInitializer_JBoss_Portlet_Library
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "Portlet20LibrariesContainerInitializer_JBoss_Portlet_Library"
 msgid "JBoss Portlet Library"
 msgstr "JBoss ポートレット・ライブラリー"
@@ -500,7 +499,7 @@ msgstr "JBoss ポートレット・ライブラリー"
 #.
 #: PortletConfigurationPresetFactory10_Portlet_Project_v1_0
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletConfigurationPresetFactory10_Portlet_Project_v1_0"
 msgid "Portlet Project v1.0"
 msgstr "JBoss ポートレット・プロジェクト v1.0"
@@ -508,7 +507,7 @@ msgstr "JBoss ポートレット・プロジェクト v1.0"
 #.
 #: PortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_Portlet_Facet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_Portlet_Facet"
 msgid "Cannot configure web module for JBoss Portlet Facet"
 msgstr "JBoss ポートレット・ファセットの Web モジュールを構成できません"
@@ -516,7 +515,7 @@ msgstr "JBoss ポートレット・ファセットの Web モジュールを構�
 #.
 #: PortletFacetInstallDelegate_Exception_occured_while_creating_portlet_xml
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallDelegate_Exception_occured_while_creating_portlet_xml"
 msgid "Exception occured while creating portlet.xml"
 msgstr "portlet.xml の作成中に例外が発生しました"
@@ -524,7 +523,7 @@ msgstr "portlet.xml の作成中に例外が発生しました"
 #.
 #: PortletFacetInstallDelegate_Missing_configuration
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallDelegate_Missing_configuration"
 msgid "Internal Error creating JBoss Portlet Facet.  Missing configuration."
 msgstr ""
@@ -533,7 +532,7 @@ msgstr ""
 #.
 #: PortletFacetInstallDelegate_The_web_xml_file_is_not_updateable
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallDelegate_The_web_xml_file_is_not_updateable"
 msgid "The web.xml file is not updateable"
 msgstr "web.xml は更新できません"
@@ -541,7 +540,7 @@ msgstr "web.xml は更新できません"
 #.
 #: PortletFacetInstallDelegate_User_library_name_is_invalid
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallDelegate_User_library_name_is_invalid"
 msgid "User library name is invalid."
 msgstr "ユーザー・ライブラリー名が無効です。"
@@ -549,7 +548,7 @@ msgstr "ユーザー・ライブラリー名が無効です。"
 #.
 #: PortletPostInstallListener_Cannot_find_Portletbridge_Runtime
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletPostInstallListener_Cannot_find_Portletbridge_Runtime"
 msgid "Cannot find Portletbridge Runtime."
 msgstr "ポートレット・ブリッジ・ランタイムを見つけることができません。"
@@ -557,7 +556,7 @@ msgstr "ポートレット・ブリッジ・ランタイムを見つけること
 #.
 #: PortletPostInstallListener_Cannot_find_Richfaces_Runtime
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletPostInstallListener_Cannot_find_Richfaces_Runtime"
 msgid "Cannot find Richfaces Runtime."
 msgstr "Richfaces ランタイムを見つけられません。"
@@ -565,7 +564,7 @@ msgstr "Richfaces ランタイムを見つけられません。"
 #.
 #: PortletPostInstallListener_Cannot_find_the_examples_directory
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletPostInstallListener_Cannot_find_the_examples_directory"
 msgid "Cannot find the examples directory."
 msgstr "サンプル・ディレクトリーを見つけることができません。"
@@ -573,7 +572,7 @@ msgstr "サンプル・ディレクトリーを見つけることができませ
 #.
 #: PortletPostInstallListener_Cannot_find_the_RichFacesPortlet_war_file
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletPostInstallListener_Cannot_find_the_RichFacesPortlet_war_file"
 msgid "Cannot find the RichFacesPortlet.war file."
 msgstr "RichFacesPortlet.war ファイルを見つけることができません。"
@@ -581,7 +580,7 @@ msgstr "RichFacesPortlet.war ファイルを見つけることができません
 #.
 #: PortletPostInstallListener_Invalid_Portletbridge_Runtime
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletPostInstallListener_Invalid_Portletbridge_Runtime"
 msgid "Invalid Portletbridge Runtime."
 msgstr "無効なポートレット・ブリッジ・ランタイム。"
@@ -589,7 +588,7 @@ msgstr "無効なポートレット・ブリッジ・ランタイム。"
 #.
 #: PortletPostInstallListener_Invalid_Richfaces_Runtime
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletPostInstallListener_Invalid_Richfaces_Runtime"
 msgid "Invalid Richfaces Runtime."
 msgstr "無効な Richfaces ランタイム"
@@ -597,7 +596,7 @@ msgstr "無効な Richfaces ランタイム"
 #.
 #: SeamPortletConfigurationPresetFactory10_JBoss_Seam_Portlet_Project_v1_0
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "SeamPortletConfigurationPresetFactory10_JBoss_Seam_Portlet_Project_v1_0"
 msgid "JBoss Seam Portlet Project v1.0"
 msgstr "JBoss Seam ポートレット・プロジェクト v1.0"
@@ -605,7 +604,7 @@ msgstr "JBoss Seam ポートレット・プロジェクト v1.0"
 #.
 #: SeamPortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_Seam_Portlet_Facet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "SeamPortletFacetInstallDelegate_Cannot_configure_web_module_for_JBoss_Seam_Portlet_Facet"
 msgid "Cannot configure web module for JBoss Seam Portlet Facet"
 msgstr "JBoss Seam ポートレット・ファセットの Web モジュールを構成できません"
@@ -613,7 +612,7 @@ msgstr "JBoss Seam ポートレット・ファセットの Web モジュール�
 #.
 #: SeamPortletFacetInstallDelegate_Missing_configuration
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "SeamPortletFacetInstallDelegate_Missing_configuration"
 msgid ""
 "Internal Error creating JBoss Seam Portlet Facet.  Missing configuration."
@@ -624,7 +623,7 @@ msgstr ""
 #.
 #: SeamPortletFacetInstallDelegate_The_web_xml_file_is_not_updateable
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "SeamPortletFacetInstallDelegate_The_web_xml_file_is_not_updateable"
 msgid "The web.xml file is not updateable"
 msgstr "web.xml は更新できません"
@@ -632,7 +631,7 @@ msgstr "web.xml は更新できません"
 #.
 #: Libraries_provided_by_portletbridge
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "Libraries_provided_by_portletbridge"
 msgid "Libraries provided by portletbridge distribution"
 msgstr "portletbridge ディストリビューションによって提供されるライブラリー"
@@ -640,7 +639,7 @@ msgstr "portletbridge ディストリビューションによって提供され�
 #.
 #: Libraries_provided_by_richfaces
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/org/jboss/tools/portlet/core/messages.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "Libraries_provided_by_richfaces"
 msgid "Libraries provided by richfaces distribution"
 msgstr "richfaces ディストリビューションによって提供されるライブラリー"
@@ -650,7 +649,7 @@ msgstr "richfaces ディストリビューションによって提供される�
 #: BundleVendor
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/plugin.properties:3
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleVendor"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -658,14 +657,14 @@ msgstr "JBoss, a division of Red Hat"
 #.
 #: BundleName
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.core/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleName"
 msgid "Portlet Core Plug-in"
 msgstr "ポートレット・コア・プラグイン"
 
 #: blurb
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "JBoss Portlet\n"
@@ -686,7 +685,7 @@ msgstr ""
 
 #: AddPortletWizardPage_Edit
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddPortletWizardPage_Edit"
 msgid "Edit"
 msgstr "編集"
@@ -694,7 +693,7 @@ msgstr "編集"
 #.
 #: AddPortletWizardPage_Help
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddPortletWizardPage_Help"
 msgid "Help"
 msgstr "ヘルプ"
@@ -702,7 +701,7 @@ msgstr "ヘルプ"
 #.
 #: AddPortletWizardPage_Portlet_Modes
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddPortletWizardPage_Portlet_Modes"
 msgid "Portlet Modes"
 msgstr "ポートレット・モード"
@@ -710,7 +709,7 @@ msgstr "ポートレット・モード"
 #.
 #: AddPortletWizardPage_View
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddPortletWizardPage_View"
 msgid "View"
 msgstr "ビュー"
@@ -718,7 +717,7 @@ msgstr "ビュー"
 #.
 #: IPortletUIConstants_Add_the_jboss_portlet_xml_file
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Add_the_jboss_portlet_xml_file"
 msgid "Add the jboss-portlet.xml file"
 msgstr "jboss-portlet.xml ファイルの追加"
@@ -726,7 +725,7 @@ msgstr "jboss-portlet.xml ファイルの追加"
 #.
 #: IPortletUIConstants_Copy_JSF_Templates
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Copy_JSF_Templates"
 msgid "Copy JSF Templates"
 msgstr "JSF テンプレートのコピー"
@@ -734,7 +733,7 @@ msgstr "JSF テンプレートのコピー"
 #.
 #: IPortletUIConstants_Create_JBoss_Application
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Create_JBoss_Application"
 msgid "Create JBoss Application"
 msgstr "JBoss アプリケーションの作成"
@@ -742,7 +741,7 @@ msgstr "JBoss アプリケーションの作成"
 #.
 #: IPortletUIConstants_Create_JBoss_JSF_Portlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Create_JBoss_JSF_Portlet"
 msgid "Create JBoss JSF Portlet"
 msgstr "JBoss JSF ポートレットの作成"
@@ -750,7 +749,7 @@ msgstr "JBoss JSF ポートレットの作成"
 #.
 #: IPortletUIConstants_Create_Portlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Create_Portlet"
 msgid "Create Portlet"
 msgstr "ポートレットの作成"
@@ -758,7 +757,7 @@ msgstr "ポートレットの作成"
 #.
 #: IPortletUIConstants_Create_portlet_instance
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Create_portlet_instance"
 msgid "Create Portlet Instance"
 msgstr "ポートレット・インスタンスの作成"
@@ -766,7 +765,7 @@ msgstr "ポートレット・インスタンスの作成"
 #.
 #: IPortletUIConstants_Display_name
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Display_name"
 msgid "Display name:"
 msgstr "表示名:"
@@ -774,7 +773,7 @@ msgstr "表示名:"
 #.
 #: IPortletUIConstants_Enter_JBoss_portlet_specific_information
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Enter_JBoss_portlet_specific_information"
 msgid "Enter JBoss portlet specific information"
 msgstr "JBoss ポートレット固有の情報を入力します"
@@ -782,7 +781,7 @@ msgstr "JBoss ポートレット固有の情報を入力します"
 #.
 #: IPortletUIConstants_Enter_portlet_deployment_descriptor_specific_information
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Enter_portlet_deployment_descriptor_specific_information"
 msgid "Enter portlet deployment descriptor specific information."
 msgstr "ポートレット記述子固有の情報を入力します。"
@@ -790,7 +789,7 @@ msgstr "ポートレット記述子固有の情報を入力します。"
 #.
 #: IPortletUIConstants_Height
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Height"
 msgid "Height:"
 msgstr "高さ:"
@@ -798,7 +797,7 @@ msgstr "高さ:"
 #.
 #: IPortletUIConstants_If_Exists
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_If_Exists"
 msgid "If Exists:"
 msgstr "存在する場合:"
@@ -806,7 +805,7 @@ msgstr "存在する場合:"
 #.
 #: IPortletUIConstants_Inastance_name
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Inastance_name"
 msgid "Instance Name:"
 msgstr "インスタンス名:"
@@ -814,7 +813,7 @@ msgstr "インスタンス名:"
 #.
 #: IPortletUIConstants_Initial_Window_State
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Initial_Window_State"
 msgid "Initial Window State:"
 msgstr "初期ウィンドウ状態:"
@@ -822,7 +821,7 @@ msgstr "初期ウィンドウ状態:"
 #.
 #: IPortletUIConstants_JBoss_Application_Name
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_JBoss_Application_Name"
 msgid "JBoss Application Name:"
 msgstr "JBoss アプリケーション名:"
@@ -830,7 +829,7 @@ msgstr "JBoss アプリケーション名:"
 #.
 #: IPortletUIConstants_JBoss_JSF_Portlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_JBoss_JSF_Portlet"
 msgid "JBoss JSF Portlet"
 msgstr "JBoss JSF ポートレット"
@@ -838,7 +837,7 @@ msgstr "JBoss JSF ポートレット"
 #.
 #: IPortletUIConstants_JBoss_Seam_Portlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_JBoss_Seam_Portlet"
 msgid "JBoss Seam Portlet"
 msgstr "JBoss Seam ポートレット"
@@ -846,7 +845,7 @@ msgstr "JBoss Seam ポートレット"
 #.
 #: IPortletUIConstants_Page_name
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Page_name"
 msgid "Page Name:"
 msgstr "ページ名:"
@@ -854,7 +853,7 @@ msgstr "ページ名:"
 #.
 #: IPortletUIConstants_Parent_Reference
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Parent_Reference"
 msgid "Parent Reference:"
 msgstr "親参照:"
@@ -862,7 +861,7 @@ msgstr "親参照:"
 #.
 #: IPortletUIConstants_Region
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Region"
 msgid "Region:"
 msgstr "領域:"
@@ -870,7 +869,7 @@ msgstr "領域:"
 #.
 #: IPortletUIConstants_Specify_class_file_information
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Specify_class_file_information"
 msgid "Specify class file information"
 msgstr "クラス・ファイル情報の指定"
@@ -878,7 +877,7 @@ msgstr "クラス・ファイル情報の指定"
 #.
 #: IPortletUIConstants_Title
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Title"
 msgid "Title:"
 msgstr "タイトル:"
@@ -886,7 +885,7 @@ msgstr "タイトル:"
 #.
 #: IPortletUIConstants_Window_name
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "IPortletUIConstants_Window_name"
 msgid "Window Name:"
 msgstr "ウィンドウ名:"
@@ -894,7 +893,7 @@ msgstr "ウィンドウ名:"
 #.
 #: JSFPortletFacetInstallPage_Add_Change_Richfaces_Libraries
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Add_Change_Richfaces_Libraries"
 msgid "Add/Change Richfaces Libraries"
 msgstr "RichFaces ライブラリーの追加/変更"
@@ -902,7 +901,7 @@ msgstr "RichFaces ライブラリーの追加/変更"
 #.
 #: JSFPortletFacetInstallPage_Add_JBoss_JSF_Portlet_capabilities_to_this_Web_Project
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Add_JBoss_JSF_Portlet_capabilities_to_this_Web_Project"
 msgid "Add JBoss JSF Portlet capabilities to this Web Project"
 msgstr "この Web プロジェクトに JBoss ポートレット機能を追加"
@@ -910,7 +909,7 @@ msgstr "この Web プロジェクトに JBoss ポートレット機能を追加
 #.
 #: JSFPortletFacetInstallPage_Browse
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Browse"
 msgid "Browse..."
 msgstr "参照..."
@@ -918,7 +917,7 @@ msgstr "参照..."
 #.
 #: JSFPortletFacetInstallPage_Deploy_jars
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Deploy_jars"
 msgid "Deploy jars to WEB-INF/lib"
 msgstr "JAR を WEB-INF/lib にデプロイ"
@@ -926,7 +925,7 @@ msgstr "JAR を WEB-INF/lib にデプロイ"
 #.
 #: JSFPortletFacetInstallPage_Invalid_Portletbridge_Runtime_directory
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Invalid_Portletbridge_Runtime_directory"
 msgid "Invalid Portletbridge Runtime directory."
 msgstr "無効なポートレット・ブリッジ・ランタイムのディレクトリー。"
@@ -934,7 +933,7 @@ msgstr "無効なポートレット・ブリッジ・ランタイムのディレ
 #.
 #: JSFPortletFacetInstallPage_Invalid_Richfaces_Runtime_directory
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Invalid_Richfaces_Runtime_directory"
 msgid "Invalid Richfaces Runtime directory."
 msgstr "無効な RichFaces ランタイム・ディレクトリー。"
@@ -942,7 +941,7 @@ msgstr "無効な RichFaces ランタイム・ディレクトリー。"
 #.
 #: JSFPortletFacetInstallPage_JBoss_JSF_Portlet_Capabilities
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_JBoss_JSF_Portlet_Capabilities"
 msgid "JBoss JSF Portlet Capabilities"
 msgstr "JBoss JSF ポートレット機能"
@@ -950,7 +949,7 @@ msgstr "JBoss JSF ポートレット機能"
 #.
 #: JSFPortletFacetInstallPage_Portletbridge_Runtime
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Portletbridge_Runtime"
 msgid "Portletbridge Runtime"
 msgstr "ポートレット・ブリッジ・ランタイム"
@@ -958,7 +957,7 @@ msgstr "ポートレット・ブリッジ・ランタイム"
 #.
 #: JSFPortletFacetInstallPage_Portletbridge_Runtime_directory_is_required
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Portletbridge_Runtime_directory_is_required"
 msgid "Portletbridge Runtime directory is required."
 msgstr "ポートレット・ブリッジ・ランタイムのディレクトリーが必要です。"
@@ -966,7 +965,7 @@ msgstr "ポートレット・ブリッジ・ランタイムのディレクトリ
 #.
 #: JSFPortletFacetInstallPage_Richfaces_Capabilities
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Richfaces_Capabilities"
 msgid "Richfaces Capabilities"
 msgstr "Richfaces 機能"
@@ -974,7 +973,7 @@ msgstr "Richfaces 機能"
 #.
 #: JSFPortletFacetInstallPage_RichFaces_Runtime_directory_is_required
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_RichFaces_Runtime_directory_is_required"
 msgid "RichFaces Runtime directory is required."
 msgstr "RichFaces ランタイム・ディレクトリーは必要です。"
@@ -982,7 +981,7 @@ msgstr "RichFaces ランタイム・ディレクトリーは必要です。"
 #.
 #: JSFPortletFacetInstallPage_Select_Portletbridge_Runtime
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Select_Portletbridge_Runtime"
 msgid "Select Portletbridge Runtime"
 msgstr "ポートレット・ブリッジ・ランタイムの選択"
@@ -990,7 +989,7 @@ msgstr "ポートレット・ブリッジ・ランタイムの選択"
 #.
 #: JSFPortletFacetInstallPage_Select_RichFaces_Runtime
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPortletFacetInstallPage_Select_RichFaces_Runtime"
 msgid "Select RichFaces Runtime"
 msgstr "RichFaces ランタイムの選択"
@@ -998,7 +997,7 @@ msgstr "RichFaces ランタイムの選択"
 #.
 #: PortletFacetInstallPage_Add
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallPage_Add"
 msgid "Add..."
 msgstr "追加..."
@@ -1006,7 +1005,7 @@ msgstr "追加..."
 #.
 #: PortletFacetInstallPage_Add_JBoss_Portlet_capabilities_to_this_Web_Project
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallPage_Add_JBoss_Portlet_capabilities_to_this_Web_Project"
 msgid "Add JBoss Portlet capabilities to this Web Project"
 msgstr "この Web プロジェクトに JBoss ポートレット機能を追加"
@@ -1014,7 +1013,7 @@ msgstr "この Web プロジェクトに JBoss ポートレット機能を追加
 #.
 #: PortletFacetInstallPage_Enable_implementation_library
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallPage_Enable_implementation_library"
 msgid "Enable implementation library"
 msgstr "実装ライブラリーの有効化"
@@ -1022,7 +1021,7 @@ msgstr "実装ライブラリーの有効化"
 #.
 #: PortletFacetInstallPage_JBoss_Portlet_Capabilities
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallPage_JBoss_Portlet_Capabilities"
 msgid "JBoss Portlet Capabilities"
 msgstr "JBoss ポートレット機能"
@@ -1030,7 +1029,7 @@ msgstr "JBoss ポートレット機能"
 #.
 #: PortletFacetInstallPage_User_Library
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallPage_User_Library"
 msgid "User Library"
 msgstr "ユーザー・ライブラリー"
@@ -1038,7 +1037,7 @@ msgstr "ユーザー・ライブラリー"
 #.
 #: PortletFacetInstallPage_You_have_to_choose_an_user_library
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:89
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletFacetInstallPage_You_have_to_choose_an_user_library"
 msgid "You have to choose an user library"
 msgstr "ユーザー・ライブラリーを選択する必要があります"
@@ -1046,7 +1045,7 @@ msgstr "ユーザー・ライブラリーを選択する必要があります"
 #.
 #: PortletUIActivator_The_portlet_xml_file_doesnt_exist
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "PortletUIActivator_The_portlet_xml_file_doesnt_exist"
 msgid "The portlet.xml file doesn't exist"
 msgstr "portlet.xml ファイルは存在しません"
@@ -1054,7 +1053,7 @@ msgstr "portlet.xml ファイルは存在しません"
 #.
 #: NewJSFPortletClassWizardPage_Choose_a_JSF_portlet_class
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewJSFPortletClassWizardPage_Choose_a_JSF_portlet_class"
 msgid "Choose a JSF portlet class:"
 msgstr "JSF ポートレット・クラスを選択してください:"
@@ -1062,7 +1061,7 @@ msgstr "JSF ポートレット・クラスを選択してください:"
 #.
 #: NewJSFPortletClassWizardPage_Choose_a_Seam_portlet_class
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewJSFPortletClassWizardPage_Choose_a_Seam_portlet_class"
 msgid "Choose a Seam portlet class:"
 msgstr "Seam ポートレット・クラスを選択してください:"
@@ -1070,7 +1069,7 @@ msgstr "Seam ポートレット・クラスを選択してください:"
 #.
 #: NewJSFPortletClassWizardPage_New_JSF_Portlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:97
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewJSFPortletClassWizardPage_New_JSF_Portlet"
 msgid "New JSF Portlet"
 msgstr "新規 JSF ポートレット"
@@ -1078,7 +1077,7 @@ msgstr "新規 JSF ポートレット"
 #.
 #: NewJSFPortletClassWizardPage_New_Seam_Portlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:99
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewJSFPortletClassWizardPage_New_Seam_Portlet"
 msgid "New Seam Portlet"
 msgstr "新規 Seam ポートレット"
@@ -1086,7 +1085,7 @@ msgstr "新規 Seam ポートレット"
 #.
 #: NewPortletClassWizardPage_Choose_a_portlet_class
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewPortletClassWizardPage_Choose_a_portlet_class"
 msgid "Choose a portlet class:"
 msgstr "ポートレット・クラスを選択してください:"
@@ -1094,7 +1093,7 @@ msgstr "ポートレット・クラスを選択してください:"
 #.
 #: NewPortletClassWizardPage_New_Portlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:103
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewPortletClassWizardPage_New_Portlet"
 msgid "New Portlet"
 msgstr "新規ポートレット"
@@ -1102,7 +1101,7 @@ msgstr "新規ポートレット"
 #.
 #: NewPortletClassWizardPage_Use_an_existing_Portlet_class
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:105
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewPortletClassWizardPage_Use_an_existing_Portlet_class"
 msgid "Use an existing Portlet class"
 msgstr "既存のポートレット・クラスを使用"
@@ -1110,7 +1109,7 @@ msgstr "既存のポートレット・クラスを使用"
 #.
 #: NewPortletWizard_Specify_modifiers_interfaces_to_implement_and_method_stubs_to_generate
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:107
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewPortletWizard_Specify_modifiers_interfaces_to_implement_and_method_stubs_to_generate"
 msgid ""
 "Specify modifiers, interfaces to implement and method stubs to generate."
@@ -1119,7 +1118,7 @@ msgstr "修飾子や実装するインターフェース、生成するスタブ
 #.
 #: No_portlets_exist_to_add
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:109
-#, fuzzy, java-format
+#, java-format
 msgctxt "No_portlets_exist_to_add"
 msgid "No portlets exist to add"
 msgstr "追加するポートレットが存在しません"
@@ -1127,7 +1126,7 @@ msgstr "追加するポートレットが存在しません"
 #.
 #: JBossPortletPreferencePage_Check_Runtimes_for_Portlet_Components
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/org/jboss/tools/portlet/ui/messages.properties:111
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBossPortletPreferencePage_Check_Runtimes_for_Portlet_Components"
 msgid "Check Runtimes for Portlet Components"
 msgstr "ポートレット・コンポーネントのランタイムの検査"
@@ -1135,7 +1134,7 @@ msgstr "ポートレット・コンポーネントのランタイムの検査"
 #.
 #: BundleName
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleName"
 msgid "JBoss Portlet"
 msgstr "JBoss ポートレット"
@@ -1143,7 +1142,7 @@ msgstr "JBoss ポートレット"
 #.
 #: Portlet_category
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "Portlet_category"
 msgid "Portlet"
 msgstr "ポートレット"
@@ -1151,7 +1150,7 @@ msgstr "ポートレット"
 #.
 #: Java_portlet_wizard_name
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "Java_portlet_wizard_name"
 msgid "Java Portlet"
 msgstr "Java ポートレット"
@@ -1159,7 +1158,7 @@ msgstr "Java ポートレット"
 #.
 #: Portlet_wizard_description
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "Portlet_wizard_description"
 msgid "Create a new Java Portlet"
 msgstr "Java ポートレットを作成します"
@@ -1167,7 +1166,7 @@ msgstr "Java ポートレットを作成します"
 #.
 #: JSFSeam_portlet_wizard_name
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFSeam_portlet_wizard_name"
 msgid "JBoss JSF/Seam Portlet"
 msgstr "JBoss JSF/Seam ポートレット"
@@ -1175,7 +1174,7 @@ msgstr "JBoss JSF/Seam ポートレット"
 #.
 #: JSFSeam_portlet_wizard_description
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFSeam_portlet_wizard_description"
 msgid "Create a new JBoss JSF Portlet"
 msgstr "JBoss JSF ポートレットを作成します"
@@ -1183,7 +1182,7 @@ msgstr "JBoss JSF ポートレットを作成します"
 #.
 #: JBoss_Portlet
 #: ../../WORK/modules/portlet/plugins/org.jboss.tools.portlet.ui/plugin.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBoss_Portlet"
 msgid "JBoss Portlet"
 msgstr "JBoss ポートレット"

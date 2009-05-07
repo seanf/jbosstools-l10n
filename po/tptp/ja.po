@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/tptp/features/org.jboss.tools.tptp.feature/feature.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "TPTP Profile On JBoss Server"
 msgstr "JBoss サーバー用 TPTP プロファイル"
@@ -45,7 +44,7 @@ msgstr "JBoss サーバー用 TPTP プロファイル"
 #. "providerName" property - name of the company that provides the feature
 #: providerName
 #: ../../WORK/modules/tptp/features/org.jboss.tools.tptp.feature/feature.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -55,7 +54,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/tptp/features/org.jboss.tools.tptp.feature/feature.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -65,7 +64,7 @@ msgstr "JBossTools Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/tptp/features/org.jboss.tools.tptp.feature/feature.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "TPTP Profile On JBoss Server"
 msgstr "JBoss サーバー用 TPTP プロファイル"
@@ -75,7 +74,7 @@ msgstr "JBoss サーバー用 TPTP プロファイル"
 #. "copyright" property - text of the "Feature Update Copyright"
 #: copyright
 #: ../../WORK/modules/tptp/features/org.jboss.tools.tptp.feature/feature.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
@@ -89,7 +88,7 @@ msgstr ""
 #.
 #: are
 #: ../../WORK/modules/tptp/features/org.jboss.tools.tptp.feature/feature.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "are"
 msgid ""
 "made available under the terms of the Eclipse Public License v1.0\n"
@@ -111,7 +110,7 @@ msgstr ""
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/tptp/features/org.jboss.tools.tptp.feature/feature.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "license.html"
 msgstr "license.html"
@@ -122,7 +121,7 @@ msgstr "license.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/tptp/features/org.jboss.tools.tptp.feature/feature.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
@@ -369,7 +368,7 @@ msgstr ""
 
 #: blurb
 #: ../../WORK/modules/tptp/plugins/org.jboss.tools.eclipse.as.tptp/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "TPTP Profile On JBoss Server\n"
@@ -390,7 +389,7 @@ msgstr ""
 
 #: BundleName
 #: ../../WORK/modules/tptp/plugins/org.jboss.tools.eclipse.as.tptp/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleName"
 msgid "TPTP Profile On JBoss Server"
 msgstr "JBoss サーバー用 TPTP プロファイル"
@@ -398,7 +397,7 @@ msgstr "JBoss サーバー用 TPTP プロファイル"
 #.
 #: BundleVendor
 #: ../../WORK/modules/tptp/plugins/org.jboss.tools.eclipse.as.tptp/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleVendor"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"

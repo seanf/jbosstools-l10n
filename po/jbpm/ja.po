@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "jBPM Convert"
 msgstr "jBPM 変換"
@@ -45,7 +44,7 @@ msgstr "jBPM 変換"
 #. "providerName" property - name of the company that provides the feature
 #: providerName
 #: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -55,7 +54,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -65,7 +64,7 @@ msgstr "JBossTools Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "Conversion of bpmn files to jBPM syntax."
 msgstr "BPMN ファイルから jBPM 記法への変換。"
@@ -75,7 +74,7 @@ msgstr "BPMN ファイルから jBPM 記法への変換。"
 #. "copyright" property - text of the "Feature Update Copyright"
 #: copyright
 #: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
@@ -89,7 +88,7 @@ msgstr ""
 #.
 #: are
 #: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "are"
 msgid ""
 "made available under the terms of the Eclipse Public License v1.0\n"
@@ -111,7 +110,7 @@ msgstr ""
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "epl-v10.html"
 msgstr "epl-v10.html"
@@ -122,7 +121,7 @@ msgstr "epl-v10.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/jbpm/features/org.jboss.tools.jbpm.convert.feature/feature.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
@@ -369,7 +368,7 @@ msgstr ""
 
 #: blurb
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "jBPM Convert\n"
@@ -390,7 +389,7 @@ msgstr ""
 
 #: Label_Select_All
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "Label_Select_All"
 msgid "Select All"
 msgstr "すべて選択"
@@ -398,7 +397,7 @@ msgstr "すべて選択"
 #.
 #: Label_Deselect_All
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Label_Deselect_All"
 msgid "Deselect All"
 msgstr "選択をすべて解除"
@@ -406,7 +405,7 @@ msgstr "選択をすべて解除"
 #.
 #: Label_Button_Browse
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "Label_Button_Browse"
 msgid "Browse..."
 msgstr "参照..."
@@ -414,7 +413,7 @@ msgstr "参照..."
 #.
 #: Bpmn_Wizard_Title
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Wizard_Title"
 msgid "BPMN to jPDL Conversion"
 msgstr "BPMN を jPDL に変換"
@@ -422,7 +421,7 @@ msgstr "BPMN を jPDL に変換"
 #.
 #: Bpmn_File_Choose_WizardPage_Name
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_File_Choose_WizardPage_Name"
 msgid "FileChoosePage"
 msgstr "FileChoosePage"
@@ -430,7 +429,7 @@ msgstr "FileChoosePage"
 #.
 #: Bpmn_File_Choose_WizardPage_Title
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_File_Choose_WizardPage_Title"
 msgid "BPMN Resources"
 msgstr "BPMN リソース"
@@ -438,7 +437,7 @@ msgstr "BPMN リソース"
 #.
 #: Bpmn_File_Choose_WizardPage_ViewerTitle
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_File_Choose_WizardPage_ViewerTitle"
 msgid "BPMN resources"
 msgstr "BPMN リソース"
@@ -446,7 +445,7 @@ msgstr "BPMN リソース"
 #.
 #: Bpmn_File_Choose_WizardPage_Message
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_File_Choose_WizardPage_Message"
 msgid "Select BPMN resources to convert"
 msgstr "変換する BPMN リソースを選択してください"
@@ -454,7 +453,7 @@ msgstr "変換する BPMN リソースを選択してください"
 #.
 #: Bpmn_Pool_Choose_WizardPage_Name
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Pool_Choose_WizardPage_Name"
 msgid "PoolPage"
 msgstr "PoolPage"
@@ -462,7 +461,7 @@ msgstr "PoolPage"
 #.
 #: Bpmn_Pool_Choose_WizardPage_Title
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Pool_Choose_WizardPage_Title"
 msgid "BPMN Pools"
 msgstr "BPMN プール"
@@ -470,7 +469,7 @@ msgstr "BPMN プール"
 #.
 #: Bpmn_Pool_Choose_WizardPage_ViewerTitle
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Pool_Choose_WizardPage_ViewerTitle"
 msgid "BPMN pools"
 msgstr "BPMN プール"
@@ -478,7 +477,7 @@ msgstr "BPMN プール"
 #.
 #: Bpmn_Pool_Choose_WizardPage_Message
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Pool_Choose_WizardPage_Message"
 msgid "Select BPMN pools to translate"
 msgstr "変換するBPMN プールを選択してください"
@@ -486,7 +485,7 @@ msgstr "変換するBPMN プールを選択してください"
 #.
 #: Bpmn_GeneratedFile_Location_WizardPage_Name
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_GeneratedFile_Location_WizardPage_Name"
 msgid "LocationPage"
 msgstr "LocationPage"
@@ -494,7 +493,7 @@ msgstr "LocationPage"
 #.
 #: Bpmn_GeneratedFile_Location_WizardPage_Title
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_GeneratedFile_Location_WizardPage_Title"
 msgid "Target Location"
 msgstr "ターゲット・ロケーション"
@@ -502,7 +501,7 @@ msgstr "ターゲット・ロケーション"
 #.
 #: Bpmn_GeneratedFile_Location_WizardPage_ViewerTitle
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_GeneratedFile_Location_WizardPage_ViewerTitle"
 msgid "Target location"
 msgstr "ターゲット・ロケーション"
@@ -510,7 +509,7 @@ msgstr "ターゲット・ロケーション"
 #.
 #: Bpmn_GeneratedFile_Location_WizardPage_Message
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_GeneratedFile_Location_WizardPage_Message"
 msgid "Select the target location"
 msgstr "ターゲット・ロケーションを選択してください"
@@ -518,7 +517,7 @@ msgstr "ターゲット・ロケーションを選択してください"
 #.
 #: Bpmn_GeneratedFile_Location_WizardPage_CheckBox
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_GeneratedFile_Location_WizardPage_CheckBox"
 msgid "Overwrite existing resources"
 msgstr "既存のリソースを上書き"
@@ -526,7 +525,7 @@ msgstr "既存のリソースを上書き"
 #.
 #: Bpmn_Translate_Message_WizardPage_Name
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Translate_Message_WizardPage_Name"
 msgid "MessagePage"
 msgstr "MessagePage"
@@ -534,7 +533,7 @@ msgstr "MessagePage"
 #.
 #: Bpmn_Translate_Message_WizardPage_Title
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Translate_Message_WizardPage_Title"
 msgid "Conversion Warnings and Errors"
 msgstr "警告とエラーの変換"
@@ -542,7 +541,7 @@ msgstr "警告とエラーの変換"
 #.
 #: Bpmn_Translate_Message_WizardpageViewer_Title
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Translate_Message_WizardpageViewer_Title"
 msgid "Warnings and Errors"
 msgstr "警告とエラー"
@@ -550,7 +549,7 @@ msgstr "警告とエラー"
 #.
 #: Bpmn_Translate_Message_WizardPage_Message
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bpmn_Translate_Message_WizardPage_Message"
 msgid "Warnings and Errors that occurred during conversion"
 msgstr "変換中に発生した警告とエラー"
@@ -558,7 +557,7 @@ msgstr "変換中に発生した警告とエラー"
 #.
 #: Translate_Error_File_CanNotRead
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/org/jboss/tools/jbpm/convert/b2j/messages/B2J.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "Translate_Error_File_CanNotRead"
 msgid "Error: Couldn't read or parse {0} file to a DOM document: "
 msgstr ""
@@ -567,7 +566,7 @@ msgstr ""
 
 #: wizard.name
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "wizard.name"
 msgid "BPMN to jPDL"
 msgstr "BPMN を jPDL へ"
@@ -575,7 +574,7 @@ msgstr "BPMN を jPDL へ"
 #.
 #: wizard.description
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "wizard.description"
 msgid "Export a BPMN file to jPDL"
 msgstr "BPMN ファイルを jPDL へエクスポート"
@@ -583,7 +582,7 @@ msgstr "BPMN ファイルを jPDL へエクスポート"
 #.
 #: category.name
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "category.name"
 msgid "BPMN"
 msgstr "BPMN"
@@ -591,7 +590,7 @@ msgstr "BPMN"
 #.
 #: PLUGIN_NAME
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "PLUGIN_NAME"
 msgid "jBPM Convert"
 msgstr "jBPM 変換"
@@ -599,7 +598,7 @@ msgstr "jBPM 変換"
 #.
 #: PLUGIN_PROVIDER
 #: ../../WORK/modules/jbpm/plugins/org.jboss.tools.jbpm.convert/plugin.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "PLUGIN_PROVIDER"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"

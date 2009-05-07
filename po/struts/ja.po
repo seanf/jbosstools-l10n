@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -19,7 +18,7 @@ msgstr ""
 #. Properties file for org.jboss.tools.struts.vpe.struts
 #: vendorName
 #: ../../WORK/modules/struts/plugins/org.jboss.tools.struts.vpe.struts/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "vendorName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -27,7 +26,7 @@ msgstr "JBoss, a division of Red Hat"
 #.
 #: bundleName
 #: ../../WORK/modules/struts/plugins/org.jboss.tools.struts.vpe.struts/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "bundleName"
 msgid "Struts support for JBoss Visual Page Editor Plug-in"
 msgstr "JBoss ビジュアル・ページ・エディター・プラグインの Struts サポート"

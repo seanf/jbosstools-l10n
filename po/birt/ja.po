@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "JBoss BIRT Integration"
 msgstr "JBoss BIRT 連携"
@@ -45,7 +44,7 @@ msgstr "JBoss BIRT 連携"
 #. "providerName" property - name of the company that provides the feature
 #: providerName
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -55,7 +54,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -63,7 +62,7 @@ msgstr "JBossTools Update Site"
 #.
 #: birtUpdateSiteName
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "birtUpdateSiteName"
 msgid "Business Intelligence and Reporting Tools (BIRT) Updates"
 msgstr "Business Intelligence and Reporting Tools (BIRT) Updates"
@@ -73,7 +72,7 @@ msgstr "Business Intelligence and Reporting Tools (BIRT) Updates"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "JBoss BIRT Integration"
 msgstr "JBoss BIRT 連携"
@@ -83,7 +82,7 @@ msgstr "JBoss BIRT 連携"
 #. "copyright" property - text of the "Feature Update Copyright"
 #: copyright
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
@@ -97,7 +96,7 @@ msgstr ""
 #.
 #: are
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "are"
 msgid ""
 "made available under the terms of the Eclipse Public License v1.0\n"
@@ -119,7 +118,7 @@ msgstr ""
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "license.html"
 msgstr "license.html"
@@ -130,7 +129,7 @@ msgstr "license.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/birt/features/org.jboss.tools.birt.feature/feature.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
@@ -377,7 +376,7 @@ msgstr ""
 
 #: BirtCoreActivator_The_folder_doesnt_exists
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "BirtCoreActivator_The_folder_doesnt_exists"
 msgid "The {0} folder doesn''t exist."
 msgstr "{0} フォルダーは存在しません。"
@@ -385,7 +384,7 @@ msgstr "{0} フォルダーは存在しません。"
 #.
 #: BirtCoreActivator_The_resource_is_not_folder
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "BirtCoreActivator_The_resource_is_not_folder"
 msgid "The {0} resource is not a folder."
 msgstr "{0} リソースはフォルダーではありません。"
@@ -393,7 +392,7 @@ msgstr "{0} リソースはフォルダーではありません。"
 #.
 #: BirtPostInstallListener_Error_while_creating_JBoss_BIRT_artifacts
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "BirtPostInstallListener_Error_while_creating_JBoss_BIRT_artifacts"
 msgid "Error while creating JBoss BIRT artifacts"
 msgstr "JBoss BIRT アーティファクトの作成中にエラー"
@@ -401,7 +400,7 @@ msgstr "JBoss BIRT アーティファクトの作成中にエラー"
 #.
 #: BirtPostInstallListener_The_config_ini_file_doesnt_exist
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "BirtPostInstallListener_The_config_ini_file_doesnt_exist"
 msgid "The config.ini file doesn't exist"
 msgstr "config.ini ファイルが存在しません"
@@ -409,14 +408,14 @@ msgstr "config.ini ファイルが存在しません"
 #.
 #: BirtPostInstallListener_The_resource_is_not_a_folder
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/org/jboss/tools/birt/core/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "BirtPostInstallListener_The_resource_is_not_a_folder"
 msgid "The {0}  resource is not a folder"
 msgstr "{0} リソースはフォルダーではありません"
 
 #: JBOSS_BIRT_FACET_LABEL
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBOSS_BIRT_FACET_LABEL"
 msgid "JBoss BIRT Reporting Runtime Component"
 msgstr "JBoss BIRT レポーティング・ランタイム・コンポーネント"
@@ -424,7 +423,7 @@ msgstr "JBoss BIRT レポーティング・ランタイム・コンポーネン�
 #.
 #: JBOSS_BIRT_FACET_DESCRIPTION
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBOSS_BIRT_FACET_DESCRIPTION"
 msgid "JBoss BIRT Reporting Runtime Component"
 msgstr "JBoss BIRT レポーティング・ランタイム・コンポーネント"
@@ -432,7 +431,7 @@ msgstr "JBoss BIRT レポーティング・ランタイム・コンポーネン�
 #.
 #: JBOSS_BIRT_FACET_TEMPLATE_LABEL
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "JBOSS_BIRT_FACET_TEMPLATE_LABEL"
 msgid "JBoss BIRT Integration Web Project"
 msgstr "JBoss BIRT 連携 Web プロジェクト"
@@ -444,7 +443,7 @@ msgstr "JBoss BIRT 連携 Web プロジェクト"
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:9
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:35
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleVendor"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -452,14 +451,14 @@ msgstr "JBoss, a division of Red Hat"
 #.
 #: BundleName
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.core/plugin.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "BundleName"
 msgid "JBoss BIRT Core"
 msgstr "JBoss BIRT コア"
 
 #: blurb
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "JBoss BIRT Integration\n"
@@ -480,7 +479,7 @@ msgstr ""
 
 #: CustomDataSetWizardPage_Avaliable_Items
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "CustomDataSetWizardPage_Avaliable_Items"
 msgid "Available Items"
 msgstr "利用可能な項目"
@@ -488,7 +487,7 @@ msgstr "利用可能な項目"
 #.
 #: CustomDataSetWizardPage_Define_the_query_text_for_the_data_set
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "CustomDataSetWizardPage_Define_the_query_text_for_the_data_set"
 msgid "Define the query text for the data set"
 msgstr "データ・セットのクエリー・テキストの定義"
@@ -496,7 +495,7 @@ msgstr "データ・セットのクエリー・テキストの定義"
 #.
 #: CustomDataSetWizardPage_Invalid_configuration
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "CustomDataSetWizardPage_Invalid_configuration"
 msgid "Invalid configuration ''{0}''."
 msgstr "無効な構成 ''{0}'' 。"
@@ -504,7 +503,7 @@ msgstr "無効な構成 ''{0}'' 。"
 #.
 #: CustomDataSetWizardPage_Requires_input_value
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "CustomDataSetWizardPage_Requires_input_value"
 msgid "Requires input value."
 msgstr "入力値が必要です。"
@@ -512,7 +511,7 @@ msgstr "入力値が必要です。"
 #.
 #: CustomDataSetWizardPage_Test_query
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "CustomDataSetWizardPage_Test_query"
 msgid "Test query ..."
 msgstr "クエリーのテスト..."
@@ -520,7 +519,7 @@ msgstr "クエリーのテスト..."
 #.
 #: CustomDataSetWizardPage_Test_query1
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "CustomDataSetWizardPage_Test_query1"
 msgid "Test query"
 msgstr "クエリーのテスト"
@@ -528,7 +527,7 @@ msgstr "クエリーのテスト"
 #.
 #: CustomDataSetWizardPage_The_query_is_not_valid
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "CustomDataSetWizardPage_The_query_is_not_valid"
 msgid "The query is not valid."
 msgstr "クエリーが無効です。"
@@ -536,7 +535,7 @@ msgstr "クエリーが無効です。"
 #.
 #: CustomDataSetWizardPage_The_query_is_valid
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "CustomDataSetWizardPage_The_query_is_valid"
 msgid "The query is valid."
 msgstr "クエリーは有効です。"
@@ -544,7 +543,7 @@ msgstr "クエリーは有効です。"
 #.
 #: HibernateSelectionPageHelper_Configuration
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_Configuration"
 msgid "Configuration:"
 msgstr "構成:"
@@ -552,7 +551,7 @@ msgstr "構成:"
 #.
 #: HibernateSelectionPageHelper_Configuration_must_not_be_empty
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_Configuration_must_not_be_empty"
 msgid "Configuration must not be empty"
 msgstr "構成は空欄ではいけません"
@@ -560,7 +559,7 @@ msgstr "構成は空欄ではいけません"
 #.
 #: HibernateSelectionPageHelper_Connection_successfull
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_Connection_successfull"
 msgid "Connection successfull."
 msgstr "接続は成功です。"
@@ -568,7 +567,7 @@ msgstr "接続は成功です。"
 #.
 #: HibernateSelectionPageHelper_Edit_the_selected_data_source
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_Edit_the_selected_data_source"
 msgid "Edit the selected data source"
 msgstr "選択したデータ・ソースを編集します"
@@ -576,7 +575,7 @@ msgstr "選択したデータ・ソースを編集します"
 #.
 #: HibernateSelectionPageHelper_Invalid_configuration
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_Invalid_configuration"
 msgid "Invalid configuration ''{0}''."
 msgstr "無効な構成 ''{0}'' 。"
@@ -584,7 +583,7 @@ msgstr "無効な構成 ''{0}'' 。"
 #.
 #: HibernateSelectionPageHelper_JNDI_URL
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_JNDI_URL"
 msgid "JNDI URL:"
 msgstr "JNDI URL:"
@@ -592,7 +591,7 @@ msgstr "JNDI URL:"
 #.
 #: HibernateSelectionPageHelper_Max_results
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_Max_results"
 msgid "Max results:"
 msgstr "最大結果数:"
@@ -600,7 +599,7 @@ msgstr "最大結果数:"
 #.
 #: HibernateSelectionPageHelper_Test_connection
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_Test_connection"
 msgid "Test Connection..."
 msgstr "接続テスト..."
@@ -608,7 +607,7 @@ msgstr "接続テスト..."
 #.
 #: HibernateSelectionPageHelper_Test_connection1
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateSelectionPageHelper_Test_connection1"
 msgid "Test connection"
 msgstr "接続のテスト"
@@ -616,7 +615,7 @@ msgstr "接続のテスト"
 #.
 #: TextMenuManager_Content_Assist
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Content_Assist"
 msgid "Content Assist"
 msgstr "コンテンツ・アシスト"
@@ -624,7 +623,7 @@ msgstr "コンテンツ・アシスト"
 #.
 #: TextMenuManager_Content_Tip
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Content_Tip"
 msgid "Content Tip"
 msgstr "コンテンツのヒント"
@@ -632,7 +631,7 @@ msgstr "コンテンツのヒント"
 #.
 #: TextMenuManager_Copy
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Copy"
 msgid "Copy"
 msgstr "コピー"
@@ -640,7 +639,7 @@ msgstr "コピー"
 #.
 #: TextMenuManager_Cut
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Cut"
 msgid "Cut"
 msgstr "切り取り"
@@ -648,7 +647,7 @@ msgstr "切り取り"
 #.
 #: TextMenuManager_Format_HQL_source
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Format_HQL_source"
 msgid "Format HQL source"
 msgstr "HQL ソースのフォーマット"
@@ -656,7 +655,7 @@ msgstr "HQL ソースのフォーマット"
 #.
 #: TextMenuManager_Paste
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Paste"
 msgid "Paste"
 msgstr "貼り付け"
@@ -664,7 +663,7 @@ msgstr "貼り付け"
 #.
 #: TextMenuManager_Redo
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Redo"
 msgid "Redo"
 msgstr "やり直し"
@@ -672,7 +671,7 @@ msgstr "やり直し"
 #.
 #: TextMenuManager_Select_all
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Select_all"
 msgid "Select all"
 msgstr "すべて選択"
@@ -680,7 +679,7 @@ msgstr "すべて選択"
 #.
 #: TextMenuManager_Undo
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/org/jboss/tools/birt/oda/ui/messages.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "TextMenuManager_Undo"
 msgid "Undo"
 msgstr "元に戻す"
@@ -692,7 +691,7 @@ msgstr "元に戻す"
 #: oda.data.source.id
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:7
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "oda.data.source.id"
 msgid "org.jboss.tools.birt.oda"
 msgstr "org.jboss.tools.birt.oda"
@@ -703,7 +702,7 @@ msgstr "org.jboss.tools.birt.oda"
 #. NLS strings
 #: plugin.name
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "plugin.name"
 msgid "JBoss BIRT Integration"
 msgstr "JBoss BIRT 連携"
@@ -711,7 +710,7 @@ msgstr "JBoss BIRT 連携"
 #.
 #: newwizard.name
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "newwizard.name"
 msgid "Hibernate Data Source"
 msgstr "Hibernate データ・ソース"
@@ -719,7 +718,7 @@ msgstr "Hibernate データ・ソース"
 #.
 #: newwizard.description
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "newwizard.description"
 msgid "Create a Hibernate Data Source connection profile"
 msgstr "Hibernate データ・ソース接続プロファイルを作成します"
@@ -727,7 +726,7 @@ msgstr "Hibernate データ・ソース接続プロファイルを作成しま�
 #.
 #: wizard.window.title
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "wizard.window.title"
 msgid "New Hibernate Data Source Profile"
 msgstr "新規Hibernate データ・ソース・プロファイル"
@@ -735,7 +734,7 @@ msgstr "新規Hibernate データ・ソース・プロファイル"
 #.
 #: wizard.data.source.page.title
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "wizard.data.source.page.title"
 msgid "Hibernate Data Source"
 msgstr "Hibernate データ・ソース"
@@ -743,7 +742,7 @@ msgstr "Hibernate データ・ソース"
 #.
 #: profile.propertypage.name
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "profile.propertypage.name"
 msgid "Hibernate Data Source Connection Properties"
 msgstr "Hibernate データ・ソース接続プロパティー"
@@ -751,7 +750,7 @@ msgstr "Hibernate データ・ソース接続プロパティー"
 #.
 #: wizard.data.set.window.title
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "wizard.data.set.window.title"
 msgid "New Hibernate Data Set"
 msgstr "新規Hibernate データ・セット"
@@ -759,14 +758,14 @@ msgstr "新規Hibernate データ・セット"
 #.
 #: wizard.data.set.page.title
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda.ui/plugin.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "wizard.data.set.page.title"
 msgid "Query"
 msgstr "クエリー"
 
 #: AbstractOdaFactory_The_type_is_not_valid
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "AbstractOdaFactory_The_type_is_not_valid"
 msgid "''{0}'' is not a valid type."
 msgstr "''{0}'' は有効な型ではありません。"
@@ -774,7 +773,7 @@ msgstr "''{0}'' は有効な型ではありません。"
 #.
 #: ConsoleConfigurationOdaFactory_Invalid_configuration
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "ConsoleConfigurationOdaFactory_Invalid_configuration"
 msgid "Invalid configuration ''{0}''."
 msgstr "無効な構成 ''{0}'' です。"
@@ -782,7 +781,7 @@ msgstr "無効な構成 ''{0}'' です。"
 #.
 #: DataTypes_Invalid_type_name
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "DataTypes_Invalid_type_name"
 msgid "Invalid type name : {0} "
 msgstr "無効な型名 : {0} "
@@ -790,7 +789,7 @@ msgstr "無効な型名 : {0} "
 #.
 #: HibernateConnection_Invalid_AppContext
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateConnection_Invalid_AppContext"
 msgid "Invalid AppContext"
 msgstr "無効なアプリケーション・コンテキスト"
@@ -798,7 +797,7 @@ msgstr "無効なアプリケーション・コンテキスト"
 #.
 #: HibernateDataSetMetaData_Hibernate_Data_Source
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateDataSetMetaData_Hibernate_Data_Source"
 msgid "Hibernate Data Source"
 msgstr "Hibernate データソース"
@@ -806,7 +805,7 @@ msgstr "Hibernate データソース"
 #.
 #: HibernateDriver_Non_defined
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateDriver_Non_defined"
 msgid "Non-defined"
 msgstr "定義されていません"
@@ -814,7 +813,7 @@ msgstr "定義されていません"
 #.
 #: HibernateResultSet_Cursor_has_not_been_initialized
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateResultSet_Cursor_has_not_been_initialized"
 msgid "Cursor has not been initialized."
 msgstr "カーソルは初期化されませんでした。"
@@ -822,7 +821,7 @@ msgstr "カーソルは初期化されませんでした。"
 #.
 #: HibernateResultSet_The_data_type_is_not_valid
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateResultSet_The_data_type_is_not_valid"
 msgid "The {0}  data type is not valid."
 msgstr " {0} データ型は無効です。"
@@ -830,7 +829,7 @@ msgstr " {0} データ型は無効です。"
 #.
 #: HibernateResultSetMetaData_Argument_cannot_be_null
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateResultSetMetaData_Argument_cannot_be_null"
 msgid "Argument cannot be null."
 msgstr "引数は null にできません."
@@ -838,7 +837,7 @@ msgstr "引数は null にできません."
 #.
 #: HibernateResultSetMetaData_Invalid_index
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "HibernateResultSetMetaData_Invalid_index"
 msgid "Invalid index {0}."
 msgstr "無効なインデックス {0} 。"
@@ -846,7 +845,7 @@ msgstr "無効なインデックス {0} 。"
 #.
 #: ReflectServerOdaFactory_Cannot_create_Hibernate_session_factory
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "ReflectServerOdaFactory_Cannot_create_Hibernate_session_factory"
 msgid "Cannot create Hibernate session factory"
 msgstr "Hibernate セッション・ファクトリーを作成できません"
@@ -854,7 +853,7 @@ msgstr "Hibernate セッション・ファクトリーを作成できません"
 #.
 #: ReflectServerOdaFactory_The_type_is_not_valid
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "ReflectServerOdaFactory_The_type_is_not_valid"
 msgid "The ''{0}'' is not a valid type."
 msgstr "''{0}'' は有効な型ではありません。"
@@ -862,7 +861,7 @@ msgstr "''{0}'' は有効な型ではありません。"
 #.
 #: ServerOdaFactory_Cannot_create_Hibernate_session_factory
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/org/jboss/tools/birt/oda/messages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "ServerOdaFactory_Cannot_create_Hibernate_session_factory"
 msgid "Cannot create Hibernate session factory"
 msgstr "Hibernate セッション・ファクトリーを作成できません"
@@ -874,7 +873,7 @@ msgstr "Hibernate セッション・ファクトリーを作成できません"
 #. ##############################################################################
 #: plugin.name
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "plugin.name"
 msgid "Hibernate Data Source ODA Runtime Driver"
 msgstr "Hibernate データ・ソース ODA ランタイム・ドライバー"
@@ -882,7 +881,7 @@ msgstr "Hibernate データ・ソース ODA ランタイム・ドライバー"
 #.
 #: data.source.name
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "data.source.name"
 msgid "Hibernate Data Source"
 msgstr "Hibernate データ・ソース"
@@ -890,7 +889,7 @@ msgstr "Hibernate データ・ソース"
 #.
 #: data.set.name
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "data.set.name"
 msgid "Hibernate Data Set"
 msgstr "Hibernate データ設定"
@@ -898,7 +897,7 @@ msgstr "Hibernate データ設定"
 #.
 #: connection.profile.name
 #: ../../WORK/modules/birt/plugins/org.jboss.tools.birt.oda/plugin.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "connection.profile.name"
 msgid "Hibernate Data Source Connection Profile"
 msgstr "Hibernate データ・ソース接続プロファイル"

@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "FreeMarker IDE"
 msgstr "FreeMarker IDE"
@@ -46,7 +45,7 @@ msgstr "FreeMarker IDE"
 #: providerName
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:41
 #: ../../WORK/modules/freemarker/plugins/org.jboss.ide.eclipse.freemarker/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -56,7 +55,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -64,7 +63,7 @@ msgstr "JBossTools Update Site"
 #.
 #: devUpdateSiteName
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "devUpdateSiteName"
 msgid "JBossTools Development Update Site"
 msgstr "JBossTools Development Update Site"
@@ -74,7 +73,7 @@ msgstr "JBossTools Development Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "FreeMarkerIDE provides editor for FreeMarker templates"
 msgstr "FreeMarker IDE は FreeMarker テンプレートのエディターを提供します"
@@ -84,7 +83,7 @@ msgstr "FreeMarker IDE は FreeMarker テンプレートのエディターを提
 #. "copyright" property - text of the "Feature Update Copyright"
 #: copyright
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "Copyright (c) 2008 JBoss, a division of Red Hat and others.\n"
@@ -98,7 +97,7 @@ msgstr ""
 #.
 #: are
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "are"
 msgid ""
 "made available under the terms of the Eclipse Public License v1.0\n"
@@ -120,7 +119,7 @@ msgstr ""
 #. do not translate value - just change to point to a locale-specific HTML page
 #: licenseURL
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "licenseURL"
 msgid "license.html"
 msgstr "license.html"
@@ -131,7 +130,7 @@ msgstr "license.html"
 #. should be plain text version of license agreement pointed to be "licenseURL"
 #: license
 #: ../../WORK/modules/freemarker/features/org.jboss.ide.eclipse.freemarker.feature/feature.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "license"
 msgid ""
 "ECLIPSE FOUNDATION SOFTWARE USER AGREEMENT\n"
@@ -378,7 +377,7 @@ msgstr ""
 
 #: blurb
 #: ../../WORK/modules/freemarker/plugins/org.jboss.ide.eclipse.freemarker/about.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "blurb"
 msgid ""
 "FreeMarker IDE\n"
@@ -399,21 +398,21 @@ msgstr ""
 
 #: pluginName
 #: ../../WORK/modules/freemarker/plugins/org.jboss.ide.eclipse.freemarker/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "FreeMarker IDE"
 msgstr "FreeMarker IDE"
 
 #: PreferencePage_FreeMarkerEditor
 #: ../../WORK/modules/freemarker/plugins/org.jboss.ide.eclipse.freemarker/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_FreeMarkerEditor"
 msgid "FreeMarker Editor"
 msgstr "FreeMarker エディター"
 
 #: PropertyPage_FreeMarkerContext
 #: ../../WORK/modules/freemarker/plugins/org.jboss.ide.eclipse.freemarker/plugin.properties:4
-#, fuzzy, java-format
+#, java-format
 msgctxt "PropertyPage_FreeMarkerContext"
 msgid "FreeMarker Context"
 msgstr "FreeMarker コンテキスト"

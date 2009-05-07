@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -35,7 +34,7 @@ msgstr ""
 #. "featureName" property - name of the feature
 #: featureName
 #: ../../WORK/modules/jsf/features/org.jboss.tools.richfaces.feature/feature.properties:18
-#, fuzzy, java-format
+#, java-format
 msgctxt "featureName"
 msgid "JBoss Tools RichFaces"
 msgstr "JBoss Tools RichFaces"
@@ -53,7 +52,7 @@ msgstr "JBoss Tools RichFaces"
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.facelets/plugin.properties:3
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.jsf/plugin.properties:1
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "providerName"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
@@ -62,7 +61,7 @@ msgstr "JBoss, a division of Red Hat"
 #. "updateSiteName" property - label for the update site
 #: updateSiteName
 #: ../../WORK/modules/jsf/features/org.jboss.tools.richfaces.feature/feature.properties:24
-#, fuzzy, java-format
+#, java-format
 msgctxt "updateSiteName"
 msgid "JBossTools Update Site"
 msgstr "JBossTools Update Site"
@@ -70,7 +69,7 @@ msgstr "JBossTools Update Site"
 #.
 #: devUpdateSiteName
 #: ../../WORK/modules/jsf/features/org.jboss.tools.richfaces.feature/feature.properties:26
-#, fuzzy, java-format
+#, java-format
 msgctxt "devUpdateSiteName"
 msgid "JBossTools Development Update Site"
 msgstr "JBossTools Development Update Site"
@@ -79,7 +78,7 @@ msgstr "JBossTools Development Update Site"
 #. "description" property - description of the feature
 #: description
 #: ../../WORK/modules/jsf/features/org.jboss.tools.richfaces.feature/feature.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "description"
 msgid "Visual editing"
 msgstr "ビジュアル編集"
@@ -87,7 +86,7 @@ msgstr "ビジュアル編集"
 #.
 #: copyright
 #: ../../WORK/modules/jsf/features/org.jboss.tools.richfaces.feature/feature.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "copyright"
 msgid ""
 "Copyright (c) 2007 Exadel, Inc and Red Hat, Inc.\n"
@@ -109,7 +108,7 @@ msgstr ""
 #.
 #: Bundle-Name.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext.facelets/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Facelets Text Editors Extensions"
 msgstr "Facelets テキスト・エディター拡張"
@@ -117,7 +116,7 @@ msgstr "Facelets テキスト・エディター拡張"
 #.
 #: Bundle-Name.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext.richfaces/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Richfaces Text Editors Extensions"
 msgstr "Richfaces テキスト・エディター拡張"
@@ -134,7 +133,7 @@ msgstr "Richfaces テキスト・エディター拡張"
 #. ******************************************************************************
 #: Converter
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "Converter"
 msgid "Converter"
 msgstr "コンバーター"
@@ -142,7 +141,7 @@ msgstr "コンバーター"
 #.
 #: OpenConverterForId
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenConverterForId"
 msgid "Open converter definition for ID ''{0}''"
 msgstr " ID ''{0}'' のコンバーター定義を開く"
@@ -150,7 +149,7 @@ msgstr " ID ''{0}'' のコンバーター定義を開く"
 #.
 #: OpenTagLibrary
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenTagLibrary"
 msgid "Open a Tag Library for {0}"
 msgstr "{0} のタグ・ライブラリーを開く"
@@ -158,7 +157,7 @@ msgstr "{0} のタグ・ライブラリーを開く"
 #.
 #: Tag
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "Tag"
 msgid "a tag "
 msgstr "タグ"
@@ -166,7 +165,7 @@ msgstr "タグ"
 #.
 #: TagAttribute
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "TagAttribute"
 msgid "an attribute "
 msgstr "属性"
@@ -174,7 +173,7 @@ msgstr "属性"
 #.
 #: ForTag
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "ForTag"
 msgid "tag ''{0}''"
 msgstr "タグ ''{0}''"
@@ -182,7 +181,7 @@ msgstr "タグ ''{0}''"
 #.
 #: ForTagAttribute
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "ForTagAttribute"
 msgid "attribute ''{0}'' of tag ''{1}''"
 msgstr "タグ ''{1}'' の属性 ''{0}''"
@@ -190,7 +189,7 @@ msgstr "タグ ''{1}'' の属性 ''{0}''"
 #.
 #: NavigationRule
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "NavigationRule"
 msgid "Navigation Rule"
 msgstr "ナビゲーション・ルール"
@@ -198,7 +197,7 @@ msgstr "ナビゲーション・ルール"
 #.
 #: OpenBeanProperty
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenBeanProperty"
 msgid "Open bean ''{0}'' for the property ''{1}''"
 msgstr "プロパティー ''{1}'' の Bean ''{0}'' を開く"
@@ -206,7 +205,7 @@ msgstr "プロパティー ''{1}'' の Bean ''{0}'' を開く"
 #.
 #: BeanProperty
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "BeanProperty"
 msgid "Bean Property"
 msgstr "Bean プロパティー"
@@ -214,7 +213,7 @@ msgstr "Bean プロパティー"
 #.
 #: RenderKit
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "RenderKit"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -222,7 +221,7 @@ msgstr "レンダー・キット"
 #.
 #: OpenRenderKit
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenRenderKit"
 msgid "Open Render Kit ''{0}''"
 msgstr "レンダー・キット ''{0}'' を開く"
@@ -230,7 +229,7 @@ msgstr "レンダー・キット ''{0}'' を開く"
 #.
 #: Validator
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "Validator"
 msgid "validator"
 msgstr "バリデーター"
@@ -238,7 +237,7 @@ msgstr "バリデーター"
 #.
 #: OpenValidatorForId
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/org/jboss/tools/jsf/text/ext/JSFTextExtMessages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "OpenValidatorForId"
 msgid "Open a validator for ID ''{1}''"
 msgstr "ID ''{1}'' のバリデーターを開く"
@@ -246,14 +245,14 @@ msgstr "ID ''{1}'' のバリデーターを開く"
 #.
 #: Bundle-Name.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.text.ext/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Jsf Text Editors Extensions"
 msgstr "JSF テキスト・エディター拡張"
 
 #: license.dialog.title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/action/license.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "license.dialog.title"
 msgid "JSF Studio License"
 msgstr "JSF Studio ライセンス"
@@ -263,7 +262,7 @@ msgstr "JSF Studio ライセンス"
 #. ####
 #: JSFDIAGRAM_SELECT
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFDIAGRAM_SELECT"
 msgid "Select"
 msgstr "選択"
@@ -271,7 +270,7 @@ msgstr "選択"
 #.
 #: JSFDIAGRAM_MARQUEE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFDIAGRAM_MARQUEE"
 msgid "Marquee"
 msgstr "囲み枠"
@@ -279,7 +278,7 @@ msgstr "囲み枠"
 #.
 #: JSFDIAGRAM_CREATE_NEW_CONNECTION
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFDIAGRAM_CREATE_NEW_CONNECTION"
 msgid "Create New Connection"
 msgstr "新規接続の作成"
@@ -287,7 +286,7 @@ msgstr "新規接続の作成"
 #.
 #: JSFDIAGRAM_VIEW_TEMPLATE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFDIAGRAM_VIEW_TEMPLATE"
 msgid "View Template"
 msgstr "ビュー・テンプレート"
@@ -295,7 +294,7 @@ msgstr "ビュー・テンプレート"
 #.
 #: LOCALECONFIGFORM_HEADER
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "LOCALECONFIGFORM_HEADER"
 msgid "Locale Config"
 msgstr "ロケール設定"
@@ -303,7 +302,7 @@ msgstr "ロケール設定"
 #.
 #: LOCALECONFIGFORM_SUPPORTEDLOCAL_TITLE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "LOCALECONFIGFORM_SUPPORTEDLOCAL_TITLE"
 msgid "Supported Locale"
 msgstr "サポートされるロケール"
@@ -311,7 +310,7 @@ msgstr "サポートされるロケール"
 #.
 #: LOCALECONFIGFORM_SUPPORTEDLOCAL_COLUMN_LABEL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "LOCALECONFIGFORM_SUPPORTEDLOCAL_COLUMN_LABEL"
 msgid "Locale"
 msgstr "ロケール"
@@ -319,7 +318,7 @@ msgstr "ロケール"
 #.
 #: APPLICATIONCONFIGFORM_HEADER
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "APPLICATIONCONFIGFORM_HEADER"
 msgid "Application"
 msgstr "アプリケーション"
@@ -327,7 +326,7 @@ msgstr "アプリケーション"
 #.
 #: APPLICATIONCONFIGFORM_MESSAGEBUNDLE_COLUMN_LABEL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "APPLICATIONCONFIGFORM_MESSAGEBUNDLE_COLUMN_LABEL"
 msgid "Message-bundle"
 msgstr "メッセージ・バンドル"
@@ -335,7 +334,7 @@ msgstr "メッセージ・バンドル"
 #.
 #: MANAGEDBEANPROPERTYFORM_HEADER
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "MANAGEDBEANPROPERTYFORM_HEADER"
 msgid "Property"
 msgstr "プロパティー"
@@ -343,7 +342,7 @@ msgstr "プロパティー"
 #.
 #: LISTENTRIESFORM_HEADER
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "LISTENTRIESFORM_HEADER"
 msgid "List Entries"
 msgstr "リスト・エントリー"
@@ -351,7 +350,7 @@ msgstr "リスト・エントリー"
 #.
 #: LISTENTRIESFORM_ENTRY_COLUMN_LABEL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "LISTENTRIESFORM_ENTRY_COLUMN_LABEL"
 msgid "Value"
 msgstr "値"
@@ -359,7 +358,7 @@ msgstr "値"
 #.
 #: MAPENTRIESFORM_HEADER
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "MAPENTRIESFORM_HEADER"
 msgid "Map Entries"
 msgstr "マップ・エントリー"
@@ -367,7 +366,7 @@ msgstr "マップ・エントリー"
 #.
 #: MAPENTRIESFORM_ENTRY_KEY_COLUMN_LABEL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "MAPENTRIESFORM_ENTRY_KEY_COLUMN_LABEL"
 msgid "Key"
 msgstr "キー"
@@ -375,14 +374,14 @@ msgstr "キー"
 #.
 #: MAPENTRIESFORM_ENTRY_VALUE_COLUMN_LABEL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/editor/FacesConfigEditorMessages.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "MAPENTRIESFORM_ENTRY_VALUE_COLUMN_LABEL"
 msgid "Value"
 msgstr "値"
 
 #: JSFSTUDIO
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/preferences/preferences.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFSTUDIO"
 msgid "JSF Projects specific preferences."
 msgstr "JSF プロジェクト固有の設定"
@@ -390,7 +389,7 @@ msgstr "JSF プロジェクト固有の設定"
 #.
 #: LibrarySetsPreferencePage.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/preferences/preferences.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "LibrarySetsPreferencePage.0"
 msgid "Add"
 msgstr "追加"
@@ -398,7 +397,7 @@ msgstr "追加"
 #.
 #: LibrarySetsPreferencePage.1
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/preferences/preferences.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "LibrarySetsPreferencePage.1"
 msgid "Remove"
 msgstr "除去"
@@ -406,7 +405,7 @@ msgstr "除去"
 #.
 #: JSFImplementationsPreferencesPage.Add
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/preferences/preferences.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFImplementationsPreferencesPage.Add"
 msgid "Add"
 msgstr "追加"
@@ -414,7 +413,7 @@ msgstr "追加"
 #.
 #: JSFImplementationsPreferencesPage.Remove
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/preferences/preferences.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFImplementationsPreferencesPage.Remove"
 msgid "Remove"
 msgstr "除去"
@@ -422,7 +421,7 @@ msgstr "除去"
 #.
 #: JSFImplementationsPreferencesPage.Library.Sets
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/preferences/preferences.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFImplementationsPreferencesPage.Library.Sets"
 msgid "Library Sets"
 msgstr "ライブラリー・セット"
@@ -430,7 +429,7 @@ msgstr "ライブラリー・セット"
 #.
 #: JSFImplementationsPreferencesPage.Project.Templates
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/org/jboss/tools/jsf/ui/preferences/preferences.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFImplementationsPreferencesPage.Project.Templates"
 msgid "Project Templates"
 msgstr "プロジェクト・テンプレート"
@@ -438,7 +437,7 @@ msgstr "プロジェクト・テンプレート"
 #.
 #: pluginName
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JBoss Tools JSF UI"
 msgstr "JBoss Tools JSF UI"
@@ -446,7 +445,7 @@ msgstr "JBoss Tools JSF UI"
 #.
 #: perspective.name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "perspective.name"
 msgid "JSF Studio"
 msgstr "JSF Studio"
@@ -454,7 +453,7 @@ msgstr "JSF Studio"
 #.
 #: newProjectWizard.name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "newProjectWizard.name"
 msgid "JSF Project"
 msgstr "JSF プロジェクト"
@@ -462,7 +461,7 @@ msgstr "JSF プロジェクト"
 #.
 #: importProjectWizard.name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "importProjectWizard.name"
 msgid "JSF Project"
 msgstr "JSF プロジェクト"
@@ -470,7 +469,7 @@ msgstr "JSF プロジェクト"
 #.
 #: importJSFWarWizard.name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "importJSFWarWizard.name"
 msgid "JSF Project From *.war"
 msgstr "*.war からJSF プロジェクト"
@@ -478,7 +477,7 @@ msgstr "*.war からJSF プロジェクト"
 #.
 #: editors.jsf.name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "editors.jsf.name"
 msgid "JSF Page Flow Editor"
 msgstr "JSF ページ・フロー・エディター"
@@ -486,7 +485,7 @@ msgstr "JSF ページ・フロー・エディター"
 #.
 #: popupMenus.action.addJSFNature
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "popupMenus.action.addJSFNature"
 msgid "Add JSF Capabilities..."
 msgstr "JSF 機能の追加..."
@@ -494,7 +493,7 @@ msgstr "JSF 機能の追加..."
 #.
 #: popupMenus.action.removeJSFNature
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "popupMenus.action.removeJSFNature"
 msgid "Remove JSF Capabilities"
 msgstr "JSF 機能の除去"
@@ -502,7 +501,7 @@ msgstr "JSF 機能の除去"
 #.
 #: popupMenus.action.addCustomCapabilities
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "popupMenus.action.addCustomCapabilities"
 msgid "Add Custom Capabilities..."
 msgstr "カスタム機能の追加..."
@@ -510,7 +509,7 @@ msgstr "カスタム機能の追加..."
 #.
 #: jsf.views.category.name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "jsf.views.category.name"
 msgid "JBoss Tools"
 msgstr "JBoss Tools"
@@ -518,7 +517,7 @@ msgstr "JBoss Tools"
 #.
 #: jsf.projects.navigator.name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "jsf.projects.navigator.name"
 msgid "JSF Projects"
 msgstr "JSF プロジェクト"
@@ -526,7 +525,7 @@ msgstr "JSF プロジェクト"
 #.
 #: actionSets_license.label
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "actionSets_license.label"
 msgid "JSF Studio License"
 msgstr "JSF Studio ライセンス"
@@ -534,7 +533,7 @@ msgstr "JSF Studio ライセンス"
 #.
 #: actionSets_license.description
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "actionSets_license.description"
 msgid "JSF Studio License"
 msgstr "JSF Studio ライセンス"
@@ -542,7 +541,7 @@ msgstr "JSF Studio ライセンス"
 #.
 #: actionSets.license.label
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "actionSets.license.label"
 msgid "&JSF Studio License"
 msgstr "JSF Studio ライセンス(&J)"
@@ -550,7 +549,7 @@ msgstr "JSF Studio ライセンス(&J)"
 #.
 #: new.tiles
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "new.tiles"
 msgid "Tiles File"
 msgstr "Tiles ファイル"
@@ -558,7 +557,7 @@ msgstr "Tiles ファイル"
 #.
 #: PreferencePage_CustomCapabilities
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_CustomCapabilities"
 msgid "Custom Capabilities"
 msgstr "カスタム機能"
@@ -566,7 +565,7 @@ msgstr "カスタム機能"
 #.
 #: PreferencePage_JSF
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_JSF"
 msgid "JSF"
 msgstr "JSF"
@@ -574,7 +573,7 @@ msgstr "JSF"
 #.
 #: PreferencePage_Project
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_Project"
 msgid "Project"
 msgstr "プロジェクト"
@@ -582,7 +581,7 @@ msgstr "プロジェクト"
 #.
 #: PreferencePage_JSFImplementations
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_JSFImplementations"
 msgid "JSF Environment"
 msgstr "JSF 環境"
@@ -590,7 +589,7 @@ msgstr "JSF 環境"
 #.
 #: PreferencePage_JSFPages
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_JSFPages"
 msgid "JSF Pages"
 msgstr "JSF ページ"
@@ -598,7 +597,7 @@ msgstr "JSF ページ"
 #.
 #: PreferencePage_JSFFlowTabbed
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "PreferencePage_JSFFlowTabbed"
 msgid "JSF Flow Diagram"
 msgstr "JSF フロー・ダイアグラム"
@@ -606,7 +605,7 @@ msgstr "JSF フロー・ダイアグラム"
 #.
 #: NewWizardCat_JBossTools
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewWizardCat_JBossTools"
 msgid "JBoss Tools"
 msgstr "JBoss Tools"
@@ -614,7 +613,7 @@ msgstr "JBoss Tools"
 #.
 #: NewWizardCat_JSF
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewWizardCat_JSF"
 msgid "JSF"
 msgstr "JSF"
@@ -622,7 +621,7 @@ msgstr "JSF"
 #.
 #: NewWizardCat_Struts
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewWizardCat_Struts"
 msgid "Struts"
 msgstr "Struts"
@@ -630,7 +629,7 @@ msgstr "Struts"
 #.
 #: NewWizard_FacesConfig
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewWizard_FacesConfig"
 msgid "Faces Config"
 msgstr "Faces Config"
@@ -638,7 +637,7 @@ msgstr "Faces Config"
 #.
 #: NewWizardDescription_FacesConfig
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewWizardDescription_FacesConfig"
 msgid "Create a Faces Config"
 msgstr "Faces Config を作成します"
@@ -646,7 +645,7 @@ msgstr "Faces Config を作成します"
 #.
 #: NewWizardDescription_JSFProject
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "NewWizardDescription_JSFProject"
 msgid "Create a JSF Project"
 msgstr "JSF プロジェクトを作成します"
@@ -654,7 +653,7 @@ msgstr "JSF プロジェクトを作成します"
 #.
 #: ImportWizardCat_JSF
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "ImportWizardCat_JSF"
 msgid "JSF"
 msgstr "JSF"
@@ -662,7 +661,7 @@ msgstr "JSF"
 #.
 #: ImportWizardCat_Struts
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "ImportWizardCat_Struts"
 msgid "Struts"
 msgstr "Struts"
@@ -670,7 +669,7 @@ msgstr "Struts"
 #.
 #: ImportWizardDescription_JSFProject
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "ImportWizardDescription_JSFProject"
 msgid ""
 "Create a new Project from a JSF project in the file system. This does not "
@@ -682,7 +681,7 @@ msgstr ""
 #.
 #: ImportWizardDescription_JSFWar
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.ui/plugin.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "ImportWizardDescription_JSFWar"
 msgid ""
 "Create a new Project from a JSF project in a WAR file. The content of WAR "
@@ -693,7 +692,7 @@ msgstr ""
 
 #: message.jsf.slash
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "message.jsf.slash"
 msgid "Attribute {0} must start with /"
 msgstr "属性 {0} は / で始まる必要があります"
@@ -701,7 +700,7 @@ msgstr "属性 {0} は / で始まる必要があります"
 #.
 #: message.jsf.empty
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "message.jsf.empty"
 msgid "Attribute {0} must not be empty"
 msgstr "属性 {0} は空欄ではいけません"
@@ -709,7 +708,7 @@ msgstr "属性 {0} は空欄ではいけません"
 #.
 #: message.jsf.star
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "message.jsf.star"
 msgid "Attribute {0} must not contain *"
 msgstr "属性 {0} は * を含んではいけません"
@@ -717,7 +716,7 @@ msgstr "属性 {0} は * を含んではいけません"
 #.
 #: message.jsf.path.exists
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "message.jsf.path.exists"
 msgid "Attribute {0} references to {1} that does not exist"
 msgstr "属性 {0} は存在しない {1} を参照しています"
@@ -725,7 +724,7 @@ msgstr "属性 {0} は存在しない {1} を参照しています"
 #.
 #: message.jsf.class.exists
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "message.jsf.class.exists"
 msgid "Attribute {0} references to non-existent class {1}"
 msgstr "属性 {0} は存在しないクラス {1} を参照しています"
@@ -733,7 +732,7 @@ msgstr "属性 {0} は存在しないクラス {1} を参照しています"
 #.
 #: message.jsf.class.implements
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "message.jsf.class.implements"
 msgid "Attribute {0} references to {1} that does not implement interface {2}"
 msgstr "属性 {0} はインターフェース {2} を実装していない {1} を参照しています"
@@ -741,7 +740,7 @@ msgstr "属性 {0} はインターフェース {2} を実装していない {1} 
 #.
 #: message.jsf.class.extends
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "message.jsf.class.extends"
 msgid "Attribute {0} references to {1} that does not extend {2}"
 msgstr "属性 {0} は {2} を拡張していない {1} を参照しています"
@@ -749,14 +748,14 @@ msgstr "属性 {0} は {2} を拡張していない {1} を参照しています
 #.
 #: message.jsf.config.valid
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/org/jboss/tools/jsf/verification/vrules/jsfrules.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "message.jsf.config.valid"
 msgid "Attribute {0} references to {1} that is not a valid faces config file"
 msgstr "属性 {0} は 無効な Faces Config ファイル {1} を参照しています"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.verification/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "JSF Verification"
 msgstr "JSF 検証"
@@ -770,21 +769,21 @@ msgstr "JSF 検証"
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.myfaces/plugin.properties:2
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.richfaces/plugin.properties:2
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.seam/plugin.properties:2
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Vendor.0"
 msgid "JBoss, a division of Red Hat"
 msgstr "JBoss, a division of Red Hat"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.ajax4jsf/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Ajax4jsf VPE Plug-in"
 msgstr "Ajax4jsf VPE プラグイン"
 
 #: pluginName
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.facelets/plugin.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "Facelets Plug-in"
 msgstr "Facelets プラグイン"
@@ -792,35 +791,35 @@ msgstr "Facelets プラグイン"
 #.
 #: pluginName
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.jsf/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JSF support for JBoss Visual Page Editor Plug-in"
 msgstr "JBoss ビジュアル・ページ・エディター・プラグインの JSF サポート"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.myfaces/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "MyFaces support for JBoss Visual Page Editor Plug-in"
 msgstr "JBoss ビジュアル・ページ・エディター・プラグインの MyFaces サポート"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.richfaces/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Richfaces VPE Support Plug-in"
 msgstr "Richfaces VPE サポート・プラグイン"
 
 #: Bundle-Name.0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf.vpe.seam/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "Bundle-Name.0"
 msgid "Seam VPE support Plug-in"
 msgstr "Seam VPE サポート・プラグイン"
 
 #: JSF.element_type
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.element_type"
 msgid "Element Type"
 msgstr "要素タイプ"
@@ -828,7 +827,7 @@ msgstr "要素タイプ"
 #.
 #: JSF.name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.name"
 msgid "Name"
 msgstr "名前"
@@ -836,7 +835,7 @@ msgstr "名前"
 #.
 #: JSF.extension
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.extension"
 msgid "Extension"
 msgstr "Extension"
@@ -844,7 +843,7 @@ msgstr "Extension"
 #.
 #: JSF.id
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.id"
 msgid "ID"
 msgstr "ID"
@@ -852,7 +851,7 @@ msgstr "ID"
 #.
 #: JSF.comment
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.comment"
 msgid "Comment"
 msgstr "Comment"
@@ -860,7 +859,7 @@ msgstr "Comment"
 #.
 #: JSF.encoding
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.encoding"
 msgid "Encoding"
 msgstr "Encoding"
@@ -868,7 +867,7 @@ msgstr "Encoding"
 #.
 #: JSF.xmlns
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.xmlns"
 msgid "Xmlns"
 msgstr "Xmlns"
@@ -876,7 +875,7 @@ msgstr "Xmlns"
 #.
 #: JSF.xmlns_xsi
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.xmlns_xsi"
 msgid "Xmlns:xsi"
 msgstr "Xmlns:xsi"
@@ -884,7 +883,7 @@ msgstr "Xmlns:xsi"
 #.
 #: JSF.xsi_schemaLocation
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.xsi_schemaLocation"
 msgid "Xsi:schemaLocation"
 msgstr "Xsi:schemaLocation"
@@ -892,7 +891,7 @@ msgstr "Xsi:schemaLocation"
 #.
 #: JSF.action-listener
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.action-listener"
 msgid "Action-Listener"
 msgstr "Action-Listener"
@@ -900,7 +899,7 @@ msgstr "Action-Listener"
 #.
 #: JSF.default-render-kit-id
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.default-render-kit-id"
 msgid "Default-Render-Kit-ID"
 msgstr "Default-Render-Kit-ID"
@@ -908,7 +907,7 @@ msgstr "Default-Render-Kit-ID"
 #.
 #: JSF.navigation-handler
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.navigation-handler"
 msgid "Navigation-Handler"
 msgstr "Navigation-Handler"
@@ -916,7 +915,7 @@ msgstr "Navigation-Handler"
 #.
 #: JSF.view-handler
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.view-handler"
 msgid "View-Handler"
 msgstr "View-Handler"
@@ -924,7 +923,7 @@ msgstr "View-Handler"
 #.
 #: JSF.state-manager
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.state-manager"
 msgid "State-Manager"
 msgstr "State-Manager"
@@ -932,7 +931,7 @@ msgstr "State-Manager"
 #.
 #: JSF.property-resolver
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.property-resolver"
 msgid "Property-Resolver"
 msgstr "Property-Resolver"
@@ -940,7 +939,7 @@ msgstr "Property-Resolver"
 #.
 #: JSF.variable-resolver
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.variable-resolver"
 msgid "Variable-Resolver"
 msgstr "Variable-Resolver"
@@ -948,7 +947,7 @@ msgstr "Variable-Resolver"
 #.
 #: JSF.el-resolver
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.el-resolver"
 msgid "El-Resolver"
 msgstr "El-Resolver"
@@ -956,7 +955,7 @@ msgstr "El-Resolver"
 #.
 #: JSF.description
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.description"
 msgid "Description"
 msgstr "Description"
@@ -964,7 +963,7 @@ msgstr "Description"
 #.
 #: JSF.display-name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.display-name"
 msgid "Display-Name"
 msgstr "Display-Name"
@@ -972,7 +971,7 @@ msgstr "Display-Name"
 #.
 #: JSF.small-icon
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.small-icon"
 msgid "Small-Icon"
 msgstr "Small-Icon"
@@ -980,7 +979,7 @@ msgstr "Small-Icon"
 #.
 #: JSF.large-icon
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.large-icon"
 msgid "Large-Icon"
 msgstr "Large-Icon"
@@ -988,7 +987,7 @@ msgstr "Large-Icon"
 #.
 #: JSF.attribute-name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.attribute-name"
 msgid "Attribute-Name"
 msgstr "Attribute-Name"
@@ -996,7 +995,7 @@ msgstr "Attribute-Name"
 #.
 #: JSF.attribute-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.attribute-class"
 msgid "Attribute-Class"
 msgstr "Attribute-Class"
@@ -1004,7 +1003,7 @@ msgstr "Attribute-Class"
 #.
 #: JSF.default-value
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.default-value"
 msgid "Default-Value"
 msgstr "Default-Value"
@@ -1012,7 +1011,7 @@ msgstr "Default-Value"
 #.
 #: JSF.suggested-value
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.suggested-value"
 msgid "Suggested-Value"
 msgstr "Suggested-Value"
@@ -1020,7 +1019,7 @@ msgstr "Suggested-Value"
 #.
 #: JSF.component-type
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.component-type"
 msgid "Component-Type"
 msgstr "Component-Type"
@@ -1028,7 +1027,7 @@ msgstr "Component-Type"
 #.
 #: JSF.component-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.component-class"
 msgid "Component-Class"
 msgstr "Component-Class"
@@ -1036,7 +1035,7 @@ msgstr "Component-Class"
 #.
 #: JSF.converter-id
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.converter-id"
 msgid "Converter-ID"
 msgstr "Converter-ID"
@@ -1044,7 +1043,7 @@ msgstr "Converter-ID"
 #.
 #: JSF.converter-for-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.converter-for-class"
 msgid "Converter-for-Class"
 msgstr "Converter-for-Class"
@@ -1052,7 +1051,7 @@ msgstr "Converter-for-Class"
 #.
 #: JSF.converter-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.converter-class"
 msgid "Converter-Class"
 msgstr "Converter-Class"
@@ -1060,7 +1059,7 @@ msgstr "Converter-Class"
 #.
 #: JSF.class_name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.class_name"
 msgid "Class Name"
 msgstr "Class Name"
@@ -1068,7 +1067,7 @@ msgstr "Class Name"
 #.
 #: JSF.facet-name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.facet-name"
 msgid "Facet-Name"
 msgstr "Facet-Name"
@@ -1076,7 +1075,7 @@ msgstr "Facet-Name"
 #.
 #: JSF.application-factory
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.application-factory"
 msgid "Application-Factory"
 msgstr "Application-Factory"
@@ -1084,7 +1083,7 @@ msgstr "Application-Factory"
 #.
 #: JSF.faces-context-factory
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.faces-context-factory"
 msgid "Faces-Context-Factory"
 msgstr "Faces-Context-Factory"
@@ -1092,7 +1091,7 @@ msgstr "Faces-Context-Factory"
 #.
 #: JSF.lifecycle-factory
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.lifecycle-factory"
 msgid "Lifecycle-Factory"
 msgstr "Lifecycle-Factory"
@@ -1100,7 +1099,7 @@ msgstr "Lifecycle-Factory"
 #.
 #: JSF.render-kit-factory
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.render-kit-factory"
 msgid "Render-Kit-Factory"
 msgstr "Render-Kit-Factory"
@@ -1108,7 +1107,7 @@ msgstr "Render-Kit-Factory"
 #.
 #: JSF.value-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.value-class"
 msgid "Value-Class"
 msgstr "Value-Class"
@@ -1116,7 +1115,7 @@ msgstr "Value-Class"
 #.
 #: JSF.null-value
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.null-value"
 msgid "Null-Value"
 msgstr "Null-Value"
@@ -1124,7 +1123,7 @@ msgstr "Null-Value"
 #.
 #: JSF.value
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.value"
 msgid "Value"
 msgstr "Value"
@@ -1132,7 +1131,7 @@ msgstr "Value"
 #.
 #: JSF.default-locale
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.default-locale"
 msgid "Default-Locale"
 msgstr "Default-Locale"
@@ -1140,7 +1139,7 @@ msgstr "Default-Locale"
 #.
 #: JSF.managed-bean-name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.managed-bean-name"
 msgid "Managed-Bean-Name"
 msgstr "Managed-Bean-Name"
@@ -1148,7 +1147,7 @@ msgstr "Managed-Bean-Name"
 #.
 #: JSF.managed-bean-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.managed-bean-class"
 msgid "Managed-Bean-Class"
 msgstr "Managed-Bean-Class"
@@ -1156,7 +1155,7 @@ msgstr "Managed-Bean-Class"
 #.
 #: JSF.managed-bean-scope
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.managed-bean-scope"
 msgid "Managed-Bean-Scope"
 msgstr "Managed-Bean-Scope"
@@ -1164,7 +1163,7 @@ msgstr "Managed-Bean-Scope"
 #.
 #: JSF.property-name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.property-name"
 msgid "Property-Name"
 msgstr "Property-Name"
@@ -1172,7 +1171,7 @@ msgstr "Property-Name"
 #.
 #: JSF.property-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:89
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.property-class"
 msgid "Property-Class"
 msgstr "Property-Class"
@@ -1180,7 +1179,7 @@ msgstr "Property-Class"
 #.
 #: JSF.value-kind
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.value-kind"
 msgid "Value-Kind"
 msgstr "Value-Kind"
@@ -1188,7 +1187,7 @@ msgstr "Value-Kind"
 #.
 #: JSF.key-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.key-class"
 msgid "Key-Class"
 msgstr "Key-Class"
@@ -1196,7 +1195,7 @@ msgstr "Key-Class"
 #.
 #: JSF.key
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.key"
 msgid "Key"
 msgstr "Key"
@@ -1204,7 +1203,7 @@ msgstr "Key"
 #.
 #: JSF.message-bundle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:97
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.message-bundle"
 msgid "Message-Bundle"
 msgstr "Message-Bundle"
@@ -1212,7 +1211,7 @@ msgstr "Message-Bundle"
 #.
 #: JSF.from-action
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:99
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.from-action"
 msgid "From-Action"
 msgstr "From-Action"
@@ -1220,7 +1219,7 @@ msgstr "From-Action"
 #.
 #: JSF.from-outcome
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.from-outcome"
 msgid "From-Outcome"
 msgstr "From-Outcome"
@@ -1228,7 +1227,7 @@ msgstr "From-Outcome"
 #.
 #: JSF.to-view-id
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:103
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.to-view-id"
 msgid "To-View-ID"
 msgstr "To-View-ID"
@@ -1236,7 +1235,7 @@ msgstr "To-View-ID"
 #.
 #: JSF.redirect
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:105
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.redirect"
 msgid "Redirect"
 msgstr "Redirect"
@@ -1244,7 +1243,7 @@ msgstr "Redirect"
 #.
 #: JSF.from-view-id
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:107
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.from-view-id"
 msgid "From-View-ID"
 msgstr "From-View-ID"
@@ -1252,7 +1251,7 @@ msgstr "From-View-ID"
 #.
 #: JSF.phase-listener
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:109
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.phase-listener"
 msgid "Phase-Listener"
 msgstr "Phase-Listener"
@@ -1260,7 +1259,7 @@ msgstr "Phase-Listener"
 #.
 #: JSF.type
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:111
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.type"
 msgid "Type"
 msgstr "Type"
@@ -1268,7 +1267,7 @@ msgstr "Type"
 #.
 #: JSF.shape
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:113
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.shape"
 msgid "Shape"
 msgstr "Shape"
@@ -1276,7 +1275,7 @@ msgstr "Shape"
 #.
 #: JSF.target
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:115
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.target"
 msgid "Target"
 msgstr "Target"
@@ -1284,7 +1283,7 @@ msgstr "Target"
 #.
 #: JSF.subtype
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:117
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.subtype"
 msgid "Subtype"
 msgstr "Subtype"
@@ -1292,7 +1291,7 @@ msgstr "Subtype"
 #.
 #: JSF.path
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:119
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.path"
 msgid "Path"
 msgstr "Path"
@@ -1300,7 +1299,7 @@ msgstr "Path"
 #.
 #: JSF.persistent
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:121
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.persistent"
 msgid "Persistent"
 msgstr "Persistent"
@@ -1308,7 +1307,7 @@ msgstr "Persistent"
 #.
 #: JSF.title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:123
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.title"
 msgid "Title"
 msgstr "Title"
@@ -1316,7 +1315,7 @@ msgstr "Title"
 #.
 #: JSF.hidden
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:125
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.hidden"
 msgid "Hidden"
 msgstr "Hidden"
@@ -1324,7 +1323,7 @@ msgstr "Hidden"
 #.
 #: JSF.shortcut
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:127
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.shortcut"
 msgid "Shortcut"
 msgstr "Shortcut"
@@ -1332,7 +1331,7 @@ msgstr "Shortcut"
 #.
 #: JSF.referenced-bean-name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:129
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.referenced-bean-name"
 msgid "Referenced-Bean-Name"
 msgstr "Referenced-Bean-Name"
@@ -1340,7 +1339,7 @@ msgstr "Referenced-Bean-Name"
 #.
 #: JSF.referenced-bean-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:131
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.referenced-bean-class"
 msgid "Referenced-Bean-Class"
 msgstr "Referenced-Bean-Class"
@@ -1348,7 +1347,7 @@ msgstr "Referenced-Bean-Class"
 #.
 #: JSF.render-kit-id
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:133
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.render-kit-id"
 msgid "Render-Kit-ID"
 msgstr "Render-Kit-ID"
@@ -1356,7 +1355,7 @@ msgstr "Render-Kit-ID"
 #.
 #: JSF.render-kit-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:135
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.render-kit-class"
 msgid "Render-Kit-Class"
 msgstr "Render-Kit-Class"
@@ -1364,7 +1363,7 @@ msgstr "Render-Kit-Class"
 #.
 #: JSF.component-family
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:137
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.component-family"
 msgid "Component-Family"
 msgstr "Component-Family"
@@ -1372,7 +1371,7 @@ msgstr "Component-Family"
 #.
 #: JSF.renderer-type
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:139
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.renderer-type"
 msgid "Renderer-Type"
 msgstr "Renderer-Type"
@@ -1380,7 +1379,7 @@ msgstr "Renderer-Type"
 #.
 #: JSF.renderer-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:141
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.renderer-class"
 msgid "Renderer-Class"
 msgstr "Renderer-Class"
@@ -1388,7 +1387,7 @@ msgstr "Renderer-Class"
 #.
 #: JSF.base-name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:143
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.base-name"
 msgid "Base-Name"
 msgstr "Base-Name"
@@ -1396,7 +1395,7 @@ msgstr "Base-Name"
 #.
 #: JSF.var
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:145
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.var"
 msgid "Var"
 msgstr "Var"
@@ -1404,7 +1403,7 @@ msgstr "Var"
 #.
 #: JSF.attribute-names
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:147
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.attribute-names"
 msgid "Attribute-Names"
 msgstr "Attribute-Names"
@@ -1412,7 +1411,7 @@ msgstr "Attribute-Names"
 #.
 #: JSF.supported-locale
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:149
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.supported-locale"
 msgid "Supported-Locale"
 msgstr "Supported-Locale"
@@ -1420,7 +1419,7 @@ msgstr "Supported-Locale"
 #.
 #: JSF.validator-id
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:151
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.validator-id"
 msgid "Validator-ID"
 msgstr "Validator-ID"
@@ -1428,7 +1427,7 @@ msgstr "Validator-ID"
 #.
 #: JSF.validator-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:153
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.validator-class"
 msgid "Validator-Class"
 msgstr "Validator-Class"
@@ -1436,7 +1435,7 @@ msgstr "Validator-Class"
 #.
 #: JSF.URI
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:155
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.URI"
 msgid "URI"
 msgstr "URI"
@@ -1444,7 +1443,7 @@ msgstr "URI"
 #.
 #: JSF.path_on_disk
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:157
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.path_on_disk"
 msgid "Path on Disk"
 msgstr "ディスク上のパス"
@@ -1452,7 +1451,7 @@ msgstr "ディスク上のパス"
 #.
 #: JSF.java_src
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:159
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.java_src"
 msgid "Java Src"
 msgstr "Java Src"
@@ -1460,7 +1459,7 @@ msgstr "Java Src"
 #.
 #: JSF.root
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:161
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.root"
 msgid "Root"
 msgstr "ルート"
@@ -1468,7 +1467,7 @@ msgstr "ルート"
 #.
 #: JSF.model_path
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:163
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.model_path"
 msgid "Model Path"
 msgstr "モデル・パス"
@@ -1476,7 +1475,7 @@ msgstr "モデル・パス"
 #.
 #: JSF.root_file_system
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:165
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.root_file_system"
 msgid "Root File System"
 msgstr "ルート・ファイル・システム"
@@ -1484,7 +1483,7 @@ msgstr "ルート・ファイル・システム"
 #.
 #: JSF.src_file_system
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:167
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.src_file_system"
 msgid "Src File System"
 msgstr "ソース・ファイル・システム"
@@ -1492,7 +1491,7 @@ msgstr "ソース・ファイル・システム"
 #.
 #: JSF.capability
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:169
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.capability"
 msgid "Capability"
 msgstr "機能"
@@ -1500,7 +1499,7 @@ msgstr "機能"
 #.
 #: JSF.label
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:171
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.label"
 msgid "Label"
 msgstr "ラベル"
@@ -1508,7 +1507,7 @@ msgstr "ラベル"
 #.
 #: JSF.file_name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:173
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.file_name"
 msgid "File Name"
 msgstr "ファイル名"
@@ -1516,7 +1515,7 @@ msgstr "ファイル名"
 #.
 #: JSF.x-path
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:175
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.x-path"
 msgid "X-Path"
 msgstr "X-Path"
@@ -1524,7 +1523,7 @@ msgstr "X-Path"
 #.
 #: JSF.text
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:177
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.text"
 msgid "Text"
 msgstr "テキスト"
@@ -1532,7 +1531,7 @@ msgstr "テキスト"
 #.
 #: JSF.declaring_class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:179
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.declaring_class"
 msgid "Declaring Class"
 msgstr "クラスの宣言"
@@ -1540,7 +1539,7 @@ msgstr "クラスの宣言"
 #.
 #: JSF.generate_source_code
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:181
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.generate_source_code"
 msgid "Generate Source Code"
 msgstr "ソース・コードの生成"
@@ -1548,7 +1547,7 @@ msgstr "ソース・コードの生成"
 #.
 #: JSF.generate_getter
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:183
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.generate_getter"
 msgid "Generate Getter"
 msgstr "Getter の生成"
@@ -1556,7 +1555,7 @@ msgstr "Getter の生成"
 #.
 #: JSF.generate_setter
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:185
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.generate_setter"
 msgid "Generate Setter"
 msgstr "Setter の生成"
@@ -1564,7 +1563,7 @@ msgstr "Setter の生成"
 #.
 #: JSF.folder
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:187
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.folder"
 msgid "Folder"
 msgstr "フォルダー"
@@ -1572,7 +1571,7 @@ msgstr "フォルダー"
 #.
 #: JSF.separator
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:189
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.separator"
 msgid "Separator"
 msgstr "セパレーター"
@@ -1580,7 +1579,7 @@ msgstr "セパレーター"
 #.
 #: JSF.version
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:191
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.version"
 msgid "Version"
 msgstr "バージョン"
@@ -1588,7 +1587,7 @@ msgstr "バージョン"
 #.
 #: JSF.register_in_web.xml
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:193
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.register_in_web.xml"
 msgid "Register in web.xml"
 msgstr "web.xml に登録"
@@ -1596,7 +1595,7 @@ msgstr "web.xml に登録"
 #.
 #: JSF.template
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:195
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.template"
 msgid "Template"
 msgstr "テンプレート"
@@ -1604,7 +1603,7 @@ msgstr "テンプレート"
 #.
 #: JSF.value_bean_class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:197
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.value_bean_class"
 msgid "Value Bean Class"
 msgstr "値 Bean クラス"
@@ -1612,7 +1611,7 @@ msgstr "値 Bean クラス"
 #.
 #: JSF.rename_file
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:199
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.rename_file"
 msgid "Rename File"
 msgstr "ファイルの名前変更"
@@ -1620,7 +1619,7 @@ msgstr "ファイルの名前変更"
 #.
 #: JSF.link_text
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:201
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.link_text"
 msgid "Link Text"
 msgstr "リンク・テキスト"
@@ -1628,14 +1627,14 @@ msgstr "リンク・テキスト"
 #.
 #: JSF.select_items
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-attrs.properties:203
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.select_items"
 msgid "Select Items"
 msgstr "項目の選択"
 
 #: JSF.SetApplication.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.SetApplication.menu"
 msgid "Edit Application Settings..."
 msgstr "アプリケーション設定の編集..."
@@ -1643,7 +1642,7 @@ msgstr "アプリケーション設定の編集..."
 #.
 #: JSF.SetFactory.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.SetFactory.menu"
 msgid "Edit Factory Settings..."
 msgstr "ファクトリー設定の編集..."
@@ -1651,7 +1650,7 @@ msgstr "ファクトリー設定の編集..."
 #.
 #: JSF.AddRule.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddRule.menu"
 msgid "Rule..."
 msgstr "ルール..."
@@ -1659,7 +1658,7 @@ msgstr "ルール..."
 #.
 #: JSF.AddComponent.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddComponent.menu"
 msgid "Component..."
 msgstr "コンポーネント..."
@@ -1667,7 +1666,7 @@ msgstr "コンポーネント..."
 #.
 #: JSF.AddConverter.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddConverter.menu"
 msgid "Converter"
 msgstr "コンバーター"
@@ -1675,7 +1674,7 @@ msgstr "コンバーター"
 #.
 #: JSF.WithId.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.WithId.menu"
 msgid "with id..."
 msgstr "with id..."
@@ -1683,7 +1682,7 @@ msgstr "with id..."
 #.
 #: JSF.ForClass.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.ForClass.menu"
 msgid "for class..."
 msgstr "for class..."
@@ -1691,7 +1690,7 @@ msgstr "for class..."
 #.
 #: JSF.AddManagedBean.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddManagedBean.menu"
 msgid "Managed Bean..."
 msgstr "マネージド Bean..."
@@ -1699,7 +1698,7 @@ msgstr "マネージド Bean..."
 #.
 #: JSF.AddReferencedBean.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddReferencedBean.menu"
 msgid "Referenced Bean..."
 msgstr "参照 Bean..."
@@ -1707,7 +1706,7 @@ msgstr "参照 Bean..."
 #.
 #: JSF.AddRenderKit.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddRenderKit.menu"
 msgid "Render Kit..."
 msgstr "レンダー・キット..."
@@ -1715,7 +1714,7 @@ msgstr "レンダー・キット..."
 #.
 #: JSF.AddLifecycle.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddLifecycle.menu"
 msgid "Lifecycle..."
 msgstr "ライフサイクル..."
@@ -1723,7 +1722,7 @@ msgstr "ライフサイクル..."
 #.
 #: JSF.AddValidator.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddValidator.menu"
 msgid "Validator..."
 msgstr "バリデーター..."
@@ -1731,7 +1730,7 @@ msgstr "バリデーター..."
 #.
 #: JSF.AddMessageBundle.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddMessageBundle.menu"
 msgid "Message Bundle"
 msgstr "メッセージ・バンドル"
@@ -1739,7 +1738,7 @@ msgstr "メッセージ・バンドル"
 #.
 #: JSF.AddPropertyResolver.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddPropertyResolver.menu"
 msgid "Property Resolver..."
 msgstr "プロパティ・リゾルバー..."
@@ -1747,7 +1746,7 @@ msgstr "プロパティ・リゾルバー..."
 #.
 #: JSF.AddVariableResolver.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddVariableResolver.menu"
 msgid "Variable Resolver..."
 msgstr "変数リゾルバー..."
@@ -1755,7 +1754,7 @@ msgstr "変数リゾルバー..."
 #.
 #: JSF.OpenSource.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.OpenSource.menu"
 msgid "Open Declaration"
 msgstr "宣言を開く"
@@ -1763,7 +1762,7 @@ msgstr "宣言を開く"
 #.
 #: JSF.AddResourceBundle.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddResourceBundle.menu"
 msgid "Resource Bundle..."
 msgstr "リソース・バンドル..."
@@ -1771,7 +1770,7 @@ msgstr "リソース・バンドル..."
 #.
 #: JSF.AddELResolver.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddELResolver.menu"
 msgid "EL Resolver..."
 msgstr "EL リゾルバー..."
@@ -1779,7 +1778,7 @@ msgstr "EL リゾルバー..."
 #.
 #: JSF.CreateExtension.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateExtension.menu"
 msgid "Extension"
 msgstr "拡張子"
@@ -1787,7 +1786,7 @@ msgstr "拡張子"
 #.
 #: JSF.CreateTag.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateTag.menu"
 msgid "Add Tag..."
 msgstr "タグの追加..."
@@ -1795,7 +1794,7 @@ msgstr "タグの追加..."
 #.
 #: JSF.CreateAttribute.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateAttribute.menu"
 msgid "Attribute..."
 msgstr "属性..."
@@ -1803,7 +1802,7 @@ msgstr "属性..."
 #.
 #: JSF.CreateProperty.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateProperty.menu"
 msgid "Property..."
 msgstr "プロパティー..."
@@ -1811,7 +1810,7 @@ msgstr "プロパティー..."
 #.
 #: JSF.CreateFacet.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateFacet.menu"
 msgid "Facet..."
 msgstr "ファセット..."
@@ -1819,7 +1818,7 @@ msgstr "ファセット..."
 #.
 #: JSF.CreatePhaseListener.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreatePhaseListener.menu"
 msgid "Add Phase Listener..."
 msgstr "フェーズ・リスナーの追加..."
@@ -1827,7 +1826,7 @@ msgstr "フェーズ・リスナーの追加..."
 #.
 #: JSF.AddEntry.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddEntry.menu"
 msgid "Entry"
 msgstr "エントリー"
@@ -1835,7 +1834,7 @@ msgstr "エントリー"
 #.
 #: JSF.AddSupportedLocale.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddSupportedLocale.menu"
 msgid "Add Supported Locale..."
 msgstr "サポートするロケールの追加..."
@@ -1843,7 +1842,7 @@ msgstr "サポートするロケールの追加..."
 #.
 #: JSF.ChangeToList.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.ChangeToList.menu"
 msgid "List-Entries"
 msgstr "List-Entries"
@@ -1851,7 +1850,7 @@ msgstr "List-Entries"
 #.
 #: JSF.ChangeToMap.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.ChangeToMap.menu"
 msgid "Map-Entries"
 msgstr "Map-Entries"
@@ -1859,7 +1858,7 @@ msgstr "Map-Entries"
 #.
 #: JSF.RenameClass.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.RenameClass.menu"
 msgid "Rename Class..."
 msgstr "クラスの名前変更..."
@@ -1867,7 +1866,7 @@ msgstr "クラスの名前変更..."
 #.
 #: JSF.AddNullValue.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddNullValue.menu"
 msgid "Null Value"
 msgstr "null 値"
@@ -1875,7 +1874,7 @@ msgstr "null 値"
 #.
 #: JSF.AddValue.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddValue.menu"
 msgid "Value..."
 msgstr "値..."
@@ -1883,7 +1882,7 @@ msgstr "値..."
 #.
 #: JSF.OpenPage.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.OpenPage.menu"
 msgid "Open Page"
 msgstr "ページを開く"
@@ -1891,7 +1890,7 @@ msgstr "ページを開く"
 #.
 #: JSF.RunPageOnServer.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.RunPageOnServer.menu"
 msgid "Run on Server"
 msgstr "サーバーで実行"
@@ -1899,7 +1898,7 @@ msgstr "サーバーで実行"
 #.
 #: JSF.Select.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.Select.menu"
 msgid "Select on Diagram"
 msgstr "ダイアグラム上で選択"
@@ -1907,7 +1906,7 @@ msgstr "ダイアグラム上で選択"
 #.
 #: JSF.CreateCase.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateCase.menu"
 msgid "Case..."
 msgstr "ケース..."
@@ -1915,7 +1914,7 @@ msgstr "ケース..."
 #.
 #: JSF.AutoLayout.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AutoLayout.menu"
 msgid "Auto Layout"
 msgstr "自動レイアウト"
@@ -1923,7 +1922,7 @@ msgstr "自動レイアウト"
 #.
 #: JSF.SelectItem.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.SelectItem.menu"
 msgid "Select Element"
 msgstr "要素の選択"
@@ -1931,7 +1930,7 @@ msgstr "要素の選択"
 #.
 #: JSF.VerifyAll.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.VerifyAll.menu"
 msgid "Verify"
 msgstr "検証"
@@ -1939,7 +1938,7 @@ msgstr "検証"
 #.
 #: JSF.AsTransition.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AsTransition.menu"
 msgid "Show as Transition"
 msgstr "遷移として表示"
@@ -1947,7 +1946,7 @@ msgstr "遷移として表示"
 #.
 #: JSF.AsSrortcut.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AsSrortcut.menu"
 msgid "Show as Shortcut"
 msgstr "ショートカットとして表示"
@@ -1955,7 +1954,7 @@ msgstr "ショートカットとして表示"
 #.
 #: JSF.CreateRenderer.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateRenderer.menu"
 msgid "Renderer..."
 msgstr "レンダラー..."
@@ -1963,7 +1962,7 @@ msgstr "レンダラー..."
 #.
 #: JSF.AddCapability.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddCapability.menu"
 msgid "Add Capability"
 msgstr "機能の追加"
@@ -1971,7 +1970,7 @@ msgstr "機能の追加"
 #.
 #: JSF.AddLibraryReference.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddLibraryReference.menu"
 msgid "Add Library Reference"
 msgstr "ライブラリー参照を追加"
@@ -1979,7 +1978,7 @@ msgstr "ライブラリー参照を追加"
 #.
 #: JSF.AddFileAddition.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddFileAddition.menu"
 msgid "Define Configuration File Addition"
 msgstr "構成ファイル追加定義"
@@ -1987,7 +1986,7 @@ msgstr "構成ファイル追加定義"
 #.
 #: JSF.CreateFacesConfig.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:89
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateFacesConfig.menu"
 msgid "Faces Config"
 msgstr "Faces Config"
@@ -1995,7 +1994,7 @@ msgstr "Faces Config"
 #.
 #: JSF.CreateFileProperties.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateFileProperties.menu"
 msgid "Properties File..."
 msgstr "プロパティー・ファイル..."
@@ -2003,7 +2002,7 @@ msgstr "プロパティー・ファイル..."
 #.
 #: JSF.CreateFileTLD.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateFileTLD.menu"
 msgid "Tag Library..."
 msgstr "タグ・ライブラリー..."
@@ -2011,7 +2010,7 @@ msgstr "タグ・ライブラリー..."
 #.
 #: JSF.CreateTiles.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateTiles.menu"
 msgid "Tiles..."
 msgstr "Tiles..."
@@ -2019,7 +2018,7 @@ msgstr "Tiles..."
 #.
 #: JSF.JSFStudio.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:97
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.JSFStudio.menu"
 msgid "JBoss Tools JSF"
 msgstr "JBoss Tools JSF"
@@ -2027,7 +2026,7 @@ msgstr "JBoss Tools JSF"
 #.
 #: JSF.SaveAsTemplate.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:99
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.SaveAsTemplate.menu"
 msgid "Save As Template..."
 msgstr "テンプレートとして保管..."
@@ -2035,7 +2034,7 @@ msgstr "テンプレートとして保管..."
 #.
 #: JSF.RemoveJSFNature.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.RemoveJSFNature.menu"
 msgid "Remove JSF Capabilities"
 msgstr "JSF 機能の除去"
@@ -2043,7 +2042,7 @@ msgstr "JSF 機能の除去"
 #.
 #: JSF.AddCustomJSFCapabilities.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:103
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddCustomJSFCapabilities.menu"
 msgid "Add Custom Capabilities..."
 msgstr "カスタム機能の追加..."
@@ -2051,7 +2050,7 @@ msgstr "カスタム機能の追加..."
 #.
 #: JSF.AddORMCapabilities.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:105
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddORMCapabilities.menu"
 msgid "Add ORM Capability..."
 msgstr "ORM 機能の追加..."
@@ -2059,7 +2058,7 @@ msgstr "ORM 機能の追加..."
 #.
 #: JSF.CreateNewProject.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:107
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateNewProject.menu"
 msgid "Create New Project..."
 msgstr "新規プロジェクトの作成..."
@@ -2067,7 +2066,7 @@ msgstr "新規プロジェクトの作成..."
 #.
 #: JSF.ImportExistingProject.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:109
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.ImportExistingProject.menu"
 msgid "Import Existing Project..."
 msgstr "既存のプロジェクトのインポート..."
@@ -2075,7 +2074,7 @@ msgstr "既存のプロジェクトのインポート..."
 #.
 #: JSF.AddProperties.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:111
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.AddProperties.menu"
 msgid "Add..."
 msgstr "追加..."
@@ -2083,14 +2082,14 @@ msgstr "追加..."
 #.
 #: JSF.CreateFacesConfigV.menu
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf-menu.properties:113
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF.CreateFacesConfigV.menu"
 msgid "Faces Config"
 msgstr "Faces Config"
 
 #: FileSystems_RegisterInServerXML_jsf
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystems_RegisterInServerXML_jsf"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2098,7 +2097,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: FacesConfig_Rename.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_Rename.WindowTitle"
 msgid "Rename"
 msgstr "名前変更"
@@ -2106,7 +2105,7 @@ msgstr "名前変更"
 #.
 #: FacesConfig_Rename.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_Rename.Title"
 msgid "Faces Config"
 msgstr "Faces Config"
@@ -2114,7 +2113,7 @@ msgstr "Faces Config"
 #.
 #: FacesConfig_Rename.Message
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_Rename.Message"
 msgid "Enter new name"
 msgstr "新しい名前を入力します"
@@ -2122,7 +2121,7 @@ msgstr "新しい名前を入力します"
 #.
 #: FacesConfig_WithId.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_WithId.WindowTitle"
 msgid "Add Converter"
 msgstr "コンバーターの追加"
@@ -2130,7 +2129,7 @@ msgstr "コンバーターの追加"
 #.
 #: FacesConfig_WithId.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_WithId.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -2138,7 +2137,7 @@ msgstr "コンバーター"
 #.
 #: FacesConfig_ForClass.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_ForClass.WindowTitle"
 msgid "Add Converter"
 msgstr "コンバーターの追加"
@@ -2146,7 +2145,7 @@ msgstr "コンバーターの追加"
 #.
 #: FacesConfig_ForClass.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_ForClass.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -2154,7 +2153,7 @@ msgstr "コンバーター"
 #.
 #: FacesConfig_AddRule.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddRule.WindowTitle"
 msgid "Add Rule"
 msgstr "ルールの追加"
@@ -2162,7 +2161,7 @@ msgstr "ルールの追加"
 #.
 #: FacesConfig_AddRule.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddRule.Title"
 msgid "Navigation Rule"
 msgstr "ナビゲーション・ルール"
@@ -2170,7 +2169,7 @@ msgstr "ナビゲーション・ルール"
 #.
 #: FacesConfig_AddComponent.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddComponent.WindowTitle"
 msgid "Add Component"
 msgstr "コンポーネントの追加"
@@ -2178,7 +2177,7 @@ msgstr "コンポーネントの追加"
 #.
 #: FacesConfig_AddComponent.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddComponent.Title"
 msgid "Component"
 msgstr "コンポーネント"
@@ -2186,7 +2185,7 @@ msgstr "コンポーネント"
 #.
 #: FacesConfig_AddManagedBean.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddManagedBean.WindowTitle"
 msgid "Add Managed Bean"
 msgstr "マネージド Bean の追加"
@@ -2194,7 +2193,7 @@ msgstr "マネージド Bean の追加"
 #.
 #: FacesConfig_AddManagedBean.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddManagedBean.Title"
 msgid "Managed Bean"
 msgstr "マネージド Bean"
@@ -2202,7 +2201,7 @@ msgstr "マネージド Bean"
 #.
 #: FacesConfig_AddReferencedBean.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddReferencedBean.WindowTitle"
 msgid "Add Referenced Bean"
 msgstr "参照 Bean の追加"
@@ -2210,7 +2209,7 @@ msgstr "参照 Bean の追加"
 #.
 #: FacesConfig_AddReferencedBean.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddReferencedBean.Title"
 msgid "Referenced Bean"
 msgstr "参照 Bean"
@@ -2218,7 +2217,7 @@ msgstr "参照 Bean"
 #.
 #: FacesConfig_AddRenderKit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddRenderKit.WindowTitle"
 msgid "Add Render Kit"
 msgstr "レンダー・キットの追加"
@@ -2226,7 +2225,7 @@ msgstr "レンダー・キットの追加"
 #.
 #: FacesConfig_AddRenderKit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddRenderKit.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -2234,7 +2233,7 @@ msgstr "レンダー・キット"
 #.
 #: FacesConfig_AddValidator.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddValidator.WindowTitle"
 msgid "Add Validator"
 msgstr "バリデーターの追加"
@@ -2242,7 +2241,7 @@ msgstr "バリデーターの追加"
 #.
 #: FacesConfig_AddValidator.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_AddValidator.Title"
 msgid "Validator"
 msgstr "バリデーター"
@@ -2250,7 +2249,7 @@ msgstr "バリデーター"
 #.
 #: FacesConfig_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig_Properties.Title"
 msgid "Faces Config 1.0"
 msgstr "Faces Config 1.0"
@@ -2258,7 +2257,7 @@ msgstr "Faces Config 1.0"
 #.
 #: FacesConfig11
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2266,7 +2265,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: FacesConfig11_Rename.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_Rename.WindowTitle"
 msgid "Rename"
 msgstr "名前変更"
@@ -2274,7 +2273,7 @@ msgstr "名前変更"
 #.
 #: FacesConfig11_Rename.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_Rename.Title"
 msgid "Faces Config"
 msgstr "Faces Config"
@@ -2282,7 +2281,7 @@ msgstr "Faces Config"
 #.
 #: FacesConfig11_Rename.Message
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:89
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_Rename.Message"
 msgid "Enter new name"
 msgstr "新しい名前を入力します"
@@ -2290,7 +2289,7 @@ msgstr "新しい名前を入力します"
 #.
 #: FacesConfig11_WithId.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_WithId.WindowTitle"
 msgid "Add Converter"
 msgstr "コンバーターの追加"
@@ -2298,7 +2297,7 @@ msgstr "コンバーターの追加"
 #.
 #: FacesConfig11_WithId.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_WithId.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -2306,7 +2305,7 @@ msgstr "コンバーター"
 #.
 #: FacesConfig11_ForClass.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_ForClass.WindowTitle"
 msgid "Add Converter"
 msgstr "コンバーターの追加"
@@ -2314,7 +2313,7 @@ msgstr "コンバーターの追加"
 #.
 #: FacesConfig11_ForClass.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:103
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_ForClass.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -2322,7 +2321,7 @@ msgstr "コンバーター"
 #.
 #: FacesConfig11_AddRule.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:109
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddRule.WindowTitle"
 msgid "Add Rule"
 msgstr "ルールの追加"
@@ -2330,7 +2329,7 @@ msgstr "ルールの追加"
 #.
 #: FacesConfig11_AddRule.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:111
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddRule.Title"
 msgid "Navigation Rule"
 msgstr "ナビゲーション・ルール"
@@ -2338,7 +2337,7 @@ msgstr "ナビゲーション・ルール"
 #.
 #: FacesConfig11_AddComponent.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:117
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddComponent.WindowTitle"
 msgid "Add Component"
 msgstr "コンポーネントの追加"
@@ -2346,7 +2345,7 @@ msgstr "コンポーネントの追加"
 #.
 #: FacesConfig11_AddComponent.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:119
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddComponent.Title"
 msgid "Component"
 msgstr "コンポーネント"
@@ -2354,7 +2353,7 @@ msgstr "コンポーネント"
 #.
 #: FacesConfig11_AddManagedBean.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:125
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddManagedBean.WindowTitle"
 msgid "Add Managed Bean"
 msgstr "マネージド Bean の追加"
@@ -2362,7 +2361,7 @@ msgstr "マネージド Bean の追加"
 #.
 #: FacesConfig11_AddManagedBean.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:127
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddManagedBean.Title"
 msgid "Managed Bean"
 msgstr "マネージド Bean"
@@ -2370,7 +2369,7 @@ msgstr "マネージド Bean"
 #.
 #: FacesConfig11_AddReferencedBean.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:133
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddReferencedBean.WindowTitle"
 msgid "Add Referenced Bean"
 msgstr "参照 Bean の追加"
@@ -2378,7 +2377,7 @@ msgstr "参照 Bean の追加"
 #.
 #: FacesConfig11_AddReferencedBean.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:135
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddReferencedBean.Title"
 msgid "Referenced Bean"
 msgstr "参照 Bean"
@@ -2386,7 +2385,7 @@ msgstr "参照 Bean"
 #.
 #: FacesConfig11_AddRenderKit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:141
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddRenderKit.WindowTitle"
 msgid "Add Render Kit"
 msgstr "レンダー・キットの追加"
@@ -2394,7 +2393,7 @@ msgstr "レンダー・キットの追加"
 #.
 #: FacesConfig11_AddRenderKit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:143
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddRenderKit.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -2402,7 +2401,7 @@ msgstr "レンダー・キット"
 #.
 #: FacesConfig11_AddValidator.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:149
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddValidator.WindowTitle"
 msgid "Add Validator"
 msgstr "バリデーターの追加"
@@ -2410,7 +2409,7 @@ msgstr "バリデーターの追加"
 #.
 #: FacesConfig11_AddValidator.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:151
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_AddValidator.Title"
 msgid "Validator"
 msgstr "バリデーター"
@@ -2418,7 +2417,7 @@ msgstr "バリデーター"
 #.
 #: FacesConfig11_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:157
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig11_Properties.Title"
 msgid "Faces Config 1.1"
 msgstr "Faces Config 1.1"
@@ -2426,7 +2425,7 @@ msgstr "Faces Config 1.1"
 #.
 #: FacesConfig12_Rename.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:161
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_Rename.WindowTitle"
 msgid "Rename"
 msgstr "名前変更"
@@ -2434,7 +2433,7 @@ msgstr "名前変更"
 #.
 #: FacesConfig12_Rename.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:163
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_Rename.Title"
 msgid "Faces Config"
 msgstr "Faces Config"
@@ -2442,7 +2441,7 @@ msgstr "Faces Config"
 #.
 #: FacesConfig12_Rename.Message
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:165
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_Rename.Message"
 msgid "Enter new name"
 msgstr "新しい名前を入力します"
@@ -2450,7 +2449,7 @@ msgstr "新しい名前を入力します"
 #.
 #: FacesConfig12_WithId.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:169
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_WithId.WindowTitle"
 msgid "Add Converter"
 msgstr "コンバーターの追加"
@@ -2458,7 +2457,7 @@ msgstr "コンバーターの追加"
 #.
 #: FacesConfig12_WithId.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:171
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_WithId.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -2466,7 +2465,7 @@ msgstr "コンバーター"
 #.
 #: FacesConfig12_ForClass.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:177
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_ForClass.WindowTitle"
 msgid "Add Converter"
 msgstr "コンバーターの追加"
@@ -2474,7 +2473,7 @@ msgstr "コンバーターの追加"
 #.
 #: FacesConfig12_ForClass.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:179
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_ForClass.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -2482,7 +2481,7 @@ msgstr "コンバーター"
 #.
 #: FacesConfig12_AddRule.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:185
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddRule.WindowTitle"
 msgid "Add Rule"
 msgstr "ルールの追加"
@@ -2490,7 +2489,7 @@ msgstr "ルールの追加"
 #.
 #: FacesConfig12_AddRule.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:187
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddRule.Title"
 msgid "Navigation Rule"
 msgstr "ナビゲーション・ルール"
@@ -2498,7 +2497,7 @@ msgstr "ナビゲーション・ルール"
 #.
 #: FacesConfig12_AddComponent.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:193
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddComponent.WindowTitle"
 msgid "Add Component"
 msgstr "コンポーネントの追加"
@@ -2506,7 +2505,7 @@ msgstr "コンポーネントの追加"
 #.
 #: FacesConfig12_AddComponent.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:195
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddComponent.Title"
 msgid "Component"
 msgstr "コンポーネント"
@@ -2514,7 +2513,7 @@ msgstr "コンポーネント"
 #.
 #: FacesConfig12_AddManagedBean.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:201
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddManagedBean.WindowTitle"
 msgid "Add Managed Bean"
 msgstr "マネージド Bean の追加"
@@ -2522,7 +2521,7 @@ msgstr "マネージド Bean の追加"
 #.
 #: FacesConfig12_AddManagedBean.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:203
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddManagedBean.Title"
 msgid "Managed Bean"
 msgstr "マネージド Bean"
@@ -2530,7 +2529,7 @@ msgstr "マネージド Bean"
 #.
 #: FacesConfig12_AddReferencedBean.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:209
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddReferencedBean.WindowTitle"
 msgid "Add Referenced Bean"
 msgstr "参照 Bean の追加"
@@ -2538,7 +2537,7 @@ msgstr "参照 Bean の追加"
 #.
 #: FacesConfig12_AddReferencedBean.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:211
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddReferencedBean.Title"
 msgid "Referenced Bean"
 msgstr "参照 Bean"
@@ -2546,7 +2545,7 @@ msgstr "参照 Bean"
 #.
 #: FacesConfig12_AddRenderKit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:217
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddRenderKit.WindowTitle"
 msgid "Add Render Kit"
 msgstr "レンダー・キットの追加"
@@ -2554,7 +2553,7 @@ msgstr "レンダー・キットの追加"
 #.
 #: FacesConfig12_AddRenderKit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:219
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddRenderKit.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -2562,7 +2561,7 @@ msgstr "レンダー・キット"
 #.
 #: FacesConfig12_AddValidator.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:225
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddValidator.WindowTitle"
 msgid "Add Validator"
 msgstr "バリデーターの追加"
@@ -2570,7 +2569,7 @@ msgstr "バリデーターの追加"
 #.
 #: FacesConfig12_AddValidator.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:227
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_AddValidator.Title"
 msgid "Validator"
 msgstr "バリデーター"
@@ -2578,7 +2577,7 @@ msgstr "バリデーター"
 #.
 #: FacesConfig12_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:233
-#, fuzzy, java-format
+#, java-format
 msgctxt "FacesConfig12_Properties.Title"
 msgid "Faces Config 1.2"
 msgstr "Faces Config 1.2"
@@ -2586,7 +2585,7 @@ msgstr "Faces Config 1.2"
 #.
 #: JSFValidators12_AddValidator.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:237
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidators12_AddValidator.WindowTitle"
 msgid "Add Validator"
 msgstr "バリデーターの追加"
@@ -2594,7 +2593,7 @@ msgstr "バリデーターの追加"
 #.
 #: JSFValidators12_AddValidator.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:239
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidators12_AddValidator.Title"
 msgid "Validator"
 msgstr "バリデーター"
@@ -2602,7 +2601,7 @@ msgstr "バリデーター"
 #.
 #: JSFValidators12_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:243
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidators12_Properties.Title"
 msgid "Validators"
 msgstr "バリデーター"
@@ -2610,7 +2609,7 @@ msgstr "バリデーター"
 #.
 #: JSFValidator12_CreateAttribute.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:247
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator12_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
 msgstr "属性の追加"
@@ -2618,7 +2617,7 @@ msgstr "属性の追加"
 #.
 #: JSFValidator12_CreateAttribute.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:249
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator12_CreateAttribute.Title"
 msgid "Attribute"
 msgstr "属性"
@@ -2626,7 +2625,7 @@ msgstr "属性"
 #.
 #: JSFValidator12_CreateProperty.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:253
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator12_CreateProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -2634,7 +2633,7 @@ msgstr "プロパティーの追加"
 #.
 #: JSFValidator12_CreateProperty.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:255
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator12_CreateProperty.Title"
 msgid "Property"
 msgstr "プロパティー"
@@ -2642,7 +2641,7 @@ msgstr "プロパティー"
 #.
 #: JSFValidator12_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:259
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator12_Properties.Title"
 msgid "Validator"
 msgstr "バリデーター"
@@ -2650,7 +2649,7 @@ msgstr "バリデーター"
 #.
 #: JSFApplication
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:263
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2658,7 +2657,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication_AddMessageBundle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:267
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddMessageBundle"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2666,7 +2665,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication_AddMessageBundle.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:269
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddMessageBundle.WindowTitle"
 msgid "New Message Bundle"
 msgstr "新規メッセージ・バンドル"
@@ -2674,7 +2673,7 @@ msgstr "新規メッセージ・バンドル"
 #.
 #: JSFApplication_AddMessageBundle.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:271
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddMessageBundle.Title"
 msgid "Message Bundle"
 msgstr "メッセージ・バンドル"
@@ -2682,7 +2681,7 @@ msgstr "メッセージ・バンドル"
 #.
 #: JSFApplication_AddVariableResolver
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:277
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddVariableResolver"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2690,7 +2689,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication_AddVariableResolver.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:279
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddVariableResolver.WindowTitle"
 msgid "New Variable Resolver"
 msgstr "新規変数リゾルバー"
@@ -2698,7 +2697,7 @@ msgstr "新規変数リゾルバー"
 #.
 #: JSFApplication_AddVariableResolver.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:281
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddVariableResolver.Title"
 msgid "Variable Resolver"
 msgstr "変数リゾルバー"
@@ -2706,7 +2705,7 @@ msgstr "変数リゾルバー"
 #.
 #: JSFApplication_AddPropertyResolver
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:287
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddPropertyResolver"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2714,7 +2713,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication_AddPropertyResolver.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:289
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddPropertyResolver.WindowTitle"
 msgid "New Property Resolver"
 msgstr "新規プロパティー・リゾルバー"
@@ -2722,7 +2721,7 @@ msgstr "新規プロパティー・リゾルバー"
 #.
 #: JSFApplication_AddPropertyResolver.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:291
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_AddPropertyResolver.Title"
 msgid "Property Resolver"
 msgstr "プロパティ・リゾルバー"
@@ -2730,7 +2729,7 @@ msgstr "プロパティ・リゾルバー"
 #.
 #: JSFApplication_Edit
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:297
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_Edit"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2738,7 +2737,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:299
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_Edit.WindowTitle"
 msgid "Edit"
 msgstr "Edit"
@@ -2746,7 +2745,7 @@ msgstr "Edit"
 #.
 #: JSFApplication_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:301
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_Edit.Title"
 msgid "Application"
 msgstr "アプリケーション"
@@ -2754,7 +2753,7 @@ msgstr "アプリケーション"
 #.
 #: JSFApplication_Properties
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:307
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_Properties"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2762,7 +2761,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:309
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication_Properties.Title"
 msgid "Application"
 msgstr "アプリケーション"
@@ -2770,7 +2769,7 @@ msgstr "アプリケーション"
 #.
 #: JSFApplication12
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:315
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2778,7 +2777,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication12_AddMessageBundle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:319
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddMessageBundle"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2786,7 +2785,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication12_AddMessageBundle.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:321
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddMessageBundle.WindowTitle"
 msgid "New Message Bundle"
 msgstr "新規メッセージ・バンドル"
@@ -2794,7 +2793,7 @@ msgstr "新規メッセージ・バンドル"
 #.
 #: JSFApplication12_AddMessageBundle.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:323
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddMessageBundle.Title"
 msgid "Message Bundle"
 msgstr "メッセージ・バンドル"
@@ -2802,7 +2801,7 @@ msgstr "メッセージ・バンドル"
 #.
 #: JSFApplication12_AddResourceBundle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:329
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddResourceBundle"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2810,7 +2809,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication12_AddResourceBundle.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:331
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddResourceBundle.WindowTitle"
 msgid "New Resource Bundle"
 msgstr "新規リソース・バンドル"
@@ -2818,7 +2817,7 @@ msgstr "新規リソース・バンドル"
 #.
 #: JSFApplication12_AddResourceBundle.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:333
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddResourceBundle.Title"
 msgid "Resource Bundle"
 msgstr "リソース・バンドル"
@@ -2826,7 +2825,7 @@ msgstr "リソース・バンドル"
 #.
 #: JSFApplication12_AddELResolver
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:339
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddELResolver"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2834,7 +2833,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication12_AddELResolver.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:341
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddELResolver.WindowTitle"
 msgid "New EL Resolver"
 msgstr "新規 EL リゾルバー"
@@ -2842,7 +2841,7 @@ msgstr "新規 EL リゾルバー"
 #.
 #: JSFApplication12_AddELResolver.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:343
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddELResolver.Title"
 msgid "EL Resolver"
 msgstr "EL リゾルバー"
@@ -2850,7 +2849,7 @@ msgstr "EL リゾルバー"
 #.
 #: JSFApplication12_AddVariableResolver
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:349
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddVariableResolver"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2858,7 +2857,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication12_AddVariableResolver.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:351
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddVariableResolver.WindowTitle"
 msgid "New Variable Resolver"
 msgstr "新規変数リゾルバー"
@@ -2866,7 +2865,7 @@ msgstr "新規変数リゾルバー"
 #.
 #: JSFApplication12_AddVariableResolver.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:353
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddVariableResolver.Title"
 msgid "Variable Resolver"
 msgstr "変数リゾルバー"
@@ -2874,7 +2873,7 @@ msgstr "変数リゾルバー"
 #.
 #: JSFApplication12_AddPropertyResolver
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:359
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddPropertyResolver"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2882,7 +2881,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication12_AddPropertyResolver.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:361
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddPropertyResolver.WindowTitle"
 msgid "New Property Resolver"
 msgstr "新規プロパティー・リゾルバー"
@@ -2890,7 +2889,7 @@ msgstr "新規プロパティー・リゾルバー"
 #.
 #: JSFApplication12_AddPropertyResolver.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:363
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_AddPropertyResolver.Title"
 msgid "Property Resolver"
 msgstr "プロパティ・リゾルバー"
@@ -2898,7 +2897,7 @@ msgstr "プロパティ・リゾルバー"
 #.
 #: JSFApplication12_Edit
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:369
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_Edit"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2906,7 +2905,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication12_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:371
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_Edit.WindowTitle"
 msgid "Edit"
 msgstr "編集"
@@ -2914,7 +2913,7 @@ msgstr "編集"
 #.
 #: JSFApplication12_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:373
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_Edit.Title"
 msgid "Application"
 msgstr "アプリケーション"
@@ -2922,7 +2921,7 @@ msgstr "アプリケーション"
 #.
 #: JSFApplication12_Properties
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:379
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_Properties"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2930,7 +2929,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFApplication12_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:381
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplication12_Properties.Title"
 msgid "Application"
 msgstr "アプリケーション"
@@ -2938,7 +2937,7 @@ msgstr "アプリケーション"
 #.
 #: JSFAttribute
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:387
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFAttribute"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2946,7 +2945,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFAttribute_Properties
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:391
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFAttribute_Properties"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2954,7 +2953,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFAttribute_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:393
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFAttribute_Properties.Title"
 msgid "Attribute"
 msgstr "属性"
@@ -2962,7 +2961,7 @@ msgstr "属性"
 #.
 #: JSFComponent
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:399
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2970,7 +2969,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponent_CreateAttribute
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:403
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent_CreateAttribute"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -2978,7 +2977,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponent_CreateAttribute.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:405
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
 msgstr "属性の追加"
@@ -2986,7 +2985,7 @@ msgstr "属性の追加"
 #.
 #: JSFComponent_CreateAttribute.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:407
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent_CreateAttribute.Title"
 msgid "Attribute"
 msgstr "属性"
@@ -2994,7 +2993,7 @@ msgstr "属性"
 #.
 #: JSFComponent_CreateProperty
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:413
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent_CreateProperty"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -3002,7 +3001,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponent_CreateProperty.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:415
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent_CreateProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3010,7 +3009,7 @@ msgstr "プロパティーの追加"
 #.
 #: JSFComponent_CreateProperty.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:417
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent_CreateProperty.Title"
 msgid "Property"
 msgstr "プロパティー"
@@ -3018,7 +3017,7 @@ msgstr "プロパティー"
 #.
 #: JSFComponent_Properties
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:423
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent_Properties"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -3026,7 +3025,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponent_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:425
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent_Properties.Title"
 msgid "Component"
 msgstr "コンポーネント"
@@ -3034,7 +3033,7 @@ msgstr "コンポーネント"
 #.
 #: JSFComponent11
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:429
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -3042,7 +3041,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponent11_CreateAttribute
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:433
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateAttribute"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -3050,7 +3049,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponent11_CreateAttribute.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:435
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
 msgstr "属性の追加"
@@ -3058,7 +3057,7 @@ msgstr "属性の追加"
 #.
 #: JSFComponent11_CreateAttribute.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:437
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateAttribute.Title"
 msgid "Attribute"
 msgstr "属性"
@@ -3066,7 +3065,7 @@ msgstr "属性"
 #.
 #: JSFComponent11_CreateFacet
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:443
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateFacet"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -3074,7 +3073,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponent11_CreateFacet.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:445
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateFacet.WindowTitle"
 msgid "Add Facet"
 msgstr "ファセットの追加"
@@ -3082,7 +3081,7 @@ msgstr "ファセットの追加"
 #.
 #: JSFComponent11_CreateFacet.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:447
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateFacet.Title"
 msgid "Facet"
 msgstr "ファセット"
@@ -3090,7 +3089,7 @@ msgstr "ファセット"
 #.
 #: JSFComponent11_CreateProperty
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:453
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateProperty"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -3098,7 +3097,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponent11_CreateProperty.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:455
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3106,7 +3105,7 @@ msgstr "プロパティーの追加"
 #.
 #: JSFComponent11_CreateProperty.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:457
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_CreateProperty.Title"
 msgid "Property"
 msgstr "プロパティー"
@@ -3114,7 +3113,7 @@ msgstr "プロパティー"
 #.
 #: JSFComponent11_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:463
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponent11_Properties.Title"
 msgid "Component"
 msgstr "コンポーネント"
@@ -3122,7 +3121,7 @@ msgstr "コンポーネント"
 #.
 #: JSFComponents
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:469
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponents"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -3130,7 +3129,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponents_AddComponent
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:473
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponents_AddComponent"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -3138,7 +3137,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JSFComponents_AddComponent.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:475
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponents_AddComponent.WindowTitle"
 msgid "Add Component"
 msgstr "コンポーネントの追加"
@@ -3146,7 +3145,7 @@ msgstr "コンポーネントの追加"
 #.
 #: JSFComponents_AddComponent.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:477
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponents_AddComponent.Title"
 msgid "Component"
 msgstr "コンポーネント"
@@ -3154,7 +3153,7 @@ msgstr "コンポーネント"
 #.
 #: JSFComponents_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:483
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponents_Properties.Title"
 msgid "Components"
 msgstr "コンポーネント"
@@ -3162,7 +3161,7 @@ msgstr "コンポーネント"
 #.
 #: JSFComponents11_AddComponent.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:487
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponents11_AddComponent.WindowTitle"
 msgid "Add Component"
 msgstr "コンポーネントの追加"
@@ -3170,7 +3169,7 @@ msgstr "コンポーネントの追加"
 #.
 #: JSFComponents11_AddComponent.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:489
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponents11_AddComponent.Title"
 msgid "Component"
 msgstr "コンポーネント"
@@ -3178,7 +3177,7 @@ msgstr "コンポーネント"
 #.
 #: JSFComponents11_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:495
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponents11_Properties.Title"
 msgid "Components"
 msgstr "コンポーネント"
@@ -3186,7 +3185,7 @@ msgstr "コンポーネント"
 #.
 #: JSFConverter_CreateAttribute.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:499
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverter_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
 msgstr "属性の追加"
@@ -3194,7 +3193,7 @@ msgstr "属性の追加"
 #.
 #: JSFConverter_CreateAttribute.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:501
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverter_CreateAttribute.Title"
 msgid "Attribute"
 msgstr "属性"
@@ -3202,7 +3201,7 @@ msgstr "属性"
 #.
 #: JSFConverter_CreateProperty.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:507
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverter_CreateProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3210,7 +3209,7 @@ msgstr "プロパティーの追加"
 #.
 #: JSFConverter_CreateProperty.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:509
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverter_CreateProperty.Title"
 msgid "Property"
 msgstr "プロパティー"
@@ -3218,7 +3217,7 @@ msgstr "プロパティー"
 #.
 #: JSFConverter_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:515
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverter_Properties.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -3226,7 +3225,7 @@ msgstr "コンバーター"
 #.
 #: JSFConverters_WithId.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:521
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverters_WithId.WindowTitle"
 msgid "Add Converter"
 msgstr "コンバーターの追加"
@@ -3234,7 +3233,7 @@ msgstr "コンバーターの追加"
 #.
 #: JSFConverters_WithId.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:523
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverters_WithId.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -3242,7 +3241,7 @@ msgstr "コンバーター"
 #.
 #: JSFConverters_ForClass.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:529
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverters_ForClass.WindowTitle"
 msgid "Add Converter"
 msgstr "コンバーターの追加"
@@ -3250,7 +3249,7 @@ msgstr "コンバーターの追加"
 #.
 #: JSFConverters_ForClass.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:531
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverters_ForClass.Title"
 msgid "Converter"
 msgstr "コンバーター"
@@ -3258,7 +3257,7 @@ msgstr "コンバーター"
 #.
 #: JSFConverters_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:537
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConverters_Properties.Title"
 msgid "Converters"
 msgstr "コンバーター"
@@ -3266,7 +3265,7 @@ msgstr "コンバーター"
 #.
 #: JSFFactory_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:543
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFFactory_Edit.WindowTitle"
 msgid "Edit"
 msgstr "編集"
@@ -3274,7 +3273,7 @@ msgstr "編集"
 #.
 #: JSFFactory_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:545
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFFactory_Edit.Title"
 msgid "Factory"
 msgstr "ファクトリー"
@@ -3282,7 +3281,7 @@ msgstr "ファクトリー"
 #.
 #: JSFFactory_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:551
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFFactory_Properties.Title"
 msgid "Factory"
 msgstr "ファクトリー"
@@ -3290,7 +3289,7 @@ msgstr "ファクトリー"
 #.
 #: JSFLifecycle_CreatePhaseListener.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:557
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLifecycle_CreatePhaseListener.WindowTitle"
 msgid "Add Phase Listener"
 msgstr "フェーズ・リスナーの追加"
@@ -3298,7 +3297,7 @@ msgstr "フェーズ・リスナーの追加"
 #.
 #: JSFLifecycle_CreatePhaseListener.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:559
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLifecycle_CreatePhaseListener.Title"
 msgid "Phase Listener"
 msgstr "フェーズ・リスナー"
@@ -3306,7 +3305,7 @@ msgstr "フェーズ・リスナー"
 #.
 #: JSFLifecycle_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:565
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLifecycle_Properties.Title"
 msgid "Lifecycle"
 msgstr "ライフサイクル"
@@ -3314,7 +3313,7 @@ msgstr "ライフサイクル"
 #.
 #: JSFListEntries_AddEntry_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:571
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFListEntries_AddEntry_0.WindowTitle"
 msgid "New Entry"
 msgstr "新規エントリー"
@@ -3322,7 +3321,7 @@ msgstr "新規エントリー"
 #.
 #: JSFListEntries_AddEntry_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:573
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFListEntries_AddEntry_0.Title"
 msgid "List Entry"
 msgstr "リスト・エントリー"
@@ -3330,7 +3329,7 @@ msgstr "リスト・エントリー"
 #.
 #: JSFListEntry_Properties_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:581
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFListEntry_Properties_0.WindowTitle"
 msgid "Properties"
 msgstr "プロパティー"
@@ -3338,7 +3337,7 @@ msgstr "プロパティー"
 #.
 #: JSFListEntry_Properties_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:583
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFListEntry_Properties_0.Title"
 msgid "List Entry"
 msgstr "リスト・エントリー"
@@ -3346,7 +3345,7 @@ msgstr "リスト・エントリー"
 #.
 #: JSFLocaleConfig_AddSupportedLocale.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:591
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLocaleConfig_AddSupportedLocale.WindowTitle"
 msgid "Add Supported Locale"
 msgstr "サポートするロケールの追加"
@@ -3354,7 +3353,7 @@ msgstr "サポートするロケールの追加"
 #.
 #: JSFLocaleConfig_AddSupportedLocale.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:593
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLocaleConfig_AddSupportedLocale.Title"
 msgid "Supported Locale"
 msgstr "サポートされるロケール"
@@ -3362,7 +3361,7 @@ msgstr "サポートされるロケール"
 #.
 #: JSFLocaleConfig_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:599
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLocaleConfig_Edit.WindowTitle"
 msgid "Edit"
 msgstr "編集"
@@ -3370,7 +3369,7 @@ msgstr "編集"
 #.
 #: JSFLocaleConfig_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:601
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLocaleConfig_Edit.Title"
 msgid "Locale Config"
 msgstr "ロケール設定"
@@ -3378,7 +3377,7 @@ msgstr "ロケール設定"
 #.
 #: JSFLocaleConfig_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:607
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLocaleConfig_Properties.Title"
 msgid "Locale Config"
 msgstr "ロケール設定"
@@ -3386,7 +3385,7 @@ msgstr "ロケール設定"
 #.
 #: AddJSFManagedBeanWizard.managed-bean-scope
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:613
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddJSFManagedBeanWizard.managed-bean-scope"
 msgid "Scope"
 msgstr "スコープ"
@@ -3394,7 +3393,7 @@ msgstr "スコープ"
 #.
 #: AddJSFManagedBeanWizard.managed-bean-name
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:615
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddJSFManagedBeanWizard.managed-bean-name"
 msgid "Name"
 msgstr "名前"
@@ -3402,7 +3401,7 @@ msgstr "名前"
 #.
 #: AddJSFManagedBeanWizard.managed-bean-class
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:617
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddJSFManagedBeanWizard.managed-bean-class"
 msgid "Class"
 msgstr "クラス"
@@ -3410,7 +3409,7 @@ msgstr "クラス"
 #.
 #: JSFManagedBean_CreateProperty_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:621
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBean_CreateProperty_0.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -3418,7 +3417,7 @@ msgstr "プロパティーの追加"
 #.
 #: JSFManagedBean_CreateProperty_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:623
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBean_CreateProperty_0.Title"
 msgid "Property"
 msgstr "プロパティー"
@@ -3426,7 +3425,7 @@ msgstr "プロパティー"
 #.
 #: AddJSFManagedPropertyWizard.value-kind
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:629
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddJSFManagedPropertyWizard.value-kind"
 msgid "Value Kind"
 msgstr "Value Kind"
@@ -3434,7 +3433,7 @@ msgstr "Value Kind"
 #.
 #: AddJSFManagedPropertyWizard.add_java_property
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:631
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddJSFManagedPropertyWizard.add_java_property"
 msgid "Add Java property"
 msgstr "Java プロパティーの追加"
@@ -3442,7 +3441,7 @@ msgstr "Java プロパティーの追加"
 #.
 #: JSFManagedBean_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:635
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBean_Properties.Title"
 msgid "Managed Bean"
 msgstr "マネージド Bean"
@@ -3450,7 +3449,7 @@ msgstr "マネージド Bean"
 #.
 #: JSFManagedBeans_AddManagedBean_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:641
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBeans_AddManagedBean_0.WindowTitle"
 msgid "New Managed Bean"
 msgstr "新規マネージド Bean"
@@ -3458,7 +3457,7 @@ msgstr "新規マネージド Bean"
 #.
 #: JSFManagedBeans_AddManagedBean_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:643
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBeans_AddManagedBean_0.Title"
 msgid "Managed Bean"
 msgstr "マネージド Bean"
@@ -3466,7 +3465,7 @@ msgstr "マネージド Bean"
 #.
 #: JSFManagedBeans_AddManagedBean_1.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:647
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBeans_AddManagedBean_1.WindowTitle"
 msgid "New Managed Bean"
 msgstr "新規マネージド Bean"
@@ -3474,7 +3473,7 @@ msgstr "新規マネージド Bean"
 #.
 #: JSFManagedBeans_AddManagedBean_1.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:649
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBeans_AddManagedBean_1.Title"
 msgid "Managed Properties"
 msgstr "マネージド・プロパティー"
@@ -3482,7 +3481,7 @@ msgstr "マネージド・プロパティー"
 #.
 #: JSFManagedBeans_AddManagedBean_1.Message
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:651
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBeans_AddManagedBean_1.Message"
 msgid "Select properties you want to add to the managed-bean"
 msgstr "マネージド Bean に追加したいプロパティーを選択してください"
@@ -3490,7 +3489,7 @@ msgstr "マネージド Bean に追加したいプロパティーを選択して
 #.
 #: JSFManagedBeans_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:655
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedBeans_Properties.Title"
 msgid "Managed Beans"
 msgstr "マネージド Bean"
@@ -3498,7 +3497,7 @@ msgstr "マネージド Bean"
 #.
 #: JSFManagedProperty_AddValue_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:661
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedProperty_AddValue_0.WindowTitle"
 msgid "New Value"
 msgstr "新しい値"
@@ -3506,7 +3505,7 @@ msgstr "新しい値"
 #.
 #: JSFManagedProperty_AddValue_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:663
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedProperty_AddValue_0.Title"
 msgid "Managed Property"
 msgstr "マネージド・プロパティー"
@@ -3514,7 +3513,7 @@ msgstr "マネージド・プロパティー"
 #.
 #: JSFManagedProperty_AddListEntry_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:669
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedProperty_AddListEntry_0.WindowTitle"
 msgid "New List Entry"
 msgstr "新規リスト・エントリー"
@@ -3522,7 +3521,7 @@ msgstr "新規リスト・エントリー"
 #.
 #: JSFManagedProperty_AddListEntry_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:671
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedProperty_AddListEntry_0.Title"
 msgid "Managed Property"
 msgstr "マネージド・プロパティー"
@@ -3530,7 +3529,7 @@ msgstr "マネージド・プロパティー"
 #.
 #: JSFManagedProperty_AddMapEntry_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:677
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedProperty_AddMapEntry_0.WindowTitle"
 msgid "New Map Entry"
 msgstr "新規マップ・エントリー"
@@ -3538,7 +3537,7 @@ msgstr "新規マップ・エントリー"
 #.
 #: JSFManagedProperty_AddMapEntry_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:679
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedProperty_AddMapEntry_0.Title"
 msgid "Managed Property"
 msgstr "マネージド・プロパティー"
@@ -3546,7 +3545,7 @@ msgstr "マネージド・プロパティー"
 #.
 #: JSFManagedProperty_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:685
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedProperty_Properties.Title"
 msgid "Managed Property"
 msgstr "マネージド・プロパティー"
@@ -3554,7 +3553,7 @@ msgstr "マネージド・プロパティー"
 #.
 #: JSFManagedProperty_ChangeValueKind.Message
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:689
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFManagedProperty_ChangeValueKind.Message"
 msgid ""
 "Changing the value kind will remove the data your created previously.\n"
@@ -3566,7 +3565,7 @@ msgstr ""
 #.
 #: JSFMapEntries_AddEntry_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:695
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFMapEntries_AddEntry_0.WindowTitle"
 msgid "New Entry"
 msgstr "新規エントリー"
@@ -3574,7 +3573,7 @@ msgstr "新規エントリー"
 #.
 #: JSFMapEntries_AddEntry_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:697
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFMapEntries_AddEntry_0.Title"
 msgid "Map Entry"
 msgstr "マップ・エントリー"
@@ -3582,7 +3581,7 @@ msgstr "マップ・エントリー"
 #.
 #: JSFMapEntry_Properties_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:705
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFMapEntry_Properties_0.WindowTitle"
 msgid "Properties"
 msgstr "プロパティー"
@@ -3590,7 +3589,7 @@ msgstr "プロパティー"
 #.
 #: JSFMapEntry_Properties_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:707
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFMapEntry_Properties_0.Title"
 msgid "Map Entry"
 msgstr "マップ・エントリー"
@@ -3598,7 +3597,7 @@ msgstr "マップ・エントリー"
 #.
 #: JSFMessageBundle_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:713
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFMessageBundle_Properties.Title"
 msgid "Message Bundle"
 msgstr "メッセージ・バンドル"
@@ -3606,7 +3605,7 @@ msgstr "メッセージ・バンドル"
 #.
 #: JSFResourceBundle_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:717
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFResourceBundle_Properties.Title"
 msgid "Resource Bundle"
 msgstr "リソース・バンドル"
@@ -3614,7 +3613,7 @@ msgstr "リソース・バンドル"
 #.
 #: JSFELResolver_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:721
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFELResolver_Properties.Title"
 msgid "EL Resolver"
 msgstr "EL リゾルバー"
@@ -3622,7 +3621,7 @@ msgstr "EL リゾルバー"
 #.
 #: JSFPropertyResolver_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:725
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPropertyResolver_Properties.Title"
 msgid "Property Resolver"
 msgstr "プロパティー・リゾルバー"
@@ -3630,7 +3629,7 @@ msgstr "プロパティー・リゾルバー"
 #.
 #: JSFVariableResolver_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:729
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFVariableResolver_Properties.Title"
 msgid "Variable Resolver"
 msgstr "変数リゾルバー"
@@ -3638,7 +3637,7 @@ msgstr "変数リゾルバー"
 #.
 #: JSFNavigationCase_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:733
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFNavigationCase_Properties.Title"
 msgid "Navigation Case"
 msgstr "ナビゲーション・ケース"
@@ -3646,7 +3645,7 @@ msgstr "ナビゲーション・ケース"
 #.
 #: JSFNavigationRule_CreateCase.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:739
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFNavigationRule_CreateCase.WindowTitle"
 msgid "Add Case"
 msgstr "ケースの追加"
@@ -3654,7 +3653,7 @@ msgstr "ケースの追加"
 #.
 #: JSFNavigationRule_CreateCase.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:741
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFNavigationRule_CreateCase.Title"
 msgid "Navigation Case"
 msgstr "ナビゲーション・ケース"
@@ -3662,7 +3661,7 @@ msgstr "ナビゲーション・ケース"
 #.
 #: JSFNavigationRule_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:747
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFNavigationRule_Properties.Title"
 msgid "Navigation Rule"
 msgstr "ナビゲーション・ルール"
@@ -3670,7 +3669,7 @@ msgstr "ナビゲーション・ルール"
 #.
 #: JSFNavigationRules_AddRule.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:753
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFNavigationRules_AddRule.WindowTitle"
 msgid "Add Rule"
 msgstr "ルールの追加"
@@ -3678,7 +3677,7 @@ msgstr "ルールの追加"
 #.
 #: JSFNavigationRules_AddRule.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:755
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFNavigationRules_AddRule.Title"
 msgid "Navigation Rule"
 msgstr "ナビゲーション・ルール"
@@ -3686,7 +3685,7 @@ msgstr "ナビゲーション・ルール"
 #.
 #: JSFNavigationRules_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:761
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFNavigationRules_Properties.Title"
 msgid "Navigation Rules"
 msgstr "ナビゲーション・ルール"
@@ -3694,7 +3693,7 @@ msgstr "ナビゲーション・ルール"
 #.
 #: JSFPhaseListener_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:765
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPhaseListener_Properties.Title"
 msgid "Phase Listener"
 msgstr "フェーズ・リスナー"
@@ -3702,7 +3701,7 @@ msgstr "フェーズ・リスナー"
 #.
 #: JSFAddViewWizard.create_file
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:771
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFAddViewWizard.create_file"
 msgid "Create File on Disk"
 msgstr "ディスク上にファイルを作成"
@@ -3710,7 +3709,7 @@ msgstr "ディスク上にファイルを作成"
 #.
 #: JSFProcess_AddRule_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:775
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcess_AddRule_0.WindowTitle"
 msgid "New View"
 msgstr "新規ビュー"
@@ -3718,7 +3717,7 @@ msgstr "新規ビュー"
 #.
 #: JSFProcess_AddRule_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:777
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcess_AddRule_0.Title"
 msgid "JSF Process View"
 msgstr "JSF プロセス・ビュー"
@@ -3726,7 +3725,7 @@ msgstr "JSF プロセス・ビュー"
 #.
 #: JSFProcess_CreateComment.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:783
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcess_CreateComment.WindowTitle"
 msgid "Add Comment"
 msgstr "コメントの追加"
@@ -3734,7 +3733,7 @@ msgstr "コメントの追加"
 #.
 #: JSFProcess_CreateComment.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:785
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcess_CreateComment.Title"
 msgid "View Comment"
 msgstr "ビュー・コメント"
@@ -3742,7 +3741,7 @@ msgstr "ビュー・コメント"
 #.
 #: JSFProcess_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:791
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcess_Properties.Title"
 msgid "JSF Process"
 msgstr "JSF プロセス"
@@ -3750,7 +3749,7 @@ msgstr "JSF プロセス"
 #.
 #: JSFProcess_SelectItem.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:795
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcess_SelectItem.WindowTitle"
 msgid "Select Element Wizard"
 msgstr "要素ウィザードの選択"
@@ -3758,7 +3757,7 @@ msgstr "要素ウィザードの選択"
 #.
 #: JSFProcess_SelectItem.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:797
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcess_SelectItem.Title"
 msgid "Select Element"
 msgstr "要素の選択"
@@ -3766,7 +3765,7 @@ msgstr "要素の選択"
 #.
 #: JSFProcess_SelectItem.Message
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:799
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcess_SelectItem.Message"
 msgid "Please Select Element"
 msgstr "要素を選択してください"
@@ -3774,7 +3773,7 @@ msgstr "要素を選択してください"
 #.
 #: JSFProcessComment_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:803
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessComment_Edit.WindowTitle"
 msgid "Edit"
 msgstr "編集"
@@ -3782,7 +3781,7 @@ msgstr "編集"
 #.
 #: JSFProcessComment_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:805
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessComment_Edit.Title"
 msgid "View Comment"
 msgstr "ビュー・コメント"
@@ -3790,7 +3789,7 @@ msgstr "ビュー・コメント"
 #.
 #: JSFProcessComment_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:811
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessComment_Properties.Title"
 msgid "View Comment"
 msgstr "ビュー・コメント"
@@ -3798,7 +3797,7 @@ msgstr "ビュー・コメント"
 #.
 #: JSFProcessGroup_CreateCase.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:817
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessGroup_CreateCase.WindowTitle"
 msgid "Create Case"
 msgstr "ケースの作成"
@@ -3806,7 +3805,7 @@ msgstr "ケースの作成"
 #.
 #: JSFProcessGroup_CreateCase.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:819
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessGroup_CreateCase.Title"
 msgid "Navigation Case"
 msgstr "ナビゲーション・ケース"
@@ -3814,7 +3813,7 @@ msgstr "ナビゲーション・ケース"
 #.
 #: JSFProcessGroup_CreateComment.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:825
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessGroup_CreateComment.WindowTitle"
 msgid "Add Comment"
 msgstr "コメントの追加"
@@ -3822,7 +3821,7 @@ msgstr "コメントの追加"
 #.
 #: JSFProcessGroup_CreateComment.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:827
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessGroup_CreateComment.Title"
 msgid "View Comment"
 msgstr "ビュー・コメント"
@@ -3830,7 +3829,7 @@ msgstr "ビュー・コメント"
 #.
 #: JSFProcessGroup_Rename_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:833
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessGroup_Rename_0.WindowTitle"
 msgid "Rename"
 msgstr "名前変更"
@@ -3838,7 +3837,7 @@ msgstr "名前変更"
 #.
 #: JSFProcessGroup_Rename_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:835
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessGroup_Rename_0.Title"
 msgid "JSF Process View"
 msgstr "JSF プロセス・ビュー"
@@ -3846,7 +3845,7 @@ msgstr "JSF プロセス・ビュー"
 #.
 #: JSFProcessGroup_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:841
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessGroup_Properties.Title"
 msgid "View"
 msgstr "ビュー"
@@ -3854,7 +3853,7 @@ msgstr "ビュー"
 #.
 #: JSFProcessItem_CreateCase.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:847
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessItem_CreateCase.WindowTitle"
 msgid "Add Case"
 msgstr "ケースの追加"
@@ -3862,7 +3861,7 @@ msgstr "ケースの追加"
 #.
 #: JSFProcessItem_CreateCase.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:849
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessItem_CreateCase.Title"
 msgid "Navigation Case"
 msgstr "ナビゲーション・ケース"
@@ -3870,7 +3869,7 @@ msgstr "ナビゲーション・ケース"
 #.
 #: JSFProcessItem_Rename_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:855
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessItem_Rename_0.WindowTitle"
 msgid "Rename"
 msgstr "名前変更"
@@ -3878,7 +3877,7 @@ msgstr "名前変更"
 #.
 #: JSFProcessItem_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:863
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessItem_Properties.Title"
 msgid "Navigation Rule"
 msgstr "ナビゲーション・ルール"
@@ -3886,7 +3885,7 @@ msgstr "ナビゲーション・ルール"
 #.
 #: JSFProcessItemOutput_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:867
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProcessItemOutput_Properties.Title"
 msgid "Navigation Case"
 msgstr "ナビゲーション・ケース"
@@ -3894,7 +3893,7 @@ msgstr "ナビゲーション・ケース"
 #.
 #: JSFProperty_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:873
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProperty_Properties.Title"
 msgid "Property"
 msgstr "プロパティー"
@@ -3902,7 +3901,7 @@ msgstr "プロパティー"
 #.
 #: JSFReferencedBean_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:879
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFReferencedBean_Properties.Title"
 msgid "Referenced Bean"
 msgstr "参照 Bean"
@@ -3910,7 +3909,7 @@ msgstr "参照 Bean"
 #.
 #: JSFReferencedBeans_AddReferencedBean.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:885
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFReferencedBeans_AddReferencedBean.WindowTitle"
 msgid "Add Referenced Bean"
 msgstr "参照 Bean の追加"
@@ -3918,7 +3917,7 @@ msgstr "参照 Bean の追加"
 #.
 #: JSFReferencedBeans_AddReferencedBean.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:887
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFReferencedBeans_AddReferencedBean.Title"
 msgid "Referenced Bean"
 msgstr "参照 Bean"
@@ -3926,7 +3925,7 @@ msgstr "参照 Bean"
 #.
 #: JSFReferencedBeans_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:893
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFReferencedBeans_Properties.Title"
 msgid "Referenced Beans"
 msgstr "参照 Bean"
@@ -3934,7 +3933,7 @@ msgstr "参照 Bean"
 #.
 #: JSFRenderKit_CreateRenderer.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:899
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit_CreateRenderer.WindowTitle"
 msgid "Add Renderer"
 msgstr "レンダラーの追加"
@@ -3942,7 +3941,7 @@ msgstr "レンダラーの追加"
 #.
 #: JSFRenderKit_CreateRenderer.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:901
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit_CreateRenderer.Title"
 msgid "Renderer"
 msgstr "レンダラー"
@@ -3950,7 +3949,7 @@ msgstr "レンダラー"
 #.
 #: JSFRenderKit_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:907
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit_Properties.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -3958,7 +3957,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderKit11_CreateRenderer.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:911
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit11_CreateRenderer.WindowTitle"
 msgid "Add Renderer"
 msgstr "レンダラーの追加"
@@ -3966,7 +3965,7 @@ msgstr "レンダラーの追加"
 #.
 #: JSFRenderKit11_CreateRenderer.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:913
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit11_CreateRenderer.Title"
 msgid "Renderer"
 msgstr "レンダラー"
@@ -3974,7 +3973,7 @@ msgstr "レンダラー"
 #.
 #: JSFRenderKit11_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:919
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit11_Properties.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -3982,7 +3981,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderKit12_CreateRenderer.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:923
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit12_CreateRenderer.WindowTitle"
 msgid "Add Renderer"
 msgstr "レンダラーの追加"
@@ -3990,7 +3989,7 @@ msgstr "レンダラーの追加"
 #.
 #: JSFRenderKit12_CreateRenderer.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:925
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit12_CreateRenderer.Title"
 msgid "Renderer"
 msgstr "レンダラー"
@@ -3998,7 +3997,7 @@ msgstr "レンダラー"
 #.
 #: JSFRenderKit12_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:929
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKit12_Properties.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -4006,7 +4005,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderKits_AddRenderKit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:935
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits_AddRenderKit.WindowTitle"
 msgid "Add Render Kit"
 msgstr "レンダー・キットの追加"
@@ -4014,7 +4013,7 @@ msgstr "レンダー・キットの追加"
 #.
 #: JSFRenderKits_AddRenderKit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:937
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits_AddRenderKit.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -4022,7 +4021,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderKits_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:943
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits_Properties.Title"
 msgid "Render Kits"
 msgstr "レンダー・キット"
@@ -4030,7 +4029,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderKits11_AddRenderKit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:947
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits11_AddRenderKit.WindowTitle"
 msgid "Add Render Kit"
 msgstr "レンダー・キットの追加"
@@ -4038,7 +4037,7 @@ msgstr "レンダー・キットの追加"
 #.
 #: JSFRenderKits11_AddRenderKit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:949
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits11_AddRenderKit.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -4046,7 +4045,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderKits11_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:955
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits11_Properties.Title"
 msgid "Render Kits"
 msgstr "レンダー・キット"
@@ -4054,7 +4053,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderKits12_AddRenderKit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:959
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits12_AddRenderKit.WindowTitle"
 msgid "Add Render Kit"
 msgstr "レンダー・キットの追加"
@@ -4062,7 +4061,7 @@ msgstr "レンダー・キットの追加"
 #.
 #: JSFRenderKits12_AddRenderKit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:961
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits12_AddRenderKit.Title"
 msgid "Render Kit"
 msgstr "レンダー・キット"
@@ -4070,7 +4069,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderKits12_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:965
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKits12_Properties.Title"
 msgid "Render Kits"
 msgstr "レンダー・キット"
@@ -4078,7 +4077,7 @@ msgstr "レンダー・キット"
 #.
 #: JSFRenderer_CreateAttribute.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:971
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
 msgstr "属性の追加"
@@ -4086,7 +4085,7 @@ msgstr "属性の追加"
 #.
 #: JSFRenderer_CreateAttribute.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:973
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer_CreateAttribute.Title"
 msgid "Attribute"
 msgstr "属性"
@@ -4094,7 +4093,7 @@ msgstr "属性"
 #.
 #: JSFRenderer_CreateSupportedComponentType.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:979
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer_CreateSupportedComponentType.WindowTitle"
 msgid "Add Supported Component Type"
 msgstr "サポート・コンポーネント・タイプの追加"
@@ -4102,7 +4101,7 @@ msgstr "サポート・コンポーネント・タイプの追加"
 #.
 #: JSFRenderer_CreateSupportedComponentType.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:981
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer_CreateSupportedComponentType.Title"
 msgid "Supported Component Type"
 msgstr "サポート・コンポーネント・タイプ"
@@ -4110,7 +4109,7 @@ msgstr "サポート・コンポーネント・タイプ"
 #.
 #: JSFRenderer_CreateSupportedComponentClass.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:987
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer_CreateSupportedComponentClass.WindowTitle"
 msgid "Add Supported Component Class"
 msgstr "サポート・コンポーネント・クラスの追加"
@@ -4118,7 +4117,7 @@ msgstr "サポート・コンポーネント・クラスの追加"
 #.
 #: JSFRenderer_CreateSupportedComponentClass.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:989
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer_CreateSupportedComponentClass.Title"
 msgid "Supported Component Class"
 msgstr "サポート・コンポーネント・クラス"
@@ -4126,7 +4125,7 @@ msgstr "サポート・コンポーネント・クラス"
 #.
 #: JSFRenderer_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:995
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer_Properties.Title"
 msgid "Renderer"
 msgstr "レンダラー"
@@ -4134,7 +4133,7 @@ msgstr "レンダラー"
 #.
 #: JSFRenderer11_CreateAttribute.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:999
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer11_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
 msgstr "属性の追加"
@@ -4142,7 +4141,7 @@ msgstr "属性の追加"
 #.
 #: JSFRenderer11_CreateAttribute.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1001
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer11_CreateAttribute.Title"
 msgid "Attribute"
 msgstr "属性"
@@ -4150,7 +4149,7 @@ msgstr "属性"
 #.
 #: JSFRenderer11_CreateFacet.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1007
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer11_CreateFacet.WindowTitle"
 msgid "Add Facet"
 msgstr "ファセットの追加"
@@ -4158,7 +4157,7 @@ msgstr "ファセットの追加"
 #.
 #: JSFRenderer11_CreateFacet.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1009
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer11_CreateFacet.Title"
 msgid "Facet"
 msgstr "ファセット"
@@ -4166,7 +4165,7 @@ msgstr "ファセット"
 #.
 #: JSFRenderer11_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1015
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderer11_Properties.Title"
 msgid "Renderer"
 msgstr "レンダラー"
@@ -4174,7 +4173,7 @@ msgstr "レンダラー"
 #.
 #: JSFSupportedComponentClass_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1021
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFSupportedComponentClass_Properties.Title"
 msgid "Supported Component Class"
 msgstr "サポート・コンポーネント・クラス"
@@ -4182,7 +4181,7 @@ msgstr "サポート・コンポーネント・クラス"
 #.
 #: JSFSupportedComponentType_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1027
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFSupportedComponentType_Properties.Title"
 msgid "Supported Component Type"
 msgstr "サポート・コンポーネント・タイプ"
@@ -4190,7 +4189,7 @@ msgstr "サポート・コンポーネント・タイプ"
 #.
 #: JSFSupportedLocale_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1033
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFSupportedLocale_Edit.WindowTitle"
 msgid "Edit"
 msgstr "編集"
@@ -4198,7 +4197,7 @@ msgstr "編集"
 #.
 #: JSFSupportedLocale_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1035
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFSupportedLocale_Edit.Title"
 msgid "Supported Locale"
 msgstr "サポートされるロケール"
@@ -4206,7 +4205,7 @@ msgstr "サポートされるロケール"
 #.
 #: JSFSupportedLocale_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1041
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFSupportedLocale_Properties.Title"
 msgid "Supported Locale"
 msgstr "サポートされるロケール"
@@ -4214,7 +4213,7 @@ msgstr "サポートされるロケール"
 #.
 #: JSFValidator_CreateAttribute.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1047
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator_CreateAttribute.WindowTitle"
 msgid "Add Attribute"
 msgstr "属性の追加"
@@ -4222,7 +4221,7 @@ msgstr "属性の追加"
 #.
 #: JSFValidator_CreateAttribute.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1049
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator_CreateAttribute.Title"
 msgid "Attribute"
 msgstr "属性"
@@ -4230,7 +4229,7 @@ msgstr "属性"
 #.
 #: JSFValidator_CreateProperty.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1055
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator_CreateProperty.WindowTitle"
 msgid "Add Property"
 msgstr "プロパティーの追加"
@@ -4238,7 +4237,7 @@ msgstr "プロパティーの追加"
 #.
 #: JSFValidator_CreateProperty.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1057
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator_CreateProperty.Title"
 msgid "Property"
 msgstr "プロパティー"
@@ -4246,7 +4245,7 @@ msgstr "プロパティー"
 #.
 #: JSFValidator_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1063
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidator_Properties.Title"
 msgid "Validator"
 msgstr "バリデーター"
@@ -4254,7 +4253,7 @@ msgstr "バリデーター"
 #.
 #: JSFValidators_AddValidator.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1069
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidators_AddValidator.WindowTitle"
 msgid "Add Validator"
 msgstr "バリデーターの追加"
@@ -4262,7 +4261,7 @@ msgstr "バリデーターの追加"
 #.
 #: JSFValidators_AddValidator.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1071
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidators_AddValidator.Title"
 msgid "Validator"
 msgstr "バリデーター"
@@ -4270,7 +4269,7 @@ msgstr "バリデーター"
 #.
 #: JSFValidators_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1077
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidators_Properties.Title"
 msgid "Validators"
 msgstr "バリデーター"
@@ -4278,7 +4277,7 @@ msgstr "バリデーター"
 #.
 #: JSFFacet11_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1081
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFFacet11_Properties.Title"
 msgid "Facet"
 msgstr "ファセット"
@@ -4286,7 +4285,7 @@ msgstr "ファセット"
 #.
 #: WebJSFModule_OpenProject.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1087
-#, fuzzy, java-format
+#, java-format
 msgctxt "WebJSFModule_OpenProject.WindowTitle"
 msgid "Open Project"
 msgstr "プロジェクトを開く"
@@ -4294,7 +4293,7 @@ msgstr "プロジェクトを開く"
 #.
 #: WebJSFModule_OpenProject.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1089
-#, fuzzy, java-format
+#, java-format
 msgctxt "WebJSFModule_OpenProject.Title"
 msgid "JSF Project"
 msgstr "JSF プロジェクト"
@@ -4302,7 +4301,7 @@ msgstr "JSF プロジェクト"
 #.
 #: WebJSFModule_Properties
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1095
-#, fuzzy, java-format
+#, java-format
 msgctxt "WebJSFModule_Properties"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -4310,7 +4309,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: JstWeb_Properties
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1099
-#, fuzzy, java-format
+#, java-format
 msgctxt "JstWeb_Properties"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -4318,7 +4317,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: FileFolder_CreateFacesConfig.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1105
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileFolder_CreateFacesConfig.WindowTitle"
 msgid "New Faces Config"
 msgstr "新規 Faces Config"
@@ -4326,7 +4325,7 @@ msgstr "新規 Faces Config"
 #.
 #: FileFolder_CreateFacesConfig.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1107
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileFolder_CreateFacesConfig.Title"
 msgid "Faces Config"
 msgstr "Faces Config"
@@ -4334,7 +4333,7 @@ msgstr "Faces Config"
 #.
 #: FileFolder_CreateFacesConfig_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1111
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileFolder_CreateFacesConfig_0.WindowTitle"
 msgid "New Faces Config"
 msgstr "新規 Faces Config"
@@ -4342,7 +4341,7 @@ msgstr "新規 Faces Config"
 #.
 #: FileFolder_CreateFacesConfig_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1113
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileFolder_CreateFacesConfig_0.Title"
 msgid "Faces Config"
 msgstr "Faces Config"
@@ -4350,7 +4349,7 @@ msgstr "Faces Config"
 #.
 #: FileFolder_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1119
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileFolder_Properties.Title"
 msgid "Folder"
 msgstr "フォルダー"
@@ -4358,7 +4357,7 @@ msgstr "フォルダー"
 #.
 #: FileSystemFolder_CreateFacesConfig_0
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1123
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystemFolder_CreateFacesConfig_0"
 msgid "/jsf/noHelpYet.html"
 msgstr "/jsf/noHelpYet.html"
@@ -4366,7 +4365,7 @@ msgstr "/jsf/noHelpYet.html"
 #.
 #: FileSystemFolder_CreateFacesConfig_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1125
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystemFolder_CreateFacesConfig_0.WindowTitle"
 msgid "New Faces Config"
 msgstr "新規 Faces Config"
@@ -4374,7 +4373,7 @@ msgstr "新規 Faces Config"
 #.
 #: FileSystemFolder_CreateFacesConfig_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1127
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystemFolder_CreateFacesConfig_0.Title"
 msgid "Faces Config"
 msgstr "Faces Config"
@@ -4382,7 +4381,7 @@ msgstr "Faces Config"
 #.
 #: FileSystemFolder_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1133
-#, fuzzy, java-format
+#, java-format
 msgctxt "FileSystemFolder_Properties.Title"
 msgid "Folder"
 msgstr "フォルダー"
@@ -4390,7 +4389,7 @@ msgstr "フォルダー"
 #.
 #: JSFProjectConfiguration_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1137
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProjectConfiguration_Properties.Title"
 msgid "Configuration"
 msgstr "構成"
@@ -4398,7 +4397,7 @@ msgstr "構成"
 #.
 #: JSFProjectResourceBundles_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1143
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProjectResourceBundles_Properties.Title"
 msgid "Resource Bundles"
 msgstr "リソース・バンドル"
@@ -4406,7 +4405,7 @@ msgstr "リソース・バンドル"
 #.
 #: JSFProjectTagLibs_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1149
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProjectTagLibs_Properties.Title"
 msgid "Tag Libraries"
 msgstr "タグ・ライブラリー"
@@ -4414,7 +4413,7 @@ msgstr "タグ・ライブラリー"
 #.
 #: JSFProjectTagLibs_CreateFileTLD.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1153
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProjectTagLibs_CreateFileTLD.WindowTitle"
 msgid "New TLD File"
 msgstr "新規 TLD ファイル"
@@ -4422,7 +4421,7 @@ msgstr "新規 TLD ファイル"
 #.
 #: JSFProjectTagLibs_CreateFileTLD.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1155
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProjectTagLibs_CreateFileTLD.Title"
 msgid "Tag Library Definition File"
 msgstr "タグライブラリ定義ファイル"
@@ -4430,7 +4429,7 @@ msgstr "タグライブラリ定義ファイル"
 #.
 #: JSFProjectTagLibs_CreateFileTLD20.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1159
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProjectTagLibs_CreateFileTLD20.WindowTitle"
 msgid "New TLD File 2.0"
 msgstr "新規 TLD ファイル 2.0"
@@ -4438,7 +4437,7 @@ msgstr "新規 TLD ファイル 2.0"
 #.
 #: JSFProjectTagLibs_CreateFileTLD20.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1161
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProjectTagLibs_CreateFileTLD20.Title"
 msgid "Tag Library Definition File"
 msgstr "タグライブラリ定義ファイル"
@@ -4446,7 +4445,7 @@ msgstr "タグライブラリ定義ファイル"
 #.
 #: JSFProjectsRoot_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1167
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFProjectsRoot_Properties.Title"
 msgid "JSF Project"
 msgstr "JSF プロジェクト"
@@ -4454,7 +4453,7 @@ msgstr "JSF プロジェクト"
 #.
 #: SharableJSFEditor.doNotCreateEmptyRule
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1171
-#, fuzzy, java-format
+#, java-format
 msgctxt "SharableJSFEditor.doNotCreateEmptyRule"
 msgid "Do not create a navigation rule for a view that has no navigation case"
 msgstr ""
@@ -4463,7 +4462,7 @@ msgstr ""
 #.
 #: SharableJSFEditor.enableControlModeOnTransitionCompleted
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1173
-#, fuzzy, java-format
+#, java-format
 msgctxt "SharableJSFEditor.enableControlModeOnTransitionCompleted"
 msgid "Switch to standard control mode for cursor after transition is made"
 msgstr "遷移後にカーソルを標準コントロール・モードに切り替え"
@@ -4471,7 +4470,7 @@ msgstr "遷移後にカーソルを標準コントロール・モードに切り
 #.
 #: SharableJSFEditor.showShortcutIcon
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1175
-#, fuzzy, java-format
+#, java-format
 msgctxt "SharableJSFEditor.showShortcutIcon"
 msgid "Show shortcut icon"
 msgstr "ショートカット・アイコンを表示"
@@ -4479,7 +4478,7 @@ msgstr "ショートカット・アイコンを表示"
 #.
 #: SharableJSFEditor.showShortcutPath
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1177
-#, fuzzy, java-format
+#, java-format
 msgctxt "SharableJSFEditor.showShortcutPath"
 msgid "Show shortcut path"
 msgstr "ショートカット・パスを表示"
@@ -4487,7 +4486,7 @@ msgstr "ショートカット・パスを表示"
 #.
 #: SharableJSFEditor.Show_Grid
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1179
-#, fuzzy, java-format
+#, java-format
 msgctxt "SharableJSFEditor.Show_Grid"
 msgid "Show grid"
 msgstr "グリッドを表示"
@@ -4495,7 +4494,7 @@ msgstr "グリッドを表示"
 #.
 #: JSFCapability_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1183
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFCapability_Edit.WindowTitle"
 msgid "Edit"
 msgstr "編集"
@@ -4503,7 +4502,7 @@ msgstr "編集"
 #.
 #: JSFCapability_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1185
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFCapability_Edit.Title"
 msgid "Custom Capability"
 msgstr "カスタム機能"
@@ -4511,7 +4510,7 @@ msgstr "カスタム機能"
 #.
 #: JSFFileAddition_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1187
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFFileAddition_Edit.WindowTitle"
 msgid "Edit"
 msgstr "編集"
@@ -4519,7 +4518,7 @@ msgstr "編集"
 #.
 #: JSFFileAddition_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1189
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFFileAddition_Edit.Title"
 msgid "Configuration File Addition"
 msgstr "構成ファイル追加"
@@ -4527,7 +4526,7 @@ msgstr "構成ファイル追加"
 #.
 #: JSFLibraryReference_Edit.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1191
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLibraryReference_Edit.WindowTitle"
 msgid "Edit"
 msgstr "編集"
@@ -4535,7 +4534,7 @@ msgstr "編集"
 #.
 #: JSFLibraryReference_Edit.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1193
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFLibraryReference_Edit.Title"
 msgid "Library Reference"
 msgstr "ライブラリー参照"
@@ -4543,7 +4542,7 @@ msgstr "ライブラリー参照"
 #.
 #: AddCustomJSFCapabilities_0.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1197
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddCustomJSFCapabilities_0.WindowTitle"
 msgid "Add Custom Capabilities"
 msgstr "カスタム機能の追加"
@@ -4551,7 +4550,7 @@ msgstr "カスタム機能の追加"
 #.
 #: AddCustomJSFCapabilities_0.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1199
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddCustomJSFCapabilities_0.Title"
 msgid "Select Custom Capabilities"
 msgstr "カスタム機能の選択"
@@ -4559,7 +4558,7 @@ msgstr "カスタム機能の選択"
 #.
 #: AddCustomJSFCapabilities_1.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1201
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddCustomJSFCapabilities_1.WindowTitle"
 msgid "Add Custom Capabilities"
 msgstr "カスタム機能の追加"
@@ -4567,7 +4566,7 @@ msgstr "カスタム機能の追加"
 #.
 #: AddCustomJSFCapabilities_1.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1203
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddCustomJSFCapabilities_1.Title"
 msgid "Added Custom Capabilities"
 msgstr "追加されたカスタム機能"
@@ -4575,7 +4574,7 @@ msgstr "追加されたカスタム機能"
 #.
 #: AddCustomJSFCapabilities_1.Message
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1205
-#, fuzzy, java-format
+#, java-format
 msgctxt "AddCustomJSFCapabilities_1.Message"
 msgid "The following updates have been made to the project."
 msgstr "以下の更新がプロジェクトに適用されました。"
@@ -4583,7 +4582,7 @@ msgstr "以下の更新がプロジェクトに適用されました。"
 #.
 #: JSFApplicationExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1209
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplicationExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4591,7 +4590,7 @@ msgstr "タグの追加"
 #.
 #: JSFApplicationExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1211
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFApplicationExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4599,7 +4598,7 @@ msgstr "タグ"
 #.
 #: JSFAttributeExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1215
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFAttributeExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4607,7 +4606,7 @@ msgstr "タグの追加"
 #.
 #: JSFAttributeExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1217
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFAttributeExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4615,7 +4614,7 @@ msgstr "タグ"
 #.
 #: JSFComponentExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1221
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponentExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4623,7 +4622,7 @@ msgstr "タグの追加"
 #.
 #: JSFComponentExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1223
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFComponentExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4631,7 +4630,7 @@ msgstr "タグ"
 #.
 #: JSFConfigExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1227
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConfigExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4639,7 +4638,7 @@ msgstr "タグの追加"
 #.
 #: JSFConfigExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1229
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConfigExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4647,7 +4646,7 @@ msgstr "タグ"
 #.
 #: JSFFacetExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1233
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFFacetExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4655,7 +4654,7 @@ msgstr "タグの追加"
 #.
 #: JSFFacetExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1235
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFFacetExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4663,7 +4662,7 @@ msgstr "タグ"
 #.
 #: JSFPropertyExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1239
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPropertyExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4671,7 +4670,7 @@ msgstr "タグの追加"
 #.
 #: JSFPropertyExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1241
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFPropertyExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4679,7 +4678,7 @@ msgstr "タグ"
 #.
 #: JSFRenderKitExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1245
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKitExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4687,7 +4686,7 @@ msgstr "タグの追加"
 #.
 #: JSFRenderKitExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1247
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRenderKitExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4695,7 +4694,7 @@ msgstr "タグ"
 #.
 #: JSFRendererExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1251
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRendererExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4703,7 +4702,7 @@ msgstr "タグの追加"
 #.
 #: JSFRendererExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1253
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFRendererExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4711,7 +4710,7 @@ msgstr "タグ"
 #.
 #: JSFValidatorExtension_CreateTag.WindowTitle
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1257
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidatorExtension_CreateTag.WindowTitle"
 msgid "Add Tag"
 msgstr "タグの追加"
@@ -4719,7 +4718,7 @@ msgstr "タグの追加"
 #.
 #: JSFValidatorExtension_CreateTag.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1259
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFValidatorExtension_CreateTag.Title"
 msgid "Tag"
 msgstr "タグ"
@@ -4727,14 +4726,14 @@ msgstr "タグ"
 #.
 #: JSFConfigExtensions_Properties.Title
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/help/keys-jsf.properties:1263
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSFConfigExtensions_Properties.Title"
 msgid "Extensions"
 msgstr "拡張"
 
 #: IT_ISNT_CORRECT_TO_MAKE_LINK_TO_A_PATTERN
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:1
-#, fuzzy, java-format
+#, java-format
 msgctxt "IT_ISNT_CORRECT_TO_MAKE_LINK_TO_A_PATTERN"
 msgid ""
 "It is not correct to make link to a pattern.\n"
@@ -4746,7 +4745,7 @@ msgstr ""
 #.
 #: WARNING
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "WARNING"
 msgid "Warning"
 msgstr "警告"
@@ -4754,7 +4753,7 @@ msgstr "警告"
 #.
 #: YES
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:5
-#, fuzzy, java-format
+#, java-format
 msgctxt "YES"
 msgid "Yes"
 msgstr "はい"
@@ -4762,7 +4761,7 @@ msgstr "はい"
 #.
 #: NO
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:7
-#, fuzzy, java-format
+#, java-format
 msgctxt "NO"
 msgid "No"
 msgstr "いいえ"
@@ -4770,7 +4769,7 @@ msgstr "いいえ"
 #.
 #: THE_VIEW_WITH_PATH_IS_ALREADY_CREATED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:9
-#, fuzzy, java-format
+#, java-format
 msgctxt "THE_VIEW_WITH_PATH_IS_ALREADY_CREATED"
 msgid "The View with frow-view-id '{0}' is already created.\n"
 msgstr "The View with frow-view-id '{0}' is already created.\n"
@@ -4778,7 +4777,7 @@ msgstr "The View with frow-view-id '{0}' is already created.\n"
 #.
 #: YOU_WANT_TO_ADD_ADDITIONAL_NAVIGATION_RULE_WITH_SAME_FROM_VIEW_ID
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:11
-#, fuzzy, java-format
+#, java-format
 msgctxt "YOU_WANT_TO_ADD_ADDITIONAL_NAVIGATION_RULE_WITH_SAME_FROM_VIEW_ID"
 msgid ""
 "Are you sure you want to add an additional navigation rule with the same "
@@ -4790,7 +4789,7 @@ msgstr ""
 #.
 #: YOU_WANT_TO_CREATE_AN_ADDITIONAL_VIEW_WITH_THE_SAME_FROM_VIEW_ID
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:13
-#, fuzzy, java-format
+#, java-format
 msgctxt "YOU_WANT_TO_CREATE_AN_ADDITIONAL_VIEW_WITH_THE_SAME_FROM_VIEW_ID"
 msgid ""
 "Are you sure you want to create an additional view with the same from-view-"
@@ -4802,7 +4801,7 @@ msgstr ""
 #.
 #: YOU_WANT_TO_CREATE_A_NAVIGATION_RULE_FOR_THIS_FROM_VIEW_ID
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:15
-#, fuzzy, java-format
+#, java-format
 msgctxt "YOU_WANT_TO_CREATE_A_NAVIGATION_RULE_FOR_THIS_FROM_VIEW_ID"
 msgid ""
 "Are you sure you want to create a navigation rule for this from-view-id?"
@@ -4812,7 +4811,7 @@ msgstr ""
 #.
 #: OK
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:17
-#, fuzzy, java-format
+#, java-format
 msgctxt "OK"
 msgid "OK"
 msgstr "OK"
@@ -4820,7 +4819,7 @@ msgstr "OK"
 #.
 #: CANCEL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:19
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANCEL"
 msgid "Cancel"
 msgstr "キャンセル"
@@ -4828,7 +4827,7 @@ msgstr "キャンセル"
 #.
 #: TEMPLATE_IS_NOT_FOUND
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:21
-#, fuzzy, java-format
+#, java-format
 msgctxt "TEMPLATE_IS_NOT_FOUND"
 msgid "Template {0} is not found."
 msgstr "Template {0} is not found."
@@ -4836,7 +4835,7 @@ msgstr "Template {0} is not found."
 #.
 #: ATTRIBUTE_FROM_VIEW_ID_IS_NOT_CORRECT
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:23
-#, fuzzy, java-format
+#, java-format
 msgctxt "ATTRIBUTE_FROM_VIEW_ID_IS_NOT_CORRECT"
 msgid "Attribute from-view-id is not correct"
 msgstr "Attribute from-view-id is not correct"
@@ -4844,7 +4843,7 @@ msgstr "Attribute from-view-id is not correct"
 #.
 #: TEMPLATE_IS_NOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:25
-#, fuzzy, java-format
+#, java-format
 msgctxt "TEMPLATE_IS_NOT_SPECIFIED"
 msgid "Template is not specified"
 msgstr "Template is not specified"
@@ -4852,7 +4851,7 @@ msgstr "Template is not specified"
 #.
 #: TEMPLATE_DOES_NOT_EXIST
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:27
-#, fuzzy, java-format
+#, java-format
 msgctxt "TEMPLATE_DOES_NOT_EXIST"
 msgid "Template does not exist."
 msgstr "Template does not exist."
@@ -4860,7 +4859,7 @@ msgstr "Template does not exist."
 #.
 #: THE_VIEW_EXISTS
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:29
-#, fuzzy, java-format
+#, java-format
 msgctxt "THE_VIEW_EXISTS"
 msgid "The view exists."
 msgstr "The view exists."
@@ -4868,7 +4867,7 @@ msgstr "The view exists."
 #.
 #: CONFIRMATION
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:31
-#, fuzzy, java-format
+#, java-format
 msgctxt "CONFIRMATION"
 msgid "Confirmation"
 msgstr "確認"
@@ -4876,7 +4875,7 @@ msgstr "確認"
 #.
 #: DELETE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:33
-#, fuzzy, java-format
+#, java-format
 msgctxt "DELETE"
 msgid "Delete "
 msgstr "削除 "
@@ -4884,7 +4883,7 @@ msgstr "削除 "
 #.
 #: DELETE_FILE_FROM_DISK
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:35
-#, fuzzy, java-format
+#, java-format
 msgctxt "DELETE_FILE_FROM_DISK"
 msgid "Delete file from disk"
 msgstr "Delete file from disk"
@@ -4892,7 +4891,7 @@ msgstr "Delete file from disk"
 #.
 #: PASTE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:37
-#, fuzzy, java-format
+#, java-format
 msgctxt "PASTE"
 msgid "Paste"
 msgstr "貼り付け"
@@ -4900,7 +4899,7 @@ msgstr "貼り付け"
 #.
 #: SELECT_BEAN
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:39
-#, fuzzy, java-format
+#, java-format
 msgctxt "SELECT_BEAN"
 msgid "Select Bean"
 msgstr "Select Bean"
@@ -4908,7 +4907,7 @@ msgstr "Select Bean"
 #.
 #: CLASS_IS_REFERENCED_BY_SEVERAL_BEANS
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:41
-#, fuzzy, java-format
+#, java-format
 msgctxt "CLASS_IS_REFERENCED_BY_SEVERAL_BEANS"
 msgid ""
 "Class {0}is referenced by several beans.\n"
@@ -4920,7 +4919,7 @@ msgstr ""
 #.
 #: ADD_GETTER_FOR_PROPERTY
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:43
-#, fuzzy, java-format
+#, java-format
 msgctxt "ADD_GETTER_FOR_PROPERTY"
 msgid "Do you want to add getter for property "
 msgstr "Do you want to add getter for property "
@@ -4928,7 +4927,7 @@ msgstr "Do you want to add getter for property "
 #.
 #: ADD_SETTER_FOR_PROPERTY
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:45
-#, fuzzy, java-format
+#, java-format
 msgctxt "ADD_SETTER_FOR_PROPERTY"
 msgid "Do you want to add setter for property "
 msgstr "Do you want to add setter for property "
@@ -4936,7 +4935,7 @@ msgstr "Do you want to add setter for property "
 #.
 #: ADD_GETTER_SETTER_FOR_PROPERTY
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:47
-#, fuzzy, java-format
+#, java-format
 msgctxt "ADD_GETTER_SETTER_FOR_PROPERTY"
 msgid "Do you want to add getter/setter for property"
 msgstr "Do you want to add getter/setter for property"
@@ -4944,7 +4943,7 @@ msgstr "Do you want to add getter/setter for property"
 #.
 #: APPLY_FOR_ALL_PROPERTIES
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:49
-#, fuzzy, java-format
+#, java-format
 msgctxt "APPLY_FOR_ALL_PROPERTIES"
 msgid "Apply for All Properties"
 msgstr "Apply for All Properties"
@@ -4952,7 +4951,7 @@ msgstr "Apply for All Properties"
 #.
 #: REFERENCES
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:51
-#, fuzzy, java-format
+#, java-format
 msgctxt "REFERENCES"
 msgid "References"
 msgstr "参照"
@@ -4960,7 +4959,7 @@ msgstr "参照"
 #.
 #: UPDATE_FIELD_REFERENCE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:53
-#, fuzzy, java-format
+#, java-format
 msgctxt "UPDATE_FIELD_REFERENCE"
 msgid "Update field reference"
 msgstr "フィールド参照の更新"
@@ -4968,7 +4967,7 @@ msgstr "フィールド参照の更新"
 #.
 #: MANAGED_PROPERTY_RENAME
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:55
-#, fuzzy, java-format
+#, java-format
 msgctxt "MANAGED_PROPERTY_RENAME"
 msgid "Managed Property Rename"
 msgstr "Managed Property Rename"
@@ -4976,7 +4975,7 @@ msgstr "Managed Property Rename"
 #.
 #: UPDATE_WEB_XML
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:57
-#, fuzzy, java-format
+#, java-format
 msgctxt "UPDATE_WEB_XML"
 msgid "Update web.xml"
 msgstr "Update web.xml"
@@ -4984,7 +4983,7 @@ msgstr "Update web.xml"
 #.
 #: FACES_CONFIG_CHANGES
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:59
-#, fuzzy, java-format
+#, java-format
 msgctxt "FACES_CONFIG_CHANGES"
 msgid "Faces Config Changes"
 msgstr "Faces Config Changes"
@@ -4992,7 +4991,7 @@ msgstr "Faces Config Changes"
 #.
 #: UPDATE_REFERENCE_TO_PAGE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:61
-#, fuzzy, java-format
+#, java-format
 msgctxt "UPDATE_REFERENCE_TO_PAGE"
 msgid "Update reference to page "
 msgstr "Update reference to page "
@@ -5000,7 +4999,7 @@ msgstr "Update reference to page "
 #.
 #: JSF_PAGE_UPDATE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:63
-#, fuzzy, java-format
+#, java-format
 msgctxt "JSF_PAGE_UPDATE"
 msgid "JSF Page Update - "
 msgstr "JSF Page Update - "
@@ -5008,7 +5007,7 @@ msgstr "JSF Page Update - "
 #.
 #: CONVERTER_ID_IS_NOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:65
-#, fuzzy, java-format
+#, java-format
 msgctxt "CONVERTER_ID_IS_NOT_SPECIFIED"
 msgid "Converter id is not specified."
 msgstr "Converter id is not specified."
@@ -5016,7 +5015,7 @@ msgstr "Converter id is not specified."
 #.
 #: CANNOT_FIND_CONVERTER
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:67
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_CONVERTER"
 msgid "Cannot find converter {0}."
 msgstr "Cannot find converter {0}."
@@ -5024,7 +5023,7 @@ msgstr "Cannot find converter {0}."
 #.
 #: ATTRIBUTE_CONVERTER_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:69
-#, fuzzy, java-format
+#, java-format
 msgctxt "ATTRIBUTE_CONVERTER_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED"
 msgid "Attribute converter-class for converter {0} is not specified."
 msgstr "Attribute converter-class for converter {0} is not specified."
@@ -5032,7 +5031,7 @@ msgstr "Attribute converter-class for converter {0} is not specified."
 #.
 #: BUNDLE_IS_NOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:71
-#, fuzzy, java-format
+#, java-format
 msgctxt "BUNDLE_IS_NOT_SPECIFIED"
 msgid "Bundle is not specified."
 msgstr "Bundle is not specified."
@@ -5040,7 +5039,7 @@ msgstr "Bundle is not specified."
 #.
 #: CANNOT_FIND_BUNDLE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:73
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_BUNDLE"
 msgid "Cannot find bundle "
 msgstr "Cannot find bundle "
@@ -5048,7 +5047,7 @@ msgstr "Cannot find bundle "
 #.
 #: KEY_ISNOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:75
-#, fuzzy, java-format
+#, java-format
 msgctxt "KEY_ISNOT_SPECIFIED"
 msgid "Key is not specified."
 msgstr "Key is not specified."
@@ -5056,7 +5055,7 @@ msgstr "Key is not specified."
 #.
 #: CANNOT_FIND_PROPERTY
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:77
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_PROPERTY"
 msgid "Cannot find property {0}."
 msgstr "Cannot find property {0}."
@@ -5064,7 +5063,7 @@ msgstr "Cannot find property {0}."
 #.
 #: CANNOT_FIND_RENDER_KIT
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:79
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_RENDER_KIT"
 msgid "Cannot find render-kit {0}."
 msgstr "Cannot find render-kit {0}."
@@ -5072,7 +5071,7 @@ msgstr "Cannot find render-kit {0}."
 #.
 #: ATTRIBUTE_RENDER_KIT_CLASS_FOR_RENDER_KIT_ISNOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:81
-#, fuzzy, java-format
+#, java-format
 msgctxt "ATTRIBUTE_RENDER_KIT_CLASS_FOR_RENDER_KIT_ISNOT_SPECIFIED"
 msgid "Attribute render-kit-class for render-kit {0} is not specified."
 msgstr "Attribute render-kit-class for render-kit {0} is not specified."
@@ -5080,7 +5079,7 @@ msgstr "Attribute render-kit-class for render-kit {0} is not specified."
 #.
 #: URI_ISNOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:83
-#, fuzzy, java-format
+#, java-format
 msgctxt "URI_ISNOT_SPECIFIED"
 msgid "URI is not specified."
 msgstr "URI is not specified."
@@ -5088,7 +5087,7 @@ msgstr "URI is not specified."
 #.
 #: CANNOT_FIND_TAG_LIBRARY
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:85
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_TAG_LIBRARY"
 msgid "annot find tag library {0}."
 msgstr "annot find tag library {0}."
@@ -5096,7 +5095,7 @@ msgstr "annot find tag library {0}."
 #.
 #: TAG_ISNOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:87
-#, fuzzy, java-format
+#, java-format
 msgctxt "TAG_ISNOT_SPECIFIED"
 msgid "Tag is not specified."
 msgstr "Tag is not specified."
@@ -5104,7 +5103,7 @@ msgstr "Tag is not specified."
 #.
 #: CANNOT_FIND_TAG_IN_LIBRARY
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:89
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_TAG_IN_LIBRARY"
 msgid "Cannot find tag {0} in library {1}."
 msgstr "Cannot find tag {0} in library {1}."
@@ -5112,7 +5111,7 @@ msgstr "Cannot find tag {0} in library {1}."
 #.
 #: ATTRIBUTE_ISNOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:91
-#, fuzzy, java-format
+#, java-format
 msgctxt "ATTRIBUTE_ISNOT_SPECIFIED"
 msgid "Attribute is not specified."
 msgstr "Attribute is not specified."
@@ -5120,7 +5119,7 @@ msgstr "Attribute is not specified."
 #.
 #: CANNOT_FIND_ATTRIBUTE_IN_TAG
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:93
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_ATTRIBUTE_IN_TAG"
 msgid "Cannot find attribute {0} in tag {1}."
 msgstr "Cannot find attribute {0} in tag {1}."
@@ -5128,7 +5127,7 @@ msgstr "Cannot find attribute {0} in tag {1}."
 #.
 #: VALIDATOR_ID_ISNOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:95
-#, fuzzy, java-format
+#, java-format
 msgctxt "VALIDATOR_ID_ISNOT_SPECIFIED"
 msgid "Validator id is not specified."
 msgstr "Validator id is not specified."
@@ -5136,7 +5135,7 @@ msgstr "Validator id is not specified."
 #.
 #: CANNOT_FIND_VALIDATOR
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:97
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_VALIDATOR"
 msgid "Cannot find validator {0}."
 msgstr "Cannot find validator {0}."
@@ -5144,7 +5143,7 @@ msgstr "Cannot find validator {0}."
 #.
 #: ATTRIBUTE_VALIDATOR_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:99
-#, fuzzy, java-format
+#, java-format
 msgctxt "ATTRIBUTE_VALIDATOR_CLASS_FOR_CONVERTER_ISNOT_SPECIFIED"
 msgid "Attribute validator-class for converter {0} is not specified."
 msgstr "Attribute validator-class for converter {0} is not specified."
@@ -5152,7 +5151,7 @@ msgstr "Attribute validator-class for converter {0} is not specified."
 #.
 #: CANNOT_FIND_MATCHING_RULE_FOR_PATH
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:101
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_FIND_MATCHING_RULE_FOR_PATH"
 msgid "Cannot find matching rule for path {0}."
 msgstr "Cannot find matching rule for path {0}."
@@ -5160,7 +5159,7 @@ msgstr "Cannot find matching rule for path {0}."
 #.
 #: ERROR
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:103
-#, fuzzy, java-format
+#, java-format
 msgctxt "ERROR"
 msgid "Error"
 msgstr "エラー"
@@ -5168,7 +5167,7 @@ msgstr "エラー"
 #.
 #: CLOSE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:105
-#, fuzzy, java-format
+#, java-format
 msgctxt "CLOSE"
 msgid "Close"
 msgstr "閉じる"
@@ -5176,7 +5175,7 @@ msgstr "閉じる"
 #.
 #: PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:107
-#, fuzzy, java-format
+#, java-format
 msgctxt "PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED"
 msgid ""
 "The project already has some of libraries included into the capability "
@@ -5188,7 +5187,7 @@ msgstr ""
 #.
 #: PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED_2
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:109
-#, fuzzy, java-format
+#, java-format
 msgctxt "PROJECT_ALREADY_HAS_SOME_OF_LIBRARIES_INCLUDED_2"
 msgid ""
 "The project already has some of libraries included into the capability ({0} "
@@ -5202,7 +5201,7 @@ msgstr ""
 #.
 #: PROJECT_HAS_COFLICTING_LIBRARIES
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:111
-#, fuzzy, java-format
+#, java-format
 msgctxt "PROJECT_HAS_COFLICTING_LIBRARIES"
 msgid ""
 "The project has conflicting library {0}. Do you want to replace it with "
@@ -5214,7 +5213,7 @@ msgstr ""
 #.
 #: CONTINUE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:113
-#, fuzzy, java-format
+#, java-format
 msgctxt "CONTINUE"
 msgid "Continue"
 msgstr "継続"
@@ -5222,7 +5221,7 @@ msgstr "継続"
 #.
 #: OVERWRITE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:115
-#, fuzzy, java-format
+#, java-format
 msgctxt "OVERWRITE"
 msgid "Overwrite"
 msgstr "上書き"
@@ -5230,7 +5229,7 @@ msgstr "上書き"
 #.
 #: CANNOT_LOAD_JSF_CAPABILITIES
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:117
-#, fuzzy, java-format
+#, java-format
 msgctxt "CANNOT_LOAD_JSF_CAPABILITIES"
 msgid "Cannot load JSF Capabilities"
 msgstr "Cannot load JSF Capabilities"
@@ -5238,7 +5237,7 @@ msgstr "Cannot load JSF Capabilities"
 #.
 #: CONFIGURATION_FILE_ISNOT_FOUND_IN_PROJECT
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:119
-#, fuzzy, java-format
+#, java-format
 msgctxt "CONFIGURATION_FILE_ISNOT_FOUND_IN_PROJECT"
 msgid "Configuration file '{0}' is not found in project {0}."
 msgstr "Configuration file '{0}' is not found in project {0}."
@@ -5246,7 +5245,7 @@ msgstr "Configuration file '{0}' is not found in project {0}."
 #.
 #: FILE_EXISTS
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:121
-#, fuzzy, java-format
+#, java-format
 msgctxt "FILE_EXISTS"
 msgid "File {0} exists."
 msgstr "File {0} exists."
@@ -5254,7 +5253,7 @@ msgstr "File {0} exists."
 #.
 #: CREATE_NEW_JSF_PROJECT
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:123
-#, fuzzy, java-format
+#, java-format
 msgctxt "CREATE_NEW_JSF_PROJECT"
 msgid "Create New JSF Project"
 msgstr "新規 JSF プロジェクトの作成"
@@ -5262,7 +5261,7 @@ msgstr "新規 JSF プロジェクトの作成"
 #.
 #: IMPORT_JSF_PROJECT
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:125
-#, fuzzy, java-format
+#, java-format
 msgctxt "IMPORT_JSF_PROJECT"
 msgid "Import JSF Project"
 msgstr "JSF プロジェクトのインポート"
@@ -5270,7 +5269,7 @@ msgstr "JSF プロジェクトのインポート"
 #.
 #: FACES_CONFIG_EDITOR
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:127
-#, fuzzy, java-format
+#, java-format
 msgctxt "FACES_CONFIG_EDITOR"
 msgid "Faces Config Editor"
 msgstr "Faces 構成エディター"
@@ -5278,7 +5277,7 @@ msgstr "Faces 構成エディター"
 #.
 #: PRINT_DIAGRAM
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:129
-#, fuzzy, java-format
+#, java-format
 msgctxt "PRINT_DIAGRAM"
 msgid "Print Diagram"
 msgstr "印刷ダイアグラム"
@@ -5286,7 +5285,7 @@ msgstr "印刷ダイアグラム"
 #.
 #: REPARENTING_JSFSUBPART
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:131
-#, fuzzy, java-format
+#, java-format
 msgctxt "REPARENTING_JSFSUBPART"
 msgid "Reparenting JSFSubpart"
 msgstr "Reparenting JSFSubpart"
@@ -5294,7 +5293,7 @@ msgstr "Reparenting JSFSubpart"
 #.
 #: OF_NORMAL_SIZE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:133
-#, fuzzy, java-format
+#, java-format
 msgctxt "OF_NORMAL_SIZE"
 msgid "% of normal size"
 msgstr "% of normal size"
@@ -5302,7 +5301,7 @@ msgstr "% of normal size"
 #.
 #: PRINT
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:135
-#, fuzzy, java-format
+#, java-format
 msgctxt "PRINT"
 msgid "Print"
 msgstr "印刷"
@@ -5310,7 +5309,7 @@ msgstr "印刷"
 #.
 #: ZOOM
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:137
-#, fuzzy, java-format
+#, java-format
 msgctxt "ZOOM"
 msgid "Zoom"
 msgstr "ズーム"
@@ -5318,7 +5317,7 @@ msgstr "ズーム"
 #.
 #: ALL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:139
-#, fuzzy, java-format
+#, java-format
 msgctxt "ALL"
 msgid "All"
 msgstr "すべて"
@@ -5326,7 +5325,7 @@ msgstr "すべて"
 #.
 #: SELECT_ALL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:141
-#, fuzzy, java-format
+#, java-format
 msgctxt "SELECT_ALL"
 msgid "Select All"
 msgstr "すべて選択"
@@ -5334,7 +5333,7 @@ msgstr "すべて選択"
 #.
 #: UNSELECT_ALL
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:143
-#, fuzzy, java-format
+#, java-format
 msgctxt "UNSELECT_ALL"
 msgid "Unselect All"
 msgstr "選択をすべて解除"
@@ -5342,7 +5341,7 @@ msgstr "選択をすべて解除"
 #.
 #: SELECTED_PAGES
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:145
-#, fuzzy, java-format
+#, java-format
 msgctxt "SELECTED_PAGES"
 msgid "Selected Pages"
 msgstr "Selected Pages"
@@ -5350,7 +5349,7 @@ msgstr "Selected Pages"
 #.
 #: PRINT_PREVIEW
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:147
-#, fuzzy, java-format
+#, java-format
 msgctxt "PRINT_PREVIEW"
 msgid "Print Preview"
 msgstr "印刷プレビュー"
@@ -5358,7 +5357,7 @@ msgstr "印刷プレビュー"
 #.
 #: LIBRARY_SETS
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:149
-#, fuzzy, java-format
+#, java-format
 msgctxt "LIBRARY_SETS"
 msgid "Library Sets"
 msgstr "ライブラリー・セット"
@@ -5366,7 +5365,7 @@ msgstr "ライブラリー・セット"
 #.
 #: CONFIGURATION_FILE_ADDITIONS
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:151
-#, fuzzy, java-format
+#, java-format
 msgctxt "CONFIGURATION_FILE_ADDITIONS"
 msgid "Configuration File Additions"
 msgstr "Configuration File Additions"
@@ -5374,7 +5373,7 @@ msgstr "Configuration File Additions"
 #.
 #: SHOW_DIAGRAM_NAVIGATOR
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:153
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_DIAGRAM_NAVIGATOR"
 msgid "Show Diagram Navigator"
 msgstr "ダイアグラム・ナビゲーターの表示"
@@ -5382,7 +5381,7 @@ msgstr "ダイアグラム・ナビゲーターの表示"
 #.
 #: DIAGRAM_NAVIGATOR
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:155
-#, fuzzy, java-format
+#, java-format
 msgctxt "DIAGRAM_NAVIGATOR"
 msgid "Diagram Navigator"
 msgstr "ダイアグラム・ナビゲーター"
@@ -5390,7 +5389,7 @@ msgstr "ダイアグラム・ナビゲーター"
 #.
 #: SHOW_TREE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:157
-#, fuzzy, java-format
+#, java-format
 msgctxt "SHOW_TREE"
 msgid "Show Tree"
 msgstr "ツリーの表示"
@@ -5398,7 +5397,7 @@ msgstr "ツリーの表示"
 #.
 #: TREE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:159
-#, fuzzy, java-format
+#, java-format
 msgctxt "TREE"
 msgid "Tree"
 msgstr "ツリー"
@@ -5406,7 +5405,7 @@ msgstr "ツリー"
 #.
 #: DELETE_JAVA_SOURCE
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/org/jboss/tools/jsf/messages/messages.properties:161
-#, fuzzy, java-format
+#, java-format
 msgctxt "DELETE_JAVA_SOURCE"
 msgid "Delete Java Source"
 msgstr "Delete Java Source"
@@ -5414,7 +5413,7 @@ msgstr "Delete Java Source"
 #.
 #: pluginName
 #: ../../WORK/modules/jsf/plugins/org.jboss.tools.jsf/plugin.properties:3
-#, fuzzy, java-format
+#, java-format
 msgctxt "pluginName"
 msgid "JBoss Tools JSF"
 msgstr "JBoss Tools JSF"
