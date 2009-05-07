@@ -77,24 +77,20 @@
 	</target>
 
 
-
-
-<!-- TODO paths need updating -->
-	<target name="msgmerge" > <!-- description="Merges updated English text from pot files to po files (currently BROKEN)" -->
-		<apply executable="msgmerge" failonerror="true" failifexecutionfails="true" dest="${po.dir}">
+	<target name="msgmerge" depends="-init" description="Merges updated English text from pot files to po files">
+          <!-- for each configured module (in i18n.properties) -->
+          <for param="module" list="${modules}">
+            <sequential>
+		<apply executable="msgmerge" failonerror="true" failifexecutionfails="true">
 			<arg value="--quiet"/>
 			<arg value="--update"/>
 			<srcfile />
-			<targetfile />
+			<arg value="${po.dir}/@{module}/@{module}.pot" />
 			
-			<fileset dir="${po.dir}" includes="**/*.po" />
-<!-- Only for testing:
-			<fileset dir="./target/po" includes="**/*.po" />
--->
-			<!-- Turns module/plugins-org.jboss.package-org.jboss.Messages/*.po into 
-				 module/plugins-org.jboss.package-org.jboss.Messages/org.jboss.Messages.pot -->
-			<mapper type="regexp" from="${po2pot.regex}" to="${po2pot.replace}" />
+			<fileset dir="${po.dir}/@{module}" includes="*.po" />
 		</apply>
+            </sequential>
+          </for>
 	</target>
 
 
