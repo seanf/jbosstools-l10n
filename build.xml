@@ -6,23 +6,10 @@
 
 	<property name="jbosstools.src" location="${jbosstoolssrc}"/>
 
-	<import file="${build.dir}/maven-artifact-ant.xml" />
+	<property name="pom.filename" value="BUILD/pom.xml"/>
+	<import file="${build.dir}/taskdefs.xml" />
 	
-	<!-- Define the Ant-Contrib and Tennera Ant Gettext tasks, using Maven 
-	to resolve dependencies: -->
-	<target name="-initTaskDefs" depends="-init-maven" unless="taskdefs.done">
-		<!-- Maven dependencies  -->
-		<artifact:pom file="${build.dir}/pom.xml" id="maven.project" />
-		<artifact:dependencies pathId="dependency.classpath" useScope="runtime" type="jar">
-			<pom refid="maven.project" />
-		</artifact:dependencies>
 
-		<!-- pick up the "for" task from ant-contrib -->
-		<taskdef resource="net/sf/antcontrib/antlib.xml" classpathref="dependency.classpath" />
-		<!--<taskdef name="prop2po" classname="org.fedorahosted.tennera.antgettext.Prop2PoTask" classpathref="dependency.classpath" />-->
-		<taskdef resource="org/fedorahosted/tennera/antgettext/antlib.xml" classpathref="dependency.classpath" />
-		<property name="taskdefs.done" value="true" />
-	</target>
 
 	<target name="clean" description="Remove generated files (except pot)">
 		<delete dir="${work.dir}"/>
