@@ -332,7 +332,7 @@
 				<gettext2prop 
 					srcdir="${po.dir}/@{module}" 
 					propsrcdir="${jbosstools.src}/@{module}"
-					dstdir="${work.dir}/prop/@{module}" 
+					dstdir="${gettext2prop.dir}/@{module}" 
 					locales="${locales}" 
 					includesfile="${build.dir}/prop2gettextincludes.txt"
 				/>
