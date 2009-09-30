@@ -1,10 +1,8 @@
+syntax: glob
 target
 .ant-targets-build.xml
 BUILD/local.properties
 WORK
-.git
-syntax: glob
 *~
-a
-b
-ab
+*.orig
+.git*
