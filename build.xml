@@ -327,5 +327,35 @@
 		</for>
 	</target>
 
+	<property name="in.dir" value="${jbosstools.src}" />
+	<property name="out.dir" value="${user.dir}/WORK/prop" />
+	<property name="flies.user" value="bob" />
+	<property name="flies.key" value="34567890123456789012345678901234" />
 
+	<property name="fliesUrl" value="http://localhost:8080/flies"/>
+	<property name="proj" value="sample-project"/>
+	<property name="iter" value="1.1"/>
+	<property name="docsUrl" 
+		value="${fliesUrl}/seam/resource/restv1/projects/p/${proj}/iterations/i/${iter}/documents" />
+
+	<target name="roundtripremote" depends="-init">
+		<mkdir dir="${out.dir}"/>
+		<props2docs 
+			user="${flies.user}"
+			apiKey="${flies.key}"
+			dst="${docsUrl}" 
+			includesfile="${build.dir}/prop2potincludes.txt"
+			srcDir="${in.dir}" 
+			sourceLang="en_US" 
+			locales="ja" 
+			progressType="none"
+			debug="false" />
+		<docs2props 
+			user="${flies.user}"
+			apiKey="${flies.key}"
+			src="${docsUrl}" 
+			dstDir="${out.dir}" 
+			debug="false" />
+	</target>
+	
 </project>
